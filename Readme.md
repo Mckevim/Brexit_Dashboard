@@ -8,4 +8,4 @@ The objective of this project was to gather, clean and visualise data from a num
 The visualisation was complete by leveraging and learning from a template from Keen.io and the tutorial from Adil Moujahid http://adilmoujahid.com/posts/2015/01/interactive-data-visualization-d3-dc-python-mongodb/
 
 
-![Alt text](Brexit_Dashboard/Visualisation_Web_App/ScreenShot/Dashboard.png?raw=true "Data Dashboard")
+[![Dashboard screen shot](/Visualisation_Web_App/ScreenShot/Dashboard.png?raw=true "Data Dashboard")
