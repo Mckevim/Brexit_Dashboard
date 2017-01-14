@@ -1,0 +1,500 @@
+[u'Mandelson warns of Brexits economic impact on North']	The Irish Times	[]	0.2
+['Our Michelangelo moment: how to protect the legacy of our own Renaissance ']	The Irish Times	[]	0.6
+[u'Government says Trump welcome, like every tourist']	The Irish Times	[]	0.8
+['Brexit and Ireland explained in 90 seconds']	The Irish Times	[]	0.0
+['Services sector activity   rebounds as firms brush off Brexit fears  ']	The Irish Times	['June 3, 2016, 08:01']	0.0
+['Print fight gets rough, but digital mission will be bloody too']	The Irish Times	['June 3, 2016, 08:00']	-0.3
+['5 things you need to know today']	The Irish Times	[]	0.0
+['Brian  Hayes to urge banks to tell customers of Brexit threat']	The Irish Times	['June 3, 2016, 07:15']	0.0
+['Donald Trump to visit Ireland this month']	The Irish Times	['June 3, 2016']	0.0
+['Irish voters in Britain and the Brexit debate ']	The Irish Times	[]	0.0
+['Labour voter turnout crucial to outcome of EU referendum']	The Irish Times	['June 3, 2016, 01:00']	0.0
+['Cliff Taylor: Best  take advantage of rock bottom interest rates']	The Irish Times	['June 3, 2016, 01:00']	1.0
+['Cameron accused of spreading fear  in key   Brexit TV event ']	The Irish Times	['June 3, 2016']	0.0
+['Dutch premier Mark Rutte delivers Brexit warning']	The Irish Times	['June 2, 2016, 18:07']	0.0
+['Merkel warns against Brexit saying UK will lose out ']	The Irish Times	[]	0.0
+['Bob Geldof features in anti-Brexit video campaign ']	The Irish Times	[]	0.0
+['Bob Geldof takes a stance on brexit']	The Irish Times	[]	0.0
+[u'Sack all head banger Luas drivers, says Michael OLeary']	The Irish Times	[]	0.0
+['Una Mullally: British may do a Father Dougal over Brexit ']	The Irish Times	['June 2, 2016, 12:30']	0.0
+['Sterling rises from two-week lows as markets strengthen']	The Irish Times	[]	0.0
+['ECB keeps rates unchanged, may raise inflation forecast']	The Irish Times	[]	0.0
+['5 things you need to know today']	The Irish Times	[]	0.0
+['How art became a market of extremes ']	The Irish Times	['June 2, 2016, 06:00']	0.0
+['Sir Hugh Orde, Ireland and the Brexit debate ']	The Irish Times	[]	0.0
+['Poll showing shift towards Brexit unsettles markets']	The Irish Times	['June 1, 2016, 22:29']	0.0
+['Donald Trump to visit UK day after Brexit referendum']	The Irish Times	[]	0.0
+['Brexit could lead to 1.2% fall in Irish GDP, OECD warns']	The Irish Times	['June 1, 2016, 16:14']	0.0
+['US employment data to influence Fed rate decision']	The Irish Times	[]	0.0
+['Markets in a cautious mood']	The Irish Times	[]	0.0
+['Irish manufacturing growth slows ahead of Brexit vote']	The Irish Times	[]	0.0
+['Euro 2016: On quitting while we are ahead']	The Irish Times	['June 1, 2016, 01:02']	0.0
+[u'Border assurances do not stand up, says Bertie Ahern']	The Irish Times	['June 1, 2016, 01:00']	0.0
+['Kathy Sheridan: Brexit debate tainted by hyper-masculine political rhetoric']	The Irish Times	['June 1, 2016, 01:00']	0.0
+['Sterling falls as anti-EU side tops Brexit opinion poll']	The Irish Times	[]	0.0
+['John Fingleton: Ireland is the passenger in the Brexit car crash']	The Irish Times	[]	0.0
+['Brexit: Shutting border to biggest trading partner no recipe for success']	The Irish Times	[]	0.3
+['Does Turkey look to EU for holidays or migration? ']	The Irish Times	[]	0.0
+[u'UK voters shift towards Leave as EU referendum nears']	The Irish Times	[]	0.0
+[u'Imagine if Christine Lagarde read Wetherspoons beer mats']	The Irish Times	[]	0.0
+[u'ESB seeks to sell 600m worth of bonds ']	The Irish Times	[]	0.3
+['Irish consumer sentiment falls to fourteen month low in May']	The Irish Times	['May 31, 2016, 12:00']	0.0
+['Unemployment falls to post-crash low of 7.8%']	The Irish Times	[]	0.0
+['Stocktake: Tired bull may get second wind']	The Irish Times	['May 31, 2016, 07:45']	-0.2
+['Brexit and the future of Europe']	The Irish Times	[]	0.0
+['Electorate calm about Brexit vote as Tory infighting intensifies']	The Irish Times	['May 31, 2016, 01:00']	0.3
+['Cantillon: Irish in UK sign up for anti-Brexit vote']	The Irish Times	[]	0.0
+['Former PSNI chief criticises Villiers over Border claims']	The Irish Times	[]	0.0
+['Hugh Orde: Return of Border controls after Brexit is inevitable']	The Irish Times	[]	0.0
+[u'irg backs Brexit with  Northern Ireland poster campaign ']	The Irish Times	['May 30, 2016, 18:18']	0.0
+['   David Cameron unites with   Sadiq Khan in call to stay in EU']	The Irish Times	['May 30, 2016, 18:01']	0.0
+['5 things you need to know today']	The Irish Times	[]	0.0
+['Brexit main danger to Irish growth, CFA poll finds']	The Irish Times	[]	0.0833333333333
+[u'Labour should aim for a decent society  and leave tax cuts to others']	The Irish Times	[]	0.166666666667
+[u'Border controls on Irish entering Britain inevitable post-Brexit']	The Irish Times	['May 30, 2016, 01:00']	0.0
+['Four in 10 SMEs say Brexit would have negative impact ']	The Irish Times	[]	-0.3
+['Hollande and Merkel heed lessons of Battle of Verdun']	The Irish Times	['May 29, 2016, 19:25']	0.0
+[u'Brexit: Young voter apathy may see accidental Leave victory ']	The Irish Times	[]	0.1
+[u'Stephen Vernon:  property in healthiest state that I can ever remember']	The Irish Times	['May 28, 2016, 07:00']	0.0
+['Brendan Simms: Prospect of Brexit should fill Ireland with dread']	The Irish Times	[]	0.0
+['Diarmaid Ferriter: Government ready to love-bomb Irish voters in Britain ']	The Irish Times	['May 28, 2016, 00:02']	0.1
+['World View: Is the EU turning into a federal superstate like  the US?']	The Irish Times	['May 28, 2016, 00:01']	0.0
+['G7 leaders say Brexit a serious risk to global economic growth']	The Irish Times	[]	-0.0444444444444
+[u'G7 summit: Brexit would be serious risk to global growth']	The Irish Times	[]	0.0
+['Ireland and the Brexit debate']	The Irish Times	[]	0.0
+[u'Irish in UK  may secure bilateral deal if Brexit happens']	The Irish Times	['May 27, 2016, 01:00']	0.2
+['Supply chain operators more than confident about recovery ']	The Irish Times	['May 27, 2016, 01:00']	0.5
+['Brexit shows signs of weighing on UK business investment ']	The Irish Times	[]	0.0
+['Meath Living: Stock still an issue in the Royal County']	The Irish Times	[]	0.0
+['Ireland and the Brexit debate']	The Irish Times	[]	0.0
+['Newton Emerson: Corbyn a bigger threat to the union than Brexit ']	The Irish Times	[]	0.0
+['Brexit would extend UK austerity by two years, report finds']	The Irish Times	['May 25, 2016, 16:04']	0.0
+['Gordon Brown lays out strong defence of European Union']	The Irish Times	['May 25, 2016, 15:14']	0.216666666667
+["Patrick Freyne: 'When the Irish peasant girl speaks on Made in Chelsea, they stare in wonder'"]	The Irish Times	['May 25, 2016, 14:47']	0.0
+['Stocks climb as concerns over Brexit, Greece ease']	The Irish Times	[]	0.0
+[u'Pig producer JMW   spends 2.5m on Co Louth finishing farm']	The Irish Times	['May 25, 2016, 09:03']	0.0
+['Brexit: Majority of NI voters want UK to remain in EU']	The Irish Times	['May 25, 2016, 07:34']	0.0
+['Brexit and Ireland ']	The Irish Times	[]	0.0
+['Bilateral relations with UK critical in case of Brexit, says Kenny']	The Irish Times	['May 25, 2016, 01:00']	0.0
+['Bank of England rebuked over Brexit  assessment']	The Irish Times	['May 25, 2016, 01:00']	0.0
+[u'Brexit could restore check your boot border, says Mary McAleese']	The Irish Times	['May 24, 2016, 19:28']	0.0
+['Boris Johnson pumps out   Brexit rhetoric   as campaign wanes']	The Irish Times	['May 24, 2016, 19:16']	0.0
+[u'Brexit: Irish Border system should not change dramatically  ']	The Irish Times	[]	0.0
+['Boyband Five pull out of pro-Brexit gig']	The Irish Times	[]	0.0
+[u'Bank of Englands Carney defends message on Brexit risk']	The Irish Times	[]	0.0
+['Brexiters have monopoly on insincerity and elitism']	The Irish Times	['May 24, 2016, 10:57']	0.0
+['Cantillon: dark clouds still hanging over PTSB']	The Irish Times	[]	-0.15
+['Stocktake: The problem with those closet tracker funds ']	The Irish Times	['May 24, 2016, 07:15']	0.0
+['AIB seeks to draw line under whistleblower allegation']	The Irish Times	[]	0.0
+['The Brexit debate and Ireland']	The Irish Times	[]	0.0
+['Irish urged to encourage friends to vote in EU referendum']	The Irish Times	['May 24, 2016, 01:00']	0.0
+['Austrian election: A narrow escape, and a warning']	The Irish Times	[]	-0.2
+['Treasury report says Brexit would spark recession in UK  ']	The Irish Times	['May 23, 2016, 18:30']	0.0
+['Treasury  predicting doom on leaving EU should boost Remain  ']	The Irish Times	['May 23, 2016, 13:46']	0.0
+['UK faces one year recession if it bows out of EU, warns Treasury ']	The Irish Times	[]	0.0
+['Sterling steadies after week of gains amid Brexit concern']	The Irish Times	[]	0.0
+['Two thirds of investors  say they will sell if Britain leaves EU']	The Irish Times	[]	0.0
+['British exit could lead to Ireland paying more to EU']	The Irish Times	['May 23, 2016, 05:45']	0.25
+['Ten EU benefits that consumers take for granted']	The Irish Times	['May 23, 2016, 05:30']	0.0
+['British government report warns of economic risk of Brexit ']	The Irish Times	['May 22, 2016, 20:17']	0.1
+['Leading economists expect Federal Reserve to raise interest rates soon']	The Irish Times	[]	0.0
+['Continentals retreat from prime London house market']	The Irish Times	[]	0.0
+[u'Is Boris Johnson like Hitler or one of those mad fellas?']	The Irish Times	['May 21, 2016, 07:00']	-0.625
+['Business Week: Mortgages, emissions, and jobs news']	The Irish Times	['May 21, 2016, 06:30']	0.0
+['Ireland and Brexit debate']	The Irish Times	[]	0.0
+[u'Sorry Im not Boris  Ukips only MP seeks Brexit fans in Kettering']	The Irish Times	['May 20, 2016, 14:14']	0.0
+['Planet Business']	The Irish Times	['May 20, 2016, 08:30']	0.0
+['Brexit debate obscured by misleading statistics']	The Irish Times	[]	0.0
+['Ireland and the Brexit debate ']	The Irish Times	[]	0.0
+[u'Markets cautiously applaud Kenny following Moodys  rating upgrade']	The Irish Times	['May 20, 2016, 01:00']	0.0
+['Agri-food sector most at risk from Brexit,  says union leader ']	The Irish Times	['May 19, 2016, 18:44']	0.5
+['From hyperbole to hysteria in the Brexit debate']	The Irish Times	[]	0.0
+[u'Brazils Scissorhands turns to helping the developing world	']	The Irish Times	['May 19, 2016, 11:02']	0.0
+['Business leaders say Government ill-prepared for Brexit ']	The Irish Times	['May 19, 2016, 08:15']	0.0
+[' The Brexit debate and Ireland']	The Irish Times	[]	0.0
+['Legal concerns over benefits for Irish working in Britain ']	The Irish Times	['May 19, 2016, 01:00']	0.1
+['Potentially uncertain status of Irish in  UK gives pause for thought ']	The Irish Times	['May 19, 2016, 01:00']	0.0
+[u'Brexit: Flanagan hopes benefit changes wont hurt Irish in Britain ']	The Irish Times	['May 19, 2016, 00:00']	0.0
+[u'LSE to hold Deutsche Brse merger vote in July']	The Irish Times	[]	0.0
+['Irish debt agency sees financial silver lining from Brexit']	The Irish Times	[]	0.0
+[u'Patrick Freyne: The queens 90th birthday party was every bit as bizarre as you would expect ']	The Irish Times	['May 18, 2016, 12:48']	0.4
+['Office take-up in Dublin rises 62% in Q1']	The Irish Times	[]	0.0
+[u'Istanbul Letter: Lunch with Boris Johnsons Turkish cousin']	The Irish Times	[]	0.0
+['Irish push for exemption from UK benefits overhaul under threat']	The Irish Times	['May 18, 2016, 01:00']	0.0
+['Goodbody Stockbrokers preparing to cut up to 20 posts']	The Irish Times	[]	0.0
+['A sanguine view on the Irish economy']	The Irish Times	[]	0.0
+['David Cameron rules out second Brexit referendum']	The Irish Times	['May 17, 2016, 18:58']	0.0
+['Islamic State would be pleased by Brexit, says David Cameron']	The Irish Times	[]	0.5
+['Business support for Brexit grows']	The Irish Times	[]	0.0
+['Cantillon: Rating agencies highlight the gloomy Brexit scenarios']	The Irish Times	[]	0.0
+['Boris Johnson and the Brexit debate']	The Irish Times	[]	0.0
+['George Osborne takes anti-EU conspiracy theorists to task']	The Irish Times	['May 16, 2016, 17:40']	0.0
+['Brexit could hurt NI peace process, Fitch warns']	The Irish Times	['May 16, 2016, 17:34']	0.0
+['Exports decreased by 2% in March']	The Irish Times	['May 16, 2016, 12:32']	-0.4
+["Donald Trump calls the EU 'very bureaucratic' and 'difficult'"]	The Irish Times	[]	-0.15
+[u'OLeary says Brexit will mean UK loses investment to Republic']	The Irish Times	['May 16, 2016, 11:09']	-0.30625
+[u' Brexit  weighing up the possibilities']	The Irish Times	[]	0.0
+['Ictu to campaign against Brexit']	The Irish Times	[]	0.0
+[u'Trump:  Brexit would not leave UK at back of queue in trade deal']	The Irish Times	[]	0.0
+['Ukraine wins Eurovision with political and powerful song']	The Irish Times	['May 14, 2016']	0.2
+['British nationals in Ireland must register for Brexit vote by Monday']	The Irish Times	['May 14, 2016, 13:56']	0.0
+['Business Week: housing crisis and Brexit key issues for new Cabinet']	The Irish Times	['May 14, 2016, 07:30']	0.0681818181818
+[u'Byrnexit: the Eurovision we wont win ']	The Irish Times	['May 14, 2016']	0.8
+['Diarmaid Ferriter: We have lost our heritage along with the islands']	The Irish Times	['May 14, 2016, 01:04']	0.0
+['Brexit would be a reverse but the EU project would continue ']	The Irish Times	['May 14, 2016, 01:00']	0.0
+[u'Michael OLeary seeks to alarm UK voters over Brexit lunatics']	The Irish Times	[]	0.0
+['Miriam Lord: New chief whip  rides off into the sunrise ']	The Irish Times	['May 14, 2016, 01:00']	0.136363636364
+[u'Cantillon: Moodys upgrade no market irrelevance']	The Irish Times	[]	0.0
+['Shares climb along with   US retail sales']	The Irish Times	[]	0.0
+[u'Off Topic podcast: The Irish people have failed Eurovision ']	The Irish Times	['May 13, 2016, 15:10']	-0.25
+['Irish 10-year bond yield hits one-month low on rating upgrade hopes']	The Irish Times	[]	0.0
+['IMF warns   Britain of dangers of leaving European Union']	The Irish Times	[]	0.0
+['Enda Kenny pledges to lobby only Irish people in UK over Brexit']	The Irish Times	[]	0.0
+['Brexit fears weigh on UK media sector']	The Irish Times	['May 13, 2016, 08:45']	0.0
+['Paul Drechsler: the Irish voice of British industry unequivocal on Brexit danger']	The Irish Times	['May 13, 2016, 07:00']	0.0
+['David Puttnam: Brexit would impoverish film, TV and creative industries  ']	The Irish Times	[]	0.5
+['Brexit: Divided Irish in Britain want clearer advice ']	The Irish Times	[]	0.0
+[u'Nicky Byrne disappointed with Eurovision exit']	The Irish Times	['May 12, 2016']	0.0
+['Archbishops express concern over impact of Brexit ']	The Irish Times	['May 12, 2016, 21:45']	0.0
+['Bank of England cuts growth forecasts and issues Brexit warning']	The Irish Times	[]	0.0
+[u'Moodys seen holding off Irish upgrade amid Brexit fears']	The Irish Times	[]	0.0
+['State achieves more than 90% of minimum bond sale target for year']	The Irish Times	[]	0.5
+[u'Irelands  six-year bond issue seen as attractive']	The Irish Times	['May 12, 2016, 08:49']	0.0
+['Broadcaster ITV cuts ad revenue forecast as Brexit chills market']	The Irish Times	[]	0.0
+[u'Variety the spice of Alison Donnellys life']	The Irish Times	['May 12, 2016, 05:30']	0.0
+['Ireland and the Brexit debate ']	The Irish Times	[]	0.0
+['Brexit: Some pain if UK departs but some gain also']	The Irish Times	[]	0.0
+['Brexit would create turmoil and damage Irish trade']	The Irish Times	['May 12, 2016, 01:00']	0.0
+['Europe Letter: EU debates its future as UK prepares to vote ']	The Irish Times	['May 12, 2016, 01:00']	0.0
+[u'Cantillon: still hard to judge the mood of Moodys ']	The Irish Times	[]	-0.291666666667
+['European equities go into reverse']	The Irish Times	[]	0.0
+['What risks would Brexit pose  to UK and European security?']	The Irish Times	[]	0.0
+['Government sets sights on UK banking jobs in event of Brexit ']	The Irish Times	[]	0.0
+['Fitch warns of risks to Irish banks from new government ']	The Irish Times	[]	0.0681818181818
+['London office construction races to capitalise on high rents ']	The Irish Times	[]	0.16
+['UK property returns drop to 1.1%']	The Irish Times	['May 11, 2016, 09:20']	0.0
+['Permanent TSB shares tumble almost 11% ']	The Irish Times	['May 11, 2016, 07:29']	0.0
+['5 stories you need to know about today']	The Irish Times	[]	0.0
+['Brexit: Ireland unsure of Plan B in the event of departure']	The Irish Times	['May 11, 2016, 01:00']	0.0
+['Duncan Smith accuses Cameron of bowing to German migration demand ']	The Irish Times	['May 10, 2016, 15:27']	0.0
+['ECB asks large euro zone banks to detail Brexit plans']	The Irish Times	[]	0.214285714286
+['Dublin could capture flow of financial jobs post-Brexit']	The Irish Times	[]	0.0
+[u'Grafton eyes further Dutch acquisitions after 91.5 million deal']	The Irish Times	[]	0.0
+[u'Brexit  weighing up the possibilities']	The Irish Times	[]	0.0
+['Brexit: Little love for EU in North as parties stake out positions']	The Irish Times	['May 10, 2016, 01:00']	0.15625
+['Nearly 75% of business people in North to vote against Brexit']	The Irish Times	['May 10, 2016, 01:00']	0.1
+['George Osborne warns many financial jobs at risk in Brexit']	The Irish Times	[]	0.25
+['CAP payments critical to N Irish economy - Phil Hogan ']	The Irish Times	['May 9, 2016, 21:12']	0.0
+['Cameron and Johnson at war over EU peace-keeping role ']	The Irish Times	['May 9, 2016, 17:44']	0.0
+[u'Opinion: Potential Brexit already impacting Irish exports']	The Irish Times	[]	0.0
+['Half of Europeans want referendum on EU membership']	The Irish Times	[]	-0.166666666667
+[u'NTMA to raise 750m in bond markets']	The Irish Times	['May 9, 2016, 10:17']	0.0
+['For your diary']	The Irish Times	['May 9, 2016, 06:50']	0.0
+['Panama Papers: Secret offshore world feeds global inequality']	The Irish Times	['May 9, 2016, 06:00']	-0.2
+['Brexit and Ireland: Border towns anxiously await referendum ']	The Irish Times	['May 9, 2016, 01:00']	-0.25
+['Brexit - the day after: what would it be like? ']	The Irish Times	['May 7, 2016, 05:45']	0.0
+[u'Britains Europe: A Thousand Years of Conflict and Co-operation by Brendan Simms']	The Irish Times	[]	0.0
+['World View: German paper outlines vision for EU defence union ']	The Irish Times	['May 7, 2016, 01:00']	0.0
+['Labour Party suffers further ignominy in Scotland']	The Irish Times	[]	-0.3
+[u'Nigel Farage hails breakthrough as Ukip wins seven seats in Welsh Assembly  ']	The Irish Times	[]	0.3
+[u' Britain would be better off without the EU, says Donald Trump']	The Irish Times	['May 6, 2016, 18:00']	0.0
+['Brexit: Unavoidable consequences and uncertainties for Ireland']	The Irish Times	[]	0.0
+[u'Donald Trump backs Brexit, saying UK better off out of EU']	The Irish Times	[]	0.0
+['Real  test for government will come when lofty plans meet fiscal constraints']	The Irish Times	['May 6, 2016, 06:37']	0.2
+[u'Brexit by far biggest issue for Irish business, says Ibec chief']	The Irish Times	['May 6, 2016, 01:00']	0.0
+[u'John Malones Liberty Global may give 500,000 to UK Remain campaign']	The Irish Times	[]	0.0
+['Consumer sentiment creeps higher in April ']	The Irish Times	['May 5, 2016, 12:00']	0.25
+[u'Kingspan chief sees sales topping 3bn even as Brexit weighs']	The Irish Times	[]	0.0
+['Cantillon: Ireland a near non-event in Brexit discussions']	The Irish Times	[]	0.1
+['A test of  political  compromise']	The Irish Times	[]	0.0
+['Buoyant tax returns paper over lingering pressures']	The Irish Times	['May 4, 2016, 18:21']	0.0
+['Martin Wolf: Brexit will damage the UK']	The Irish Times	['May 4, 2016, 14:48']	0.0
+['Unemployment rate drops to 8.4% as more youths find work']	The Irish Times	[]	0.5
+[u'Irish Brexit concerns not impacting on  debate- Humphrys ']	The Irish Times	[]	0.0
+['Lakeland reports 10% rise in profit despite dairy slump']	The Irish Times	[]	0.0
+['No pension freedom for Irish retirees']	The Irish Times	['May 3, 2016, 12:43']	0.0
+['Manufacturing growth at weakest level since November 2013']	The Irish Times	['May 3, 2016, 07:25']	0.0
+['Belfast briefing: Job creation key to Northern Ireland  elections ']	The Irish Times	['May 3, 2016, 07:00']	0.0
+['John FitzGerald: Ireland must protect  interests under Brexit']	The Irish Times	['May 3, 2016, 06:00']	0.0
+['Campaign calls for Irish in Britain to vote on Brexit']	The Irish Times	[]	0.0
+['Just 3% of Irish business leaders believe UK should leave EU']	The Irish Times	['May 2, 2016, 12:55']	0.0
+[u'Irish firms using invoice finance generated 25.9bn in 2015']	The Irish Times	['May 2, 2016, 06:40']	0.0
+['North election: Social and economic concerns vie for prominence']	The Irish Times	[]	0.116666666667
+[u'Labour anti-Semitism claims dismissed as smears']	The Irish Times	[]	0.0
+[u'Business Week: clamour for stable government as Brexit vote looms']	The Irish Times	['April 30, 2016, 06:30']	0.0
+['World View: Obama turns attention to his legacy']	The Irish Times	['April 30, 2016, 01:00']	0.0
+['Colm Keena: Water movement about protest, not water']	The Irish Times	['April 30, 2016, 01:00']	0.0
+[u'Ulster Farmers Union president warns of Brexit risks for members']	The Irish Times	['April 29, 2016, 18:42']	0.0
+['IPOs stall amid market fears']	The Irish Times	[]	0.0
+['Budgeting for Brexit']	The Irish Times	[]	0.0
+['Politicians focus on water yet real threat is Brexit']	The Irish Times	['April 29, 2016, 01:00']	0.2
+['Germany to withhold welfare from foreign EU nationals']	The Irish Times	['April 29, 2016, 01:00']	-0.125
+[u'UK will lose influence on global economy if it leaves EU  Bruton']	The Irish Times	['April 29, 2016, 01:00']	0.0
+[u'Irish market yields 5m profit for UK property group U&I']	The Irish Times	['April 29, 2016, 01:00']	0.0
+[u'BoI chairman flags ambition to pay dividend in 2017 ']	The Irish Times	['April 29, 2016, 01:00']	0.0
+[u'Newry and Armagh: SDLP and UUP target seats occupied by Sinn Fin and DUP']	The Irish Times	['April 28, 2016, 13:33']	0.0
+[u'Bank of Ireland continues to trade in line with expectations']	The Irish Times	['April 28, 2016, 07:40']	0.0
+[u'Brexit will cost workers a months salary, says OECD']	The Irish Times	['April 28, 2016, 01:00']	0.0
+['Government warns it cannot fully plan for Brexit']	The Irish Times	['April 28, 2016, 01:00']	0.0
+['Steady course steered by Central Bank governor']	The Irish Times	[]	0.0833333333333
+['Suzanne Lynch: Stakes are high as Europe mulls debt relief  for Greece']	The Irish Times	['April 28, 2016, 00:57']	0.16
+[u'Mandelson warns of risks of Brexit for Norths economy and security ']	The Irish Times	['April 28, 2016, 00:00']	0.0
+[u'Brexit threatens plans to ramp up FDI in North  ESRI']	The Irish Times	['April 27, 2016, 19:48']	0.0
+['Martin Wolf: Debunking 10 Brexit shibboleths']	The Irish Times	['April 27, 2016, 17:20']	0.0
+[u'Sinn Fin pledges to invest 1 billion in health sector in election manifesto']	The Irish Times	[]	0.0
+['UK economy loses momentum in first quarter']	The Irish Times	[]	-0.025
+[u'Brexit would cost Britons a months salary by 2020, warns OECD']	The Irish Times	[]	0.0
+[u'Dangerous and risky to refund water charges - FF']	The Irish Times	[]	0.0
+['Department of Finance fires warning shot at parties over economic risks']	The Irish Times	['April 27, 2016, 01:00']	0.2
+['North is the region most at risk from Brexit, says report ']	The Irish Times	['April 26, 2016, 20:33']	0.5
+['Brexit: Michael Gove and Theresa May clash over human rights']	The Irish Times	['April 26, 2016, 18:12']	0.0
+['Wall St and European stocks inch higher']	The Irish Times	[]	0.125
+['Comeback kid sterling strengthens to 10-week high']	The Irish Times	[]	0.16
+['Asian stocks retreat ahead of Fed, BOJ meetings']	The Irish Times	[]	0.0
+['Firms in North mind their own business on Brexit']	The Irish Times	['April 26, 2016, 04:00']	0.6
+['Brexit: Immigration is last refuge of  Leave campaigners']	The Irish Times	['April 26, 2016, 01:00']	0.0
+['John FitzGerald: Brexit poses major threat to retail sector']	The Irish Times	['April 26, 2016, 01:00']	0.0625
+['Theresa May says UK should leave European Convention on Human Rights ']	The Irish Times	['April 25, 2016, 18:12']	0.0
+['Central bank  meetings dampen markets']	The Irish Times	[]	0.0
+['Wholesale gas prices have almost halved in a year']	The Irish Times	['April 25, 2016, 09:54']	0.0
+['5 things you need to know today']	The Irish Times	[]	0.0
+[u'Stable government needed to face into Brexit vote  Sutherland']	The Irish Times	['April 25, 2016, 06:00']	0.0
+['Fee income  soars by 16% at  top four accountancy firms']	The Irish Times	['April 25, 2016, 01:00']	0.5
+['Brexit campaign left reeling by Barack Obama']	The Irish Times	['April 25, 2016, 01:00']	0.0
+[u'US trade deal could take 10 years if Britain leaves EU']	The Irish Times	[]	0.0
+[u'Gerry Adams critical of  nasty little FF soundbites on SF ']	The Irish Times	['April 23, 2016']	0.0
+[u'Obama says Norths tribal mentalities breaking down']	The Irish Times	[]	-0.155555555556
+['Boris Johnson critical of Barack Obama Brexit comments']	The Irish Times	[]	0.0
+['Business week: Brexit, boom-era risks, pay, Intel . . .']	The Irish Times	['April 23, 2016, 07:00']	0.0
+['Boris Johnson accused of racism over Barack Obama remarks']	The Irish Times	['April 23, 2016']	0.0
+[u'Miriam Lords Week: Lunch on boulevard of broken promises']	The Irish Times	['April 23, 2016, 01:00']	-0.4
+[u'Cliff Taylor: Executive pay hikes dont chime well with calls for wage restraint ']	The Irish Times	['April 23, 2016, 00:43']	0.0
+['Obama: EU magnifies British influence']	The Irish Times	[]	0.0
+[u' Obama warns Brexit would leave UK back of queue on trade']	The Irish Times	['April 22, 2016']	0.0
+[' Barack Obama delivers blunt warning on Brexit fallout']	The Irish Times	['April 22, 2016, 20:32']	0.0
+[u'Obama tells UK voters EU makes Britain even greater ']	The Irish Times	[]	0.0
+['5 things you need to know today']	The Irish Times	[]	0.0
+['New government must prioritise AIB, says Michael Noonan']	The Irish Times	[]	0.136363636364
+['Rising swell of  apprehension as political drift  continues ']	The Irish Times	['April 22, 2016, 06:15']	0.0
+[u'Ireland may have to review EU membership if  Britain leaves ']	The Irish Times	['April 22, 2016, 05:00']	0.0
+[' Ireland and the Brexit debate']	The Irish Times	[]	0.0
+['Brexit: Flanagan appears to contradict Villiers over Border ']	The Irish Times	['April 22, 2016, 01:00']	0.0
+[u'Obama  infuriates Brexit campaigners with Remain plea ']	The Irish Times	[]	0.0
+['Erosion of  competitiveness  threat to economic recovery ']	The Irish Times	[]	0.2
+['Competitiveness must be at the heart of a new Programme for Government']	The Irish Times	[]	0.136363636364
+['Brexit podcast: Mapping out different scenarios for Ireland']	The Irish Times	[]	0.0
+['Market sentiment steady as government talks continue ']	The Irish Times	[]	0.166666666667
+[u'Fantasy Dil: Power-sharing to be tested in voting experiment']	The Irish Times	['April 21, 2016, 08:10']	0.0
+['Obama flies to London to persuade UK voters to stay in EU']	The Irish Times	[]	0.0
+['Ireland and the Brexit debate']	The Irish Times	[]	0.0
+['Alastair Campbell: Get on your phone and play your part in beating Brexit']	The Irish Times	[]	0.0
+['Cantillon: Sobering jolt from the real economy']	The Irish Times	[]	0.2
+['Irish business borrowers paying 80% more for loans']	The Irish Times	['April 21, 2016, 01:00']	0.25
+[u'Obama expected to step further into Brexit debate']	The Irish Times	['April 21, 2016, 01:00']	-0.05
+['German government MP warns of  damage from Brexit']	The Irish Times	['April 20, 2016, 23:16']	0.0
+[u'Who Can Govern? The answer might just surprise you... but it probably wont']	The Irish Times	['April 20, 2016, 13:30']	0.0
+['Martin Wolf: Our friends think Brexit is a mad idea']	The Irish Times	['April 20, 2016, 12:45']	-0.625
+[u'Permanent TSB  issues full and frank apology to shareholders']	The Irish Times	['April 20, 2016, 11:42']	0.0
+[u'Ireland needs to be ready for destabilising effect of Brexit']	The Irish Times	['April 20, 2016, 11:01']	0.2
+['Volatility predicted for Irish bonds']	The Irish Times	[]	0.0
+['Michael Gove says   other EU states may leave EU']	The Irish Times	['April 19, 2016, 19:16']	-0.125
+[u'Brexit: A young Irish womans view ']	The Irish Times	[]	0.05
+['Brexit: Which side correct in debate on  costs to UK of EU role?']	The Irish Times	[]	0.0
+['Bob Casey worried Brexit could push London Irish further from Ireland']	The Irish Times	[]	0.0
+['NI economic recovery continues, survey shows']	The Irish Times	['April 19, 2016, 13:16']	0.2
+['Brexit could ratchet up  pressure on Dublin housing market']	The Irish Times	['April 19, 2016, 08:00']	0.0
+[u'Stocktake: Proinsias OMahony']	The Irish Times	['April 19, 2016, 07:15']	0.0
+['Ireland and the Brexit debate']	The Irish Times	[]	0.0
+['Janan Ganesh: Anti-Brexit campaigners need to focus ']	The Irish Times	['April 19, 2016, 01:01']	0.0
+['Brexit analysis: Fear of personal cost central to campaign ']	The Irish Times	['April 19, 2016, 01:00']	0.0
+[u'Special Irish trade deal impossible after  Brexit']	The Irish Times	[]	0.178571428571
+[u'Treasury report says Brexit would cost British families 4,300 a year']	The Irish Times	['April 18, 2016, 19:58']	0.0
+['UK stands to gain little tax benefit in event of Brexit']	The Irish Times	[]	-0.1875
+['Brexit: Irish must urge our neighbours to re-commit to EU ']	The Irish Times	[]	0.0
+[u'Brexit would cost families 5,400 a year, says George Osborne']	The Irish Times	[]	0.0
+[u'Brexit to cost UK households at least 4300 a year']	The Irish Times	[]	-0.3
+['Brexit: campaign intensifies as vote too close to call ']	The Irish Times	['April 18, 2016, 01:00']	0.0
+['Brexit threatens Northern Ireland more than rest of UK, says Davy ']	The Irish Times	['April 18, 2016, 01:00']	0.5
+[u'Bank of Irelands Jim Hickey becomes COO of  Finance Ireland ']	The Irish Times	['April 18, 2016, 01:00']	0.0
+['Hiring slows at British firms ahead of Brexit vote in June']	The Irish Times	[]	0.0
+['Brexit:  Theresa Villiers misleading on  return of Border controls']	The Irish Times	[]	0.0
+['Sealing the Border']	The Irish Times	[]	0.0
+[u'Seen & Heard:  Laya    replies to  Irish Lifes entry into health insurance  ']	The Irish Times	[]	0.0
+['FG and FF maintain contact in bid to avert talks crisis']	The Irish Times	['April 16, 2016, 12:54']	0.0
+['Boris Johnson criticises Barack Obama for urging  Britain to stay in EU ']	The Irish Times	[]	0.0
+['Brexit: the British view from the Irish west coast']	The Irish Times	['April 16, 2016, 01:00']	0.0
+[u'Workers unhappy at Bombardier managements vote advice']	The Irish Times	[]	-0.6
+['Miriam Lord: Mysterious case of the uninvited women ']	The Irish Times	['April 16, 2016, 01:00']	0.0
+['Business Week: still no government amid mixed prognosis for economy']	The Irish Times	['April 16, 2016, 01:00']	0.0
+[u' Bookies  odds hold back investor fears over Brexit  ']	The Irish Times	[]	0.0
+['Northern election: No way round  the great divide']	The Irish Times	[]	0.3
+['Brian Hayes: Ireland needs to prepare a plan for Brexit']	The Irish Times	['April 15, 2016, 13:29']	0.0
+['Fine Gael MEP says Government unprepared for Brexit']	The Irish Times	['April 15, 2016, 13:00']	0.416666666667
+[u'Brexit is most significant risk for Irish economy']	The Irish Times	[]	0.1875
+['Why Tory-hating is a rational activity']	The Irish Times	[]	0.0
+[u'Arthur Beesley: Mario Draghis room to move may be limited']	The Irish Times	['April 15, 2016, 01:00']	-0.0714285714286
+['Bombardier says  UK membership of EU is better ']	The Irish Times	['April 15, 2016, 01:00']	0.5
+['Brexit: Irish-based Britons urged to register for referendum']	The Irish Times	['April 15, 2016, 01:00']	0.0
+['Jeremy Corbyn urges Labour supporters to vote  to stay in EU']	The Irish Times	['April 14, 2016']	0.0
+['Lloyds warns  Brexit would spark economic uncertainty']	The Irish Times	[]	0.2
+['Collins McNicholas reports 20% rise in job vacancies ']	The Irish Times	['April 14, 2016, 14:24']	0.0
+[u'Brexit: Michael OLeary urges Irish to campaign for UK to stay']	The Irish Times	['April 14, 2016, 13:09']	0.0
+["Jeremy Corbyn urges Britain to stay in 'warts and all' EU"]	The Irish Times	[]	0.0
+[u'Jeremy Corbyn: Nothing half-hearted about pro-EU campaign']	The Irish Times	[]	0.0
+[u'Cantillon: Ireland  off  IMFs radar  for now']	The Irish Times	[]	0.0
+['Government deal must factor in Brexit threat ']	The Irish Times	['April 14, 2016, 01:00']	0.0
+['Brexit: Vote Leave named as official referendum campaign']	The Irish Times	['April 13, 2016, 18:53']	0.0
+[u'From Allo Allo! to Brexit, Euroscepticism has always been close to the British heart']	The Irish Times	['April 13, 2016, 16:12']	0.0
+[u'DUP scaremongering is wearing thin, Jim Allister says']	The Irish Times	['April 13, 2016, 15:03']	0.0
+['Davy upgrades growth forecast for economy to 6%']	The Irish Times	['April 13, 2016, 09:31']	0.0
+['5 things you need to know today']	The Irish Times	[]	0.0
+[u'Strangford: UUP target is to win   and this time hold  second seat']	The Irish Times	[]	0.4
+['East Antrim: Ukip can take advantage of anti-EU sentiment']	The Irish Times	['April 13, 2016, 06:00']	0.0
+['John McManus: TDs have  much to gain from publishing their tax returns ']	The Irish Times	['April 13, 2016, 01:10']	0.2
+['Theresa Villiers and the Brexit debate']	The Irish Times	[]	0.0
+['State to breach EU deadline for filing key budget update']	The Irish Times	['April 13, 2016, 01:00']	0.0
+[u'Brendan Howlin: Fianna Fils new politics is Haughey-esque']	The Irish Times	[]	0.0
+[u'Hillary Clinton believes a Brexit awful for Ireland, says Bill']	The Irish Times	['April 12, 2016, 23:11']	0.0
+['Oil and mining stocks pull up Europe ']	The Irish Times	[]	0.0
+['IMF warning is evidence Brexit would hit economy - Cameron']	The Irish Times	['April 12, 2016, 19:55']	0.0
+['IMF warns Brexit could deal damaging blow to global economy']	The Irish Times	[]	0.0
+['Stocktake: Investors nonchalant about Brexit threat?']	The Irish Times	['April 12, 2016, 07:15']	0.0
+['David Cameron finds favour with rhetorical defence of finances']	The Irish Times	['April 12, 2016, 01:00']	0.0
+['Irish bond sale may be affected by Brexit fears']	The Irish Times	[]	0.0
+[' European shares rise as banks and mining stocks advance ']	The Irish Times	[]	0.0
+[u'The campaigners for Brexit who seek to reinvent the wheel']	The Irish Times	[]	0.0
+[u'Brexit: Any bid for  Border controls unacceptable - SF']	The Irish Times	[]	0.0
+[u'NTMA set for 750 m bond sale on Thursday']	The Irish Times	[]	0.0
+[u'Brexit would be major setback for Irish economy']	The Irish Times	[]	0.0
+['5 things you need to know today']	The Irish Times	[]	0.0
+['In search of a government']	The Irish Times	[]	0.0
+['Associate membership would calm Brexit demand']	The Irish Times	[]	0.3
+['Brexit could lead to Irish border controls, Tories warn']	The Irish Times	['April 11, 2016, 01:00']	0.0
+['Suzanne Lynch: Dutch referendum bodes ill for anti-Brexit camp']	The Irish Times	['April 11, 2016, 01:00']	-0.5
+['Ireland and the Brexit debate']	The Irish Times	[]	0.0
+[u'Cliff Taylor: Mind the gap  Ireland without a government ']	The Irish Times	['April 9, 2016, 01:00']	0.0
+['Going against the tide over Brexit  on this side of the sea']	The Irish Times	[]	0.0
+['Bond auction set to test mood of international investors']	The Irish Times	[]	0.0
+['Thanks, Penneys. The rise and rise of Primark']	The Irish Times	['April 8, 2016, 12:30']	0.2
+[u'Ireland must have government to respond to Brexit vote']	The Irish Times	['April 8, 2016, 11:34']	0.0
+['UK  industrial output chalks up biggest fall  in two years']	The Irish Times	[]	0.0
+["Brexit: Cameron warns young voters they have 'the most to lose'"]	The Irish Times	[]	0.3
+['Brexit would gravely weaken both UK and Europe, says ex-PM']	The Irish Times	[]	0.0
+['David Duffy returns to high life in London after years of slog at AIB']	The Irish Times	['April 8, 2016, 07:30']	0.16
+['The Brexit debate and  Ireland']	The Irish Times	[]	0.0
+[u'David Cameron defends 9m Brexit mailshot']	The Irish Times	['April 7, 2016, 20:01']	0.0
+['London Letter: Pro-EU mailshot sticks to letter of law']	The Irish Times	['April 7, 2016, 11:30']	0.0
+['Irish emigrants and voting on Brexit']	The Irish Times	[]	0.0
+[u'Cantillon: Brexit and Dil deadlock dampens mood']	The Irish Times	[]	0.0
+['Realpolitik needed in a real economy']	The Irish Times	[]	0.2
+['Easter Rising led to creation of  Northern Ireland - UUP leader']	The Irish Times	['April 6, 2016, 17:45']	0.0
+['Consumer sentiment weakens sharply in wake of election']	The Irish Times	['April 6, 2016, 12:07']	-0.125
+[u'Yanis Varoufakis warns against grave error of  Brexit']	The Irish Times	[]	0.0
+['Referendum to deepen Anglo-Scottish political gap']	The Irish Times	[]	0.0
+['Irish in Britain should oppose Brexit, Minister says']	The Irish Times	['April 6, 2016, 01:00']	0.0
+[u'Viridian bondholders offered small sweetener']	The Irish Times	[]	-0.25
+['EU membership not hindering efforts to help steel plant, says Cameron']	The Irish Times	['April 5, 2016, 22:34']	0.0
+['Irish jobless rate  hits eight-year low while euro zone growth stalls']	The Irish Times	['April 5, 2016, 11:23']	0.0
+['Lack of  government  hindering contingency plans in event of a Brexit, academic warns']	The Irish Times	['April 5, 2016, 08:01']	0.0
+['Owen Paterson returns to campaign for Brexit']	The Irish Times	['April 5, 2016, 04:00']	0.0
+['Sustaining Northern standard of living is a costly exercise']	The Irish Times	['April 5, 2016, 01:00']	0.0
+['Alastair Campbell urges Irish interest in Brexit']	The Irish Times	['April 5, 2016, 01:00']	0.0
+['Brexit  is a threat to UK-Irish relations, says British ambassador']	The Irish Times	['April 4, 2016, 22:03']	0.0
+['Dispute over number of EU migrants in UK']	The Irish Times	[]	0.0
+['Irish food industry knows how to survive a Brexit']	The Irish Times	[]	0.0
+['Goodbody warns against failing to form government']	The Irish Times	['April 4, 2016, 01:00']	0.0
+['Irish passport wait times lengthen as UK applications  rise']	The Irish Times	['April 2, 2016, 18:00']	0.0
+[u'Europes future and the Brexit debate']	The Irish Times	[]	0.0
+['Central Bank says mortgage lending rules are here to stay']	The Irish Times	['April 2, 2016, 01:02']	0.0
+[u'Cliff Taylor: Why the reluctance to govern in the worlds fastest-growing economy?']	The Irish Times	['April 2, 2016, 01:00']	0.0
+['NTMA to  to  hold bond auctions this month and next']	The Irish Times	['April 2, 2016, 01:00']	0.0
+['Business Week: The business of looking to the future . . . ']	The Irish Times	['April 1, 2016, 17:20']	0.0
+[u' April Fools Day: The best and worst pranks for 2016 ']	The Irish Times	['April 1, 2016']	0.0
+['Central Bank revises 2016 growth upwards']	The Irish Times	['April 1, 2016, 11:01']	0.0
+['Steering  the fishing industry through choppy waters']	The Irish Times	['April 1, 2016, 07:00']	-0.2
+['Forming a  government']	The Irish Times	[]	0.0
+[u'Europes future  and the Brexit debate ']	The Irish Times	[]	0.0
+['UK property funds see biggest outflows since 2008']	The Irish Times	[]	0.0
+[u'British current account deficit balloons, Osborne warns against EU Brexit']	The Irish Times	[]	0.0
+['Home rule and the Commonwealth']	The Irish Times	[]	0.0
+[u'Peter Sutherland: The Brexiteers magical thinking on global trade']	The Irish Times	[]	0.25
+['Uncertainty over Brexit already curbing UK growth, says Davy']	The Irish Times	['March 31, 2016, 01:00']	0.0
+[u'Bill Clinton urges Irish to find way through splintered electorate']	The Irish Times	['March 30, 2016, 21:48']	0.0
+['Brexit: NI polls show preference to remain in EU ']	The Irish Times	[]	0.0
+['Brexit: How EU environmental law affects the North']	The Irish Times	[]	0.0
+['Brexit: 4.1% of NI residents born outside UK or Republic']	The Irish Times	[]	0.0
+['Brexit: Northern Ireland and CAP']	The Irish Times	[]	0.0
+['Brexit: the word that cannot be spoken at Bank of America']	The Irish Times	[]	0.0
+['Commemorating the 1916 Rising ']	The Irish Times	[]	0.0
+['Cantillon: What are the odds of a Brexit happening?']	The Irish Times	[]	0.0
+[u'Bank of England upsets Eurosceptics and grandlords']	The Irish Times	[]	0.0
+['Brexit: ECB runs rule over Irish banks in readiness for exit']	The Irish Times	['March 30, 2016, 01:00']	0.0
+['Buying an imported car? Better do it before Brexit']	The Irish Times	['March 30, 2016, 00:01']	0.5
+['Irish bonds make steady gains in line with other European markets']	The Irish Times	[]	0.0104166666667
+['Political populism is a  condition to be managed, not cured']	The Irish Times	['March 29, 2016, 14:29']	0.0
+['Ibec warns of threats to Irish economic growth']	The Irish Times	['March 29, 2016, 00:01']	0.1
+[u'Brexit would severely damage Irish trade - Sean Kelly']	The Irish Times	['March 28, 2016, 10:21']	0.0
+['The Tories and Europe']	The Irish Times	[]	0.0
+[' Names taken off Brexit  campaign letter']	The Irish Times	[]	0.0
+['Top banker and JD Wetherspoon boss back Brexit ']	The Irish Times	[]	0.25
+['David Begg:  Luas dispute could be resolved using old methods']	The Irish Times	[]	0.1
+['Cantillon: Brexit numbers inexact, but the message is clear ']	The Irish Times	[]	0.1
+['Brexit would hit Ireland almost as hard as UK - research']	The Irish Times	['March 25, 2016, 17:58']	-0.291666666667
+[u'Caveat: Facebooks IOG case spells OMG for Ireland ']	The Irish Times	['March 25, 2016, 08:30']	0.0
+['Fine Gael and Independents building  castles in the air ']	The Irish Times	['March 25, 2016, 01:00']	0.416666666667
+['Cliff Taylor: Setting up new quangos is not the solution']	The Irish Times	['March 25, 2016, 01:00']	0.136363636364
+['Real link between terrorism and Brexit made by David Cameron ']	The Irish Times	['March 24, 2016, 01:00']	0.2
+[u'Cantillon: Brexit impact on funds played down ']	The Irish Times	[]	-0.155555555556
+['Pound still under pressure over Brexit']	The Irish Times	[]	0.0
+[u'Embrace wind energy for greater good, says Minister ']	The Irish Times	['March 23, 2016, 20:05']	0.0
+['Markets bounce back in wake of Brussels terrorist attack']	The Irish Times	[]	0.0
+['Brian Boyd: The narcissism of taking offence  by proxy']	The Irish Times	['March 23, 2016, 01:00']	0.0
+['The Irish Times view: Brussels attacks represent an assault on all of Europe']	The Irish Times	[]	0.0
+[u'Irelands biggest companies begin to feel chill wind of Brexit']	The Irish Times	[]	0.0
+['Asian shares wobble as Fed rate talk revives']	The Irish Times	[]	0.0
+['Brexit Voices: EU has helped build good relations in the face of past conflicts']	The Irish Times	[]	0.225
+['David Cameron not alone in disappointing Iain Duncan Smith']	The Irish Times	['March 22, 2016, 01:01']	-0.6
+['Analysis: Tory backbench omerta hints at party truce  ']	The Irish Times	['March 22, 2016, 01:00']	0.0
+[u'Ireland likely to be Brexits silent victim']	The Irish Times	[]	-0.025
+['Farming union in Northern Ireland rejects calls for Brexit ']	The Irish Times	['March 22, 2016, 01:00']	0.0
+['Markets struggle to extend highs as dollar stabilises']	The Irish Times	[]	0.0
+[u'Brexit could cost Britain 100bn and a million jobs ']	The Irish Times	[]	0.0
+[u'Brexit would strike at the heart of EUs legitimacy ']	The Irish Times	['March 21, 2016, 07:53']	0.0
+['Brexit Voices: EU links significant to strength of British-Irish relations']	The Irish Times	[]	0.375
+[' Conference to examine impact of Brexit on Irish energy market ']	The Irish Times	['March 21, 2016, 06:30']	0.0
+[u'Caitlin Moran: Having 4% battery left on your phone: thats how it feels to be poor']	The Irish Times	['March 21, 2016, 06:00']	0.0
+['Exporters and small firms voice Brexit fears  ']	The Irish Times	['March 21, 2016, 01:00']	-0.25
+['Why scrimping on trade missions a false economy']	The Irish Times	[]	-0.4
+['Prime Minister David Cameron at war on three fronts']	The Irish Times	[]	0.0
+[u'Iain Duncan Smith warns unfair budget will damage Britain']	The Irish Times	['March 20, 2016, 19:37']	0.0
+[u'David Cameron puzzled by Iain Duncan Smith resignation']	The Irish Times	[]	0.0
+['US Letter: Obama cherishing the words of a nation equally']	The Irish Times	['March 19, 2016, 01:08']	0.0
+['EU-Turkey refugee plan paves way for misery and terror']	The Irish Times	[]	0.0
+['Irish will be worst hit if UK leaves EU, study finds ']	The Irish Times	['March 19, 2016, 01:00']	-0.5
+['Iain Duncan Smith resigns from British government ']	The Irish Times	[]	0.0
+['Brexit Voices: Nobody arguing trade  will be better if UK leaves  EU']	The Irish Times	[]	0.5
+['Challenges can only be met by a government with the power to act']	The Irish Times	['March 18, 2016, 01:01']	0.0
+['Greencore chief warns of rising prices from Brexit']	The Irish Times	[]	0.0
+['London Letter: Irish disenfranchised at home but may vote on Brexit']	The Irish Times	['March 18, 2016, 01:00']	0.0
+['On crunch Brexit vote, Irish could help swing close campaign']	The Irish Times	['March 18, 2016, 01:00']	0.0
+['Anti-EU side selling false vision, says Labour MP']	The Irish Times	[]	-0.4
+['European markets dragged down as euro strengthens against dollar']	The Irish Times	['March 18, 2016, 01:00']	-0.0777777777778
+[u'Brexit Voices: Leaving the EU wont return halcyon days that never existed']	The Irish Times	[]	0.0
+['Warnings impact of Brexit on Irish would go beyond economics']	The Irish Times	['March 17, 2016, 01:00']	0.0
+['UK Bill a serious  concern for privacy and data protection']	The Irish Times	['March 17, 2016, 01:00']	-0.333333333333
+['Eurosceptic London press may hesitate to back Brexit']	The Irish Times	[]	0.0
+['UK chancellor sugar-coats bad news in budget presentation']	The Irish Times	['March 17, 2016, 01:00']	-0.7
+['British budget: Testing times for George Osborne']	The Irish Times	[]	0.0
+[u'Fianna Fil game playing on forming next government ']	The Irish Times	['March 16, 2016, 20:41']	0.0
+['RBS warns of Brexit danger for Ulster Bank']	The Irish Times	[]	0.0
+['Brexit Voices: How would the UK leaving the EU affect charities?']	The Irish Times	[]	0.0
+['European property investors  shift to the east']	The Irish Times	[]	0.0
+['Britain-only Brexit']	The Irish Times	[]	0.0
+['Fewer than 100,000 households now in negative equity - ESRI ']	The Irish Times	['March 16, 2016, 00:01']	-0.3
+['ESRI warns Government on basing spending plans on GDP numbers']	The Irish Times	['March 16, 2016, 00:00']	0.0
+['Domestic factors propel growth']	The Irish Times	[]	0.0
+['Obama and Kenny talk immigration and Brexit']	The Irish Times	[]	0.0
+['Sterling sheds 1% as poll shows support for Brexit']	The Irish Times	[]	0.0
+['Nevin Institute: Unemployment to fall below 8% next year']	The Irish Times	['March 15, 2016, 09:57']	0.0
+[u'Brexit Voices: UK relationship with EU very different to Irelands']	The Irish Times	[]	0.0
+['Chris Johns: Swivel-eyed loons are to the fore in Brexit camp ']	The Irish Times	['March 15, 2016, 01:08']	0.0

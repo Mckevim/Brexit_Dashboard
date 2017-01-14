@@ -1,0 +1,500 @@
+['German bond yields at two-week high as Britain holds rates post-Brexit']	Reuters	['\n        By ', '  -\n\n        July 14th 2016, 10:02:56 am\n      ']	0.08
+['Dismayed by Brexit, fintech firm Azimo could leave London']	Reuters	['\n        By ', '  -\n\n        July 14th 2016, 9:50:47 am\n      ']	-0.2
+["UK-Turkey ties stronger than Boris Johnson's quips - Turkish official"]	Reuters	['\n        By ', '  -\n\n        July 14th 2016, 9:40:36 am\n      ']	0.0
+[u'Steinhoff secures European deal with Poundland for \xa3597 million']	The Daily Mail	['\n        July 14th 2016, 9:32:30 am\n      ']	0.0
+['Pro-Brexit Gove sacked from the British government - Sky News']	Reuters	['\n        By ', '  -\n\n        July 14th 2016, 9:17:30 am\n      ']	0.0
+["UK's Johnson a liar with his back against the wall, French counterpart says"]	Reuters	['\n        By ', '  -\n\n        July 14th 2016, 9:16:30 am\n      ']	0.0
+['EMERGING MARKETS-EM stocks hit fresh 8-mth high as investors embrace risky assets']	Reuters	['\n        By ', '  -\n\n        July 14th 2016, 9:16:05 am\n      ']	0.23
+["South Korea's central bank lowers growth outlook on Brexit"]	Associated Press	['\n        By ', '  -\n\n        July 14th 2016, 9:11:19 am\n      ']	0.0
+[u'Bank of England HOLDS interest rates: Pound climbs as Hammond is named Chancellor and\xa0Bank sticks at 0.5% for now\xa0']	The Daily Mail	['\n        By ', '  -\n\n        July 14th 2016, 9:07:52 am\n      ']	0.0
+['Stocks hit 8-month highs ahead of BoE Brexit response']	Reuters	['\n        By ', '  -\n\n        July 14th 2016, 8:57:30 am\n      ']	0.0
+[u'Who is the new Chancellor Philip Hammond and what could his appointment mean for your finances?\xa0']	The Daily Mail	['\n        By ', '  -\n\n        July 14th 2016, 8:52:33 am\n      ']	-0.0880681818182
+["From calling the Turkish president a 'w***erer' to branding Putin a tyrant elf and saying Obama has 'an ancestral dislike of Britain'... New Foreign Secretary Boris Johnson has a long list of apologies to make"]	The Daily Mail	['\n        By ', '  -\n\n        July 14th 2016, 8:46:14 am\n      ']	-0.0128787878788
+['Euro zone bond investors turn to Britain to set post-Brexit policy tone']	Reuters	['\n        By ', '  -\n\n        July 14th 2016, 8:37:28 am\n      ']	0.0
+['FTSE CLOSE: Footsie sees modest falls as US stocks jump; pound strong after BoE surprised by leaving rates on hold']	The Daily Mail	['\n        By ', '  -\n\n        July 14th 2016, 8:36:11 am\n      ']	0.211111111111
+['Corbyn challenger Owen Smith vows to hold a SECOND Brexit referendum if he seizes Labour crown and then becomes PM - but a top donor is taking the party to court over the leadership election']	The Daily Mail	['\n        By ', '  -\n\n        July 14th 2016, 8:32:34 am\n      ']	0.25
+['European shares set three-week highs, focus on BoE']	Reuters	['\n        By ', '  -\n\n        July 14th 2016, 8:32:10 am\n      ']	0.0
+["The Latest: German FM hopes Johnson wants 'sensible' ties"]	Associated Press	['\n        By ', '  -\n\n        July 14th 2016, 8:28:34 am\n      ']	0.233333333333
+["Britain's FTSE 100 climbs to 11-month high with BoE set to cut rates"]	Reuters	['\n        By ', '  -\n\n        July 14th 2016, 8:12:56 am\n      ']	0.16
+['Mothercare first-quarter sales dampened by bad weather']	Press Association	['\n        By ', '  -\n\n        July 14th 2016, 8:09:26 am\n      ']	-0.7
+['UK has not decided when to trigger Article 50 - finance minister Hammond']	Reuters	['\n        By ', '  -\n\n        July 14th 2016, 7:53:11 am\n      ']	0.0
+[u"New Chancellor Philip Hammond says 'Britain is open for business' and promises there will NOT be an emergency Brexit budget threatened by Osborne\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        July 14th 2016, 7:47:32 am\n      ']	0.0681818181818
+[u"Theresa May's No 10 coronation sends pound rocketing more than a cent to almost $1.33\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        July 14th 2016, 7:41:30 am\n      ']	0.5
+["Britain's new govt signals PM May is serious about Brexit"]	Associated Press	['\n        By ', '  -\n\n        July 14th 2016, 7:32:49 am\n      ']	-0.0984848484848
+['European shares rise to highest level since Brexit vote day']	Reuters	['\n        By ', '  -\n\n        July 14th 2016, 7:28:19 am\n      ']	0.0
+["Britain's Halfords flags possible profit hit from weaker pound after Brexit vote"]	Reuters	['\n        By ', '  -\n\n        July 14th 2016, 7:20:46 am\n      ']	0.0
+["Britain's new finance minister pledges to restore confidence after Brexit vote"]	Reuters	['\n        By ', '  -\n\n        July 14th 2016, 7:15:18 am\n      ']	0.136363636364
+['Slovakia - Factors To Watch on July 14']	Reuters	['\n        By ', '  -\n\n        July 14th 2016, 6:57:00 am\n      ']	0.0
+['FOREX-Yen hits 3-week low, sterling steps up ahead of BoE meeting']	Reuters	['\n        By ', '  -\n\n        July 14th 2016, 6:48:46 am\n      ']	0.0
+["UK's Hammond: Mark Carney doing excellent job at Bank of England"]	Reuters	['\n        By ', '  -\n\n        July 14th 2016, 6:47:51 am\n      ']	1.0
+['Merkel invites British PM May for talks in Berlin, declines to comment on Johnson']	Reuters	['\n        By ', '  -\n\n        July 14th 2016, 6:44:50 am\n      ']	0.0
+["Britain's 'Charming Bastard' David Davis to lead Brexit talks"]	Reuters	['\n        By ', '  -\n\n        July 14th 2016, 6:44:06 am\n      ']	0.7
+['SEB Q2 surprises after Brexit boost, one-off gain']	Reuters	['\n        By ', '  -\n\n        July 14th 2016, 6:32:08 am\n      ']	0.0
+["UK's Hammond: We will do whatever is necessary for economy after Brexit"]	Reuters	['\n        By ', '  -\n\n        July 14th 2016, 6:30:48 am\n      ']	0.0
+['Labour leadership contender says Britain should vote again on Brexit']	Reuters	['\n        By ', '  -\n\n        July 14th 2016, 6:20:49 am\n      ']	0.0
+['FOREX-Yen gives up gains, sterling pushes higher ahead of BoE meeting']	Reuters	['\n        By ', '  -\n\n        July 14th 2016, 3:51:50 am\n      ']	0.25
+['Nikkei edges up tracking Wall Street, firmer yen limits gains']	Reuters	['\n        By ', '  -\n\n        July 14th 2016, 2:12:09 am\n      ']	0.0
+[u'Bloodbath as May axes Cameron loyalists: Gove, Morgan, Letwin and Whittingdale are all sacked from Cabinet as PM hands plum posts to her allies - but Hunt and Leadsom avoid the chop\xa0']	The Daily Mail	['\n        By ', ' ', ' ', '  -\n\n        July 14th 2016, 1:39:12 am\n      ']	0.0
+['Gold steady, supported by expectations of interest rate cuts']	Reuters	['\n        By ', '  -\n\n        July 14th 2016, 1:29:52 am\n      ']	0.166666666667
+['BOK keeps interest rates on hold, trims growth, inflation forecasts']	Reuters	['\n        By ', '  -\n\n        July 14th 2016, 1:20:46 am\n      ']	0.0
+[u'Boris bounces back! Days after his PM dream imploded, May makes him Foreign Secretary and then sacks Osborne while handing top Cabinet jobs to Brexiteers\xa0']	The Daily Mail	['\n        By ', '  -\n\n        July 14th 2016, 1:08:51 am\n      ']	0.125
+["David Davis back as minister for Brexit and Pro-EU high flyer Amber Rudd will step into May's kitten heels at the Home Office"]	The Daily Mail	['\n        By ', ' ', ' ', '  -\n\n        July 14th 2016, 1:08:16 am\n      ']	0.08
+["Does Theresa have a tortoise called Alfie? CRAIG BROWN'S Great Political News Quiz (Part 2)"]	The Daily Mail	['\n        By ', '  -\n\n        July 14th 2016, 12:59:55 am\n      ']	0.4
+[u'ANDREW PIERCE: How Boris - the Lazarus of politics - came back from the political dead in just 13 days\xa0to become the new Foreign Secretary']	The Daily Mail	['\n        By ', '  -\n\n        July 14th 2016, 12:42:10 am\n      ']	-0.0377272727273
+['Asian shares hover near 8-month peak on BoE rate cut hope']	Reuters	['\n        By ', '  -\n\n        July 14th 2016, 12:18:41 am\n      ']	0.05
+['FOREX-Yen gains, sterling slips ahead of BoE policy decision']	Reuters	['\n        By ', '  -\n\n        July 14th 2016, 12:16:52 am\n      ']	0.0
+[u"A group hug on the doorstep... and then they were gone: ROBERT HARDMAN watches as Camerons' poppet in pigtails steals the show when former PM and his family left No 10 for the last time\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        July 14th 2016, 12:15:34 am\n      ']	0.0
+['Surveyors report sharpest fall on record of new homes coming on market']	Press Association	['\n        By ', '  -\n\n        July 14th 2016, 12:11:15 am\n      ']	0.136363636364
+["May hails 'bold' Cabinet after clear-out of Cameron allies"]	Press Association	['\n        By ', '  -\n\n        July 14th 2016, 12:11:15 am\n      ']	0.333333333333
+["STEPHEN GLOVER: If Brexit does mean Brexit, why is Mrs May's new Chancellor saying it'll take six years?"]	The Daily Mail	['\n        By ', '  -\n\n        July 14th 2016, 12:01:53 am\n      ']	-0.0880681818182
+[u'DAILY MAIL COMMENT: An impressive start... now for the hard work\xa0']	The Daily Mail	['\n        By ', '  -\n\n        July 13th 2016, 11:49:24 pm\n      ']	0.236111111111
+[u"Doom mongers! Wetherspoon pub chief savages Cameron, Osborne and host of other experts behind Project Fear in\xa0diatribe during company's regular financial update"]	The Daily Mail	['\n        By ', '  -\n\n        July 13th 2016, 11:22:03 pm\n      ']	-0.13125
+['Bank of England poised to cut rates to cushion Brexit hit to UK']	Reuters	['\n        By ', '  -\n\n        July 13th 2016, 11:01:01 pm\n      ']	0.0
+['UK advertising survey sees decline in adspend post-Brexit vote']	Reuters	['\n        By ', '  -\n\n        July 13th 2016, 11:01:01 pm\n      ']	0.0
+['Tokyo governor race a fight to save reputation as Olympics host']	Reuters	['\n        By ', '  -\n\n        July 13th 2016, 11:00:32 pm\n      ']	0.0
+['Team Theresa: Boris Johnson and Philip Hammond given top jobs']	The Daily Mail	['\n        July 13th 2016, 10:46:58 pm\n      ']	0.5
+["A look at who's in Theresa May's cabinet including David Davis"]	The Daily Mail	['\n        July 13th 2016, 10:46:58 pm\n      ']	0.0
+["Britain's new PM May gives Johnson big job, says needs time before Brexit talks"]	Reuters	['\n        By ', '  -\n\n        July 13th 2016, 9:57:42 pm\n      ']	0.0681818181818
+['Proud David Davis leaves Downing Street as Brexit Secretary']	The Daily Mail	['\n        July 13th 2016, 9:38:08 pm\n      ']	0.8
+["Britain's May tells Merkel and Hollande she needs time before Brexit talks"]	Reuters	['\n        By ', '  -\n\n        July 13th 2016, 9:29:02 pm\n      ']	0.0
+["0-Britain's new PM May gives big role to Johnson in Brexit cabinet"]	Reuters	['\n        By ', '  -\n\n        July 13th 2016, 9:17:16 pm\n      ']	0.0681818181818
+["France's Hollande urges Britain's May to begin Brexit talks quickly"]	Reuters	['\n        By ', '  -\n\n        July 13th 2016, 8:53:05 pm\n      ']	0.333333333333
+[u'Brexit big beast Boris Johnson has the last laugh over treacherous Michael Gove as he is handed key Foreign Secretary job (but he does face a \xa3200,000 pay cut)']	The Daily Mail	['\n        By ', '  -\n\n        July 13th 2016, 8:35:21 pm\n      ']	0.035
+["David Davis: Who is Britain's Mr Brexit?"]	Reuters	['\n        By ', '  -\n\n        July 13th 2016, 8:13:26 pm\n      ']	0.0
+["Protesters gather outside Downing Street during new PM's speech"]	The Daily Mail	['\n        July 13th 2016, 8:06:36 pm\n      ']	0.0681818181818
+['New British cabinet appointments']	Reuters	['\n        By ', '  -\n\n        July 13th 2016, 8:01:39 pm\n      ']	0.0681818181818
+['FOREX-Dollar falls vs safe havens as risk appetite fades']	Reuters	['\n        By ', '  -\n\n        July 13th 2016, 7:52:04 pm\n      ']	0.5
+["David Davis: Who is Britain's Mr Brexit?"]	Reuters	['\n        By ', '  -\n\n        July 13th 2016, 7:50:18 pm\n      ']	0.0
+['Humiliated George Osborne leaves Downing Street by the BACK DOOR as he is booted out of government by Theresa May']	The Daily Mail	['\n        By ', ' ', '  -\n\n        July 13th 2016, 7:47:42 pm\n      ']	0.0
+["Britain's 'Charming Bastard' David Davis to lead Brexit talks"]	Reuters	['\n        By ', '  -\n\n        July 13th 2016, 7:45:14 pm\n      ']	0.7
+['Pro-Brexit campaigner Fox named as British trade minister']	Reuters	['\n        By ', '  -\n\n        July 13th 2016, 7:44:19 pm\n      ']	0.0
+['After winning power, Theresa May faces Brexit divorce battle']	Reuters	['\n        By ', '  -\n\n        July 13th 2016, 7:32:18 pm\n      ']	0.5
+["David Davis appointed to lead Britain's Brexit negotiations"]	Reuters	['\n        By ', '  -\n\n        July 13th 2016, 7:28:21 pm\n      ']	0.0
+["Boris BOOED at French ambassador's residence - despite SINGING La Marseillaise! And new Foreign Secretary's furious European counterparts CANCEL a dinner over his 'irresponsible' appointment"]	The Daily Mail	['\n        By ', ' ', '  -\n\n        July 13th 2016, 7:15:52 pm\n      ']	0.00284090909091
+['Known for jokes and insults, Boris Johnson takes helm of British diplomacy']	Reuters	['\n        By ', '  -\n\n        July 13th 2016, 7:15:32 pm\n      ']	0.0
+["EU looks to UK's May to help fix hole in calendar"]	Reuters	['\n        By ', '  -\n\n        July 13th 2016, 7:09:57 pm\n      ']	0.0
+['Jean-Claude Juncker held secret meetings with Amazon officials involved in their tax avoidance strategy while president of Luxembourg, legal papers reveal']	The Daily Mail	['\n        By ', '  -\n\n        July 13th 2016, 6:54:40 pm\n      ']	-0.1
+['Boris Johnson appointed British foreign minister']	Reuters	['\n        By ', '  -\n\n        July 13th 2016, 6:54:32 pm\n      ']	-0.0625
+["Hammond faces daunting task in charge of UK's Brexit-hit economy"]	Reuters	['\n        By ', '  -\n\n        July 13th 2016, 6:39:54 pm\n      ']	0.0
+['MARKET REPORT: Good news for bookies as Summer of Sport well under way with Olympics to come after Euros and Wimbledon']	The Daily Mail	['\n        By ', '  -\n\n        July 13th 2016, 6:18:05 pm\n      ']	0.7
+['Theresa May urged to block German takeover of London Stock Exchange as one of her first acts as Prime Minister']	The Daily Mail	['\n        By ', '  -\n\n        July 13th 2016, 6:17:47 pm\n      ']	0.125
+['HAMISH MCRAE: Challenge for Theresa May will be to keep country open for foreign talent and foreign investment']	The Daily Mail	['\n        By ', '  -\n\n        July 13th 2016, 6:17:26 pm\n      ']	-0.0833333333333
+["It's stood at 0.5 per cent for over seven years but banks will be only winners if base rate is cut, warns JAMES CONEY"]	The Daily Mail	['\n        By ', '  -\n\n        July 13th 2016, 6:16:09 pm\n      ']	-0.4
+["US economy still tracking 'modest' growth: Fed report"]	The Daily Mail	['\n        By ', '  -\n\n        July 13th 2016, 6:15:52 pm\n      ']	0.1
+["DAILY BRIEFING: Britain's biggest banks braced for drop in demand from borrowers as result of Brexit vote"]	The Daily Mail	['\n        By ', '  -\n\n        July 13th 2016, 6:15:49 pm\n      ']	0.0
+[u'Poundland swooped on by South African billionaire:\xa0High street chain shares leap 12% after \xa3597m bid']	The Daily Mail	['\n        By ', '  -\n\n        July 13th 2016, 6:09:05 pm\n      ']	0.0
+['Robust U.S. 30-year Treasury auction marks global bond demand']	Reuters	['\n        By ', '  -\n\n        July 13th 2016, 5:41:26 pm\n      ']	0.0
+[u"The Italian job: Why Italy's lenders require \u20ac40bn bailout but its hands are tied by savers' obsession with buying bank bonds"]	The Daily Mail	['\n        By ', '  -\n\n        July 13th 2016, 5:40:08 pm\n      ']	0.0
+['EU\'s parting shot: "Good riddance, Cameron"']	Reuters	['\n        By ', '  -\n\n        July 13th 2016, 5:37:30 pm\n      ']	0.7
+['UK\'s new PM May eyes "bold new positive role" for Britain after Brexit']	Reuters	['\n        By ', '  -\n\n        July 13th 2016, 5:28:09 pm\n      ']	0.208333333333
+['Bank of England readies new blast of QE for post-Brexit Britain']	Reuters	['\n        By ', '  -\n\n        July 13th 2016, 5:28:09 pm\n      ']	0.136363636364
+['White House congratulates May, confident on her Brexit handling']	Reuters	['\n        By ', '  -\n\n        July 13th 2016, 5:05:51 pm\n      ']	0.25
+['Brexit puts the brakes on house sales as properties coming on the market plummets at sharpest rate on record']	The Daily Mail	['\n        By ', '  -\n\n        July 13th 2016, 4:59:00 pm\n      ']	0.0
+['White House congratulates May, confident on her Brexit handling']	Reuters	['\n        By ', '  -\n\n        July 13th 2016, 4:56:36 pm\n      ']	0.25
+['Bank of England mulls rate cut to cushion Brexit blow']	Associated Press	['\n        By ', '  -\n\n        July 13th 2016, 4:55:04 pm\n      ']	0.0
+['EU\'s parting shot: "Good riddance, Cameron"']	Reuters	['\n        By ', '  -\n\n        July 13th 2016, 4:40:14 pm\n      ']	0.7
+['European stocks steady after four days of gains']	Reuters	['\n        By ', '  -\n\n        July 13th 2016, 4:15:56 pm\n      ']	0.0833333333333
+['FTSE eases from 11-month high as oil and housebuilders retreat']	Reuters	['\n        By ', '  -\n\n        July 13th 2016, 4:14:37 pm\n      ']	0.16
+['WIDER IMAGE-Trade, not trouble, is the big Brexit fear for Irish border towns']	Reuters	['\n        By ', '  -\n\n        July 13th 2016, 4:00:01 pm\n      ']	0.0333333333333
+["David Cameron and his family leave Downing Street for the last time: PM said serving Britain was 'the greatest honour of my life' before visiting Buckingham Palace to resign"]	The Daily Mail	['\n        By ', ' ', ' ', '  -\n\n        July 13th 2016, 3:57:53 pm\n      ']	0.5
+["SIMON LAMBERT: What's the point in cutting interest rates? The magician's trick of how banks create money explains why"]	The Daily Mail	['\n        By ', '  -\n\n        July 13th 2016, 3:57:12 pm\n      ']	-0.6
+['After winning power, Theresa May faces Brexit divorce battle']	Reuters	['\n        By ', '  -\n\n        July 13th 2016, 3:52:17 pm\n      ']	0.5
+['Post-Brexit yield clamour brings fresh bid for emerging currency bonds']	Reuters	['\n        By ', '  -\n\n        July 13th 2016, 3:52:09 pm\n      ']	0.3
+['Aberdeen Asset lifts property fund trading suspension but boss warns of further volatility ahead']	The Daily Mail	['\n        By ', '  -\n\n        July 13th 2016, 3:51:56 pm\n      ']	0.0
+["Germany's far-right AfD implodes over Brexit, good for Merkel"]	Reuters	['\n        By ', '  -\n\n        July 13th 2016, 3:50:26 pm\n      ']	0.7
+['U.S. to work with EU, UK on Brexit transition - Lew']	Reuters	['\n        By ', '  -\n\n        July 13th 2016, 3:48:03 pm\n      ']	0.0
+['Economy set for post-Brexit vote boost, amid expectation of interest rate cut']	Press Association	['\n        By ', '  -\n\n        July 13th 2016, 3:47:22 pm\n      ']	0.0
+['"Leprechaun economics" leaves Irish growth story in limbo']	Reuters	['\n        By ', '  -\n\n        July 13th 2016, 3:40:55 pm\n      ']	0.0
+['Pro-Brexit economists urge UK\'s May against "EU-lite"']	Reuters	['\n        By ', '  -\n\n        July 13th 2016, 3:39:30 pm\n      ']	0.0
+['Demand for credit from households and businesses to slow down after Brexit, big banks warn']	The Daily Mail	['\n        By ', '  -\n\n        July 13th 2016, 3:37:21 pm\n      ']	-0.151851851852
+["For Britain's Cameron, a gamble too far"]	Reuters	['\n        By ', '  -\n\n        July 13th 2016, 3:30:24 pm\n      ']	0.1
+['Sturgeon presses May to explore options for Scotland to remain in EU']	Reuters	['\n        By ', '  -\n\n        July 13th 2016, 3:25:00 pm\n      ']	0.0
+['Theresa May to become UK leader amid unsettling uncertainty']	Associated Press	['\n        By ', '  -\n\n        July 13th 2016, 3:22:42 pm\n      ']	-0.5
+['Businesses try to keep calm amid uncertainty of Brexit vote']	Associated Press	['\n        By ', '  -\n\n        July 13th 2016, 3:22:06 pm\n      ']	0.3
+["How to get a good mortgage if you're self-employed: Brexit fears spur firms to switch staff from full-time contracts - but what does that mean for your loan?"]	The Daily Mail	['\n        By ', '  -\n\n        July 13th 2016, 3:18:35 pm\n      ']	0.19375
+['Sterling slips as attention turns to possible BoE rate cut']	Reuters	['\n        By ', '  -\n\n        July 13th 2016, 3:09:39 pm\n      ']	0.0
+['Wanted: foreign trade experts to help UK hammer out new deals']	Reuters	['\n        By ', '  -\n\n        July 13th 2016, 2:59:10 pm\n      ']	0.00568181818182
+[u'Good luck on your first day, my dear! Theresa May gets a kiss from her husband as she begins her Downing Street career\xa0']	The Daily Mail	['\n        By ', ' ', ' ', '  -\n\n        July 13th 2016, 2:47:28 pm\n      ']	0.50625
+['Brexit strengthens case for LSE-Deutsche Boerse merger: Bundesbank']	Reuters	['\n        By ', '  -\n\n        July 13th 2016, 2:30:02 pm\n      ']	0.0
+["Fed's Kaplan urges 'slow, gradual, careful' approach on rates"]	Reuters	['\n        By ', '  -\n\n        July 13th 2016, 2:19:56 pm\n      ']	-0.2
+["Brexit raises questions about pound's elite status"]	Reuters	['\n        By ', '  -\n\n        July 13th 2016, 1:32:38 pm\n      ']	0.0
+['Economists predict prosperity with unilateral free trade']	Press Association	['\n        By ', '  -\n\n        July 13th 2016, 1:21:12 pm\n      ']	-0.05
+[u"Leopard print crockery, a well-stacked wine rack and a shelf for her 100 cookbooks: Experts reveals how 'vibrant' Theresa May will makeover the Camerons' \xa325,000 Downing Street kitchen"]	The Daily Mail	['\n        By ', '  -\n\n        July 13th 2016, 1:19:04 pm\n      ']	0.166666666667
+[u'Factory boss escapes \xa3250,000 fine over worker who was crushed to death in forklift accident - after claiming he can\u2019t afford it because of BREXIT']	The Daily Mail	['\n        By ', '  -\n\n        July 13th 2016, 1:07:36 pm\n      ']	0.158333333333
+['POLL-Bank of England to cut rates on Thursday to ward off recession']	Reuters	['\n        By ', '  -\n\n        July 13th 2016, 1:06:07 pm\n      ']	0.0
+['Germany: Brexit a chance to improve EU military cooperation']	Associated Press	['\n        By ', '  -\n\n        July 13th 2016, 1:00:19 pm\n      ']	-0.1
+['Brand experts urge new PM Theresa May to DITCH her penchant for thigh-high boots and racy dresses - and instead take style inspiration from the Duchess of Cambridge']	The Daily Mail	['\n        By ', '  -\n\n        July 13th 2016, 1:00:04 pm\n      ']	0.136363636364
+["Brexit could provide boost for Britain's shale gas"]	Reuters	['\n        By ', '  -\n\n        July 13th 2016, 12:36:11 pm\n      ']	0.0
+["Malcolm Turnbull is 'confident' the coalition will win the last undecided electorate to claim 77 seats - and is preparing to announce his revamped cabinet next week"]	The Daily Mail	['\n        By ', ' ', '  -\n\n        July 13th 2016, 12:33:24 pm\n      ']	0.325
+["'Brexit or not you'll ALWAYS be at the front of the queue': US state takes swipe at President Obama in British advert as it fights for trade after EU referendum vote"]	The Daily Mail	['\n        By ', '  -\n\n        July 13th 2016, 11:48:45 am\n      ']	0.0
+['Financial lobby group TheCityUK appoints Miles Celic as CEO']	Reuters	['\n        By ', '  -\n\n        July 13th 2016, 11:42:55 am\n      ']	0.0
+["Pound's Brexit plunge unlikely to boost exports at 1992, 2008 rate"]	Reuters	['\n        By ', '  -\n\n        July 13th 2016, 11:34:56 am\n      ']	-0.5
+['Efforts to overturn Brexit will go nowhere, says senior Tory lawmaker']	Reuters	['\n        By ', '  -\n\n        July 13th 2016, 11:32:20 am\n      ']	0.0
+['Germany becomes second G7 nation to issue 10-year bond with negative yield']	Reuters	['\n        By ', '  -\n\n        July 13th 2016, 11:28:27 am\n      ']	-0.15
+['FOREX-Yen under pressure as global stock markets rally']	Reuters	['\n        By ', '  -\n\n        July 13th 2016, 11:24:16 am\n      ']	0.0
+['Number of pubs and bars going bust soars by 53%']	Press Association	['\n        By ', '  -\n\n        July 13th 2016, 11:22:47 am\n      ']	0.0
+['Brexit, what Brexit? Shares near 2016 highs']	Reuters	['\n        By ', '  -\n\n        July 13th 2016, 11:19:08 am\n      ']	0.1
+["JD Wetherspoon founder blasts politicians and economists for 'doom-mongering' over Brexit as he calls it a 'modern Magna Carta'"]	The Daily Mail	['\n        By ', '  -\n\n        July 13th 2016, 11:03:45 am\n      ']	0.2
+['Britain set to welcome female PM but sexism still "corrodes" politics, activists say']	Reuters	['\n        By ', '  -\n\n        July 13th 2016, 10:59:05 am\n      ']	0.4
+['Malaysia cuts interest rate for first time in 7 years']	Associated Press	['\n        By ', '  -\n\n        July 13th 2016, 10:54:51 am\n      ']	0.25
+['"All the stages of grief": private equity ponders dismal Brexit outlook']	Reuters	['\n        By ', '  -\n\n        July 13th 2016, 10:42:55 am\n      ']	-0.4
+["1-Britain's new PM May gives Johnson big job, says needs time before Brexit talks"]	Reuters	['\n        By ', '  -\n\n        July 13th 2016, 10:39:38 am\n      ']	0.0681818181818
+['Wetherspoon founder hits out at Brexit "doom-mongers"']	Reuters	['\n        By ', '  -\n\n        July 13th 2016, 10:34:06 am\n      ']	0.0
+['Aberdeen lifts suspension of 3.2 billion stg UK property fund']	Reuters	['\n        By ', '  -\n\n        July 13th 2016, 10:32:13 am\n      ']	0.0
+['EU wants best possible ties with Britain after Brexit - Mogherini']	Reuters	['\n        By ', '  -\n\n        July 13th 2016, 10:18:36 am\n      ']	0.4
+["France's Brexit stand unchanged as UK PM changes -French spokesman"]	Reuters	['\n        By ', '  -\n\n        July 13th 2016, 10:18:26 am\n      ']	0.0
+['Market mood solid as May set to become new British premier']	Associated Press	['\n        By ', '  -\n\n        July 13th 2016, 10:15:20 am\n      ']	0.0454545454545
+[u'Ex public schoolboy Dave took his beating like a man: QUENTIN LETTS watches Cameron leave the Commons in confident style with jokes at his own expense before he received a standing ovation\xa0']	The Daily Mail	['\n        By ', '  -\n\n        July 13th 2016, 9:53:23 am\n      ']	0.366666666667
+['German 10-yr Bund yield turns negative for first time at auction']	Reuters	['\n        By ', '  -\n\n        July 13th 2016, 9:52:43 am\n      ']	-0.0166666666667
+[u'Housebuilder Barratt considers slowing construction and land buying following Brexit but profits are still firmly on track \xa0 \xa0 \xa0\xa0']	The Daily Mail	['\n        By ', '  -\n\n        July 13th 2016, 9:48:10 am\n      ']	-0.1
+['A new breed of executives: Brexit managers']	Reuters	['\n        By ', '  -\n\n        July 13th 2016, 9:34:32 am\n      ']	0.136363636364
+['Brexit, what Brexit? Shares near 2016 highs']	Reuters	['\n        By ', '  -\n\n        July 13th 2016, 9:16:36 am\n      ']	0.1
+["Tusk says EU mustn't let Britain profit from Brexit -Polish media"]	Reuters	['\n        By ', '  -\n\n        July 13th 2016, 9:15:25 am\n      ']	0.0
+['EMERGING MARKETS-Emerging stocks at 8-mth high, bond yields off multi-month lows']	Reuters	['\n        By ', '  -\n\n        July 13th 2016, 9:09:44 am\n      ']	0.16
+['European stocks lifted by gains at Spanish banks and Accor']	Reuters	['\n        By ', '  -\n\n        July 13th 2016, 8:59:27 am\n      ']	0.0
+['FTSE eases from 11-month high as housebuilders retreat']	Reuters	['\n        By ', '  -\n\n        July 13th 2016, 8:55:31 am\n      ']	0.16
+["EU's Juncker says he will miss Cameron despite rocky start"]	Associated Press	['\n        By ', '  -\n\n        July 13th 2016, 8:47:52 am\n      ']	0.0
+['May to take over as British PM with mammoth task of delivering Brexit']	Reuters	['\n        By ', '  -\n\n        July 13th 2016, 8:47:29 am\n      ']	0.0
+['FTSE CLOSE: Footsie finishes flat as new PM Teresa May takes office; sterling treads waters ahead of BoE rate decision']	The Daily Mail	['\n        By ', '  -\n\n        July 13th 2016, 8:45:58 am\n      ']	0.0556818181818
+["Pound's fall means we're paying more for petrol and diesel after Brexit, despite oil and wholesale fuel prices dropping"]	The Daily Mail	['\n        By ', '  -\n\n        July 13th 2016, 8:44:12 am\n      ']	0.5
+['FOREX-Yen rebounds modestly after biggest two-day fall since 2014']	Reuters	['\n        By ', '  -\n\n        July 13th 2016, 8:43:16 am\n      ']	0.1
+['Credit Suisse upgrades non-London housebuilders, cuts utilities']	Reuters	['\n        By ', '  -\n\n        July 13th 2016, 8:33:24 am\n      ']	0.0
+["The Latest: Germany's Merkel congratulates May by phone"]	Associated Press	['\n        By ', '  -\n\n        July 13th 2016, 8:24:51 am\n      ']	0.5
+['Post-Brexit doom-mongering could lead to slowdown, warns Wetherspoon boss']	Press Association	['\n        By ', '  -\n\n        July 13th 2016, 8:17:43 am\n      ']	0.0
+['Germany gears up for first 10-year Bund sale with a sub-zero yield']	Reuters	['\n        By ', '  -\n\n        July 13th 2016, 8:04:17 am\n      ']	0.25
+['China June exports and imports both fall, trade outlook dim']	Reuters	['\n        By ', '  -\n\n        July 13th 2016, 8:04:05 am\n      ']	0.1
+["Theresa May becomes Britain's new leader as Cameron exits"]	Associated Press	['\n        By ', '  -\n\n        July 13th 2016, 8:03:08 am\n      ']	0.136363636364
+['Oil price dip fails to prevent post-Brexit vote rises at pumps']	Press Association	['\n        By ', '  -\n\n        July 13th 2016, 7:59:13 am\n      ']	-0.5
+["ICAP's currency trading volumes fall despite Brexit surge"]	Reuters	['\n        By ', '  -\n\n        July 13th 2016, 7:52:22 am\n      ']	0.0
+["Sterling firm with eyes on new prime minister's Brexit view"]	Reuters	['\n        By ', '  -\n\n        July 13th 2016, 7:42:02 am\n      ']	-0.0318181818182
+["UK's Barratt could slow pace of housebuilding after Brexit vote"]	Reuters	['\n        By ', '  -\n\n        July 13th 2016, 7:37:18 am\n      ']	-0.3
+["Global worries spur Malaysia's first key rate cut since 2009"]	Reuters	['\n        By ', '  -\n\n        July 13th 2016, 7:27:51 am\n      ']	0.0833333333333
+['European stocks rise as Accor and Nokia climb']	Reuters	['\n        By ', '  -\n\n        July 13th 2016, 7:17:40 am\n      ']	0.0
+['Theresa May to take over as British PM after Brexit shocks']	Reuters	['\n        By ', '  -\n\n        July 13th 2016, 7:17:25 am\n      ']	0.0
+['Burberry expects earnings boost from weak pound post Brexit']	Reuters	['\n        By ', '  -\n\n        July 13th 2016, 6:58:08 am\n      ']	-0.375
+['KATIE HOPKINS: Theresa was too Remain for my tastes, too tolerant, too grey and, yes, too childless. But do you know what? Maybe she is EXACTLY what we need']	The Daily Mail	['\n        By ', '  -\n\n        July 13th 2016, 6:57:33 am\n      ']	0.1
+['ICAP sees Brexit "windfall" from sterling slump']	Reuters	['\n        By ', '  -\n\n        July 13th 2016, 6:35:23 am\n      ']	0.0
+['Builder Barratt says reassessing land approvals to reduce Brexit risk']	Reuters	['\n        By ', '  -\n\n        July 13th 2016, 6:17:49 am\n      ']	0.0
+['Europe in their hands: May and Merkel draw battle lines for Brexit clash']	Reuters	['\n        By ', '  -\n\n        July 13th 2016, 6:14:41 am\n      ']	0.0
+['FOREX-Yen recoups some losses, sterling firms']	Reuters	['\n        By ', '  -\n\n        July 13th 2016, 3:16:10 am\n      ']	0.0
+[u"'I will solve the migrant crisis': New PM Theresa May vows to bring back control of British borders and end free movement for EU citizens\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        July 13th 2016, 2:02:16 am\n      ']	0.134090909091
+["Gold hovers near previous session's lows on stronger equities"]	Reuters	['\n        By ', '  -\n\n        July 13th 2016, 1:18:11 am\n      ']	-0.0333333333333
+['FOREX-Dollar takes breather vs yen after rally, sterling steadies']	Reuters	['\n        By ', '  -\n\n        July 13th 2016, 12:54:29 am\n      ']	0.0
+['DAILY MAIL COMMENT: PM who left Britain a stronger nation']	The Daily Mail	['\n        By ', '  -\n\n        July 13th 2016, 12:51:23 am\n      ']	0.0
+['Asian shares near 2016 highs as risk appetite improves']	Reuters	['\n        By ', '  -\n\n        July 13th 2016, 12:44:06 am\n      ']	0.05
+['EPHRAIM HARDCASTLE: The Queen will be relieved that the Tory leadership election came to a swift conclusion']	The Daily Mail	['\n        By ', '  -\n\n        July 13th 2016, 12:36:45 am\n      ']	0.0
+['Labour leadership hopeful Owen Smith vows to push for second EU referendum']	Press Association	['\n        By ', '  -\n\n        July 13th 2016, 12:30:55 am\n      ']	0.0
+["Britain 'needs 1.2m more new homes to keep up with demand'"]	Press Association	['\n        By ', '  -\n\n        July 13th 2016, 12:30:55 am\n      ']	0.318181818182
+[u"Darren Clarke hoping links turf can inspire revival at The Open as former champion aims to shake off 'rusty' game\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        July 13th 2016, 12:14:35 am\n      ']	0.0
+[u"Carney claims mortgage cost warning wasn't anti-Brexit plot: Bank of England governor rejects claims he colluded with Osborn to frighten households into voting remain\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        July 12th 2016, 11:49:02 pm\n      ']	0.0
+[u'So will Theresa really give her rival Osborne a plum job after his campaign to bully and frighten the nation with Project Fear? \xa0']	The Daily Mail	['\n        By ', '  -\n\n        July 12th 2016, 11:20:51 pm\n      ']	0.2
+[u"From Heathrow to immigration - Theresa's groaning in-tray: JAMES SLACK analyses ten burning issues facing the new Prime Minister\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        July 12th 2016, 10:57:59 pm\n      ']	0.0681818181818
+[u"May did a shampoo ad pose... It's cos I'm worth it: QUENTIN LETS sees Theresa get in a flap \xa0"]	The Daily Mail	['\n        By ', '  -\n\n        July 12th 2016, 10:38:26 pm\n      ']	0.3
+[u"The march of May's women: Today Britain gets its second ever female Prime Minister - who will swiftly promote a string of women to major jobs in her new Cabinet\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        July 12th 2016, 10:12:06 pm\n      ']	0.0497159090909
+['DAILY BRIEFING: Recruitment firm Michael Page sees profits rise but performance slow']	The Daily Mail	['\n        By ', '  -\n\n        July 12th 2016, 8:50:00 pm\n      ']	-0.166666666667
+['Dow Jones industrial average closes at record high a day after the S&P 500 index did the same']	The Daily Mail	['\n        By ', '  -\n\n        July 12th 2016, 8:30:35 pm\n      ']	0.00333333333333
+["Lincoln Red Imps 1-0 Celtic: Brendan Rodgers' debut ends in embarrassment after Lee Casciaro gives part-timers the edge in Champions League qualifier"]	The Daily Mail	['\n        By ', '  -\n\n        July 12th 2016, 7:58:19 pm\n      ']	0.0
+['FOREX-Yen slides, and sterling, commodity currencies surge as risk appetite returns']	Reuters	['\n        By ', '  -\n\n        July 12th 2016, 7:52:21 pm\n      ']	0.0
+["This is my legacy! Cameron lists gay marriage, free schools and apprenticeships scheme as major achievements during 'emotional' final Cabinet"]	The Daily Mail	['\n        By ', ' ', '  -\n\n        July 12th 2016, 7:32:12 pm\n      ']	0.175833333333
+['Carney defends warnings about economic risks if UK voted leave']	The Daily Mail	['\n        July 12th 2016, 7:18:28 pm\n      ']	0.2
+["Home Office 'in process of assessing options for post-Brexit immigration system'"]	Press Association	['\n        By ', '  -\n\n        July 12th 2016, 7:15:26 pm\n      ']	0.0
+["What's gone up - and what's gone down - under Cameron: Graphics reveal how  immigration and house prices rose while petrol prices and the pound fell during PM's six years in Number 10"]	The Daily Mail	['\n        By ', '  -\n\n        July 12th 2016, 7:10:18 pm\n      ']	0.222222222222
+['Goldilocks eats her seed corn: James Saft']	Reuters	['\n        By ', '  -\n\n        July 12th 2016, 7:00:01 pm\n      ']	0.0
+["MARKET REPORT: Now it's time for finance giants to recover losses with insurers Aviva Prudential and Legal & General among the greatest risers"]	The Daily Mail	['\n        By ', '  -\n\n        July 12th 2016, 6:59:44 pm\n      ']	0.416666666667
+['HAMISH MCRAE: Dow Jones at an all-time high, Footsie up 20%... why did the experts get their Brexit predictions so wrong?']	The Daily Mail	['\n        By ', '  -\n\n        July 12th 2016, 6:40:59 pm\n      ']	-0.17
+['Philip Hammond warns over extended timescale for Brexit']	The Daily Mail	['\n        July 12th 2016, 6:30:31 pm\n      ']	0.0
+["Britain's new leader May seen as more Merkel than Maggie"]	Associated Press	['\n        By ', '  -\n\n        July 12th 2016, 6:30:25 pm\n      ']	0.318181818182
+['REVEALED: French plot to pinch thousands of British banking jobs... but sky high taxes on the wealthy may put firms off']	The Daily Mail	['\n        By ', '  -\n\n        July 12th 2016, 6:22:45 pm\n      ']	0.165
+[u"Cameron goes out with a bang! Ministers thump their fists on table in traditional send-off for PM in 'emotional' final Cabinet meeting - as Theresa May sizes up No 10 before she moves in tomorrow\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        July 12th 2016, 6:22:44 pm\n      ']	0.0
+['IMF sees "negligible" Brexit impact on U.S. growth']	Reuters	['\n        By ', '  -\n\n        July 12th 2016, 5:52:11 pm\n      ']	0.0
+['Britain set to welcome female PM but sexism still "corrodes" politics, activists say']	Reuters	['\n        By ', '  -\n\n        July 12th 2016, 5:25:51 pm\n      ']	0.4
+["Brexit could take up to SIX YEARS, warns Philip Hammond: Theresa May's close ally says cutting ourselves free from the EU will take three times longer than expected"]	The Daily Mail	['\n        By ', '  -\n\n        July 12th 2016, 5:21:27 pm\n      ']	-0.1
+['What does Brexit mean for house prices and mortgage rates?']	The Daily Mail	['\n        July 12th 2016, 5:15:23 pm\n      ']	-0.3125
+['What does Brexit mean for house prices and interest rates?']	The Daily Mail	['\n        July 12th 2016, 5:15:23 pm\n      ']	-0.3125
+['Europol chief says people smugglers at record levels as criminal gangs move in']	Reuters	['\n        By ', '  -\n\n        July 12th 2016, 5:15:15 pm\n      ']	-0.4
+["'I want access to the single market': Scots Tory leader Ruth Davidson reveals Brexit split with Theresa May who has vowed to tackle migrant numbers as her first priority"]	The Daily Mail	['\n        By ', '  -\n\n        July 12th 2016, 5:07:14 pm\n      ']	0.0892857142857
+[u'Pound rallies and shares hold steady as market uncertainty ends with Theresa May set to be PM tomorrow\xa0']	The Daily Mail	['\n        By ', '  -\n\n        July 12th 2016, 5:03:31 pm\n      ']	0.166666666667
+["No 'Brexit effect' on UK entries at World Series of Poker"]	Associated Press	['\n        By ', '  -\n\n        July 12th 2016, 4:55:38 pm\n      ']	0.0
+[u"Guy Hands offloads Odeon cinemas for \xa3921m to China's richest man Wang Jianlin"]	The Daily Mail	['\n        By ', '  -\n\n        July 12th 2016, 4:54:42 pm\n      ']	0.0
+["Italy backs Irish Republic's call to avoid hard border with N.Ireland after Brexit"]	Reuters	['\n        By ', '  -\n\n        July 12th 2016, 4:49:25 pm\n      ']	-0.145833333333
+['Bank of Canada seen dovish, warning on debt and growth']	Reuters	['\n        By ', '  -\n\n        July 12th 2016, 4:49:06 pm\n      ']	0.0
+["Iron Lady? Steel Lady? Rubble Woman? World getting to grips with Britain's new woman prime minister"]	The Daily Mail	['\n        By ', '  -\n\n        July 12th 2016, 4:44:16 pm\n      ']	0.136363636364
+['Europe in their hands: May and Merkel draw battle lines for Brexit clash']	Reuters	['\n        By ', '  -\n\n        July 12th 2016, 4:39:46 pm\n      ']	0.0
+['Norwegian Air Shuttle says Brexit not affecting bookings']	Reuters	['\n        By ', '  -\n\n        July 12th 2016, 4:31:01 pm\n      ']	0.0
+["Britain's FTSE 100 settles near 11-month high, mid-caps outperform"]	Reuters	['\n        By ', '  -\n\n        July 12th 2016, 4:21:42 pm\n      ']	0.13
+[u'Millions of homeowners told to prepare for a 3 per cent rise in mortgage rates as Mark Carney issues another Brexit warning\xa0']	The Daily Mail	['\n        By ', '  -\n\n        July 12th 2016, 4:13:43 pm\n      ']	0.0
+["How I'm investing to tackle Brexit: Old Mutual's small cap veteran Dan Nickols admits he backed consumer firms because he thought we would remain"]	The Daily Mail	['\n        By ', '  -\n\n        July 12th 2016, 4:08:11 pm\n      ']	-0.05
+['Sterling rebounds strongly as investors cheer May appointment']	Reuters	['\n        By ', '  -\n\n        July 12th 2016, 3:59:24 pm\n      ']	0.433333333333
+['Bombardier expects multiple orders for CSeries in H2']	Reuters	['\n        By ', '  -\n\n        July 12th 2016, 3:58:32 pm\n      ']	0.0
+['EU watchdog calls for tighter rules as Barroso takes Goldman job']	Reuters	['\n        By ', '  -\n\n        July 12th 2016, 3:55:54 pm\n      ']	0.0
+[u"UK's pensions black hole balloons 30% in a MONTH: Total deficit of final salary schemes soars \xa390bn to \xa3384bn as Brexit hits funds"]	The Daily Mail	['\n        By ', '  -\n\n        July 12th 2016, 3:48:39 pm\n      ']	-0.0555555555556
+["'Let's win big in four years': Theresa May RULES OUT calling a general election before 2020 - despite a Labour crisis which could offer her a huge majority"]	The Daily Mail	['\n        By ', '  -\n\n        July 12th 2016, 3:20:14 pm\n      ']	0.3125
+["EU and UK must be flexible in Brexit talks - U.S. Treasury's Lew"]	Reuters	['\n        By ', '  -\n\n        July 12th 2016, 3:05:58 pm\n      ']	0.0
+[u'A win for Remain! Larry the cat to stay on in Downing Street after David Cameron hands over to Theresa May as Prime Minister\xa0']	The Daily Mail	['\n        By ', '  -\n\n        July 12th 2016, 2:57:59 pm\n      ']	1.0
+["Bank of England's Carney agrees to open up over private Osborne talks"]	Reuters	['\n        By ', '  -\n\n        July 12th 2016, 2:57:16 pm\n      ']	0.0
+['French minister: Eurozone needs more integration post Brexit']	Associated Press	['\n        By ', '  -\n\n        July 12th 2016, 2:47:57 pm\n      ']	0.25
+["FOREX-Hopes of Japanese stimulus pare yen's post-Brexit gains"]	Reuters	['\n        By ', '  -\n\n        July 12th 2016, 2:44:37 pm\n      ']	0.0
+['British parliament to debate petition calling for second EU referendum']	Reuters	['\n        By ', '  -\n\n        July 12th 2016, 2:35:40 pm\n      ']	0.0
+['Asian stocks up on eased UK uncertainties, stimulus hopes']	Associated Press	['\n        By ', '  -\n\n        July 12th 2016, 2:25:01 pm\n      ']	0.0
+['What to expect as May starts untangling the UK from the EU']	Associated Press	['\n        By ', '  -\n\n        July 12th 2016, 2:13:53 pm\n      ']	0.0
+['Brexit to curtail euro zone growth, impact hinging on politics']	Reuters	['\n        By ', '  -\n\n        July 12th 2016, 2:08:26 pm\n      ']	0.0
+['IMF says sees "negligible" Brexit impact on U.S. growth']	Reuters	['\n        By ', '  -\n\n        July 12th 2016, 2:02:27 pm\n      ']	0.0
+["EU and UK must be flexible in Brexit talks - U.S. Treasury's Lew"]	Reuters	['\n        By ', '  -\n\n        July 12th 2016, 2:00:02 pm\n      ']	0.0
+['U.S. business wants slow Brexit, investment to dry up - lobby']	Reuters	['\n        By ', '  -\n\n        July 12th 2016, 1:55:51 pm\n      ']	-0.0555555555556
+['WRAPUP-Global stocks outlook dims with risk aversion on the rise again-Reuters poll']	Reuters	['\n        By ', '  -\n\n        July 12th 2016, 1:46:26 pm\n      ']	0.0
+[u'\u2018We came here for the girls\u2019: Scandinavian gipsies\u2019 summer holiday in England reaches Nottingham \u2013 and travellers say the local women love their flash cars']	The Daily Mail	['\n        By ', '  -\n\n        July 12th 2016, 1:41:51 pm\n      ']	0.25
+[u"The ENTIRE 'Jungle' camp at Calais will be 'torn down' says French mayor who wants to see all migrants sent directly to Britain\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        July 12th 2016, 1:22:05 pm\n      ']	0.0288888888889
+['Airbus tops Boeing as F-35 roars across Farnborough']	The Daily Mail	['\n        By ', '  -\n\n        July 12th 2016, 1:13:37 pm\n      ']	0.0
+['When did Margate become so cool? How the English seaside town became THE hipster destination for 2016']	The Daily Mail	['\n        By ', '  -\n\n        July 12th 2016, 1:06:37 pm\n      ']	0.175
+['Irish 2015 GDP growth raised to 26 pct on asset reclassification']	Reuters	['\n        By ', '  -\n\n        July 12th 2016, 12:46:09 pm\n      ']	0.0
+["Britain's FTSE to fall 7 pct by year-end on Brexit jitters-Reuters poll"]	Reuters	['\n        By ', '  -\n\n        July 12th 2016, 12:30:36 pm\n      ']	0.0
+['IMF sees French fiscal targets at risk, trims 2017 outlook']	Reuters	['\n        By ', '  -\n\n        July 12th 2016, 12:30:01 pm\n      ']	0.0
+["UK's Labour rules Corbyn has right to stand again for leadership"]	Reuters	['\n        By ', '  -\n\n        July 12th 2016, 12:24:48 pm\n      ']	0.285714285714
+["Carney denies 'peddling scare stories' ahead of referendum vote"]	Press Association	['\n        By ', '  -\n\n        July 12th 2016, 12:21:25 pm\n      ']	0.0
+[u'The lady IS for turning! Theresa May makes her first gaffe as Tory leader - by leaving Downing Street the WRONG way\xa0']	The Daily Mail	['\n        By ', '  -\n\n        July 12th 2016, 12:17:17 pm\n      ']	-0.125
+["Theresa May's plans for a Brexit ministry and who might lead it"]	Reuters	['\n        By ', '  -\n\n        July 12th 2016, 12:03:54 pm\n      ']	0.0
+["AMC Theatres buying Europe's Odeon & UCI in $663M deal"]	Associated Press	['\n        By ', '  -\n\n        July 12th 2016, 11:57:33 am\n      ']	0.0
+['China remains confident in EU future after Brexit']	Reuters	['\n        By ', '  -\n\n        July 12th 2016, 11:57:16 am\n      ']	0.25
+[u"Sweet smell of success: Hotel Chocolat sales rise 12% thanks to Father's Day 'Better Than Socks' campaign\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        July 12th 2016, 11:56:01 am\n      ']	0.3375
+['OPEC sees tighter 2017 oil market, Brexit drag on economy']	Reuters	['\n        By ', '  -\n\n        July 12th 2016, 11:54:51 am\n      ']	-0.1
+['UK minister says Gibraltar to be fully involved in Brexit negotiations']	Reuters	['\n        By ', '  -\n\n        July 12th 2016, 11:43:44 am\n      ']	0.0
+['ASOS defies Brexit fears with 28% rise in sales']	Press Association	['\n        By ', '  -\n\n        July 12th 2016, 11:42:05 am\n      ']	0.0
+["Berlin: Brexit could hurt German economy but it's in good shape"]	Reuters	['\n        By ', '  -\n\n        July 12th 2016, 11:33:17 am\n      ']	0.35
+["AMC Entertainment to buy Europe's Odeon & UCI Cinemas"]	Reuters	['\n        By ', '  -\n\n        July 12th 2016, 11:24:27 am\n      ']	0.0
+['Italian bonds outperform with bank deal in sight']	Reuters	['\n        By ', '  -\n\n        July 12th 2016, 11:03:33 am\n      ']	0.0
+["Labour civil war turns nasty: Angela Eagle's office is BRICKED just hours after challenging Jeremy Corbyn for the Labour leadership as he reveals he's received several DEATH THREATS this week"]	The Daily Mail	['\n        By ', '  -\n\n        July 12th 2016, 10:59:44 am\n      ']	-0.166666666667
+['FOREX-Yen sheds post-Brexit gains as Japan stimulus hopes boosts risk play']	Reuters	['\n        By ', '  -\n\n        July 12th 2016, 10:52:27 am\n      ']	0.0
+["'The death of Labour': Jeremy Corbyn WILL fight for leadership after it is agreed his name automatically appears on the ballot paper - but he fears a legal challenge to decision by party's ruling body"]	The Daily Mail	['\n        By ', '  -\n\n        July 12th 2016, 10:31:57 am\n      ']	0.2
+['Brexit to trigger UK recession over coming year -BlackRock']	Reuters	['\n        By ', '  -\n\n        July 12th 2016, 10:29:25 am\n      ']	0.0
+[u'Housebuilder Galliford Try shrugs off Brexit fears and expects profits to be in line with forecasts, sending its shares higher\xa0']	The Daily Mail	['\n        By ', '  -\n\n        July 12th 2016, 10:23:07 am\n      ']	0.0
+["Bank of England's Carney hints again at more stimulus after Brexit"]	Reuters	['\n        By ', '  -\n\n        July 12th 2016, 10:19:40 am\n      ']	0.5
+["Pound climbs against the dollar and the euro as PM appointment soothes investor fears over UK's political turmoil"]	The Daily Mail	['\n        By ', '  -\n\n        July 12th 2016, 10:18:02 am\n      ']	0.0
+['Sterling bounces back as markets cheer May appointment']	Reuters	['\n        By ', '  -\n\n        July 12th 2016, 10:16:57 am\n      ']	0.0
+[u"Will SamCam now do a Gwyneth? How Mrs Cameron could make millions by developing her own lifestyle brand and conquering the US after spending six years as Britain's polished 'first lady'\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        July 12th 2016, 10:13:31 am\n      ']	0.425
+['German leaders demand Brexit clarity from new British PM']	Reuters	['\n        By ', '  -\n\n        July 12th 2016, 10:05:40 am\n      ']	0.0454545454545
+['Sales at UK retailer John Lewis recover from post Brexit slowdown']	Reuters	['\n        By ', '  -\n\n        July 12th 2016, 9:57:23 am\n      ']	0.0
+['Sales at UK retailer John Lewis recover from post Brexit slowdown']	Reuters	['\n        By ', '  -\n\n        July 12th 2016, 9:47:31 am\n      ']	0.0
+['Carney: Brexit criticism of Bank of England has been extraordinary']	Reuters	['\n        By ', '  -\n\n        July 12th 2016, 9:37:53 am\n      ']	0.333333333333
+["UK's ASOS sees sales boost from post Brexit vote weaker pound"]	Reuters	['\n        By ', '  -\n\n        July 12th 2016, 9:11:29 am\n      ']	0.0
+[u'From Brentwood to Hollywood! Joey Essex gets some help house hunting in Los Angeles from Jonathan Cheban \xa0']	The Daily Mail	['\n        By ', '  -\n\n        July 12th 2016, 9:07:04 am\n      ']	0.0
+["After Brexit vote, Scotland's Sturgeon takes control"]	Reuters	['\n        By ', '  -\n\n        July 12th 2016, 9:06:32 am\n      ']	0.0
+[u"'330 boxes, 30 rolls of tape and 3 rolls of bubble wrap': Removal men accidentally reveal what it takes to pack up the Camerons' Downing Street possessions as the PM begins moving out of No10\xa0"]	The Daily Mail	['\n        By ', ' ', '  -\n\n        July 12th 2016, 9:05:20 am\n      ']	0.0
+[u"'Are you going to be a teacher or a farmer, Mr Cameron?' The PM is quizzed about his next career move as he spends his last hours in office with some VERY inquisitive six-year-olds\xa0"]	The Daily Mail	['\n        By ', ' ', '  -\n\n        July 12th 2016, 9:03:25 am\n      ']	0.0666666666667
+['EMERGING MARKETS-Emerging stocks, bonds rally as investors hunt better returns']	Reuters	['\n        By ', '  -\n\n        July 12th 2016, 8:57:23 am\n      ']	0.5
+["Britain's prime minister chairs his final Cabinet meeting"]	Associated Press	['\n        By ', '  -\n\n        July 12th 2016, 8:50:43 am\n      ']	0.0
+["Britain's FTSE sets 11-month high, mid-caps outperform"]	Reuters	['\n        By ', '  -\n\n        July 12th 2016, 8:50:17 am\n      ']	0.16
+["UK Labour Party awaits key leadership ruling, Corbyn's fate in balance"]	Reuters	['\n        By ', '  -\n\n        July 12th 2016, 8:45:44 am\n      ']	0.0
+['Risk rally on as European shares rise for fourth straight session']	Reuters	['\n        By ', '  -\n\n        July 12th 2016, 8:44:53 am\n      ']	0.0666666666667
+['Stocks, sterling rally on stimulus hopes']	Reuters	['\n        By ', '  -\n\n        July 12th 2016, 8:38:15 am\n      ']	0.0
+['FTSE CLOSE: Sterling claws back some of the recent falls while the Footsie pauses for breath']	The Daily Mail	['\n        By ', '  -\n\n        July 12th 2016, 8:37:00 am\n      ']	0.0
+['Sterling bounces back as markets cheer May appointment']	Reuters	['\n        By ', '  -\n\n        July 12th 2016, 7:50:20 am\n      ']	0.0
+['FOREX-Yen gives up post-Brexit gains as Japan stimulus hopes boosts risk']	Reuters	['\n        By ', '  -\n\n        July 12th 2016, 7:46:09 am\n      ']	0.0
+['Brexit concerns boosted Tryg investment returns - CEO']	Reuters	['\n        By ', '  -\n\n        July 12th 2016, 7:36:29 am\n      ']	0.0
+['POLL-East Asia stocks outlook modest; 2017 likely a better year']	Reuters	['\n        By ', '  -\n\n        July 12th 2016, 7:35:46 am\n      ']	0.2
+["Britain's FTSE hits 11-month peak, miners lead"]	Reuters	['\n        By ', '  -\n\n        July 12th 2016, 7:29:20 am\n      ']	0.0
+['PageGroup says UK hiring slowed ahead of Brexit vote']	Reuters	['\n        By ', '  -\n\n        July 12th 2016, 7:05:21 am\n      ']	0.0
+["POLL-Japan stocks seen posting 1st annual drop to end 'Abenomics' rally"]	Reuters	['\n        By ', '  -\n\n        July 12th 2016, 7:00:06 am\n      ']	0.0
+['In rare consensus, Australian MPs call for e-voting as poll count drags on']	Reuters	['\n        By ', '  -\n\n        July 12th 2016, 6:58:39 am\n      ']	0.15
+["Britain's ASOS sees full-year sales growth at upper end of guidance"]	Reuters	['\n        By ', '  -\n\n        July 12th 2016, 6:47:44 am\n      ']	0.0
+['May wins battle to be British PM but faces tussle over Brexit']	Reuters	['\n        By ', '  -\n\n        July 12th 2016, 6:39:14 am\n      ']	0.15
+['PageGroup says UK hiring slowed ahead of Brexit vote']	Reuters	['\n        By ', '  -\n\n        July 12th 2016, 6:24:11 am\n      ']	0.0
+['Universities report post-Brexit backlash from European partners']	Press Association	['\n        By ', '  -\n\n        July 12th 2016, 6:01:09 am\n      ']	0.0
+['EU, Chinese leaders to discuss market access, Brexit fallout']	Associated Press	['\n        By ', '  -\n\n        July 12th 2016, 3:58:29 am\n      ']	0.0
+['Sri Lanka swamped with $6.6 bln in eurobond orders; govt sells $1.5 bln']	Reuters	['\n        By ', '  -\n\n        July 12th 2016, 3:45:57 am\n      ']	0.0
+["Japan's Nikkei leads Asia stocks surge for second day"]	The Daily Mail	['\n        By ', '  -\n\n        July 12th 2016, 3:24:14 am\n      ']	0.0
+["BRIEF-Moody's says Brexit to have negligible credit impact on GCC sovereigns"]	Reuters	['\n        By ', '  -\n\n        July 12th 2016, 2:48:21 am\n      ']	0.0
+['Nikkei recovers to near pre-Brexit level on govt stimulus hopes']	Reuters	['\n        By ', '  -\n\n        July 12th 2016, 2:28:08 am\n      ']	0.1
+[u"EU banks 'need \xa3128bn bailout': Chief economist of the bloc's biggest lender warns industry is heading for disaster unless action is taken\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        July 12th 2016, 1:49:08 am\n      ']	0.1
+[u'DAILY MAIL COMMENT: The right result, now the real work begins\xa0']	The Daily Mail	['\n        By ', '  -\n\n        July 12th 2016, 1:48:31 am\n      ']	0.161904761905
+[u'RICHARD LITTLEJOHN: Mother Theresa or Maggie May? Only time will tell if the new Prime Minister will be healing or divisive?\xa0']	The Daily Mail	['\n        By ', '  -\n\n        July 12th 2016, 1:25:53 am\n      ']	0.0681818181818
+["What a relief! We have a new PM worthy of the office - and she wasn't in the Bullingdon Club and doesn't live in Notting Hill, writes MAX HASTINGS"]	The Daily Mail	['\n        By ', '  -\n\n        July 12th 2016, 1:18:44 am\n      ']	0.20202020202
+["Farage's brother is declared bankrupt: Commodities banker Andrew's latest financial trouble comes after firm set up with Nigel went into liquidation"]	The Daily Mail	['\n        By ', '  -\n\n        July 12th 2016, 1:04:37 am\n      ']	0.025
+['Asian shares rally as Wall Street strikes new record high']	Reuters	['\n        By ', '  -\n\n        July 12th 2016, 12:34:51 am\n      ']	0.0987878787879
+['FOREX-Dollar near 1-week high vs yen on Japan stimulus hopes']	Reuters	['\n        By ', '  -\n\n        July 12th 2016, 12:34:01 am\n      ']	0.13
+[u'Energy firms put up to \xa3105 on yearly bills: Companies replacing cheapest fixed deals after being hit by weak pound following the Brexit vote\xa0']	The Daily Mail	['\n        By ', '  -\n\n        July 12th 2016, 12:27:53 am\n      ']	-0.0916666666667
+["Consumer confidence 'holding steady' in wake of Brexit vote, says Barclaycard"]	Press Association	['\n        By ', '  -\n\n        July 12th 2016, 12:21:40 am\n      ']	0.166666666667
+[u'Theresa May looked like Geoffrey Boycott going out to bat: QUENTIN LETTS on a dizzying day of drama\xa0']	The Daily Mail	['\n        By ', '  -\n\n        July 12th 2016, 12:21:36 am\n      ']	0.0
+[u"Osborne makes a pitch for the Foreign Office: Chancellor hails Theresa May's 'integrity and leadership' as he drops hints he wants to remain in the Cabinet\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        July 12th 2016, 12:18:35 am\n      ']	0.0375
+['Theresa May to appoint Brexit minister after taking reins from David Cameron']	Press Association	['\n        By ', '  -\n\n        July 12th 2016, 12:16:48 am\n      ']	0.0
+['Legal action threat over Corbyn inclusion in Labour leadership ballot']	Press Association	['\n        By ', '  -\n\n        July 12th 2016, 12:16:48 am\n      ']	0.15
+['Ruth Davidson to hit out at SNP calls for new independence referendum']	Press Association	['\n        By ', '  -\n\n        July 12th 2016, 12:16:48 am\n      ']	0.136363636364
+['From Churchill to Cameron: The prime ministers who have served under the Queen']	Press Association	['\n        By ', '  -\n\n        July 12th 2016, 12:16:48 am\n      ']	0.0
+[u'How the Mail backed May from the start: Newspaper was the first to throw its support behind new PM in race for Number 10\xa0']	The Daily Mail	['\n        By ', '  -\n\n        July 12th 2016, 12:10:10 am\n      ']	-0.00454545454545
+[u'Car crash campaign destroys Andrea, the accidental candidate: ANDREW PIERCE explains how energy minister was hopelessly out of her depth after being catapulted into Tory leadership race\xa0']	The Daily Mail	['\n        By ', '  -\n\n        July 12th 2016, 12:08:07 am\n      ']	0.0
+['Will Boris and Gove win jobs in Team Theresa? As new Prime Minister devises her first Cabinet, we examine the likely fate of the biggest players']	The Daily Mail	['\n        By ', '  -\n\n        July 12th 2016, 12:07:44 am\n      ']	0.296590909091
+[u"Theresa's vision of a Britain for everyone - not just the privileged: May sets out to win over voters by saying she understands anger that led to Brexit\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        July 12th 2016, 12:04:26 am\n      ']	0.05
+[u'New home, new schools and a new career for Sam? ISABEL OAKESHOTT on what next for the Camerons after their swift exit from Downing Street \xa0']	The Daily Mail	['\n        By ', '  -\n\n        July 12th 2016, 12:02:25 am\n      ']	0.102272727273
+[u"Theresa's Coronation: May to become Prime Minister TOMORROW with plan to heal rifts with Cabinet of top Tory talent - AND a vow to make Brexit a huge success\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        July 11th 2016, 11:34:34 pm\n      ']	0.45
+[u"Theresa May pledges to block fat cat pay and bonuses and force multinational firms to pay more tax in crackdown on 'corporate irresponsibility'\xa0"]	The Daily Mail	['\n        By ', ' ', '  -\n\n        July 11th 2016, 10:48:11 pm\n      ']	0.25
+["'I was beaten into work by a colleague from Paris': ROBERT HARDMAN meets disgruntled commuters at Victoria station who could fly to Africa and Asia in the time it takes them to get a train into the capital"]	The Daily Mail	['\n        By ', '  -\n\n        July 11th 2016, 10:12:58 pm\n      ']	0.8
+[u"'Brexit means Brexit': How Theresa May is expected to trigger formal process to quit the EU by the end of the year\xa0"]	The Daily Mail	['\n        By ', ' ', '  -\n\n        July 11th 2016, 9:35:30 pm\n      ']	-0.1
+['Business Highlights']	Associated Press	['\n        By ', '  -\n\n        July 11th 2016, 9:17:22 pm\n      ']	0.0
+[u'DAILY BRIEFING: Investment banks facing an extra \xa31.2bn a year in costs if they are forced to move out of London']	The Daily Mail	['\n        By ', '  -\n\n        July 11th 2016, 8:50:45 pm\n      ']	-0.1
+[u'Business or pleasure, Sir? Lalit Modi looks to swap London for\xa0Saint Lucia despite criminal cases pending against him']	The Daily Mail	['\n        By ', '  -\n\n        July 11th 2016, 8:08:35 pm\n      ']	-0.4
+['May, Merkel, Clinton - the year of female leaders?']	Reuters	['\n        By ', '  -\n\n        July 11th 2016, 7:50:56 pm\n      ']	0.0
+["Angela Eagle dismissed as the 'Empire Strikes Back' candidate by Corbyn ally Diane Abbott after she launches leadership bid"]	The Daily Mail	['\n        By ', '  -\n\n        July 11th 2016, 7:48:49 pm\n      ']	0.0
+['MARKET REPORT: Builders and banks bounce back as Tory leader race finishes and investors can breathe a sigh of relief']	The Daily Mail	['\n        By ', '  -\n\n        July 11th 2016, 7:42:17 pm\n      ']	0.0
+['Daimler Q2 profit rises, group keeps guidance']	Reuters	['\n        By ', '  -\n\n        July 11th 2016, 7:42:06 pm\n      ']	0.0
+['Merkel urges Britain to quickly clarify relationship with EU']	Reuters	['\n        By ', '  -\n\n        July 11th 2016, 7:36:43 pm\n      ']	0.333333333333
+['S&P 500 hits record high on global risk appetite']	Reuters	['\n        By ', '  -\n\n        July 11th 2016, 7:27:37 pm\n      ']	0.08
+[u'Brexit? What Brexit? Money not politics is king as generals and fat cats strike \xa312bn in deals at Farnborough Air Show in one day']	The Daily Mail	['\n        By ', '  -\n\n        July 11th 2016, 7:08:14 pm\n      ']	0.0
+["No acute crisis in Italy, bank bailout with investor losses- EU's Dijsselbloem"]	Reuters	['\n        By ', '  -\n\n        July 11th 2016, 7:07:53 pm\n      ']	-0.3
+['EU warns of Brexit hit, urges clarification over future']	Associated Press	['\n        By ', '  -\n\n        July 11th 2016, 7:05:19 pm\n      ']	0.0
+['Ukip MEP Jonathan Arnott to stand for leadership amid row over contest rules']	Press Association	['\n        By ', '  -\n\n        July 11th 2016, 6:56:27 pm\n      ']	0.0
+['Small businesses should look for growth opportunities beyond Europe post Brexit, says HSBC']	The Daily Mail	['\n        By ', '  -\n\n        July 11th 2016, 6:53:34 pm\n      ']	-0.25
+["Andrea Leadsom quits race for Number 10 as her supporters claim she has been beaten by a 'black ops' campaign to paint her as a 'deeply Ukip extremist'"]	The Daily Mail	['\n        By ', '  -\n\n        July 11th 2016, 6:51:48 pm\n      ']	-0.0833333333333
+['HAMISH MCRAE: The markets perking up says nothing about the wisdom of Brexit... but at least the grown ups will be in charge']	The Daily Mail	['\n        By ', '  -\n\n        July 11th 2016, 6:37:34 pm\n      ']	-0.3
+["Britain's May must protect London's financial centre -lawmaker"]	Reuters	['\n        By ', '  -\n\n        July 11th 2016, 6:27:48 pm\n      ']	0.0
+[u"Europe's sick banks facing abyss: Analysts say a \xa3128bn bailout is needed to stave off collapse"]	The Daily Mail	['\n        By ', '  -\n\n        July 11th 2016, 6:20:58 pm\n      ']	-0.714285714286
+["Hollande: UK exit from EU won't affect EU-South Africa trade"]	Associated Press	['\n        By ', '  -\n\n        July 11th 2016, 6:17:34 pm\n      ']	0.0
+['May wins battle to be British PM but faces tussle over Brexit']	Reuters	['\n        By ', '  -\n\n        July 11th 2016, 5:43:42 pm\n      ']	0.15
+['Rolls-Royce takes full ownership of component maker for 720 mln euros']	Reuters	['\n        By ', '  -\n\n        July 11th 2016, 5:13:24 pm\n      ']	0.35
+['David Cameron gives a speech on the challenges of Brexit']	The Daily Mail	['\n        July 11th 2016, 4:55:05 pm\n      ']	0.0
+['European stocks post highest close since Brexit']	Reuters	['\n        By ', '  -\n\n        July 11th 2016, 4:49:45 pm\n      ']	0.0
+["Britain's May says to negotiate a successful Brexit as PM"]	Reuters	['\n        By ', '  -\n\n        July 11th 2016, 4:43:27 pm\n      ']	0.75
+['Will Brexit cause house prices to drop and mortgage rates fall even further? Watch the Property Show']	The Daily Mail	['\n        By ', '  -\n\n        July 11th 2016, 4:38:48 pm\n      ']	0.0
+['Virgin Atlantic signs $4.4 bln order for 12 A350s']	Reuters	['\n        By ', '  -\n\n        July 11th 2016, 4:33:34 pm\n      ']	0.0
+['Interest in RBS Greek shipping unit cools after Brexit vote -sources']	Reuters	['\n        By ', '  -\n\n        July 11th 2016, 3:37:23 pm\n      ']	0.0
+['British Prime Minister David Cameron is caught on mic HUMMING as he announces he will resign on Wednesday']	The Daily Mail	['\n        By ', ' ', '  -\n\n        July 11th 2016, 3:21:46 pm\n      ']	0.0
+["May as British leader buoys banks' single-market hopes"]	Reuters	['\n        By ', '  -\n\n        July 11th 2016, 3:20:30 pm\n      ']	0.0
+['US, EU resume trade talks despite doubts']	The Daily Mail	['\n        By ', '  -\n\n        July 11th 2016, 3:02:13 pm\n      ']	0.0
+['SMALL CAP IDEAS: Plastics Capital seems fantastically defensive, with Brexit export boost seen feeding through to bottom line']	The Daily Mail	['\n        By ', '  -\n\n        July 11th 2016, 2:59:49 pm\n      ']	-0.25
+['Aberdeen to keep suspension of property fund in place for two more days']	Reuters	['\n        By ', '  -\n\n        July 11th 2016, 2:56:30 pm\n      ']	0.5
+['US STOCKS-S&P hits record high as economy shows signs of strength']	Reuters	['\n        By ', '  -\n\n        July 11th 2016, 2:49:42 pm\n      ']	0.16
+["Three in four think the UK could fall back into recession after Brexit... but half don't think it will affect their finances"]	The Daily Mail	['\n        By ', '  -\n\n        July 11th 2016, 2:44:14 pm\n      ']	-0.0833333333333
+['Beware of scary Brexit headlines pushing you to buy gold']	Associated Press	['\n        By ', '  -\n\n        July 11th 2016, 2:39:46 pm\n      ']	-0.5
+['German property groups expect boost from Brexit']	Reuters	['\n        By ', '  -\n\n        July 11th 2016, 2:22:28 pm\n      ']	0.0
+["Eurozone insists bank bailout rules won't change for Italy"]	Associated Press	['\n        By ', '  -\n\n        July 11th 2016, 2:20:40 pm\n      ']	0.0
+["Interest in RBS' Greek shipping unit cools post-Brexit vote - sources"]	Reuters	['\n        By ', '  -\n\n        July 11th 2016, 2:06:21 pm\n      ']	0.0
+['U.S. stocks at new record, earnings key for more gains']	Reuters	['\n        By ', '  -\n\n        July 11th 2016, 2:03:13 pm\n      ']	0.212121212121
+['Business as usual at Holyrood despite Brexit vote, insists Nicola Sturgeon']	Press Association	['\n        By ', '  -\n\n        July 11th 2016, 1:54:27 pm\n      ']	-0.25
+['Value of pound rises after Leadsom pulls out of race to become PM']	Press Association	['\n        By ', '  -\n\n        July 11th 2016, 1:54:27 pm\n      ']	0.0
+["UK in 'a new reality' following Brexit vote, says Cameron"]	Press Association	['\n        By ', '  -\n\n        July 11th 2016, 1:53:58 pm\n      ']	0.0681818181818
+["No acute crisis in Italy, stop asking for public money for banks- EU's Dijsselbloem"]	Reuters	['\n        By ', '  -\n\n        July 11th 2016, 1:53:47 pm\n      ']	-0.15
+["British Land rents out space in London's financial district after Brexit"]	Reuters	['\n        By ', '  -\n\n        July 11th 2016, 1:48:41 pm\n      ']	0.0
+['US STOCKS-S&P 500 hits record intraday high']	Reuters	['\n        By ', '  -\n\n        July 11th 2016, 1:41:56 pm\n      ']	0.16
+["TEXT-Key excerpts from the leadership launch of Britain's Theresa May"]	Reuters	['\n        By ', '  -\n\n        July 11th 2016, 1:38:10 pm\n      ']	0.0
+['S&P 500 rises to new record as global stocks rally']	The Daily Mail	['\n        By ', '  -\n\n        July 11th 2016, 1:32:45 pm\n      ']	0.0681818181818
+["Britain's next PM May stakes claim to centre ground"]	Reuters	['\n        By ', '  -\n\n        July 11th 2016, 1:28:31 pm\n      ']	0.0
+['David Cameron speaks out at Farnborough International Airshow']	The Daily Mail	['\n        July 11th 2016, 1:19:58 pm\n      ']	0.0
+['"I know I\'m not showy": Britain\'s Theresa May in her own words']	Reuters	['\n        By ', '  -\n\n        July 11th 2016, 1:11:38 pm\n      ']	0.6
+['US STOCKS-S&P 500 looks set to touch new record high']	Reuters	['\n        By ', '  -\n\n        July 11th 2016, 1:03:05 pm\n      ']	0.148181818182
+['Irish PM resists call from within party to step down']	Reuters	['\n        By ', '  -\n\n        July 11th 2016, 12:56:53 pm\n      ']	-0.0777777777778
+["INSTANT VIEW-May poised to become Britain's next prime minister"]	Reuters	['\n        By ', '  -\n\n        July 11th 2016, 12:45:32 pm\n      ']	0.0
+['Hedge funds push oil prices lower: Kemp']	Reuters	['\n        By ', '  -\n\n        July 11th 2016, 12:24:30 pm\n      ']	0.0
+["Britain's mid-caps outperform after Leadsom quits PM race"]	Reuters	['\n        By ', '  -\n\n        July 11th 2016, 12:16:04 pm\n      ']	0.0
+['Philip Kolvin QC says Brexit must follow rule of law']	The Daily Mail	['\n        July 11th 2016, 12:10:44 pm\n      ']	0.0
+[u'Pound immediately surges more than a cent against the dollar as Brexiteer Andrea Leadsom drops out of Tory leadership contest\xa0']	The Daily Mail	['\n        By ', '  -\n\n        July 11th 2016, 12:04:32 pm\n      ']	0.5
+[u'Energy bills start to rise as suppliers scrap 15 of the best deals - but households can still save \xa3315 by switching']	The Daily Mail	['\n        By ', '  -\n\n        July 11th 2016, 11:54:49 am\n      ']	1.0
+["New Tory leader Theresa May vows to make a 'better Britain' as she prepares to move into Downing Street on WEDNESDAY after Andrea Leadsom quits the race for No 10"]	The Daily Mail	['\n        By ', ' ', '  -\n\n        July 11th 2016, 11:54:21 am\n      ']	0.318181818182
+["'Brexit means Brexit', Theresa May lays out case for becoming PM"]	The Daily Mail	['\n        July 11th 2016, 11:38:57 am\n      ']	0.45
+["Britain's May wins PM race after pro-Brexit rival quits"]	Reuters	['\n        By ', '  -\n\n        July 11th 2016, 11:32:14 am\n      ']	0.3
+['Some buyers using "Brexit clauses" to drop UK commercial property deals']	Reuters	['\n        By ', '  -\n\n        July 11th 2016, 11:28:00 am\n      ']	0.0
+['US STOCKS-Futures up as jobs data lifts investor confidence']	Reuters	['\n        By ', '  -\n\n        July 11th 2016, 11:24:14 am\n      ']	0.0
+['The Latest: Merkel: UK needs to clarify intentions quickly']	Associated Press	['\n        By ', '  -\n\n        July 11th 2016, 11:21:15 am\n      ']	0.416666666667
+["You can't 'cherry pick' only the EU laws you want when you Brexit, Angela Merkel warns Britain"]	The Daily Mail	['\n        By ', '  -\n\n        July 11th 2016, 11:14:58 am\n      ']	0.0
+[u"'We have to stay VERY close to the EU', David Cameron claims as he sets out his advice to the new prime minister for making Britain's 'new reality' work after Brexit\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        July 11th 2016, 11:09:52 am\n      ']	0.157575757576
+['Cameron says UK must stay close to the EU after Brexit']	Reuters	['\n        By ', '  -\n\n        July 11th 2016, 11:06:45 am\n      ']	0.0
+['Oil funds hold down risk, eye volatility after weak first half']	Reuters	['\n        By ', '  -\n\n        July 11th 2016, 11:00:01 am\n      ']	-0.111805555556
+['Dutch 10-year bonds become latest member of sub-zero yield club']	Reuters	['\n        By ', '  -\n\n        July 11th 2016, 10:59:30 am\n      ']	0.5
+['Brexit should not fundamentally alter strong U.S.-UK ties-Pentagon']	Reuters	['\n        By ', '  -\n\n        July 11th 2016, 10:30:01 am\n      ']	0.433333333333
+['National Living Wage has not led to mass job losses - but has pushed up prices, says think tank']	The Daily Mail	['\n        By ', '  -\n\n        July 11th 2016, 10:29:52 am\n      ']	0.0
+['Just weeks after humiliating referendum defeat, George Osborne begins globetrotting tour in New York to drum up British trade']	The Daily Mail	['\n        By ', '  -\n\n        July 11th 2016, 10:25:13 am\n      ']	0.0681818181818
+['Britain\'s May pledges to put "working people" first if elected PM']	Reuters	['\n        By ', '  -\n\n        July 11th 2016, 10:23:58 am\n      ']	0.25
+['OECD suspends monthly economic outlook indicators due to Brexit']	Reuters	['\n        By ', '  -\n\n        July 11th 2016, 10:09:57 am\n      ']	0.0375
+['Cameron says UK must stay close to the EU after Brexit']	Reuters	['\n        By ', '  -\n\n        July 11th 2016, 10:02:46 am\n      ']	0.0
+["U.S. banks' wealth management profit engine seen stalling"]	Reuters	['\n        By ', '  -\n\n        July 11th 2016, 10:00:02 am\n      ']	0.0
+['EU trade chief: Populist movements can bring isolation, failure']	Reuters	['\n        By ', '  -\n\n        July 11th 2016, 9:51:37 am\n      ']	-0.316666666667
+[u'Profits fall at recruiter SThree as banks put hiring decisions on hold in the run-up to the EU referendum\xa0']	The Daily Mail	['\n        By ', '  -\n\n        July 11th 2016, 9:47:53 am\n      ']	0.0
+['British PM candidate Theresa May in her own words']	Reuters	['\n        By ', '  -\n\n        July 11th 2016, 9:42:06 am\n      ']	0.3
+['EMERGING MARKETS-Stocks climb for third day, China data awaits']	Reuters	['\n        By ', '  -\n\n        July 11th 2016, 9:40:36 am\n      ']	0.0
+['Star Wars and James Bond movies bring blockbuster results for studios owner Pinewood as profits more than double']	The Daily Mail	['\n        By ', '  -\n\n        July 11th 2016, 9:37:48 am\n      ']	0.25
+[u"'Robert Peston, where are you?' The awkward moment Angela Eagle realises the media has abandoned her Labour leadership launch to cover Andrea Leadsom's resignation from the Tory race for No 10\xa0"]	The Daily Mail	['\n        By ', ' ', '  -\n\n        July 11th 2016, 9:22:15 am\n      ']	-0.6
+[u'Parliament must vote on whether to go ahead with Brexit, 1,000 lawyers warn in a letter to Downing Street\xa0']	The Daily Mail	['\n        By ', '  -\n\n        July 11th 2016, 9:20:43 am\n      ']	0.0
+["France's Hollande to do pro-EU tour after Brexit vote"]	Reuters	['\n        By ', '  -\n\n        July 11th 2016, 9:17:37 am\n      ']	0.0
+['BAE, Rolls look to navigate way through Brexit fallout']	Reuters	['\n        By ', '  -\n\n        July 11th 2016, 9:05:28 am\n      ']	0.0
+[u"EXCLUSIVE: 'How DARE Brussels tell us how many migrants can live in our country?' Hungary 'will vote no' in Brexit-inspired referendum on EU demands to take 1,294 refugees... and pay \xa3255million fine instead"]	The Daily Mail	['\n        By ', '  -\n\n        July 11th 2016, 8:57:26 am\n      ']	0.35101010101
+["Stronger miners lead Britain's FTSE to 11-month highs"]	Reuters	['\n        By ', '  -\n\n        July 11th 2016, 8:46:11 am\n      ']	0.0
+['FTSE CLOSE: Footsie hits 11-month high as Theresa May is confirmed as the next Prime Minister']	The Daily Mail	['\n        By ', '  -\n\n        July 11th 2016, 8:30:46 am\n      ']	0.186666666667
+['Global stocks rally, markets look for more stimulus']	Reuters	['\n        By ', '  -\n\n        July 11th 2016, 8:30:42 am\n      ']	0.25
+['European stocks lifted by gains in steelmakers and banks']	Reuters	['\n        By ', '  -\n\n        July 11th 2016, 8:28:58 am\n      ']	0.0
+['Government lawmaker tells Irish PM to step down by September']	Reuters	['\n        By ', '  -\n\n        July 11th 2016, 8:23:33 am\n      ']	-0.0777777777778
+['Deutsche Boerse cuts LSE merger approval threshold']	Reuters	['\n        By ', '  -\n\n        July 11th 2016, 8:19:50 am\n      ']	0.0
+['Cameron to quit Wednesday; Theresa May to be new British PM']	Associated Press	['\n        By ', '  -\n\n        July 11th 2016, 8:09:14 am\n      ']	0.0681818181818
+['Brexit vote is not legally binding, lawyers claim']	Press Association	['\n        By ', '  -\n\n        July 11th 2016, 8:06:02 am\n      ']	-0.1
+['Two-year German bond yields near record lows on ECB easing hopes']	Reuters	['\n        By ', '  -\n\n        July 11th 2016, 7:53:53 am\n      ']	0.05
+['Sterling slips as investors gear up for BoE to ease policy']	Reuters	['\n        By ', '  -\n\n        July 11th 2016, 7:50:23 am\n      ']	0.0
+['Global shares rise on Wall Street gain on upbeat jobs report']	Associated Press	['\n        By ', '  -\n\n        July 11th 2016, 7:39:13 am\n      ']	0.0
+['Bank of England meets to weigh up Brexit threat to UK economy']	Reuters	['\n        By ', '  -\n\n        July 11th 2016, 7:26:55 am\n      ']	0.0
+['Recruiter SThree says UK hiring hit ahead of referendum vote']	Reuters	['\n        By ', '  -\n\n        July 11th 2016, 6:35:33 am\n      ']	0.0
+['Hungary, Factors to watch, July 11']	Reuters	['\n        By ', '  -\n\n        July 11th 2016, 6:16:47 am\n      ']	0.0
+['Japan maker of bamboo whisks eyes Brexit risks']	The Daily Mail	['\n        By ', '  -\n\n        July 11th 2016, 6:15:52 am\n      ']	0.0
+['Poland - Factors to Watch July 11']	Reuters	['\n        By ', '  -\n\n        July 11th 2016, 6:12:05 am\n      ']	0.0
+['Brexit could give your fish and chips a battering as falling sterling sends price of cod and haddock soaring']	The Daily Mail	['\n        By ', '  -\n\n        July 11th 2016, 6:00:01 am\n      ']	0.0
+['FOREX-Yen slips as Tokyo stocks soar after Japan elections']	Reuters	['\n        By ', '  -\n\n        July 11th 2016, 5:40:37 am\n      ']	0.0
+['Asian shares rise on Wall Street gain on upbeat jobs report']	Associated Press	['\n        By ', '  -\n\n        July 11th 2016, 3:31:55 am\n      ']	0.0
+['S&P 500 scores record high as global equities surge']	The Daily Mail	['\n        By ', '  -\n\n        July 11th 2016, 3:22:32 am\n      ']	0.08
+['FOREX-Dollar steadies vs yen but seen capped by Fed caution longer-term']	Reuters	['\n        By ', '  -\n\n        July 11th 2016, 3:06:56 am\n      ']	0.0
+['London nickel hits over $10,000, copper climbs with risk appetite']	Reuters	['\n        By ', '  -\n\n        July 11th 2016, 2:52:22 am\n      ']	0.0
+["Hunger for tech startups helps Japan's Line price IPO at top of range"]	Reuters	['\n        By ', '  -\n\n        July 11th 2016, 2:03:50 am\n      ']	0.5
+['London copper drifts on firmer dollar, China stimulus hopes support']	Reuters	['\n        By ', '  -\n\n        July 11th 2016, 1:32:52 am\n      ']	0.0
+['Gold steady on Brexit concerns despite firmer equities']	Reuters	['\n        By ', '  -\n\n        July 11th 2016, 1:23:37 am\n      ']	0.166666666667
+['Ah, there you are! Chancellor George Osborne resurfaces after Brexit to take teenage children on family day out to the British Grand Prix']	The Daily Mail	['\n        By ', '  -\n\n        July 11th 2016, 1:11:10 am\n      ']	0.166666666667
+['Brexit could bring closer trading ties with US - George Osborne']	Press Association	['\n        By ', '  -\n\n        July 11th 2016, 1:04:54 am\n      ']	0.0
+['DAILY MAIL COMMENT: May is on a mission to unite the nation']	The Daily Mail	['\n        By ', '  -\n\n        July 11th 2016, 12:57:30 am\n      ']	0.0
+['Business output slumps amid Brexit uncertainty, report states']	Press Association	['\n        By ', '  -\n\n        July 11th 2016, 12:51:34 am\n      ']	0.0
+['FOREX-Dollar edges up on better risk appetite, but seen capped long-term']	Reuters	['\n        By ', '  -\n\n        July 11th 2016, 12:46:32 am\n      ']	0.5
+[u"ANDREW PIERCE: Chuka, Labour's rising star and a new race row\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        July 11th 2016, 12:38:16 am\n      ']	0.136363636364
+[u"DOMINIC LAWSON: I know pessimism is a British trait - but why can't we be more upbeat about UK plc?\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        July 11th 2016, 12:24:34 am\n      ']	0.25
+["As she's handed the keys to Number 10 Theresa May pledges 'serious social reform' in major break from Cameron and Osborne amid growing pressure to call snap election"]	The Daily Mail	['\n        By ', ' ', '  -\n\n        July 11th 2016, 12:20:58 am\n      ']	-0.0791666666667
+["New PM Theresa May vows to give Britons 'more control over their lives'"]	Press Association	['\n        By ', '  -\n\n        July 11th 2016, 12:15:04 am\n      ']	0.318181818182
+["UK's Osborne to urge U.S. investors to stick with Britain outside EU"]	Reuters	['\n        By ', '  -\n\n        July 11th 2016, 12:00:02 am\n      ']	0.0
+[u"BREAKING NEWS: Andrea Leadsom 'to QUIT Tory leadership race': Contender prepares to make statement after Theresa May motherhood row\xa0"]	The Daily Mail	['\n        By ', ' ', ' ', '  -\n\n        July 10th 2016, 11:30:24 pm\n      ']	0.0
+['Lenders charge more for tracker mortgages as base rate cut looms: Firms increasing cost of deals for new customers as they look to protect their profits']	The Daily Mail	['\n        By ', '  -\n\n        July 10th 2016, 11:29:00 pm\n      ']	-0.0545454545455
+['Frontrunner in British PM race May vows corporate governance reforms']	Reuters	['\n        By ', '  -\n\n        July 10th 2016, 11:01:02 pm\n      ']	0.0
+["UK's Osborne to urge U.S. investors to stick with Britain outside EU"]	Reuters	['\n        By ', '  -\n\n        July 10th 2016, 11:01:02 pm\n      ']	0.0
+["Companies' FX hedging jumped in before Brexit vote"]	Reuters	['\n        By ', '  -\n\n        July 10th 2016, 11:01:01 pm\n      ']	0.0
+['As yuan weakens, Chinese stock investors seek safety in Hong Kong']	Reuters	['\n        By ', '  -\n\n        July 10th 2016, 11:00:51 pm\n      ']	0.0
+[u'75% of NHS trusts are in the red: Warning the Health Service needs emergency bailout from the government or patient care will get even worse\xa0']	The Daily Mail	['\n        By ', '  -\n\n        July 10th 2016, 10:53:54 pm\n      ']	0.0
+['George Osborne to soothe Brexit fears on Wall Street before jetting off to the Far East amid uncertain times for the UK economy']	The Daily Mail	['\n        By ', ' ', '  -\n\n        July 10th 2016, 8:56:09 pm\n      ']	0.1
+[u"Investors' doubts on LSE takeover\xa0after it suffers share price drop amid the Brexit turmoil"]	The Daily Mail	['\n        By ', '  -\n\n        July 10th 2016, 8:21:19 pm\n      ']	-0.6
+['Wimbledon 2016: Sportsmail assesses the good and bad after Andy Murray and Serena Williams sweep to glory at SW19']	The Daily Mail	['\n        By ', '  -\n\n        July 10th 2016, 7:49:03 pm\n      ']	5.55111512313e-17
+["Venus Williams holds the key to Serena's future and whether the 22-time Grand Slam winner will go for Margaret Court's record"]	The Daily Mail	['\n        By ', '  -\n\n        July 10th 2016, 7:29:01 pm\n      ']	0.166666666667
+['Teenage Jeremy Corbyn fan says he has saved face with Labour leader tattoo']	Press Association	['\n        By ', '  -\n\n        July 10th 2016, 7:12:09 pm\n      ']	0.0
+[u'Washout summer means High Street bargains: Retailers forced to slash prices by 70% or more after the bad weather led to their worst June in a decade\xa0']	The Daily Mail	['\n        By ', '  -\n\n        July 10th 2016, 5:52:47 pm\n      ']	-0.268
+['Merkel expects new British PM to launch formal EU exit talks']	Reuters	['\n        By ', '  -\n\n        July 10th 2016, 3:58:15 pm\n      ']	0.0681818181818
+['Germany expects UK to launch formal EU exit talks after new PM chosen-Merkel']	Reuters	['\n        By ', '  -\n\n        July 10th 2016, 3:35:47 pm\n      ']	0.136363636364
+['SUNDAY NEWSPAPER SHARE TIPS: PureTech Health, Centamin, Ibstock and JD Wetherspoon']	The Daily Mail	['\n        By ', '  -\n\n        July 10th 2016, 3:07:57 pm\n      ']	0.0
+['Arron Banks says he believes May would water down Brexit moves']	The Daily Mail	['\n        July 10th 2016, 1:54:13 pm\n      ']	-0.155555555556
+["Credit Suisse CEO says cheered by traders' Brexit performance"]	Reuters	['\n        By ', '  -\n\n        July 10th 2016, 12:40:22 pm\n      ']	0.0
+['UK to finalise Boeing patrol plane, helicopter deals - sources']	Reuters	['\n        By ', '  -\n\n        July 10th 2016, 11:48:19 am\n      ']	0.0
+["Sterling's fall could batter UK's fish & chips"]	Reuters	['\n        By ', '  -\n\n        July 10th 2016, 11:30:31 am\n      ']	0.0
+['European tech investors spot safe havens from Brexit worries']	Reuters	['\n        By ', '  -\n\n        July 10th 2016, 11:00:01 am\n      ']	0.25
+['Oil funds hold down risk, eye volatility after weak first half']	Reuters	['\n        By ', '  -\n\n        July 10th 2016, 11:00:01 am\n      ']	-0.111805555556
+["UK's Corbyn says expects to be on ballot as Labour heads for bitter leadership contest"]	Reuters	['\n        By ', '  -\n\n        July 10th 2016, 10:11:32 am\n      ']	-0.1
+[u"Businessman warns Tories will face 'Ukip on steroids' with a \xa310million warchest if Theresa May ends up in Downing Street"]	The Daily Mail	['\n        By ', '  -\n\n        July 10th 2016, 10:06:23 am\n      ']	0.0
+['G20 nations pledge to boost trade despite growing protectionism']	The Daily Mail	['\n        By ', '  -\n\n        July 10th 2016, 9:06:39 am\n      ']	0.0
+[u"'Do us all a favour and quit': Senior Tory women spearhead the backlash against leadership contender Andrea Leadsom after motherhood jibe at rival Theresa May\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        July 10th 2016, 8:51:32 am\n      ']	0.0
+['G20 ministers call for rolling back of anti-trade measures']	Associated Press	['\n        By ', '  -\n\n        July 10th 2016, 7:51:06 am\n      ']	0.0
+['Wall St Week Ahead-Bank earnings loom large as stocks near record']	Reuters	['\n        By ', '  -\n\n        July 10th 2016, 5:00:01 am\n      ']	0.157142857143
+['China, India eye Asian Century as Brexit rattles old order']	The Daily Mail	['\n        By ', '  -\n\n        July 10th 2016, 4:00:44 am\n      ']	0.05
+[u"Who'll end Cult of Nigel? I'm your woman! UKIP's best-known female politician says party must shed its chauvinist image\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        July 10th 2016, 1:38:21 am\n      ']	0.0
+[u'BLACK DOG: Why PM hopeful Theresa May is no heir to Blair\xa0']	The Daily Mail	['\n        By ', '  -\n\n        July 10th 2016, 1:07:38 am\n      ']	-0.166666666667
+[u"May's aide hints at second referendum: Former Attorney General says 'People may change their mind... it is not writ in stone'\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        July 10th 2016, 1:06:05 am\n      ']	0.0166666666667
+['Child refugee scheme yet to come into effect, says Lord Dubs']	Press Association	['\n        By ', '  -\n\n        July 10th 2016, 12:47:50 am\n      ']	0.0
+['Angela Eagle vows to save Labour and heal Britain in bid for party leadership']	Press Association	['\n        By ', '  -\n\n        July 10th 2016, 12:47:50 am\n      ']	0.0
+["Leadsom 'facing black-ops campaign from May allies'"]	Press Association	['\n        By ', '  -\n\n        July 10th 2016, 12:47:50 am\n      ']	0.0
+[u'UK may be forced out of Europol in less than a year as top officer warns of security risks following Brexit vote\xa0']	The Daily Mail	['\n        By ', '  -\n\n        July 10th 2016, 12:40:37 am\n      ']	0.00833333333333
+[u'DAN HODGES: Theresa stakes it all on a single throw of the dice... and for the sake of her party it had better work\xa0']	The Daily Mail	['\n        By ', '  -\n\n        July 10th 2016, 12:35:38 am\n      ']	0.214285714286
+["Brexit 'could limit effectiveness of British armed forces'"]	Press Association	['\n        By ', '  -\n\n        July 10th 2016, 12:01:32 am\n      ']	0.0
+["NIGEL FARAGE: May's so cold she might be alabaster and she doesn't have the courage to claw back control of our territorial waters"]	The Daily Mail	['\n        By ', '  -\n\n        July 9th 2016, 9:54:56 pm\n      ']	-0.3
+["David Cameron says 'we must have a dialogue with Russia'"]	The Daily Mail	['\n        July 9th 2016, 9:07:10 pm\n      ']	0.0
+[u"Now Far Right back Leadsom: Race slurs against May in 'Britain First' film... which endorses Tory rival\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        July 9th 2016, 8:45:13 pm\n      ']	0.158928571429
+[u'GIRL ABOUT TOWN: Is naughty Kate falling for the man in the dress?\xa0']	The Daily Mail	['\n        By ', '  -\n\n        July 9th 2016, 8:34:59 pm\n      ']	-0.15
+["'It wasn't Project Fear, it was Project Fact': BT Chairman Mike Rake warns of devastating consequences of Brexit"]	The Daily Mail	['\n        By ', '  -\n\n        July 9th 2016, 8:12:55 pm\n      ']	-1.0
+['MIDAS SHARE TIPS: From obesity to hair-loss... US firm PureTech turning concept into cure']	The Daily Mail	['\n        By ', '  -\n\n        July 9th 2016, 7:48:24 pm\n      ']	-0.2
+['MIDAS SHARE TIPS UPDATE: Our tip Centamin doubles on back of soaring gold price']	The Daily Mail	['\n        By ', '  -\n\n        July 9th 2016, 7:26:01 pm\n      ']	0.0
+[u'Europe risks war with Russia if Brexit leads to cracks opening up in the continent\u2019s ability to stand up to Vladimir Putin warns David Cameron\xa0']	The Daily Mail	['\n        By ', '  -\n\n        July 9th 2016, 7:17:38 pm\n      ']	0.0
+["We don't want unrestricted free trade: Industry warns idea to completely open up the UK will be rejected by British manufacturers"]	The Daily Mail	['\n        By ', '  -\n\n        July 9th 2016, 6:56:57 pm\n      ']	0.133333333333
+['Rics figures to provide first concrete indicator as to whether Brexit will lead to fall in house prices']	The Daily Mail	['\n        By ', '  -\n\n        July 9th 2016, 6:31:45 pm\n      ']	0.2
+['SIMON WATKINS: It has never been cheaper for Britain to borrow money - we must do so now']	The Daily Mail	['\n        By ', '  -\n\n        July 9th 2016, 5:56:14 pm\n      ']	0.0

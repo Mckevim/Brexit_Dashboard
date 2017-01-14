@@ -1,0 +1,14 @@
+
+#Project for MCM Data Visualisation project
+
+def open_fle():
+    f = open('/Users/Michael/Desktop/MCM_Data_Analytics/Data_Viz/The_Irish_Times/Irish_Times_TEST.txt', 'w')
+    for l in f:
+        print l
+
+
+
+def test_print():
+    f = open('/Users/Michael/Desktop/MCM_Data_Analytics/Data_Viz/The_Irish_Times/Irish_Times_TEST.txt', 'w')
+    for l in f:
+        print l

@@ -1,0 +1,500 @@
+['Convergence between eastern and western Europe fraying as EBRD leaders meet']	Reuters	['\n        By ', '  -\n\n        May 9th 2016, 5:50:05 pm\n      ']	0.0
+[u'David Cameron tries to mend fences with Sadiq Khan after bitter London Mayor battle as he pleads for help getting out the Labour vote for EU referendum\xa0']	The Daily Mail	['\n        By ', '  -\n\n        May 9th 2016, 5:05:33 pm\n      ']	-0.1
+["Boris Johnson blasted as an 'apologist' for President Putin as No 10 and Jack Straw slam his claim the EU was to blame for starting the war in Ukraine"]	The Daily Mail	['\n        By ', '  -\n\n        May 9th 2016, 4:49:09 pm\n      ']	-0.3
+["Don't deafen the voters, Boris! Johnson breaks into song in GERMAN as he rails at 'Little Englander' jibes against Brexit supporters in EU referendum battle"]	The Daily Mail	['\n        By ', '  -\n\n        May 9th 2016, 2:12:02 pm\n      ']	-0.09375
+['Drawing on history, Cameron argues Britain is safer in EU']	Reuters	['\n        By ', '  -\n\n        May 9th 2016, 1:11:33 pm\n      ']	0.0
+['Pharma body says Brexit could leave UK patients facing drug delays']	Reuters	['\n        By ', '  -\n\n        May 9th 2016, 12:50:23 pm\n      ']	0.0
+['Bank of England to hold steady ahead of Brexit vote']	Reuters	['\n        By ', '  -\n\n        May 9th 2016, 12:21:04 pm\n      ']	0.166666666667
+["'David Cameron has forgotten his history': Furious veterans turn on the PM for 'horrific decision to put words in the mouths of Second World War soldiers' in his bid to keep Britain in the EU"]	The Daily Mail	['\n        By ', ' ', '  -\n\n        May 9th 2016, 11:04:28 am\n      ']	-0.5
+['House prices fall 0.8% says Halifax survey']	Press Association	['\n        By ', '  -\n\n        May 9th 2016, 11:00:32 am\n      ']	0.0
+['World War II veterans give their views on Brexit in moving film']	The Daily Mail	['\n        May 9th 2016, 10:27:20 am\n      ']	0.0
+['Drawing on history, Cameron argues Britain is safer in the EU']	Reuters	['\n        By ', '  -\n\n        May 9th 2016, 9:09:53 am\n      ']	0.0
+[u'Boris Johnson ridicules David Cameron\u2019s claim that Brexit could trigger war in Europe and accuses the Prime Minister of not believing his own words']	The Daily Mail	['\n        By ', ' ', ' ', ' ', '  -\n\n        May 9th 2016, 8:34:30 am\n      ']	0.6
+['ANDREW PIERCE: Lord Arbuthnot becomes the latest former minister to step on the gravy train to the private sector']	The Daily Mail	['\n        By ', '  -\n\n        May 9th 2016, 1:31:52 am\n      ']	0.166666666667
+[u'CHRIS DEERIN: If immigration is the best argument Out can muster, we will stay in the EU\xa0']	The Daily Mail	['\n        By ', '  -\n\n        May 9th 2016, 12:50:48 am\n      ']	1.0
+['Former Nato chiefs back David Cameron over EU security']	Press Association	['\n        By ', '  -\n\n        May 9th 2016, 12:07:09 am\n      ']	0.0
+['Risks of leaving EU far outweigh the opportunities, says Chatham House director']	Press Association	['\n        By ', '  -\n\n        May 9th 2016, 12:05:54 am\n      ']	0.1
+[u"Now Cameron warns Brexit would lead to war and genocide: PM's extraordinary intervention - but   Out camp accuses him of desperation  as Downing St ramps up Project Fear\xa0"]	The Daily Mail	['\n        By ', ' ', '  -\n\n        May 8th 2016, 11:20:02 pm\n      ']	0.333333333333
+['Nearly half of voters in EU countries say they want a referendum on whether to remain in the bloc']	The Daily Mail	['\n        By ', ' ', '  -\n\n        May 8th 2016, 11:01:01 pm\n      ']	-0.166666666667
+[u'Six Algerian terror suspects linked to Osama bin Laden and al-Qaida can STAY in the UK after they win 10-year human rights case\xa0']	The Daily Mail	['\n        By ', '  -\n\n        May 8th 2016, 7:51:45 pm\n      ']	0.4
+["Osborne publicly endorses Hillary Clinton as he takes a swipe at the 'odd' Donald Trump... but there's one Tory who thinks the Republican could be a 'great president'"]	The Daily Mail	['\n        By ', ' ', '  -\n\n        May 8th 2016, 7:17:28 pm\n      ']	0.211111111111
+[u"George Osborne takes aim at Boris Johnson's ambition to be Prime Minister as he says he wants a 'sober, serious and practical leader' to replace David Cameron\xa0"]	The Daily Mail	['\n        By ', ' ', '  -\n\n        May 8th 2016, 6:52:01 pm\n      ']	-0.0111111111111
+['Fears Britain is on brink of a fresh downturn trigger speculation rates could be cut and not rise until 2019']	The Daily Mail	['\n        By ', '  -\n\n        May 8th 2016, 6:32:18 pm\n      ']	0.3
+['Brexit would be "lose-lose" for UK and EU - Moscovici']	Reuters	['\n        By ', '  -\n\n        May 8th 2016, 5:01:48 pm\n      ']	0.0
+[u"Brexit would cause a 'major hit' to house prices and hike up mortgages for first-time buyers, George Osborne warns as he exchanges blows with Michael Gove\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        May 8th 2016, 1:28:57 pm\n      ']	0.0625
+['Brexit would see house prices fall significantly, says George Osborne']	Press Association	['\n        By ', '  -\n\n        May 8th 2016, 1:18:21 pm\n      ']	0.375
+["Former British spy bosses say nation's exit from EU would pose threat"]	Reuters	['\n        By ', '  -\n\n        May 8th 2016, 11:42:46 am\n      ']	0.0
+['George Osborne signals support for Hillary Clinton in US presidential race']	Press Association	['\n        By ', '  -\n\n        May 8th 2016, 11:36:28 am\n      ']	0.0
+['Ex-MI5 chief dragged into Brexit row after being accused of changing his mind on whether Britain was safer inside the EU']	The Daily Mail	['\n        By ', ' ', '  -\n\n        May 8th 2016, 11:36:07 am\n      ']	0.0
+['UK homeowners face significant hit from Brexit - Osborne']	Reuters	['\n        By ', '  -\n\n        May 8th 2016, 9:55:50 am\n      ']	0.375
+['UK homeowners face significant hit from Brexit - Osborne']	Reuters	['\n        By ', '  -\n\n        May 8th 2016, 9:30:32 am\n      ']	0.375
+[u'RACHEL JOHNSON: Nothing is scarier than Donald Trump - apart from his sex-doll wife Melania\xa0']	The Daily Mail	['\n        By ', '  -\n\n        May 8th 2016, 1:59:23 am\n      ']	0.0
+['MAIL ON SUNDAY COMMENT: Time to put power bosses in the dock']	The Daily Mail	['\n        By ', '  -\n\n        May 8th 2016, 1:56:15 am\n      ']	0.0
+['SIR ALAN DUNCAN: BoJo and Gove must stop this self-indulgent grab for power']	The Daily Mail	['\n        By ', '  -\n\n        May 8th 2016, 12:38:18 am\n      ']	0.0
+[u"EU must be joking... it's Jezza v Boris: 'In' campaign panic as No10 refuses to risk PM in crucial TV debate with Johnson... letting Calamity Corbyn take his place!\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        May 8th 2016, 12:34:54 am\n      ']	0.0
+["Former British spy bosses say nation's exit from EU would pose threat"]	Reuters	['\n        By ', '  -\n\n        May 7th 2016, 11:49:28 pm\n      ']	0.0
+['MIDAS SHARE TIPS: Moving home? How website ULS Technology can help ease legal headache']	The Daily Mail	['\n        By ', '  -\n\n        May 7th 2016, 6:53:15 pm\n      ']	0.2
+["As PM launches anti-corruption summit, tycoon Bill Browder claims: 'Britain's a brothel for dirty money'"]	The Daily Mail	['\n        By ', '  -\n\n        May 7th 2016, 6:04:59 pm\n      ']	-0.6
+['JEFF PRESTRIDGE: The two key issues for this Mr Partridge - pensions and investment fund charges']	The Daily Mail	['\n        By ', '  -\n\n        May 7th 2016, 3:35:50 pm\n      ']	0.0
+['European holidays might be more expensive for Brits thanks to weaker pound - but driving is still cheaper as fuel prices fall']	The Daily Mail	['\n        By ', ' ', '  -\n\n        May 7th 2016, 9:51:58 am\n      ']	0.05
+[u'Brexit would make UK safer, says Gove as he sets out\xa0security and border changes that could be made if Britain leaves the EU']	The Daily Mail	['\n        By ', ' ', '  -\n\n        May 7th 2016, 1:09:37 am\n      ']	0.0
+['National security takes centre stage in European Union referendum campaign']	Press Association	['\n        By ', '  -\n\n        May 7th 2016, 12:09:08 am\n      ']	0.0
+[u'PETER OBORNE: There\u2019s only one real winner of these elections... and he has been released to create maximum havoc']	The Daily Mail	['\n        By ', '  -\n\n        May 6th 2016, 11:56:43 pm\n      ']	0.1
+["Bank chief casts doubt on PM's euro deal: Senior official suggests safeguards to protect Britain from bailing out the eurozone are not as strong as Cameron claimed"]	The Daily Mail	['\n        By ', '  -\n\n        May 6th 2016, 10:59:49 pm\n      ']	0.433333333333
+['A rapist protected by police and the neglected mining town in the East Midlands that has turned into Little Poland']	The Daily Mail	['\n        By ', '  -\n\n        May 6th 2016, 10:14:38 pm\n      ']	-0.1875
+[u"Shame of the MPs keeping silent on LSE takeover: Parliament won't quiz Germans over \xa321bn deal\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        May 6th 2016, 7:42:58 pm\n      ']	0.0
+['ALEX BRUMMER: Four-time bankrupt Donald Trump is even less qualified to run a country BHS buffoon Dominic Chappell']	The Daily Mail	['\n        By ', '  -\n\n        May 6th 2016, 7:03:47 pm\n      ']	-0.166666666667
+["EU Referendum Scorecard: Trump backs Brexit, Japan says don't take the plunge"]	Reuters	['\n        By ', '  -\n\n        May 6th 2016, 5:07:23 pm\n      ']	0.0
+['Sterling hits 11-day low on persistent Brexit concerns']	Reuters	['\n        By ', '  -\n\n        May 6th 2016, 4:08:15 pm\n      ']	0.0
+['Bets emerge on hefty sterling rise if Britain votes to stay in EU']	Reuters	['\n        By ', '  -\n\n        May 6th 2016, 2:33:49 pm\n      ']	0.0
+['Sterling steady as all eyes turn to U.S. jobs report']	Reuters	['\n        By ', '  -\n\n        May 6th 2016, 8:45:19 am\n      ']	0.166666666667
+['FTSE CLOSE: Footsie notches up modest gains as oil price recovery offsets weak US jobs figures']	The Daily Mail	['\n        By ', '  -\n\n        May 6th 2016, 8:29:37 am\n      ']	-0.1375
+[u"Brexit 'may trigger the collapse of fragile EU': Analysts say a 'small crisis' could threaten bloc's future after it suffered serious damage due to migrant crisis\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        May 6th 2016, 2:05:29 am\n      ']	-0.141666666667
+['Low-paid could suffer most from a Brexit vote - study']	Press Association	['\n        By ', '  -\n\n        May 6th 2016, 1:23:00 am\n      ']	0.5
+[u'DAILY MAIL COMMENT: How scaremongering has hit the economy\xa0']	The Daily Mail	['\n        By ', '  -\n\n        May 6th 2016, 1:05:30 am\n      ']	0.0
+['Donald Trump: Britain would be better off out of the EU']	Press Association	['\n        By ', '  -\n\n        May 6th 2016, 12:32:07 am\n      ']	0.5
+['Weakest trading month for high street since 2008, year of world economic crisis']	Press Association	['\n        By ', '  -\n\n        May 6th 2016, 12:17:29 am\n      ']	0.18
+[u"Now Trump says the United Kingdom is 'better off without' Europe \u2013 just days after pledging he won't 'give Britain any advice' on looming 'Brexit' vote and insisting Obama was wrong to take sides"]	The Daily Mail	['\n        By ', '  -\n\n        May 6th 2016, 12:08:32 am\n      ']	0.0
+["Three out of four EU migrants in UK 'would not get a work visa after Brexit' because 75% arrived in Britain thanks to Brussels diktats on free movement"]	The Daily Mail	['\n        By ', ' ', '  -\n\n        May 6th 2016, 12:08:21 am\n      ']	0.3
+[u'ALEX BRUMMER: Chilly welcome for the IMF as UK economy stalls\xa0']	The Daily Mail	['\n        By ', '  -\n\n        May 5th 2016, 7:16:18 pm\n      ']	0.1
+[u'Is this picture proof that Boris Johnson was really a transvestite prostitute in a former life?\xa0']	The Daily Mail	['\n        By ', '  -\n\n        May 5th 2016, 6:47:36 pm\n      ']	0.1
+['Brexit outcome may play into rate decision, Fed officials say']	Reuters	['\n        By ', '  -\n\n        May 5th 2016, 6:29:45 pm\n      ']	0.0
+[u'High Street finds April the cruellest month since 2008 recession as fashion retailers lead\xa0big fall in sales']	The Daily Mail	['\n        By ', '  -\n\n        May 5th 2016, 4:22:09 pm\n      ']	0.16
+[u"Cameron wheels out ANOTHER foreign leader to tell Britons to vote for the EU as Japan's premier warns the UK would be 'less attractive' after Brexit\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        May 5th 2016, 2:22:17 pm\n      ']	0.169444444444
+['Sterling falls as services data fuels concern on UK economy']	Reuters	['\n        By ', '  -\n\n        May 5th 2016, 1:59:24 pm\n      ']	0.0
+["Bryant calls Trump 'Grayling with a hairpiece' in Commons EU jibe"]	Press Association	['\n        By ', '  -\n\n        May 5th 2016, 1:42:21 pm\n      ']	0.0
+['David Cameron and Boris Johnson take EU referendum battle to Countryfile']	Press Association	['\n        By ', '  -\n\n        May 5th 2016, 1:42:21 pm\n      ']	0.0
+["Japan's Abe says Brexit would make UK less attractive for Japanese investors"]	Reuters	['\n        By ', '  -\n\n        May 5th 2016, 12:08:25 pm\n      ']	0.211111111111
+["Brexit would make UK 'less attractive' for Japanese companies: Abe"]	The Daily Mail	['\n        By ', '  -\n\n        May 5th 2016, 11:42:31 am\n      ']	0.211111111111
+["Japan's Abe says Brexit would make UK less attractive for Japanese investors"]	Reuters	['\n        By ', '  -\n\n        May 5th 2016, 11:38:17 am\n      ']	0.211111111111
+["Britain's economy slows, risks stalling as EU vote nears- PMI"]	Reuters	['\n        By ', '  -\n\n        May 5th 2016, 11:34:45 am\n      ']	0.0
+["Experts warn UK economy has 'nearly stalled' as key services sector slumps ahead of EU referendum"]	The Daily Mail	['\n        By ', '  -\n\n        May 5th 2016, 11:32:23 am\n      ']	0.05
+['Brexit fears could see UK growth grind to a halt']	Press Association	['\n        By ', '  -\n\n        May 5th 2016, 10:59:15 am\n      ']	0.0
+['Uncertainty over vote on EU membership weighs on UK economy']	Associated Press	['\n        By ', '  -\n\n        May 5th 2016, 10:34:00 am\n      ']	0.0
+["Banks may suffer higher mortgage losses after a Brexit - Moody's"]	Reuters	['\n        By ', '  -\n\n        May 5th 2016, 10:32:27 am\n      ']	0.25
+['Sterling slips as disappointing UK services survey weighs']	Reuters	['\n        By ', '  -\n\n        May 5th 2016, 9:21:23 am\n      ']	-0.6
+['FTSE CLOSE: Footsie finishes flat after weak services data; oil price rebound sees it nudge $46 again']	The Daily Mail	['\n        By ', '  -\n\n        May 5th 2016, 8:46:34 am\n      ']	-0.2
+['Sterling steady around $1.45, awaits UK services survey']	Reuters	['\n        By ', '  -\n\n        May 5th 2016, 7:45:07 am\n      ']	0.166666666667
+['English malaise stirs yearning for divorce from European Union']	Reuters	['\n        By ', '  -\n\n        May 5th 2016, 6:00:11 am\n      ']	0.0
+["Brexit 'would make UK less attractive to Japanese investors': Shinzo Abe"]	Press Association	['\n        By ', '  -\n\n        May 5th 2016, 12:28:07 am\n      ']	0.211111111111
+["Tory MP threatens to SUE David Cameron if he refuses to take down pro-EU websites during referendum campaign - but the PM jokes: 'I better get back to the office then!'"]	The Daily Mail	['\n        By ', '  -\n\n        May 4th 2016, 6:23:06 pm\n      ']	0.114814814815
+['Gary Lineker attacks John Whittingdale over attitude to BBC']	Press Association	['\n        By ', '  -\n\n        May 4th 2016, 5:46:15 pm\n      ']	0.0
+['RBS prepares for Brexit uncertainty, to cut more costs']	Reuters	['\n        By ', '  -\n\n        May 4th 2016, 5:14:04 pm\n      ']	0.5
+[u'\u2018We\u2019ve failed on deporting foreign criminals,\u2019 David Cameron finally admits as he blasts \xa3170m a-year bill for removing European offenders from the UK - but still says we should stay in the EU']	The Daily Mail	['\n        By ', ' ', '  -\n\n        May 4th 2016, 5:05:14 pm\n      ']	-0.15625
+["UK's Cameron: EU exit would lead to 'decade of uncertainty'"]	Associated Press	['\n        By ', '  -\n\n        May 4th 2016, 4:27:50 pm\n      ']	0.0
+['Sterling drops below $1.45 as Brexit vote approaches, data adds to glum outlook']	Reuters	['\n        By ', '  -\n\n        May 4th 2016, 2:32:07 pm\n      ']	0.0
+["British mortgage lender Charter Court's auction abandoned-sources"]	Reuters	['\n        By ', '  -\n\n        May 4th 2016, 1:30:08 pm\n      ']	0.0
+["PM defends EU reforms as Tory MP accuses him of 'cheating' referendum voters"]	Press Association	['\n        By ', '  -\n\n        May 4th 2016, 8:54:01 am\n      ']	0.0
+[u"FTSE CLOSE: Footsie finishes in red as miners struggle; Wall Street traders digest Republicans' nomination\xa0of Trump for president"]	The Daily Mail	['\n        By ', '  -\n\n        May 4th 2016, 8:39:44 am\n      ']	0.0
+['Sterling slips again after biggest one-day fall for six weeks']	Reuters	['\n        By ', '  -\n\n        May 4th 2016, 8:20:29 am\n      ']	0.0
+['Next warns on profits as cold weather hits clothing sales']	Press Association	['\n        By ', '  -\n\n        May 4th 2016, 8:15:46 am\n      ']	-0.3
+["UK's Electra makes total return of 15 percent, seeks directors"]	Reuters	['\n        By ', '  -\n\n        May 4th 2016, 7:52:52 am\n      ']	0.0
+["Fed's Lockhart: Brexit could 'loom large' over June policy meeting"]	Reuters	['\n        By ', '  -\n\n        May 4th 2016, 1:00:58 am\n      ']	0.214285714286
+["David Cameron's EU benefits deal won't cut numbers coming to Britain because it only affects 10% of migrants, think-tank says"]	The Daily Mail	['\n        By ', '  -\n\n        May 4th 2016, 12:40:10 am\n      ']	0.0
+["Tony Blair insists immigration from the EU has not been a problem as he pleads with Britons to make 'rational' decision in the referendum"]	The Daily Mail	['\n        By ', '  -\n\n        May 4th 2016, 12:35:05 am\n      ']	0.0
+['Greek finance minister who became a sex icon has a warning: Britain must stay in the EU - to save us from the Germans']	The Daily Mail	['\n        By ', '  -\n\n        May 4th 2016, 12:14:45 am\n      ']	0.0
+['ALEX BRUMMER: Wobbles could topple the London Stock Exchange']	The Daily Mail	['\n        By ', '  -\n\n        May 3rd 2016, 11:37:51 pm\n      ']	0.0
+["The Dastardly MR DEEDES: Former Tory treasurer Lord Fink hosts lavish celebrations for son's wedding"]	The Daily Mail	['\n        By ', '  -\n\n        May 3rd 2016, 11:23:35 pm\n      ']	0.0
+["Fed's Lockhart: Brexit could 'loom large' over June policy meeting"]	Reuters	['\n        By ', '  -\n\n        May 3rd 2016, 11:00:01 pm\n      ']	0.214285714286
+[u"EXCLUSIVE: Trump says he'll keep droning terrorists, hold more press conferences, tell jokes to roast his rivals and spice up the 'boring' GOP convention \u2013 and promises not to tear up Michelle Obama's garden to practice his golf swing"]	The Daily Mail	['\n        By ', '  -\n\n        May 3rd 2016, 5:45:23 pm\n      ']	-0.25
+['Coloplast hails UK growth but cuts outlook on weak pound']	Reuters	['\n        By ', '  -\n\n        May 3rd 2016, 4:12:31 pm\n      ']	-0.375
+["'Can you explain Quantum Field Theory?' Twitter users tease Zoella with tricky questions as the YouTube star hosts a live Q&A with fans"]	The Daily Mail	['\n        By ', '  -\n\n        May 3rd 2016, 3:25:36 pm\n      ']	0.136363636364
+['UK\'s "Out" camp lead narrows ahead of EU referendum -ICM poll']	Reuters	['\n        By ', '  -\n\n        May 3rd 2016, 1:32:41 pm\n      ']	0.0
+['Brexit supporters condemn fresh German push to establish a European army']	The Daily Mail	['\n        By ', '  -\n\n        May 3rd 2016, 1:11:02 pm\n      ']	0.1
+['First Barack Obama, now legendary US investor Warren Buffett urges us to stay in the EU... and Bill Clinton is next in the queue']	The Daily Mail	['\n        By ', '  -\n\n        May 3rd 2016, 11:59:59 am\n      ']	0.416666666667
+['Brexit uncertainty to weigh on UK economy, EU says']	Reuters	['\n        By ', '  -\n\n        May 3rd 2016, 11:43:14 am\n      ']	0.0
+["UK manufacturing slumps to lowest level since 2013 as orders dry up on 'Brexit' fears and slow global growth"]	The Daily Mail	['\n        By ', '  -\n\n        May 3rd 2016, 10:54:22 am\n      ']	-0.122222222222
+['The French will hammer you if there is a Brexit vote in the referendum, warns former trade chief']	The Daily Mail	['\n        By ', '  -\n\n        May 3rd 2016, 9:36:52 am\n      ']	0.0
+['FTSE CLOSE: Footsie joins global sell-off after disappointing China factory data; oil price falls to $45']	The Daily Mail	['\n        By ', '  -\n\n        May 3rd 2016, 8:30:18 am\n      ']	-0.3
+['DEALTALK-ICE may have more time to consider bid for London bourse']	Reuters	['\n        By ', '  -\n\n        May 3rd 2016, 6:43:42 am\n      ']	0.5
+['Lufthansa slows growth plans on price pressure']	Reuters	['\n        By ', '  -\n\n        May 3rd 2016, 5:39:29 am\n      ']	0.0
+[u"Quitting the EU would cost Britain \xa3250bn, says Darling: Labour peer's trade warning branded 'absurd' by Brexit supporters\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        May 3rd 2016, 12:14:47 am\n      ']	-0.5
+[u'More than 30,000 Europeans a year are arrested in London: 80 people a day are held as Brexit campaigners say staying in the EU would put huge pressure on prisons\xa0']	The Daily Mail	['\n        By ', '  -\n\n        May 2nd 2016, 11:46:35 pm\n      ']	0.45
+["EXCLUSIVE: Trump says Obama should NOT have taken sides on 'Brexit' vote and pledges that he won't 'give Britain any advice' on staying in the EU"]	The Daily Mail	['\n        By ', '  -\n\n        May 2nd 2016, 10:49:25 pm\n      ']	0.0
+["Britain's economy set to slow further after collapse in confidence among business"]	The Daily Mail	['\n        By ', '  -\n\n        May 2nd 2016, 10:41:28 pm\n      ']	-0.15
+['FOREX-Dollar stabilizes vs yen, weakens against other major currencies']	Reuters	['\n        By ', '  -\n\n        May 2nd 2016, 7:31:10 pm\n      ']	-0.03125
+['EU trade chief declares love for Britain, vows tough line on China']	Reuters	['\n        By ', '  -\n\n        May 2nd 2016, 5:57:47 pm\n      ']	0.0555555555556
+["Emma Thompson abandons a lifetime of voting Labour despite Jeremy Corbyn's 'inspiring' leadership because the party is failing to address the gender pay gap"]	The Daily Mail	['\n        By ', '  -\n\n        May 2nd 2016, 5:22:34 pm\n      ']	0.5
+["Brexit campaign blasted for referendum 'gimmicks' by Dragons' Den star Hilary Devey after casting FAKE 'dragons' for a TV blitz"]	The Daily Mail	['\n        By ', '  -\n\n        May 2nd 2016, 3:29:54 pm\n      ']	-0.55
+['FOREX-Dollar rebounds vs yen, slips against other major currencies']	Reuters	['\n        By ', '  -\n\n        May 2nd 2016, 3:10:33 pm\n      ']	-0.03125
+['DEALTALK-ICE may have more time to consider bid for London bourse']	Reuters	['\n        By ', '  -\n\n        May 2nd 2016, 5:00:01 am\n      ']	0.5
+["My friendship with Boris hit by a rift over the EU, admits Cameron: PM says he is 'not such good friends' with his old rival after disagreements about Europe"]	The Daily Mail	['\n        By ', '  -\n\n        May 2nd 2016, 1:33:28 am\n      ']	0.266666666667
+[u"Leaving EU would endanger Earth, says Miliband: Former Labour leader issues extraordinary warning that 'our global habitat' will suffer if Britain leaves\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        May 2nd 2016, 1:17:05 am\n      ']	0.111111111111
+[u'ANDREW PIERCE: So did Corbyn refuse to back leading Jews?\xa0']	The Daily Mail	['\n        By ', '  -\n\n        May 2nd 2016, 1:06:11 am\n      ']	0.0
+["EU debate 'has strained Cameron's friendship with Johnson'"]	Press Association	['\n        By ', '  -\n\n        May 2nd 2016, 12:14:39 am\n      ']	0.0
+["'Jobs, low prices and financial security at risk' if UK backs Brexit"]	Press Association	['\n        By ', '  -\n\n        May 2nd 2016, 12:14:39 am\n      ']	0.0
+['Labour candidate favourite for London mayor after racially charged campaign']	Reuters	['\n        By ', '  -\n\n        May 1st 2016, 1:34:43 pm\n      ']	0.0
+['Sturgeon says Scottish independence vote likely if she wins election']	Reuters	['\n        By ', '  -\n\n        May 1st 2016, 12:00:01 pm\n      ']	0.15
+['Sturgeon says Scottish independence vote likely if she wins election']	Reuters	['\n        By ', '  -\n\n        May 1st 2016, 11:58:54 am\n      ']	0.15
+["Australia 'would welcome UK staying in the EU'"]	Press Association	['\n        By ', '  -\n\n        May 1st 2016, 11:17:53 am\n      ']	0.8
+['Nicola Sturgeon: Brexit might encourage Scottish independence']	The Daily Mail	['\n        May 1st 2016, 11:02:34 am\n      ']	0.0
+["Brexit campaign retains edge before June's EU referendum - ICM"]	Reuters	['\n        By ', '  -\n\n        May 1st 2016, 10:41:09 am\n      ']	0.0
+["He's running scared! Former Cabinet minister IDS accuses David Cameron of dodging TV showdown on Brexit as ANOTHER poll shows Obama warning made no difference"]	The Daily Mail	['\n        By ', '  -\n\n        May 1st 2016, 10:30:40 am\n      ']	0.0
+[u"'It was a slap in the face': Joker-in-chief Obama laughs about meeting Prince George in his dressing gown - then ends his final Correspondents' Dinner with a MIC DROP\xa0"]	The Daily Mail	['\n        By ', ' ', '  -\n\n        May 1st 2016, 9:22:51 am\n      ']	0.0
+['Muslim favourite to run London after racially charged campaign']	Reuters	['\n        By ', '  -\n\n        May 1st 2016, 9:00:01 am\n      ']	0.0
+[u'Why my mother, an Auschwitz survivor, would think us mad to even consider Brexit: A passionate entreaty to stay IN... from the man who turned BP into a global leviathan\xa0']	The Daily Mail	['\n        By ', '  -\n\n        May 1st 2016, 1:00:31 am\n      ']	-0.225
+["Labour is 'united' in fighting anti-Semitism, Corbyn insists"]	Press Association	['\n        By ', '  -\n\n        May 1st 2016, 12:57:04 am\n      ']	0.0
+[u"Justine Greening 'to be sacked over foreign aid fiasco' after public backlash against wasteful spending\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        April 30th 2016, 11:31:38 pm\n      ']	-0.0625
+[u"'If there's a 51/49 vote for Brexit on a low turnout, Parliament simply won't allow it': Vince Cable wades into the referendum and the BHS row\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        April 30th 2016, 3:28:30 pm\n      ']	0.0
+["European courts 'go easy on the UK' in the run-up to Brexit referendum because they're worried about scaring voters"]	The Daily Mail	['\n        By ', '  -\n\n        April 30th 2016, 1:56:21 am\n      ']	0.216666666667
+[u"Meet George Osborne's very naughty - and hilariously indiscreet - uncle: Look away, Chancellor. He's letting rip on the royals, his chum Lord Lucan and why you're barmy on Brexit\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        April 30th 2016, 12:01:40 am\n      ']	0.1525
+['Deutsche Boerse retracts merger comment at UK request']	Reuters	['\n        By ', '  -\n\n        April 29th 2016, 7:48:05 pm\n      ']	0.0
+['Transatlantic trade talks claim progress, see deal this year']	The Daily Mail	['\n        By ', '  -\n\n        April 29th 2016, 7:00:37 pm\n      ']	0.0
+['INVESTMENT EXTRA: With share prices yo-yoing over Brexit fears, should you bet on a house building boom?']	The Daily Mail	['\n        By ', '  -\n\n        April 29th 2016, 6:41:30 pm\n      ']	0.0
+[u'BRIEF-Takeover Panel asks Deutsche B\xf6rse to retracts exec statements']	Reuters	['\n        By ', '  -\n\n        April 29th 2016, 5:12:50 pm\n      ']	0.0
+['Ratings agency S&P sees UK staying in EU by small majority']	Reuters	['\n        By ', '  -\n\n        April 29th 2016, 4:32:49 pm\n      ']	-0.25
+['Britain and Brexit: what the rest of the world says']	Reuters	['\n        By ', '  -\n\n        April 29th 2016, 4:06:46 pm\n      ']	0.0
+['Hedge fund managers Crispin Odey and Paul Marshall say Brexit would help London']	Reuters	['\n        By ', '  -\n\n        April 29th 2016, 2:19:45 pm\n      ']	0.0
+['Sterling at 12-week high as investors step up dollar selling']	Reuters	['\n        By ', '  -\n\n        April 29th 2016, 2:06:06 pm\n      ']	0.16
+['British financiers Odey, Hargreaves and Marshall say Brexit would help London']	Reuters	['\n        By ', '  -\n\n        April 29th 2016, 1:13:56 pm\n      ']	0.0
+['POLL-Bank of England likely to keep rates unchanged until early 2017']	Reuters	['\n        By ', '  -\n\n        April 29th 2016, 11:40:02 am\n      ']	0.05
+['Brexit could cost each Briton 45,000 pounds in lost wealth-JPMorgan']	Reuters	['\n        By ', '  -\n\n        April 29th 2016, 11:27:50 am\n      ']	0.0
+["'Splendid isolation' would leave UK weaker, says Sir John Major"]	Press Association	['\n        By ', '  -\n\n        April 29th 2016, 11:09:46 am\n      ']	0.447916666667
+["Sir John Major under fire for saying Brexit supporters should move to North Korea if they want 'undiluted' sovereignty"]	The Daily Mail	['\n        By ', ' ', '  -\n\n        April 29th 2016, 10:57:47 am\n      ']	0.0625
+['FTSE CLOSE: Footsie slides into red as traders mull over dire state of UK banking; oil price nudges $48']	The Daily Mail	['\n        By ', '  -\n\n        April 29th 2016, 10:07:36 am\n      ']	0.0
+[u'Royal Bank of Scotland racks up nearly \xa31billion loss in just three months as experts warn no dividend is likely until 2018']	The Daily Mail	['\n        By ', '  -\n\n        April 29th 2016, 8:50:43 am\n      ']	0.05
+['Ex-UK PM Major says relations with U.S. would "wither" after Brexit']	Reuters	['\n        By ', '  -\n\n        April 29th 2016, 8:31:53 am\n      ']	0.0625
+['Sterling soars to 12-week high as investors dump dollars']	Reuters	['\n        By ', '  -\n\n        April 29th 2016, 8:28:07 am\n      ']	0.16
+['FOREX-Yen heads for best week since 2008 as dollar bulls sag']	Reuters	['\n        By ', '  -\n\n        April 29th 2016, 7:54:54 am\n      ']	1.0
+[u'Royal Bank of Scotland slumps to \xa3968m first-quarter loss']	Press Association	['\n        By ', '  -\n\n        April 29th 2016, 7:40:23 am\n      ']	0.0
+['George Osborne vows to cut business rates to boost local press']	Press Association	['\n        By ', '  -\n\n        April 29th 2016, 7:40:23 am\n      ']	0.0
+['BA-owner IAG slows expansion plans after Brussels attacks']	Reuters	['\n        By ', '  -\n\n        April 29th 2016, 6:41:38 am\n      ']	0.0
+["DAILY MAIL COMMENT: Labour's anti-semites put the party in peril"]	The Daily Mail	['\n        By ', '  -\n\n        April 29th 2016, 1:30:49 am\n      ']	0.0
+["SEBASTIAN SHAKESPEARE: 'Heartless' Jagger is jeered for tribute to L'Wren Scott after Twitter birthday post to his late lover"]	The Daily Mail	['\n        By ', '  -\n\n        April 29th 2016, 1:00:57 am\n      ']	-0.3
+[u'Cameron blasted for joining ex-union boss in push to stay in the EU: Leading eurosceptic says it is extraordinary the PM would team up with someone who constantly attacked the Tories\xa0']	The Daily Mail	['\n        By ', ' ', '  -\n\n        April 29th 2016, 12:47:09 am\n      ']	-0.0888888888889
+[u"Workers would be better off by \xa340 a week after Brexit, say economists: Group brand the euro an 'unmitigated disaster' and say membership holds back growth\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        April 29th 2016, 12:38:43 am\n      ']	0.25
+[u'EPHRAIM HARDCASTLE:\xa0Sir Cliff Richard delighted in not being recognised as he strolled in New York']	The Daily Mail	['\n        By ', '  -\n\n        April 29th 2016, 12:02:11 am\n      ']	0.418181818182
+['Brexit vote uncertainty erodes UK consumer, business confidence']	Reuters	['\n        By ', '  -\n\n        April 28th 2016, 11:05:03 pm\n      ']	0.0
+[u'Europe will only avoid \u2018sleepwalking\u2019 into a conflict between members states if Britain votes to leave, warns Armed Forces Minister\xa0']	The Daily Mail	['\n        By ', '  -\n\n        April 28th 2016, 9:21:07 pm\n      ']	0.0
+['EU would divorce UK before any new relationship -sources']	Reuters	['\n        By ', '  -\n\n        April 28th 2016, 7:07:22 pm\n      ']	0.136363636364
+["US economy's slowdown is worse than UK's: American output rose by barely 0.1% in the first quarter of the year"]	The Daily Mail	['\n        By ', '  -\n\n        April 28th 2016, 6:31:14 pm\n      ']	0.1
+['Could your pension pot really be wiped out before you retire? Six threats that could upset your carefully-laid pension plans - and how to avoid them']	The Daily Mail	['\n        By ', '  -\n\n        April 28th 2016, 4:59:55 pm\n      ']	0.2
+['EU would divorce UK before any new relationship -sources']	Reuters	['\n        By ', '  -\n\n        April 28th 2016, 4:53:38 pm\n      ']	0.136363636364
+['Sterling resumes rally, climbs towards 12-week high']	Reuters	['\n        By ', '  -\n\n        April 28th 2016, 4:05:41 pm\n      ']	0.16
+["'Depressed' Brits are reeling over the state of the economy as consumer confidence is hit by Brexit fears"]	The Daily Mail	['\n        By ', '  -\n\n        April 28th 2016, 2:59:55 pm\n      ']	0.0
+['EU would divorce UK before any new relationship -sources']	Reuters	['\n        By ', '  -\n\n        April 28th 2016, 2:48:49 pm\n      ']	0.136363636364
+['Britain and Brexit, what the rest of the world says']	Reuters	['\n        By ', '  -\n\n        April 28th 2016, 2:21:25 pm\n      ']	0.0
+["'Cover-up' of e-border controls breakdown needs explaining, says Labour"]	Press Association	['\n        By ', '  -\n\n        April 28th 2016, 2:11:34 pm\n      ']	0.0
+[u"Furious Tories accuse David Cameron of 'selling Government policy for cash' in 'shabby' \xa31.7m deal to secure trade union support for staying in the EU"]	The Daily Mail	['\n        By ', '  -\n\n        April 28th 2016, 1:59:38 pm\n      ']	0.4
+['Pro-Brexit economists hail benefit of scrapping EU tariffs and rules']	Reuters	['\n        By ', '  -\n\n        April 28th 2016, 1:21:40 pm\n      ']	0.0
+['Brexit-fearing banks make inquiries about move to Paris']	Reuters	['\n        By ', '  -\n\n        April 28th 2016, 1:08:59 pm\n      ']	0.0
+['UK trade deal with EU could take over a decade after Brexit-minister']	Reuters	['\n        By ', '  -\n\n        April 28th 2016, 1:04:30 pm\n      ']	0.0
+["What Obama effect? Polls find British voters are REJECTING the US President's plea to stay in the EU as the Brexit camp moves into the lead in major blow for Cameron"]	The Daily Mail	['\n        By ', '  -\n\n        April 28th 2016, 11:46:57 am\n      ']	0.03125
+['UK trade deal with EU could take over a decade after Brexit-minister']	Reuters	['\n        By ', '  -\n\n        April 28th 2016, 11:11:20 am\n      ']	0.0
+["WPP enjoys sales rise ahead of sports events 'bonus' but repeats Brexit fears"]	Press Association	['\n        By ', '  -\n\n        April 28th 2016, 10:32:22 am\n      ']	0.0
+['British expats lose their High Court battle over the right to vote in the EU referendum']	The Daily Mail	['\n        By ', '  -\n\n        April 28th 2016, 10:00:15 am\n      ']	0.148571428571
+['Leaving EU would boost UK economy by 4 pct - economists']	Reuters	['\n        By ', '  -\n\n        April 28th 2016, 9:31:09 am\n      ']	0.0
+["'Brexit smexit' says builder Taylor Wimpey ahead of the potential EU vote fall out as house sales rise 14%"]	The Daily Mail	['\n        By ', '  -\n\n        April 28th 2016, 9:23:19 am\n      ']	0.0
+['Are we on the verge of a property correction? House prices fall across the country in March - outside London and the East']	The Daily Mail	['\n        By ', '  -\n\n        April 28th 2016, 9:03:49 am\n      ']	0.0
+['FTSE CLOSE: Falling banking stocks and Bank of Japan stimulus news drag on the Footsie']	The Daily Mail	['\n        By ', '  -\n\n        April 28th 2016, 8:43:03 am\n      ']	-0.1
+["Sterling's rally resumes, gains towards 12-wk high vs soft dollar"]	Reuters	['\n        By ', '  -\n\n        April 28th 2016, 8:03:22 am\n      ']	0.13
+['Taylor Wimpey says not impacted by Brexit uncertainty yet']	Reuters	['\n        By ', '  -\n\n        April 28th 2016, 6:30:10 am\n      ']	0.0
+["David Cameron: EU Remain campaign supported by 'extraordinary coalition'"]	Press Association	['\n        By ', '  -\n\n        April 28th 2016, 2:00:19 am\n      ']	0.333333333333
+["STEPHEN GLOVER: Boris has many flaws - but he's been proved right on the EU's diesel stitch-up"]	The Daily Mail	['\n        By ', '  -\n\n        April 28th 2016, 1:01:43 am\n      ']	0.392857142857
+[u"Brussels diktats 'costing families \xa34,600 a year': Employment minister to say homes and small businesses are being 'throttled' and a Brexit would boost the economy by billions\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        April 28th 2016, 12:30:07 am\n      ']	-0.25
+['Demand for UK commercial property plummets ahead of referendum']	Press Association	['\n        By ', '  -\n\n        April 28th 2016, 12:17:10 am\n      ']	0.0
+['Brexit would put millions of workers at greater risk of accidents, says TUC']	Press Association	['\n        By ', '  -\n\n        April 28th 2016, 12:17:10 am\n      ']	0.5
+['Brexit vote nerves turn overseas investors off UK commercial property - RICS']	Reuters	['\n        By ', '  -\n\n        April 27th 2016, 11:01:01 pm\n      ']	0.0
+["CITY DIARY: More tales of twice bankrupt BHS bidder Dominic Chappell's business buffoonery"]	The Daily Mail	['\n        By ', '  -\n\n        April 27th 2016, 8:57:50 pm\n      ']	0.5
+[u"Silent shame of the LSE shareholders: Why weren't bosses quizzed on stock exchange takeover?\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        April 27th 2016, 8:43:41 pm\n      ']	0.0
+["ALEX BRUMMER: EU campaign has turned Osborne from UK economy's biggest cheerleader into its chief gloomster"]	The Daily Mail	['\n        By ', '  -\n\n        April 27th 2016, 6:35:24 pm\n      ']	0.0
+[u"'One day we'll join the EURO' admits Tory grandee Michael Heseltine as he claims Margaret Thatcher would have voted to stay IN the EU\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        April 27th 2016, 5:12:12 pm\n      ']	0.0
+['Fed expected to keep policy on hold; outlook in focus']	The Daily Mail	['\n        By ', '  -\n\n        April 27th 2016, 3:46:35 pm\n      ']	-0.1
+[u"Lifetime Isas should NOT be used as pensions - and probably won't even last a lifetime, warns pensions minister Baroness Altmann\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        April 27th 2016, 3:24:54 pm\n      ']	0.0
+[u"David Cameron mocks Nigel Farage for the way he pronounces his 'poncey, foreign-sounding' name\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        April 27th 2016, 2:41:15 pm\n      ']	0.0
+[u"The BBC is being 'excessively deferential' to the Brexit campaign to avoid claims of bias, ex-EU commissioner claims\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        April 27th 2016, 1:48:02 pm\n      ']	-0.25
+['Greece says IMF undermining bailout talks as pay day looms']	Reuters	['\n        By ', '  -\n\n        April 27th 2016, 1:28:13 pm\n      ']	0.0
+['Scottish first minister says would not rule out staying in EU and UK']	Reuters	['\n        By ', '  -\n\n        April 27th 2016, 12:38:21 pm\n      ']	0.25
+['German consumer morale brightens heading into May']	Reuters	['\n        By ', '  -\n\n        April 27th 2016, 12:12:07 pm\n      ']	0.0
+[u"I'll put 'America First': Trump unveils his foreign policy as he slams 'no vision, no purpose, no direction, no strategy' Obama and Clinton \u2013 but his slogan has a Nazi past"]	The Daily Mail	['\n        By ', '  -\n\n        April 27th 2016, 11:57:39 am\n      ']	-0.0416666666667
+['Foxtons sales surge by 16.2% as house buyers rush to beat stamp duty rise']	Press Association	['\n        By ', '  -\n\n        April 27th 2016, 10:18:19 am\n      ']	0.0
+["George Osborne claims the threat of Brexit is 'weighing on the economy' as growth slows down sharply"]	The Daily Mail	['\n        By ', '  -\n\n        April 27th 2016, 9:44:03 am\n      ']	-0.140277777778
+['UK faces "major negative shock" if leaves EU - OECD']	Reuters	['\n        By ', '  -\n\n        April 27th 2016, 9:30:01 am\n      ']	-0.11875
+['Economic watchdog warns on UK leaving European Union']	Associated Press	['\n        By ', '  -\n\n        April 27th 2016, 9:09:09 am\n      ']	0.1
+[u"Quitting EU 'would cut migration by 116,000': Osborne's claims on immigration undermined after OECD 'backs case for UK to control its borders'\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        April 27th 2016, 9:03:54 am\n      ']	0.0
+["OECD warns Brexit would cost British workers a month's salary in lost income by 2020 as data shows UK growth slowing"]	The Daily Mail	['\n        By ', '  -\n\n        April 27th 2016, 9:01:49 am\n      ']	0.0
+[u'Barclays profits plunge 25% after tough trading at its investment banking arm \xa0']	The Daily Mail	['\n        By ', '  -\n\n        April 27th 2016, 8:37:00 am\n      ']	-0.388888888889
+[u'FTSE CLOSE: Footsie finishes higher on firmer oil price; traders cautious ahead of US Fed interest rate decision\xa0']	The Daily Mail	['\n        By ', '  -\n\n        April 27th 2016, 8:36:57 am\n      ']	0.25
+['Sterling firm near 12-week high, awaits UK GDP reading']	Reuters	['\n        By ', '  -\n\n        April 27th 2016, 8:02:50 am\n      ']	0.02
+['Britain would pay a "Brexit tax" outside the EU - OECD']	Reuters	['\n        By ', '  -\n\n        April 27th 2016, 7:25:44 am\n      ']	0.0
+["Brexit would cost Britons a month's salary by 2020 - OECD report"]	Reuters	['\n        By ', '  -\n\n        April 27th 2016, 6:42:15 am\n      ']	0.0
+['London Stock Exchange, Deutsche Boerse say merger on track']	Reuters	['\n        By ', '  -\n\n        April 27th 2016, 6:37:11 am\n      ']	0.0
+['Santander defies Brazil gloom, beats capital and profit forecasts']	Reuters	['\n        By ', '  -\n\n        April 27th 2016, 6:04:25 am\n      ']	-0.133333333333
+["EU Remain camp leaders 'using encrypted messages on WhatsApp to discuss their tactics meaning crucial decisions will not be open to public scrutiny'"]	The Daily Mail	['\n        By ', ' ', '  -\n\n        April 27th 2016, 2:51:34 am\n      ']	0.0
+["Vatican says Britain 'better in than out' amid CoE Brexit row"]	The Daily Mail	['\n        April 27th 2016, 1:23:21 am\n      ']	0.5
+["Brexit poses 'triple threat' to jobs, wages and prices, PM and ex-TUC chief warn"]	Press Association	['\n        By ', '  -\n\n        April 27th 2016, 12:43:10 am\n      ']	0.0
+[u"At mention of Obama, Mr Field's rheumy eyes gleam: QUENTIN LETTS yesterday in Parliament\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        April 27th 2016, 12:39:34 am\n      ']	0.0
+["MARKET REPORT: Carpetright floored by savage slump in shares despite analysts' positive reaction to their fourth quarter trading update"]	The Daily Mail	['\n        By ', '  -\n\n        April 26th 2016, 8:19:34 pm\n      ']	0.113636363636
+['Sterling hits 12-week high against the dollar as investors brush off Brexit fears']	The Daily Mail	['\n        By ', '  -\n\n        April 26th 2016, 8:17:45 pm\n      ']	0.16
+['German bosses behind LSE takeover insist it must be based in Frankfurt if Britain leaves the EU']	The Daily Mail	['\n        By ', '  -\n\n        April 26th 2016, 8:13:48 pm\n      ']	-0.2
+['Fed meets on interest rates but markets eye June decision']	The Daily Mail	['\n        By ', '  -\n\n        April 26th 2016, 6:30:27 pm\n      ']	0.0
+["Boris Johnson's hopes for Brexit on the slide, says Orbit artist Kapoor"]	Press Association	['\n        By ', '  -\n\n        April 26th 2016, 4:59:37 pm\n      ']	0.0
+['Dollar, Treasuries prices fall as investors await central bank meetings']	Reuters	['\n        By ', '  -\n\n        April 26th 2016, 4:32:08 pm\n      ']	0.0
+['Inside Vote Leave & Vote Remain: How the politicians are voting']	The Daily Mail	['\n        April 26th 2016, 4:16:17 pm\n      ']	0.0
+['"Out means out", German lawmakers warn Britain on Brexit']	Reuters	['\n        By ', '  -\n\n        April 26th 2016, 4:08:00 pm\n      ']	0.0
+['Another estate agency warns that EU vote uncertainties will lead to slowdown in the UK housing market']	The Daily Mail	['\n        By ', '  -\n\n        April 26th 2016, 3:10:35 pm\n      ']	0.0
+['Narrow lead for Brexit ahead of EU referendum - ICM poll']	Reuters	['\n        By ', '  -\n\n        April 26th 2016, 2:52:23 pm\n      ']	-0.2
+[u'First the pro-EU campaign drafts in President Obama... now GOD wants you to vote against Brexit in the referendum \xa0\xa0']	The Daily Mail	['\n        By ', '  -\n\n        April 26th 2016, 2:33:10 pm\n      ']	0.225
+['JD Wetherspoon head vows to keep up staff bonuses despite national living wage']	Press Association	['\n        By ', '  -\n\n        April 26th 2016, 2:02:37 pm\n      ']	0.0
+["Merkel's conservatives warn no special treatment for Britain after Brexit"]	Reuters	['\n        By ', '  -\n\n        April 26th 2016, 11:34:14 am\n      ']	-0.178571428571
+['Albania mention by Brexit supporters surprises premier']	Associated Press	['\n        By ', '  -\n\n        April 26th 2016, 11:30:18 am\n      ']	0.0
+['Sterling reaches 12-week high as funds trim Brexit bets']	Reuters	['\n        By ', '  -\n\n        April 26th 2016, 10:44:15 am\n      ']	0.16
+[u"Barack Obama's trade threat to Britain has increased support for Brexit as a string of polls show voters are ignoring the US President's claims\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        April 26th 2016, 9:45:45 am\n      ']	0.0
+["Just weeks before Brexit vote, European Commission announces plans to sue Britain for 'unfair' road tolls on foreign trucks"]	The Daily Mail	['\n        By ', '  -\n\n        April 26th 2016, 9:29:48 am\n      ']	-0.208333333333
+['Stocks, oil prices climb as investors ready for Fed, BOJ']	Reuters	['\n        By ', '  -\n\n        April 26th 2016, 9:28:10 am\n      ']	0.2
+["UK support for Brexit rises despite Obama's call - opinion polls"]	Reuters	['\n        By ', '  -\n\n        April 26th 2016, 9:28:10 am\n      ']	0.0
+['FTSE CLOSE: Footsie holds gains thanks to oil price nudging $46; Apple lower in US ahead of results']	The Daily Mail	['\n        By ', '  -\n\n        April 26th 2016, 8:35:49 am\n      ']	0.2
+['In European tour Obama shows support for his closest allies']	Reuters	['\n        By ', '  -\n\n        April 26th 2016, 2:01:34 am\n      ']	0.0
+['Off with his head! Paterson invokes spirit of the Civil War: QUENTIN LETTS on a no nonsense case for Brexit']	The Daily Mail	['\n        By ', '  -\n\n        April 26th 2016, 1:10:24 am\n      ']	0.0
+['EPHRAIM HARDCASTLE: Still more fanciable at 50 than rivals half her age, Actress Elizabeth Hurley has entered the EU debate']	The Daily Mail	['\n        By ', '  -\n\n        April 26th 2016, 12:56:05 am\n      ']	0.166666666667
+[u"Tycoon's \xa31m Brexit boost: Businessmen hands money to two groups in bid to get leave campaign back on track"]	The Daily Mail	['\n        By ', '  -\n\n        April 26th 2016, 12:55:16 am\n      ']	0.0
+['Asian stocks retreat ahead of Fed, BOJ meetings']	Reuters	['\n        By ', '  -\n\n        April 26th 2016, 12:51:16 am\n      ']	0.0
+['Vote Brexit to save the Great British Banger: CRAIG BROWN imagines the next seven days of the referendum debate']	The Daily Mail	['\n        By ', '  -\n\n        April 26th 2016, 12:48:51 am\n      ']	0.266666666667
+['Brexit could lead to less protection for Falklands and Gibraltar, MPs told']	Press Association	['\n        By ', '  -\n\n        April 26th 2016, 12:48:24 am\n      ']	-0.166666666667
+[u'Hollywood comes to Hertfordshire: Matt Damon pays visit to pub and leaves each of the bar staff \xa370 tip']	The Daily Mail	['\n        By ', '  -\n\n        April 26th 2016, 12:45:40 am\n      ']	0.0
+[u"Britain must quit Europe's human rights court, says May: Home Secretary opens up major split with No 10 by saying UK must leave if it wants to kick out terrorists and foreign criminals\xa0"]	The Daily Mail	['\n        By ', ' ', '  -\n\n        April 26th 2016, 12:30:19 am\n      ']	0.034375
+["Labour MP Frank Field wants voters to deliver EU vote 'punch in the nose'"]	Press Association	['\n        By ', '  -\n\n        April 26th 2016, 12:13:16 am\n      ']	0.2
+['FOREX-Yen gains on dollar, euro but stays on defensive ahead of BOJ']	Reuters	['\n        By ', '  -\n\n        April 25th 2016, 11:41:06 pm\n      ']	0.0
+['GLOBAL-MARKETS-U.S. stocks fall on oil, earnings; dollar retreats']	Reuters	['\n        By ', '  -\n\n        April 25th 2016, 8:54:24 pm\n      ']	0.0
+["DAILY BRIEFING: Shell's takeover of BG Group will see gas giant's Reading office closed as part of plan to cull 10,300 jobs worldwide"]	The Daily Mail	['\n        By ', '  -\n\n        April 25th 2016, 7:49:42 pm\n      ']	-0.0333333333333
+["MARKET REPORT: St Ives plummets as marketing firm issues profit warning blaming global 'economic uncertainty'"]	The Daily Mail	['\n        By ', '  -\n\n        April 25th 2016, 7:14:07 pm\n      ']	0.0
+['Brexit would threaten London financial dominance - UK minister Jo Johnson']	Reuters	['\n        By ', '  -\n\n        April 25th 2016, 7:04:36 pm\n      ']	0.0
+['US, EU resume trade talks shadowed by election, Brexit']	The Daily Mail	['\n        By ', '  -\n\n        April 25th 2016, 6:10:38 pm\n      ']	0.0
+["Britain's trade options after Brexit - no easy way out"]	Reuters	['\n        By ', '  -\n\n        April 25th 2016, 4:35:27 pm\n      ']	-0.216666666667
+['UK lawmakers demand to see civil servant who wrote a blueprint for Brexit']	Reuters	['\n        By ', '  -\n\n        April 25th 2016, 4:01:44 pm\n      ']	0.0
+['Sterling soars to 10-week high as bets on Brexit ebb']	Reuters	['\n        By ', '  -\n\n        April 25th 2016, 3:58:04 pm\n      ']	0.16
+['Ex-Cabinet minster compares David Cameron to the beheaded Charles I and insists the Brexit wars will never end if the Remain campaign wins on June 23']	The Daily Mail	['\n        By ', '  -\n\n        April 25th 2016, 2:39:20 pm\n      ']	0.3
+['In Germany, Obama urges Europe to stay united for good of the world']	Reuters	['\n        By ', '  -\n\n        April 25th 2016, 12:57:29 pm\n      ']	0.7
+['Theresa May admits Britain would flourish OUTSIDE the EU but says we should stay in the Brussels club to protect us against terrorists']	The Daily Mail	['\n        By ', ' ', '  -\n\n        April 25th 2016, 12:37:13 pm\n      ']	0.0
+['Junior doctors strike could be settled with money from less than THREE WEEKS of our contributions to the European Union, Cabinet minister insists']	The Daily Mail	['\n        By ', '  -\n\n        April 25th 2016, 12:27:28 pm\n      ']	-0.0833333333333
+["Labour MP accuses Boris Johnson of being the DONALD TRUMP of British politics after 'racist' attack on Obama"]	The Daily Mail	['\n        By ', '  -\n\n        April 25th 2016, 12:20:36 pm\n      ']	0.0
+[u'British manufacturing sees some green shoots in the face of external headwinds and ongoing export concerns\xa0']	The Daily Mail	['\n        By ', '  -\n\n        April 25th 2016, 12:08:47 pm\n      ']	-0.0666666666667
+['Sterling near 6-week highs vs euro on lower Brexit chances']	Reuters	['\n        By ', '  -\n\n        April 25th 2016, 11:48:18 am\n      ']	0.1
+[u"Bankers told to delay their summer holidays until after June's EU referendum as bosses make contingency plans for Brexit - and there's big profits to be made either way\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        April 25th 2016, 11:38:04 am\n      ']	0.0
+[u"Obama really DOES see Europe through rose-tinted glasses: Now US president angers the Germans by praising Merkel's decision to let in a million migrants\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        April 25th 2016, 11:28:20 am\n      ']	0.2
+['Stocks, dollar stumble ahead of Fed, BOJ meetings']	Reuters	['\n        By ', '  -\n\n        April 25th 2016, 11:19:36 am\n      ']	-0.05
+["Boris Johnson: Barack Obama's Brexit comments 'ridiculous'"]	The Daily Mail	['\n        April 25th 2016, 10:42:57 am\n      ']	-0.333333333333
+['Yen recovers, data shows outright swing against dollar']	Reuters	['\n        By ', '  -\n\n        April 25th 2016, 10:37:38 am\n      ']	0.0
+['Markets Right Now: Oil drop, weak earnings weigh on stocks']	Associated Press	['\n        By ', '  -\n\n        April 25th 2016, 10:04:02 am\n      ']	-0.0446428571429
+['Sterling near 6-week highs vs euro on lower Brexit chances']	Reuters	['\n        By ', '  -\n\n        April 25th 2016, 9:46:11 am\n      ']	0.1
+['Stocks, dollar stumble ahead of Fed, BOJ meetings']	Reuters	['\n        By ', '  -\n\n        April 25th 2016, 9:12:03 am\n      ']	-0.05
+["'He's right!' Former Cabinet minister IDS backs Boris over claim Obama wants us to stay in the EU because he is anti-British"]	The Daily Mail	['\n        By ', '  -\n\n        April 25th 2016, 8:47:52 am\n      ']	0.185714285714
+['FTSE CLOSE: Footsie sinks back as US stocks retreat on dull earnings and caution ahead of Federal Reserve meeting']	The Daily Mail	['\n        By ', '  -\n\n        April 25th 2016, 8:13:30 am\n      ']	-0.130555555556
+['FOREX-Yen recovers, data shows outright swing against dollar']	Reuters	['\n        By ', '  -\n\n        April 25th 2016, 7:59:14 am\n      ']	0.0
+['Sterling near 6-week highs vs euro as odds move against Brexit']	Reuters	['\n        By ', '  -\n\n        April 25th 2016, 7:42:48 am\n      ']	0.1
+['G5 summit to focus on migration, security and trade']	Press Association	['\n        By ', '  -\n\n        April 25th 2016, 3:21:22 am\n      ']	0.0
+["Obama to send 250 elite troops to Syria to fight ISIS as he warns Europe has been 'complacent' about its own defence prior to terror attacks"]	The Daily Mail	['\n        By ', ' ', '  -\n\n        April 25th 2016, 2:40:46 am\n      ']	0.3
+[u"Obama and a VERY PC hand-picked audience: Guests at 'town hall' style meeting included Iraqi refugee, 'non-binary' Muslim Student and jungle camp volunteer\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        April 25th 2016, 1:41:25 am\n      ']	0.2
+[u"Gove warns of migration 'free-for-all' if Britain votes to stay in the EU because expansion will hand millions from five nations including Turkey the right to move freely to the UK\xa0"]	The Daily Mail	['\n        By ', ' ', '  -\n\n        April 25th 2016, 1:35:20 am\n      ']	0.342857142857
+["Obama's grim warnings on Brexit falling apart: President admits UK would do a trade deal with the US while intelligence and defence relationship would be unchanged"]	The Daily Mail	['\n        By ', '  -\n\n        April 25th 2016, 12:44:28 am\n      ']	-1.0
+['Truth is the first casualty of EU referendum, experts say']	Press Association	['\n        By ', '  -\n\n        April 25th 2016, 12:33:53 am\n      ']	0.25
+['May call to quit ECHR signals differences at top of EU Remain campaign']	Press Association	['\n        By ', '  -\n\n        April 25th 2016, 12:33:53 am\n      ']	0.5
+["Scottish voters urged to rally in defence of UK's EU membership"]	Press Association	['\n        By ', '  -\n\n        April 25th 2016, 12:33:53 am\n      ']	0.0
+['Nigel Farage says anti-Brexit President Obama out for his own financial gain']	Press Association	['\n        By ', '  -\n\n        April 24th 2016, 8:28:07 pm\n      ']	0.3
+['Visa requirement on agenda if UK votes for Brexit, Leave campaigner says']	Press Association	['\n        By ', '  -\n\n        April 24th 2016, 5:27:10 pm\n      ']	0.0
+[u"Plans have been drawn up for a full-blown 'United States of Europe' and Britain will have little say, warns top Tory minister\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        April 24th 2016, 3:19:54 pm\n      ']	0.15625
+['Obama leaves the UK in Air Force One after eventful visit']	The Daily Mail	['\n        April 24th 2016, 2:27:31 pm\n      ']	0.0
+['Nearly three-quarters of people feel neither side in EU referendum debate has spelled out financial benefits to households']	The Daily Mail	['\n        By ', '  -\n\n        April 24th 2016, 1:45:11 pm\n      ']	0.05
+["Obama warns it would take a DECADE to get a trade deal with the US - but Vote Leave blasts there is NO 'queue' as the Brexit team hit back at the President"]	The Daily Mail	['\n        By ', '  -\n\n        April 24th 2016, 12:21:30 pm\n      ']	0.0
+['EU labour rules make it harder to control immigration, admits Theresa May']	Press Association	['\n        By ', '  -\n\n        April 24th 2016, 11:49:53 am\n      ']	-0.1
+["Even FARAGE distances himself from Boris after the Mayor's 'part-Kenyan' jibe at Barack Obama, insisting he should play the ball not the man"]	The Daily Mail	['\n        By ', '  -\n\n        April 24th 2016, 11:37:26 am\n      ']	0.0
+[u"Defence minister blasts Barack Obama for being IGNORANT about how EU judges and free movement hurt Britain's security as the President flies out of the UK\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        April 24th 2016, 10:55:17 am\n      ']	0.4
+['EU makes it harder for us to control migration, admits Home Secretary']	The Daily Mail	['\n        By ', '  -\n\n        April 24th 2016, 10:23:06 am\n      ']	-0.1
+['Leave campaigners seize on Theresa May comments about controlling immigration']	Press Association	['\n        By ', '  -\n\n        April 24th 2016, 10:11:20 am\n      ']	0.0
+['Obama: UK-US trade deal could take a decade after Brexit']	Associated Press	['\n        By ', '  -\n\n        April 24th 2016, 10:01:28 am\n      ']	0.0
+["Obama says Brexit wouldn't harm U.S.-UK intelligence sharing -BBC"]	Reuters	['\n        By ', '  -\n\n        April 24th 2016, 8:20:04 am\n      ']	0.0
+['Obama says post-Brexit UK-U.S. trade deal could take a decade']	Reuters	['\n        By ', '  -\n\n        April 24th 2016, 6:46:02 am\n      ']	0.0
+['With US economy in soft spot, Fed likely to keep policy on hold']	The Daily Mail	['\n        By ', '  -\n\n        April 24th 2016, 3:29:49 am\n      ']	0.05
+['Post-Brexit UK-U.S. trade deal could take a decade, Obama tells BBC']	Reuters	['\n        By ', '  -\n\n        April 24th 2016, 1:35:51 am\n      ']	0.0
+['DAN HODGES: Air Force One has landed... right on top of the Brexiteers']	The Daily Mail	['\n        By ', '  -\n\n        April 24th 2016, 1:27:46 am\n      ']	0.392857142857
+[u"RACHEL JOHNSON: Be a 'fattipuff' if you like, but don't expect my NHS to save you!\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        April 24th 2016, 1:23:09 am\n      ']	0.0
+['Post Brexit UK-U.S. trade deal could take up to a decade, Obama tells BBC']	Reuters	['\n        By ', '  -\n\n        April 24th 2016, 1:18:46 am\n      ']	0.0
+[u'Britain\u2019s proud voters don\u2019t take well to empty threats, Mr President: We will make up own minds when it comes to Brexit, says TOBY YOUNG']	The Daily Mail	['\n        By ', '  -\n\n        April 24th 2016, 12:50:30 am\n      ']	0.35
+['Barack Obama leaves Britain amid cheers and jeers']	Press Association	['\n        By ', '  -\n\n        April 24th 2016, 12:48:13 am\n      ']	0.0
+[u"Dear Mr Gove, If you want us to be like Albania, YOU'RE AN ASS: Still deciding on Brexit? Two brilliant voices give you the Ins and Outs\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        April 24th 2016, 12:46:52 am\n      ']	0.9
+[u"Now Hillary Clinton sticks her oar into the Brexit debate telling Britain a united Europe is 'strongest'\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        April 24th 2016, 12:46:23 am\n      ']	0.0
+[u"MAIL ON SUNDAY COMMENT: Now it's game on - thanks to the President\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        April 23rd 2016, 11:39:41 pm\n      ']	-0.1
+["Has Obama busted Boris? After THAT stinging slapdown, Johnson's biographer ANDREW GIMSON on how the President exposed the Brexit leader as a bogus... and unlikely PM"]	The Daily Mail	['\n        By ', '  -\n\n        April 23rd 2016, 11:38:32 pm\n      ']	-0.5
+['Boris Johnson defends his comments on Obama regarding Brexit']	The Daily Mail	['\n        April 23rd 2016, 11:27:44 pm\n      ']	0.0
+[u"Brexit bunkered by the masters: Obama beats Cameron at golf as they celebrate their EU love-in but Leave camp is feeling below par after President's dramatic plea\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        April 23rd 2016, 10:51:10 pm\n      ']	-0.433333333333
+["Boris Johnson rages at 'ridiculous and weird' Obama: Extraordinary statement to MoS mocks President over his threat to hold back trade deal in devastating intervention"]	The Daily Mail	['\n        By ', ' ', '  -\n\n        April 23rd 2016, 9:37:00 pm\n      ']	-0.3
+['Obama urges young to reject isolationism after Brexit plea']	The Daily Mail	['\n        By ', '  -\n\n        April 23rd 2016, 8:02:25 pm\n      ']	0.1
+['Innocent Drinks founder and venture capitalist Jon Moulton to join live EU debate']	The Daily Mail	['\n        By ', '  -\n\n        April 23rd 2016, 6:49:53 pm\n      ']	0.318181818182
+[u"Sorry Boris, but Brexit WON\u2019T make food cheaper:\xa0Farmers' leader on EU and the 'need' for migrant workers"]	The Daily Mail	['\n        By ', '  -\n\n        April 23rd 2016, 6:30:32 pm\n      ']	-0.5
+["Back in the driving seat again, Mr President? Barack Obama steers PM David Cameron around the golf course for a VERY chummy display a day after the American's astonishing Brexit intervention"]	The Daily Mail	['\n        By ', ' ', '  -\n\n        April 23rd 2016, 4:20:19 pm\n      ']	0.175
+['Large majority of French want Britain to stay in the EU']	Reuters	['\n        By ', '  -\n\n        April 23rd 2016, 4:00:01 pm\n      ']	0.107142857143
+["Obama tells British youth: Don't pull back from the world"]	Reuters	['\n        By ', '  -\n\n        April 23rd 2016, 1:38:10 pm\n      ']	0.0
+[u'The great Obama love-in: Fawning supporters and the transgender student councillor who all fell under the U.S. president\u2019s spell']	The Daily Mail	['\n        By ', ' ', '  -\n\n        April 23rd 2016, 12:56:39 pm\n      ']	0.8
+['Retain your optimism, Barack Obama tells audience in question-and-answer session']	Press Association	['\n        By ', '  -\n\n        April 23rd 2016, 11:55:18 am\n      ']	0.0
+[u'A spa is reborn: The 2,000-year-old tradition of bathing in the thermal springs of Bath has had a luxurious revival \u2013 so who better to dip a toe in the waters than old friends Penny Smith and Mariella Frostrup?\xa0']	The Daily Mail	['\n        By ', ' ', '  -\n\n        April 23rd 2016, 11:34:58 am\n      ']	0.3
+[u"The gospel according to Obama PART TWO: US President warns Brits not to \u2018pull back from the world\u2019 and 'reject cynicism' after controversial Brexit threat"]	The Daily Mail	['\n        By ', ' ', '  -\n\n        April 23rd 2016, 10:30:40 am\n      ']	0.275
+['Menace and a threat - how No 10 purred! QUENTIN LETTS watches as Barack Obama turns Bully Boy in cold and curt warning over Brexit']	The Daily Mail	['\n        By ', '  -\n\n        April 23rd 2016, 1:17:48 am\n      ']	-0.6
+['Barack Obama urges people to ignore cynics at town-hall style meeting']	Press Association	['\n        By ', '  -\n\n        April 23rd 2016, 12:17:04 am\n      ']	0.0
+['Hillary Clinton hoping UK will decide to stick with the EU']	Press Association	['\n        By ', '  -\n\n        April 23rd 2016, 12:17:04 am\n      ']	0.0
+[u'Bath time... then meet Obama: Prince George becomes star of Kensington Palace party after greeting the leader of the free world while wearing his monogrammed dressing gown and slippers\xa0']	The Daily Mail	['\n        By ', ' ', '  -\n\n        April 22nd 2016, 7:35:12 pm\n      ']	0.4
+["British reaction to Obama's intervention in EU referendum debate"]	Reuters	['\n        By ', '  -\n\n        April 22nd 2016, 7:27:16 pm\n      ']	0.0
+["Obama: Brexit warning to Britain 'back of the queue'"]	The Daily Mail	['\n        April 22nd 2016, 7:03:12 pm\n      ']	0.0
+["President Obama: Brexit warning to Britain 'not a threat'"]	The Daily Mail	['\n        April 22nd 2016, 7:03:12 pm\n      ']	0.0
+["Obama admits he DID remove bust of Churchill from the Oval Office and replace it with one of Martin Luther King... but insists he didn't mean to snub Britain"]	The Daily Mail	['\n        By ', '  -\n\n        April 22nd 2016, 6:25:33 pm\n      ']	-0.3125
+['Dan Hannan MEP encourages the public to vote yes to Brexit']	The Daily Mail	['\n        April 22nd 2016, 6:04:02 pm\n      ']	0.0
+['A post-Brexit UK would be at back of queue for trade deal with U.S.-Obama']	Reuters	['\n        By ', '  -\n\n        April 22nd 2016, 4:42:23 pm\n      ']	0.0
+[u"George Osborne's uncle attacks the Government's 'grossly unfair' decision to splash \xa39m on a pro-EU booklet\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        April 22nd 2016, 4:33:37 pm\n      ']	-0.5
+['A post-Brexit UK would be at back of queue for trade deal with U.S.-Obama']	Reuters	['\n        By ', '  -\n\n        April 22nd 2016, 4:31:20 pm\n      ']	0.0
+['Obama issues stark trade warning against Brexit']	The Daily Mail	['\n        By ', '  -\n\n        April 22nd 2016, 4:08:14 pm\n      ']	-0.2
+['Sterling hits 1-month high vs euro as odds swing against Brexit']	Reuters	['\n        By ', '  -\n\n        April 22nd 2016, 3:41:36 pm\n      ']	0.16
+['"Part-Kenyan" Obama comment demeans EU debate, Brexit heavyweight Johnson told']	Reuters	['\n        By ', '  -\n\n        April 22nd 2016, 2:58:15 pm\n      ']	0.0
+[u"Don\u2019t you dare leave the EU, warns Obama: Fury as President threatens British people with \u2018going to back of the queue' for trade with America after Brexit"]	The Daily Mail	['\n        By ', ' ', '  -\n\n        April 22nd 2016, 2:55:47 pm\n      ']	0.0
+['UKIP supporting taxi driver is quizzed by police after he covered his house with a giant banner containing a SWASTIKA calling for Brexit']	The Daily Mail	['\n        By ', '  -\n\n        April 22nd 2016, 2:48:21 pm\n      ']	0.125
+['Bank of England\'s Vlieghe says UK rates could "theoretically" go below zero']	Reuters	['\n        By ', '  -\n\n        April 22nd 2016, 2:04:10 pm\n      ']	0.0
+["Obama infuriates the Brits as he threatens to send UK 'to the back of the queue' if they vote to leave the European Union"]	The Daily Mail	['\n        By ', ' ', ' ', '  -\n\n        April 22nd 2016, 1:33:58 pm\n      ']	0.0
+[u"Purple for Prince? Michelle Obama wears a floral Oscar De La Renta gown as she and Barack greet the Queen the day after the artist's death\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        April 22nd 2016, 1:07:45 pm\n      ']	0.0
+['HSBC pledges changes to remuneration policy and warns of Brexit impact as shareholders back bosses pay']	The Daily Mail	['\n        By ', '  -\n\n        April 22nd 2016, 1:01:01 pm\n      ']	0.0
+["Boris Johnson branded 'racist' and likened to the right-wing Tea Party after his attack on the 'part Kenyan' Barack Obama"]	The Daily Mail	['\n        By ', '  -\n\n        April 22nd 2016, 12:52:29 pm\n      ']	0.0
+['Murray to remain outspoken against doping']	Associated Press	['\n        By ', '  -\n\n        April 22nd 2016, 12:48:44 pm\n      ']	0.0
+['HSBC yields to shareholders on pay, flags Brexit danger']	Reuters	['\n        By ', '  -\n\n        April 22nd 2016, 12:19:47 pm\n      ']	0.0
+['The Latest: Obama gives Cameron custom Shinola watch']	Associated Press	['\n        By ', '  -\n\n        April 22nd 2016, 12:16:32 pm\n      ']	0.5
+[u"'An astonishing person and a jewel to the world': Obama\u2019s incredible birthday tribute to The Queen after he and First Lady Michelle's lunch at Windsor Castle where Prince Philip was their personal chauffeur"]	The Daily Mail	['\n        By ', ' ', '  -\n\n        April 22nd 2016, 11:54:01 am\n      ']	0.4125
+['HSBC overhauls pay policies, warns of Brexit impact']	Reuters	['\n        By ', '  -\n\n        April 22nd 2016, 10:51:07 am\n      ']	0.0
+['How would Brexit affect UK financial services?']	Reuters	['\n        By ', '  -\n\n        April 22nd 2016, 10:20:16 am\n      ']	0.0
+["British Prime Minister orders his advisers to reach out to TRUMP, just in case he wins the White House - despite blasting him as 'divisive, stupid and wrong'"]	The Daily Mail	['\n        By ', '  -\n\n        April 22nd 2016, 10:03:42 am\n      ']	-0.2
+['Sterling hits 4-week high as odds swing against Brexit']	Reuters	['\n        By ', '  -\n\n        April 22nd 2016, 9:57:05 am\n      ']	0.16
+['In Asia, financial firms wake up to Brexit risks, begin contingency planning']	Reuters	['\n        By ', '  -\n\n        April 22nd 2016, 9:54:38 am\n      ']	0.0
+["Chapel Down proves it's a match for the French as the Kent winemaker reveals a 34% increase in sales for 2015"]	The Daily Mail	['\n        By ', '  -\n\n        April 22nd 2016, 9:37:55 am\n      ']	0.0481481481481
+["Face time with queen, princes completes Obama's royal visit"]	Associated Press	['\n        By ', '  -\n\n        April 22nd 2016, 7:43:57 am\n      ']	0.0
+['Obama exhorts Britain to stay in EU, warns on trade if it leaves']	Reuters	['\n        By ', '  -\n\n        April 22nd 2016, 7:43:00 am\n      ']	0.0
+['Weaker services drag on German private sector growth in April']	Reuters	['\n        By ', '  -\n\n        April 22nd 2016, 7:30:05 am\n      ']	-0.0333333333333
+['A tale of two Nordic EU referendums: A lesson for Brexit?']	Reuters	['\n        By ', '  -\n\n        April 22nd 2016, 6:00:01 am\n      ']	0.0
+[u"Turkey threatens to rip-up the migrant deal with the EU unless they get visa-free travel telling officials: 'You need us more than we need you'\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        April 22nd 2016, 5:11:57 am\n      ']	0.5
+['Obama wades into UK Brexit debate to eurosceptic fury']	The Daily Mail	['\n        By ', '  -\n\n        April 22nd 2016, 2:21:31 am\n      ']	0.0
+['President Obama arrives in Britain as Brexit fight continues']	The Daily Mail	['\n        April 22nd 2016, 12:51:35 am\n      ']	0.0
+['Obama: UK will not be able to strike trade deal with US soon after Brexit']	Press Association	['\n        By ', '  -\n\n        April 22nd 2016, 12:18:44 am\n      ']	0.5
+["Obama urges 'blood brother' Britain not to leave the EU"]	Reuters	['\n        By ', '  -\n\n        April 21st 2016, 11:23:24 pm\n      ']	0.0
+["Obama descends on Britain to try and persuade them NOT to leave the EU (oh, and he's going to meet the Queen)"]	The Daily Mail	['\n        By ', '  -\n\n        April 21st 2016, 11:05:53 pm\n      ']	0.0
+["With 'candour of a friend,' Obama urges UK to stay in the EU"]	Associated Press	['\n        By ', '  -\n\n        April 21st 2016, 10:38:02 pm\n      ']	0.0
+["Obama flies into a Brexit storm: President faces furious backlash over his 'downright hypocritical' decision to tell British voters to stay in the EU"]	The Daily Mail	['\n        By ', ' ', '  -\n\n        April 21st 2016, 10:02:18 pm\n      ']	0.0
+['Obama arrives in UK with royal lunch, Brexit on the menu']	The Daily Mail	['\n        By ', '  -\n\n        April 21st 2016, 9:11:19 pm\n      ']	0.0
+['President Obama arrives in London for three-day visit']	Associated Press	['\n        By ', '  -\n\n        April 21st 2016, 8:38:34 pm\n      ']	0.0
+["ALEX BRUMMER: A pitiful display at Anglo American as investors vote against ceo's pay while firm cuts 83,000 jobs in some of the poorest parts of the world"]	The Daily Mail	['\n        By ', '  -\n\n        April 21st 2016, 7:17:25 pm\n      ']	-0.1
+['Britain will never go to war without its European allies again, Defence Secretary claims - but denies backing an EU army']	The Daily Mail	['\n        By ', '  -\n\n        April 21st 2016, 6:22:55 pm\n      ']	0.0
+[u"Project Fear for your pork pies: Now David Cameron claims Britain's sausages, cider and cheese would be under threat if we leave the EU\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        April 21st 2016, 4:56:39 pm\n      ']	0.0
+['Obama arrives in London on mission to persuade UK voters to stay in EU']	Reuters	['\n        By ', '  -\n\n        April 21st 2016, 4:50:04 pm\n      ']	0.0
+['Sterling steadies after hitting 3-week high']	Reuters	['\n        By ', '  -\n\n        April 21st 2016, 4:47:45 pm\n      ']	0.16
+[u'Two Tory MPs slammed for taking \xa341,000 in pay from Brexit campaign DENY they have profited and insist they both made donations worth more\xa0']	The Daily Mail	['\n        By ', '  -\n\n        April 21st 2016, 4:30:06 pm\n      ']	0.3
+["Eurosceptic MP suggests Obama should not get involved in UK's EU debate"]	Press Association	['\n        By ', '  -\n\n        April 21st 2016, 4:10:43 pm\n      ']	0.0
+['Irish PM urges citizens to make pro-EU case to UK relatives']	Reuters	['\n        By ', '  -\n\n        April 21st 2016, 1:00:53 pm\n      ']	0.0
+["'Turning pensions into Isas would be a disaster' says minister Baroness Altmann - despite speculation Chancellor will dust off idea after EU vote"]	The Daily Mail	['\n        By ', '  -\n\n        April 21st 2016, 11:24:21 am\n      ']	0.0
+['Retailers suffer falling sales after storm-hit Easter']	Press Association	['\n        By ', '  -\n\n        April 21st 2016, 11:17:48 am\n      ']	0.0
+["ISIS, Putin and Trump back Brexit because it 'suits their agenda', says Tony Blair's former spin doctor Alastair Campbell"]	The Daily Mail	['\n        By ', '  -\n\n        April 21st 2016, 10:51:22 am\n      ']	0.0
+[u'Osborne overshoots borrowing target with \xa374bn budget deficit for the financial year - \xa31.8bn more than the OBR forecast in March Budget']	The Daily Mail	['\n        By ', '  -\n\n        April 21st 2016, 10:07:04 am\n      ']	0.25
+["Obama's UK visit overshadowed by debate about leaving EU"]	Associated Press	['\n        By ', '  -\n\n        April 21st 2016, 9:52:33 am\n      ']	0.0
+['Sterling steadies after UK retail sales miss forecasts']	Reuters	['\n        By ', '  -\n\n        April 21st 2016, 9:47:25 am\n      ']	0.0
+['"In" camp bolsters lead ahead of Britain\'s EU referendum']	Reuters	['\n        By ', '  -\n\n        April 21st 2016, 9:25:56 am\n      ']	0.0
+['FTSE CLOSE: Footsie finishes lower as ECB boss Mario Draghi fails to inspire traders; oil price sticks at $45']	The Daily Mail	['\n        By ', '  -\n\n        April 21st 2016, 8:46:15 am\n      ']	-0.5
+['Marine Le Pen to be shunned by politicians as she comes to Britain to join campaign for leaving the EU']	The Daily Mail	['\n        By ', '  -\n\n        April 21st 2016, 8:38:37 am\n      ']	0.0
+['DAILY MAIL COMMENT: Fantasies, scares and the real threat to jobs']	The Daily Mail	['\n        By ', '  -\n\n        April 21st 2016, 1:20:23 am\n      ']	0.1
+['Obama heads to London on mission to persuade UK voters to stay in EU']	Reuters	['\n        By ', '  -\n\n        April 20th 2016, 11:00:02 pm\n      ']	0.0
+['CITY DIARY: Ex-Aquascutum boss Harold Tillman strikes up a platonic friendship with supermodel Naomi Campbell']	The Daily Mail	['\n        By ', '  -\n\n        April 20th 2016, 9:46:46 pm\n      ']	0.0
+['HAMISH MCRAE: After a year which saw the UK create half a million jobs, why is the boom now beginning to fade?']	The Daily Mail	['\n        By ', '  -\n\n        April 20th 2016, 9:03:50 pm\n      ']	-0.166666666667
+['Iain Duncan Smith warns Conservative Party without compassion faces defeat']	Press Association	['\n        By ', '  -\n\n        April 20th 2016, 6:56:12 pm\n      ']	0.0
+[u"Brexit would trash our relationship with the United States and voting to remain in the EU is the 'patriotic' choice, claims Nick Clegg\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        April 20th 2016, 6:51:42 pm\n      ']	0.0
+[u"'Simple minded!' Former Bank of England governor lashes out at Treasury's dire assessment of Brexit risks\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        April 20th 2016, 5:08:29 pm\n      ']	0.0
+['Brexit would prompt banker exit, hurt currency trading, City of London says']	Reuters	['\n        By ', '  -\n\n        April 20th 2016, 5:00:01 pm\n      ']	0.0
+['French rightist Le Pen to head to UK to campaign for Brexit']	Reuters	['\n        By ', '  -\n\n        April 20th 2016, 3:22:13 pm\n      ']	-0.1
+["U.S. regulators query banks on their 'Brexit' contingency plans - sources"]	Reuters	['\n        By ', '  -\n\n        April 20th 2016, 2:26:01 pm\n      ']	0.0
+['"Remain" ahead by 10 points in Britain\'s EU referendum campaign - Ipsos MORI poll']	Reuters	['\n        By ', '  -\n\n        April 20th 2016, 1:50:10 pm\n      ']	0.0
+["Don't panic! David Cameron says Britain will still be in the Eurovision Song Contest even if we leave the EU as he reassures fans"]	The Daily Mail	['\n        By ', '  -\n\n        April 20th 2016, 1:24:32 pm\n      ']	0.0
+[u"Former Al Qaeda fighter who became a spy for Britain says ISIS would see a Brexit as a victory because they view it as the first stage of Europe's\xa0collapse"]	The Daily Mail	['\n        By ', '  -\n\n        April 20th 2016, 12:46:53 pm\n      ']	0.125
+["UK unemployment ticks up to 1.7m as economy stutters ahead of June's EU membership referendum"]	The Daily Mail	['\n        By ', '  -\n\n        April 20th 2016, 10:37:08 am\n      ']	0.0
+["Fury as 'cynical' minister says growing fears over Brexit are to blame for rise in unemployment"]	The Daily Mail	['\n        By ', ' ', '  -\n\n        April 20th 2016, 10:08:34 am\n      ']	-0.6
+['Small, medium-sized UK firms face 35.6 billion pound Brexit hit -report']	Reuters	['\n        By ', '  -\n\n        April 20th 2016, 9:46:15 am\n      ']	-0.25
+['8 former US Treasury chiefs say Brexit is bad idea']	Associated Press	['\n        By ', '  -\n\n        April 20th 2016, 9:35:44 am\n      ']	-0.35
+['Britain\'s "In" campaign gains steam ahead of EU referendum, polls show']	Reuters	['\n        By ', '  -\n\n        April 20th 2016, 9:07:44 am\n      ']	0.0
+['FTSE CLOSE: Footsie finishes flat as oil price rebounds to nearly $45; pound hit by rise in unemployment']	The Daily Mail	['\n        By ', '  -\n\n        April 20th 2016, 8:36:40 am\n      ']	0.0375
+[u"US steps up warnings over Brexit 'risks' to City of London and security on eve of President Obama\u2019s visit"]	The Daily Mail	['\n        By ', '  -\n\n        April 20th 2016, 8:28:13 am\n      ']	0.0
+['N Brown says trading subdued on bad weather, Brexit fears']	Reuters	['\n        By ', '  -\n\n        April 20th 2016, 8:12:09 am\n      ']	-0.7
+['Former U.S. Treasury secretaries say Brexit would make Britain poorer and smaller']	Reuters	['\n        By ', '  -\n\n        April 20th 2016, 7:20:29 am\n      ']	0.0
+['Giving Brexit vote to expats will put referendum date in doubt, says Government']	Press Association	['\n        By ', '  -\n\n        April 20th 2016, 6:58:59 am\n      ']	0.0
+["Brexit 'risky bet' for Britain, ex-US finance chiefs warn"]	Press Association	['\n        By ', '  -\n\n        April 20th 2016, 5:49:55 am\n      ']	0.0
+["EPHRAIM HARDCASTLE: With Barack Obama's arrival comes feverish planning to keep him, the Queen and David Cameron happy"]	The Daily Mail	['\n        By ', '  -\n\n        April 20th 2016, 1:26:18 am\n      ']	0.35
+["Project Fear? It's a patronising fantasy: JAMES SLACK examines the key sections of Michael Gove's passionate speech"]	The Daily Mail	['\n        By ', '  -\n\n        April 20th 2016, 1:22:12 am\n      ']	-0.025
+[u'DAILY MAIL COMMENT: How leaving the EU could set Britain free\xa0']	The Daily Mail	['\n        By ', '  -\n\n        April 20th 2016, 12:37:46 am\n      ']	0.0
+[u'He was funny, gripping - and as rude as English mustard: QUENTIN LETTS sees Gove on top form\xa0']	The Daily Mail	['\n        By ', '  -\n\n        April 20th 2016, 12:34:24 am\n      ']	0.19
+["UK 'could lose science policy influence with Brexit'"]	Press Association	['\n        By ', '  -\n\n        April 20th 2016, 12:27:39 am\n      ']	0.0
+['Brexit would isolate UK and threaten relationship with US, Nick Clegg warns']	Press Association	['\n        By ', '  -\n\n        April 20th 2016, 12:27:39 am\n      ']	0.0
+["EU has interfered too much in people's lives, Juncker says ahead of Brexit vote"]	Reuters	['\n        By ', '  -\n\n        April 19th 2016, 8:05:41 pm\n      ']	0.2
+['Fears over Brexit are already starting to hit property market and things could get worse, Bank of England governor warns']	The Daily Mail	['\n        By ', ' ', '  -\n\n        April 19th 2016, 4:36:50 pm\n      ']	-0.2
+["Britain's FTSE hits four-month high as miners rally"]	Reuters	['\n        By ', '  -\n\n        April 19th 2016, 3:56:17 pm\n      ']	0.16
+["Bank of England's Carney hits back at critics over EU comments"]	Reuters	['\n        By ', '  -\n\n        April 19th 2016, 3:13:30 pm\n      ']	0.0
+['We DO meddle too much, says EU boss: Juncker finally tells the truth on bloated Brussels and admits many laws should have been left to national governments']	The Daily Mail	['\n        By ', '  -\n\n        April 19th 2016, 3:02:58 pm\n      ']	0.175
+["Bank of England's Carney: Brexit risks already weighing on economy"]	Reuters	['\n        By ', '  -\n\n        April 19th 2016, 2:57:46 pm\n      ']	0.0
+['UK minister attacks colleagues for "scaring" EU voters']	Reuters	['\n        By ', '  -\n\n        April 19th 2016, 1:47:41 pm\n      ']	0.0
+['Serbia determined to join EU despite bloc\'s "problems"']	Reuters	['\n        By ', '  -\n\n        April 19th 2016, 12:38:38 pm\n      ']	0.0
+["'It's gobbledygook!' George Osborne ridiculed over his algebra-laden pro-EU dossier that makes 'no sense at all'"]	The Daily Mail	['\n        By ', '  -\n\n        April 19th 2016, 11:20:23 am\n      ']	0.0
+['Brexit would bring serious security consequences -Europol head']	Reuters	['\n        By ', '  -\n\n        April 19th 2016, 10:58:08 am\n      ']	-0.333333333333
+[u'Government\u2019s \xa39m \u2018propaganda\u2019 mailshot could be swinging EU referendum battle in Cameron\u2019s favour, says Tory election guru']	The Daily Mail	['\n        By ', '  -\n\n        April 19th 2016, 10:44:54 am\n      ']	0.0
+['Brexit would bring serious security consequences -Europol head']	Reuters	['\n        By ', '  -\n\n        April 19th 2016, 10:36:41 am\n      ']	-0.333333333333
+["'Every time they try to bring me down, I fly higher': Michelle Mone on bras, bust-ups and sizing up the Lords"]	The Daily Mail	['\n        By ', '  -\n\n        April 19th 2016, 10:29:03 am\n      ']	0.298148148148
+['EU membership is good for UK environment, committee of MPs says']	Reuters	['\n        By ', '  -\n\n        April 19th 2016, 9:43:02 am\n      ']	0.7
+["'Leave' leader: UK could keep EU free trade after Brexit"]	Associated Press	['\n        By ', '  -\n\n        April 19th 2016, 9:25:32 am\n      ']	0.4
+['UK minister attacks colleagues for patronising voters in EU debate']	Reuters	['\n        By ', '  -\n\n        April 19th 2016, 9:15:58 am\n      ']	0.0
+['Ladbrokes says probability of Brexit increases 3 percentage points to 34 percent']	Reuters	['\n        By ', '  -\n\n        April 19th 2016, 8:57:09 am\n      ']	0.0
+[u"The EU could crumble like the Soviet Union if Britain leaves, Gove claims as he urges voters to 'liberate' the continent\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        April 19th 2016, 8:43:59 am\n      ']	0.0
+["Britain's FTSE hits 4-month high as miners rally"]	Reuters	['\n        By ', '  -\n\n        April 19th 2016, 8:31:44 am\n      ']	0.16
+['FTSE CLOSE: Footsie higher with miners up on oil price rally as barrel of Brent crude adds 2% today']	The Daily Mail	['\n        By ', '  -\n\n        April 19th 2016, 8:22:02 am\n      ']	-0.225
+['Primark-owner AB Foods says Brexit no major threat']	Reuters	['\n        By ', '  -\n\n        April 19th 2016, 6:58:41 am\n      ']	-0.03125
+[u"Why I'd rather live under Labour than stay in the EU with a pro-Brussels Tory puppet in Number 10, by RICHARD LITTLEJOHN\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        April 19th 2016, 1:51:21 am\n      ']	0.136363636364
+["The Chancellor's claims that don't stand up: JAMES SLACK analyses George Osborne's 200-page dossier against Brexit"]	The Daily Mail	['\n        By ', '  -\n\n        April 19th 2016, 1:19:59 am\n      ']	0.0
+['UK would thrive outside the EU: Michael Gove']	Press Association	['\n        By ', '  -\n\n        April 19th 2016, 1:06:57 am\n      ']	0.0
+['DAILY MAIL COMMENT: Stop treating us like children, Mr Osborne']	The Daily Mail	['\n        By ', '  -\n\n        April 19th 2016, 1:00:57 am\n      ']	0.0
+["Students 'back Britain staying in the EU'"]	Press Association	['\n        By ', '  -\n\n        April 19th 2016, 12:19:06 am\n      ']	0.0
+["EU membership improves UK's approach to environment, committee finds"]	Press Association	['\n        By ', '  -\n\n        April 19th 2016, 12:19:06 am\n      ']	0.0
+["Osborne's 3million migrants clanger: Brexit Tories savage chancellor over EU 'propaganda' dossier that admits Britain's population will SOAR"]	The Daily Mail	['\n        By ', '  -\n\n        April 19th 2016, 12:10:48 am\n      ']	-0.1
+["Farage and Grayling's unlikely alliance: Pair put Brexit rivalry aside to join forces in unity against 'overbearing' European Union"]	The Daily Mail	['\n        By ', '  -\n\n        April 18th 2016, 11:42:47 pm\n      ']	-0.25
+['EU membership is good for UK environment, committee of MPs says']	Reuters	['\n        By ', '  -\n\n        April 18th 2016, 11:01:01 pm\n      ']	0.7
+['French central bank chief warns about Brexit consequences']	Reuters	['\n        By ', '  -\n\n        April 18th 2016, 6:49:21 pm\n      ']	0.0
+["Farmers' interests best served in EU, says NFU"]	Press Association	['\n        By ', '  -\n\n        April 18th 2016, 6:38:29 pm\n      ']	1.0
+["Arsenal fan view: The buck stops with Arsene Wenger... he made this mess but the trouble is that he can't fix it"]	The Daily Mail	['\n        By ', '  -\n\n        April 18th 2016, 6:25:54 pm\n      ']	-0.1875
+["Are your neighbours IN or OUT? The map that shows how Britain's coastal regions are leading the charge for Brexit and graduate towns are backing EU membership"]	The Daily Mail	['\n        By ', '  -\n\n        April 18th 2016, 5:54:13 pm\n      ']	0.0
+["How did Osborne calculate his 'Brexit hit' for households?"]	Reuters	['\n        By ', '  -\n\n        April 18th 2016, 4:38:37 pm\n      ']	0.0
+["Boris Johnson questions the Treasury's forecasting record"]	The Daily Mail	['\n        April 18th 2016, 3:09:56 pm\n      ']	0.0
+["Government's Brexit report admits David Cameron has no chance of hitting his immigration target and the best he can hope for is the total drifting 'towards' 185,000"]	The Daily Mail	['\n        By ', '  -\n\n        April 18th 2016, 3:08:41 pm\n      ']	0.5
+["Sweden's growth may see Riksbank tolerate currency strength"]	Reuters	['\n        By ', '  -\n\n        April 18th 2016, 1:57:12 pm\n      ']	0.0
+["'We will be poorer if we leave the EU': Osborne's EU speech"]	The Daily Mail	['\n        April 18th 2016, 12:48:56 pm\n      ']	0.0
+['George Osborne warns that Brexit would lead to higher taxes']	The Daily Mail	['\n        April 18th 2016, 12:48:56 pm\n      ']	0.25
+["Osborne on Brexit: 'Britain will be permanently poorer'"]	The Daily Mail	['\n        April 18th 2016, 12:48:56 pm\n      ']	0.0
+[u'Osborne: Brexit could mean \xa336 billion less for public services']	Press Association	['\n        By ', '  -\n\n        April 18th 2016, 11:15:12 am\n      ']	-0.159722222222
+[u'Has Corbyn snubbed Obama? Labour leader is yet to confirm after being offered a meeting with the US President when he visits Britain this week\xa0']	The Daily Mail	['\n        By ', '  -\n\n        April 18th 2016, 9:54:30 am\n      ']	0.0
+[u'\u2018Project Utter Cr**!\u2019 Furious Tory backlash after Osborne warns that Brexit could cause 8p rise in income tax']	The Daily Mail	['\n        By ', '  -\n\n        April 18th 2016, 8:34:14 am\n      ']	0.0
+[u'FTSE CLOSE: Footsie struggles to make headway as oil prices drop after Doha deal failure\xa0']	The Daily Mail	['\n        By ', '  -\n\n        April 18th 2016, 8:25:07 am\n      ']	0.0
+['BHP CEO Mackenzie says Brexit would lead to lost decade of damaging uncertainty']	Reuters	['\n        By ', '  -\n\n        April 18th 2016, 7:21:22 am\n      ']	0.0
+['Slovak Republic - Factors To Watch on April 18']	Reuters	['\n        By ', '  -\n\n        April 18th 2016, 7:09:37 am\n      ']	0.0
+[u"Osborne's new scare: Brexit will ruin the UK for decades, cost every family \xa34,300 and mean Britain has billions less to spend on public services"]	The Daily Mail	['\n        By ', '  -\n\n        April 18th 2016, 12:42:10 am\n      ']	-0.0857007575758
+[u"If WPP does well, I do well, says advertising giant's chief Sorrell on \xa363m pay"]	Press Association	['\n        By ', '  -\n\n        April 18th 2016, 12:27:16 am\n      ']	0.0
+["Schools are at breaking point, says employment minister: As thousands of parents face disappointment over  places for their children, Priti Patel says migration has put 'unsustainable pressure' on system"]	The Daily Mail	['\n        By ', '  -\n\n        April 18th 2016, 12:13:18 am\n      ']	-0.6
+["School choice disappointment 'deeply regrettable', says minister Priti Patel"]	Press Association	['\n        By ', '  -\n\n        April 18th 2016, 12:09:05 am\n      ']	-0.3
+[u'Rise of the super-rich renters: Number of lettings on homes worth more than \xa310m up by a third in a year as wealthiest avoid stamp duty increase and fears grow over Brexit']	The Daily Mail	['\n        By ', '  -\n\n        April 17th 2016, 11:23:51 pm\n      ']	0.266666666667
+["UK's Osborne warns voters of Brexit's permanent economic damage"]	Reuters	['\n        By ', '  -\n\n        April 17th 2016, 10:43:39 pm\n      ']	0.2
+['UK finance ministry to publish "sober analysis" of Brexit risk']	Reuters	['\n        By ', '  -\n\n        April 17th 2016, 9:00:04 pm\n      ']	0.1
+['Sunday newspaper share tips: Safestay | Travis Perkins and should you prepare to sell in May?']	The Daily Mail	['\n        By ', '  -\n\n        April 17th 2016, 2:36:07 pm\n      ']	0.0
+['Deutsche Boerse says Brexit is a risk for any US suitors for LSE']	Reuters	['\n        By ', '  -\n\n        April 17th 2016, 2:18:36 pm\n      ']	0.0
+["Chris Grayling on Brexit: 'President Obama doesn't understand'"]	The Daily Mail	['\n        April 17th 2016, 1:52:23 pm\n      ']	0.0
+["'B******s!' Boris Johnson dismisses fears that trade will be hit by Brexit - and warns '77million Turks could enter the UK' as we still can't restrain immigration"]	The Daily Mail	['\n        April 17th 2016, 12:33:45 pm\n      ']	0.0
+['Brexit will leave Britain permanently poorer, George Osborne warns']	Press Association	['\n        By ', '  -\n\n        April 17th 2016, 12:22:56 pm\n      ']	0.0
+[u"Leaving the EU is an act of 'self harm' that would cause 'economic rupture' on the scale of the 2008 Credit Crunch, Cabinet minister warns\xa0"]	The Daily Mail	['\n        April 17th 2016, 10:40:15 am\n      ']	0.2
+["'Britain will just end up like Jersey if it leaves EU': French finance minister sparks fury with jibe about weakened UK"]	The Daily Mail	['\n        April 17th 2016, 10:30:09 am\n      ']	0.0
+['Deutsche Boerse sees Brexit risk for potential US suitors for LSE']	Reuters	['\n        By ', '  -\n\n        April 17th 2016, 10:06:14 am\n      ']	0.0
+["Now Beefy goes into bat for Brexit! Botham enters referendum struggle as minister warns leaving EU would cause 'economic rupture'"]	The Daily Mail	['\n        April 17th 2016, 8:45:50 am\n      ']	0.225
+[u"History teaches us we CAN'T stand aside from Europe... as Wellington, Churchill and yes, even Lady Thatcher would confirm\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        April 17th 2016, 1:36:59 am\n      ']	0.0
+[u"Boris launches his Brexit battle - and gets shouted down: Mayor is heckled at 'Vote Leave' event as ten-week campaign begins\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        April 17th 2016, 12:34:57 am\n      ']	-0.155555555556
+[u"DAN HODGES: Not scared of leaving the EU yet? You soon will be as the 'Stronger In' brigade crank up their most powerful weapon - Project Fear\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        April 17th 2016, 12:10:42 am\n      ']	0.4
+["GIRL ABOUT TOWN: Jemima Goldsmith's efforts to support brother Zac for London Mayor backfire over Twitter name confusion"]	The Daily Mail	['\n        By ', '  -\n\n        April 16th 2016, 8:04:58 pm\n      ']	0.0
+['MIDAS SHARE TIPS UPDATE: Our tip Travis Perkins is poised to build on solid foundations']	The Daily Mail	['\n        By ', '  -\n\n        April 16th 2016, 7:43:38 pm\n      ']	0.0
+['Brexit fears may have put the brakes on the UK jobs recovery, figures set to show']	The Daily Mail	['\n        By ', '  -\n\n        April 16th 2016, 7:07:30 pm\n      ']	0.0
+['Arsenal boss Arsene Wenger is concerned that Brexit could impact bringing European players into the Premier League']	The Daily Mail	['\n        By ', '  -\n\n        April 16th 2016, 6:02:30 pm\n      ']	0.0
+['Arsene Wenger: Brexit would pose tough questions for Premier League']	Press Association	['\n        By ', '  -\n\n        April 16th 2016, 5:49:25 pm\n      ']	-0.388888888889
+['Opec oil deal set to drive petrol price up to 115p a litre - and Brexit could hit drivers at the forecourt']	The Daily Mail	['\n        By ', '  -\n\n        April 16th 2016, 5:47:02 pm\n      ']	0.0
+["Brexit would weaken EU's front against Russia - UK's Europe minister"]	Reuters	['\n        By ', '  -\n\n        April 16th 2016, 12:28:42 pm\n      ']	0.0
+['Would Brexit push up mortgage rates? Osborne warns lenders will raise borrowing costs if UK leaves EU']	The Daily Mail	['\n        By ', '  -\n\n        April 16th 2016, 12:12:06 pm\n      ']	0.0
+['Obama would be hypocritical to back EU "In" vote, says London mayor']	Reuters	['\n        By ', '  -\n\n        April 16th 2016, 9:17:48 am\n      ']	0.0
+[u"DOMINIC SANDBROOK: Dave's fatal flaw. At the heart of so many of the Tories' problems lies Cameron's and Osborne's utter inability to grasp the values and aspirations of the middle classes\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        April 16th 2016, 2:06:00 am\n      ']	0.166666666667
+["Cameron won't last 30 seconds if we vote for Brexit, says Ken Clarke as he warns of immediate Tory leadership contest"]	The Daily Mail	['\n        By ', '  -\n\n        April 16th 2016, 1:32:36 am\n      ']	0.0

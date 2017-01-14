@@ -1,0 +1,20 @@
+Facing Brexit, Lawmakers Ask How to Make Britain Great Again	The New York Times	2016-10-13	0.8
+Despite Brexit, Nissan Will Build New Car Model in Britain	The New York Times	2016-10-27	0.136363636364
+Will Brexit Unravel the Peace in Northern Ireland?		2016-10-11	0.0
+Britains Economy Was Resilient After Brexit. Its Leaders Learned the Wrong Lesson.		2016-10-11	-0.5
+For Britains Brexit Bunch, the Party Just Ended		2016-10-08	0.0
+Brexit, Migration, Trade: E.U.s List of Crises Keeps Growing		2016-10-20	0.0
+Brexit Will Require a Vote in Parliament, U.K. Court Rules	The New York Times	2016-11-03	0.0
+Without a Constitution, Brexit Is Guided by a Prerogative. But Whose?		2016-10-16	0.0
+Mark Carney to Lead Bank of England Through June 2019	The New York Times	2016-10-31	0.0
+Hammond Addresses Brexit Turbulence With Hints of Policy Shift		2016-10-04	0.0
+Italian Brands Expect Some Brexit Benefits		2016-09-22	0.0
+British Lawmakers Back PM May's Brexit Timetable	Reuters	2016-12-07	0.0
+Countrywide Warns Brexit Will Hit 2016 Earnings	Reuters	2016-11-24	0.0
+UK Manufacturers Sees Post-Brexit Bounceback-Survey	Reuters	2016-12-05	0.0
+Why U.K. Is Struggling to Find the Path to Brexit	The New York Times	2016-11-21	0.0
+Brexit Blurs the European Investment Outlook	The New York Times	2016-10-14	0.0
+UK Manufacturers Sees Post-Brexit Bounceback-Survey	Reuters	2016-12-05	0.0
+Leaked Brexit Memo Says U.K. Is Unsure How to Proceed	The New York Times	2016-11-15	0.0
+Brexit Ambassador Boris Johnson Frustrates EU Leaders	AP	2016-11-16	0.0
+Aldermore Defies Brexit Concerns With Higher Lending	Reuters	2016-11-10	0.25

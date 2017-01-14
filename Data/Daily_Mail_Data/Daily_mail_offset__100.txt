@@ -1,0 +1,500 @@
+[u'Sterling back near \u20ac1.20 and stock market surges 2.2% as US rates are set to hold and UK building overcomes Brexit blip']	The Daily Mail	['\n        By ', ' ', '  -\n\n        September 2nd 2016, 3:43:40 pm\n      ']	0.05
+['Caroline Lucas elected as Green Party leader in job-share']	Press Association	['\n        By ', '  -\n\n        September 2nd 2016, 3:13:12 pm\n      ']	-0.2
+["'The froth has gone off the top of the classic and supercar business': After years of rocketing prices, experts warn they are starting to come down"]	The Daily Mail	['\n        By ', '  -\n\n        September 2nd 2016, 2:17:43 pm\n      ']	0.127777777778
+["Britain's FTSE advances after U.S. jobs data, miners rally"]	Reuters	['\n        By ', '  -\n\n        September 2nd 2016, 1:54:10 pm\n      ']	0.0
+['IMF warns Serbia not to overspend despite "rosy" outlook']	Reuters	['\n        By ', '  -\n\n        September 2nd 2016, 1:30:02 pm\n      ']	0.0
+['Berkeley Group halts half-built 20 mln-pound London housing scheme']	Reuters	['\n        By ', '  -\n\n        September 2nd 2016, 12:41:02 pm\n      ']	0.0
+["Beyond the Fringe to a theatre near you ... the best of Edinburgh's summer comedy in your local theatre"]	The Daily Mail	['\n        By ', '  -\n\n        September 2nd 2016, 12:18:20 pm\n      ']	0.366666666667
+[u'No room for Bojo among EU\u2019s foreign ministers! Top diplomats tease Boris and block him from joining photo-shoot as they begin process of excluding Britain from Brussels club']	The Daily Mail	['\n        By ', '  -\n\n        September 2nd 2016, 12:12:29 pm\n      ']	0.171875
+['Little Miss Sunshine: Susanna Reid on keeping smiling after splitting from the father of her three children and how she looks so marvellous in the morning']	The Daily Mail	['\n        By ', '  -\n\n        September 2nd 2016, 11:47:49 am\n      ']	-0.1875
+['Retirement homes builder McCarthy & Stone sees fewer reservations, increased cancellations post-Brexit']	The Daily Mail	['\n        By ', '  -\n\n        September 2nd 2016, 11:42:54 am\n      ']	0.0
+['Swiss lower house avoids clash with EU over immigration']	Reuters	['\n        By ', '  -\n\n        September 2nd 2016, 11:26:45 am\n      ']	0.0
+['US banks need better defenses against rates shock, regulators warn']	Reuters	['\n        By ', '  -\n\n        September 2nd 2016, 11:00:01 am\n      ']	0.5
+['Boris Johnson: UK should work with EU on migration']	Press Association	['\n        By ', '  -\n\n        September 2nd 2016, 10:57:46 am\n      ']	0.0
+[u"Scots don't want independence and don't want to be asked, new poll reveals \u2013 but that doesn't stop Nicola Sturgeon launching a new campaign for separation"]	The Daily Mail	['\n        By ', '  -\n\n        September 2nd 2016, 10:43:19 am\n      ']	0.136363636364
+["Scottish leader calls for 'new conversation' on independence"]	Associated Press	['\n        By ', '  -\n\n        September 2nd 2016, 10:28:45 am\n      ']	0.136363636364
+['UK construction downturn eases, adding to signs economy holding up']	Reuters	['\n        By ', '  -\n\n        September 2nd 2016, 10:28:03 am\n      ']	0.0
+['Segro bucks Brexit property blues with warehouse fund-raising']	Reuters	['\n        By ', '  -\n\n        September 2nd 2016, 9:56:07 am\n      ']	0.0
+['Johnson: Britain will remain involved in European issues']	Associated Press	['\n        By ', '  -\n\n        September 2nd 2016, 9:20:12 am\n      ']	0.0
+['Sturgeon launches new Scottish independence drive after "seismic" Brexit vote']	Reuters	['\n        By ', '  -\n\n        September 2nd 2016, 9:17:15 am\n      ']	0.136363636364
+["Britain's FTSE rises as pharma, utilities rally ahead of U.S. labour data"]	Reuters	['\n        By ', '  -\n\n        September 2nd 2016, 9:05:47 am\n      ']	0.0
+['FTSE CLOSE: Footsie finishes up 2% after weak US jobs data dents Fed interest rate hike hopes']	The Daily Mail	['\n        By ', '  -\n\n        September 2nd 2016, 8:04:40 am\n      ']	-0.375
+['McCarthy & Stone says Britons cautious on retirement home purchases after Brexit']	Reuters	['\n        By ', '  -\n\n        September 2nd 2016, 6:57:59 am\n      ']	0.0
+["UK's Segro to raise 340 mln stg to fund property development"]	Reuters	['\n        By ', '  -\n\n        September 2nd 2016, 6:49:17 am\n      ']	0.0
+['Sturgeon announces new Scottish independence drive after "seismic" Brexit']	Reuters	['\n        By ', '  -\n\n        September 2nd 2016, 6:34:13 am\n      ']	0.136363636364
+['McCarthy & Stone housing cancellations rise post Brexit vote']	Reuters	['\n        By ', '  -\n\n        September 2nd 2016, 6:29:32 am\n      ']	0.0
+['At G20 meet, defending free trade will need more than talk']	Reuters	['\n        By ', '  -\n\n        September 2nd 2016, 6:21:20 am\n      ']	0.45
+['Time is right for new conversation on independence, Nicola Sturgeon says']	Press Association	['\n        By ', '  -\n\n        September 2nd 2016, 6:00:11 am\n      ']	0.211038961039
+['US banks need better defenses against rates shock, regulators warn']	Reuters	['\n        By ', '  -\n\n        September 2nd 2016, 5:00:01 am\n      ']	0.5
+['Disparate crises distract from Obama bid to sign off on Asia shift']	Reuters	['\n        By ', '  -\n\n        September 2nd 2016, 3:14:52 am\n      ']	0.0
+[u'DAILY MAIL COMMENT: Striking doctors are shattering our trust\xa0']	The Daily Mail	['\n        By ', '  -\n\n        September 2nd 2016, 1:09:47 am\n      ']	0.25
+['Was Carney too quick to cut interest rates? ALEX BRUMMER asks whether the Bank of England governor could be humiliatingly forced into yet another policy U-turn']	The Daily Mail	['\n        By ', '  -\n\n        September 2nd 2016, 1:04:01 am\n      ']	0.0166666666667
+["EPHRAIM HARDCASTLE: The Queen's staff are 'going stir-crazy' as she spends another six weeks in Balmoral"]	The Daily Mail	['\n        By ', '  -\n\n        September 2nd 2016, 1:02:11 am\n      ']	0.0
+["Tell these social media sociopaths to get stuffed: 'Racism' probe over a line in Corrie is more proof the world has gone bonkers, says RICHARD LITTLEJOHN"]	The Daily Mail	['\n        By ', '  -\n\n        September 2nd 2016, 1:01:36 am\n      ']	0.266666666667
+[u'Banks hiked home loans just before base rate cut: Half have also failed to pass on 0.25% decrease on variable mortgage deals\xa0']	The Daily Mail	['\n        By ', '  -\n\n        September 2nd 2016, 12:41:18 am\n      ']	-0.488888888889
+['Asia stocks sway before US jobs report, dollar nurses losses']	Reuters	['\n        By ', '  -\n\n        September 2nd 2016, 12:40:36 am\n      ']	0.0
+['UK should remain member of single market post-Brexit, says new pro-EU group']	Press Association	['\n        By ', '  -\n\n        September 2nd 2016, 12:35:03 am\n      ']	0.0324675324675
+['Business confidence bounces back after post-Brexit slump']	Press Association	['\n        By ', '  -\n\n        September 2nd 2016, 12:35:03 am\n      ']	0.0
+["University academics 'should help steer Brexit action plan'"]	Press Association	['\n        By ', '  -\n\n        September 2nd 2016, 12:35:03 am\n      ']	0.1
+['Disparate crises distract from Obama bid to sign off on Asia shift']	Reuters	['\n        By ', '  -\n\n        September 2nd 2016, 12:32:00 am\n      ']	0.0
+[u'Tory donors and lobbyists offered the chance for lunch with May and other ministers at the party conference (if they pay \xa33,000)\xa0']	The Daily Mail	['\n        By ', '  -\n\n        September 2nd 2016, 12:27:01 am\n      ']	-0.125
+[u"Missing the ministerial car, George? Just a week after he was seen taking a taxi, former chancellor Osborne is spied on the Tube (and it looks like it's a tricky Candy Crush level!)\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        September 1st 2016, 8:44:55 pm\n      ']	-0.1
+[u'Managing to bridge the Brexit divide, Boris? Foreign Secretary looks a touch isolated as ministers meet in Germany\xa0']	The Daily Mail	['\n        By ', '  -\n\n        September 1st 2016, 8:13:42 pm\n      ']	-0.125
+["Swansea reject and Portugal Euro 2016 hero Eder tells his astonishing story: 'Dad is in jail for murdering my stepmum... and I wanted to kill myself'"]	The Daily Mail	['\n        By ', '  -\n\n        September 1st 2016, 7:35:38 pm\n      ']	0.2
+["The G20 offers Modi and Xi a chance to thaw India and China's frosty ties"]	The Daily Mail	['\n        By ', '  -\n\n        September 1st 2016, 6:56:09 pm\n      ']	0.1
+["'Eurozone nations are selling family jewellery, but eventually you run out of jewellery': Nobel economist on why the EU and the euro are doomed projects"]	The Daily Mail	['\n        By ', '  -\n\n        September 1st 2016, 6:19:49 pm\n      ']	0.0
+["EU chief Donald Tusk FINALLY admits Brussels is 'detached from reality' as he warns Europe's elite must learn from Brexit vote"]	The Daily Mail	['\n        By ', '  -\n\n        September 1st 2016, 6:15:59 pm\n      ']	0.0
+['September: Blair tells French radio Brexit might not happen']	The Daily Mail	['\n        September 1st 2016, 6:15:56 pm\n      ']	0.0
+['Tony Blair tells French radio that Brexit might not happen']	The Daily Mail	['\n        September 1st 2016, 6:15:56 pm\n      ']	0.0
+[u'CITY DIARY: Strange that disgraced RBS chief Fred Goodwin doesn\u2019t warrant a mention in ex-Treasury minister Ed Balls\u2019 new memoirs']	The Daily Mail	['\n        By ', '  -\n\n        September 1st 2016, 6:04:07 pm\n      ']	0.0431818181818
+['DAILY BRIEFING: Cosmetics maker Lush is relocating 18 staff from Britain to Germany']	The Daily Mail	['\n        By ', '  -\n\n        September 1st 2016, 6:03:42 pm\n      ']	0.05
+['Tony Blair STILL thinks Britain could stay in the EU as he calls for a second referendum if public opinion on Brexit changes']	The Daily Mail	['\n        By ', '  -\n\n        September 1st 2016, 6:00:59 pm\n      ']	0.0
+["Britain's FTSE 100 falls as sterling rebounds and energy shares slide"]	Reuters	['\n        By ', '  -\n\n        September 1st 2016, 4:33:06 pm\n      ']	0.0
+["IMF's Lagarde says likely to cut growth outlook as trade wanes"]	Reuters	['\n        By ', '  -\n\n        September 1st 2016, 4:21:29 pm\n      ']	0.0
+['EU nationals given permanent residence in UK reaches record 10-year high']	Press Association	['\n        By ', '  -\n\n        September 1st 2016, 4:20:59 pm\n      ']	0.16
+['British business confidence bounces back after EU vote slump - but reality of Brexit is yet to be confronted']	The Daily Mail	['\n        By ', '  -\n\n        September 1st 2016, 3:43:43 pm\n      ']	0.0
+[u'Give us tariff-free access to the single market as well as control over immigration, David Davis tells the EU\xa0']	The Daily Mail	['\n        By ', '  -\n\n        September 1st 2016, 3:42:29 pm\n      ']	-0.0714285714286
+['Britain could still stay in the EU, Tony Blair tells French radio station']	Press Association	['\n        By ', '  -\n\n        September 1st 2016, 3:35:12 pm\n      ']	0.0
+["Theresa May pledges to get 'best deal' for British business in Brexit talks"]	Press Association	['\n        By ', '  -\n\n        September 1st 2016, 3:22:11 pm\n      ']	0.5
+[u'Women end up with \xa3118 less disposable income a month than men thanks to childcare costs and bills\xa0']	The Daily Mail	['\n        By ', '  -\n\n        September 1st 2016, 2:37:36 pm\n      ']	0.0166666666667
+["Britain's FTSE 100 slips as sterling rebounds and energy shares fall"]	Reuters	['\n        By ', '  -\n\n        September 1st 2016, 2:04:44 pm\n      ']	0.0
+["IMF's Lagarde says likely to cut growth outlook as trade wanes"]	Reuters	['\n        By ', '  -\n\n        September 1st 2016, 2:02:09 pm\n      ']	0.0
+['EU to mull on Sept 16 its future after Brexit, not negotiation strategy -Tusk']	Reuters	['\n        By ', '  -\n\n        September 1st 2016, 1:54:43 pm\n      ']	0.0
+['Brexit minister says UK ideally seeking tariff-free access to EU single market']	Reuters	['\n        By ', '  -\n\n        September 1st 2016, 1:41:47 pm\n      ']	0.414285714286
+['Now manufacturing defies gloomy post-Brexit forecasts with figures for August showing the biggest rise in activity for 25 YEARS']	The Daily Mail	['\n        By ', '  -\n\n        September 1st 2016, 12:36:31 pm\n      ']	0.0
+['Scots to gauge support for independence after Brexit "gamechanger"']	Reuters	['\n        By ', '  -\n\n        September 1st 2016, 12:08:58 pm\n      ']	0.3
+['Brexit will make 200,000 migrants return to Poland over the next few years, says Polish deputy PM']	The Daily Mail	['\n        By ', '  -\n\n        September 1st 2016, 12:02:18 pm\n      ']	-0.1
+['FOREX-Sterling soars after stunning UK PMI survey, dollar firmer']	Reuters	['\n        By ', '  -\n\n        September 1st 2016, 10:50:57 am\n      ']	0.5
+['Supply weighs on euro zone bonds, Spanish yields at 1-month highs']	Reuters	['\n        By ', '  -\n\n        September 1st 2016, 10:44:08 am\n      ']	0.0
+["'It's political crap!' Apple chief Tim Cook says EU ruling on multi-billion tax bill is 'maddening' as his company always 'does the right thing'"]	The Daily Mail	['\n        By ', '  -\n\n        September 1st 2016, 10:37:41 am\n      ']	-0.238095238095
+['German engineering orders plunge as growth in manufacturing slows']	Reuters	['\n        By ', '  -\n\n        September 1st 2016, 10:27:13 am\n      ']	0.0
+["Would you like an expert's help with your investments and savings? Get ideas to improve your wealth in our Money Pit Stop"]	The Daily Mail	['\n        By ', '  -\n\n        September 1st 2016, 10:18:20 am\n      ']	0.0
+['UK factory activity rebounds in August, helped by slump in sterling: PMI']	Reuters	['\n        By ', '  -\n\n        September 1st 2016, 10:15:25 am\n      ']	0.0
+["Down but not out, Germany's Merkel weighs another run"]	Reuters	['\n        By ', '  -\n\n        September 1st 2016, 10:03:45 am\n      ']	-0.155555555556
+["Cameron and Corbyn's EU referendum campaigning backfired as it persuaded people to vote FOR Brexit... and Donald Trump helped too"]	The Daily Mail	['\n        By ', '  -\n\n        September 1st 2016, 10:02:03 am\n      ']	0.0
+['Manufacturing sector rebounds to 10-month high']	Press Association	['\n        By ', '  -\n\n        September 1st 2016, 9:54:24 am\n      ']	0.16
+['Manufacturing sector rebounds to 10-month high']	Press Association	['\n        By ', '  -\n\n        September 1st 2016, 9:54:24 am\n      ']	0.16
+['UK will be outward-facing post-Brexit, continue to attract investment -Hammond']	Reuters	['\n        By ', '  -\n\n        September 1st 2016, 9:36:17 am\n      ']	0.0
+['British manufacturing rebounds from post-Brexit plunge']	Associated Press	['\n        By ', '  -\n\n        September 1st 2016, 9:32:52 am\n      ']	0.0
+['Sterling nears the $1.33 mark as UK manufacturing soars to 10-month high in bounce back from Brexit slump']	The Daily Mail	['\n        By ', '  -\n\n        September 1st 2016, 9:27:42 am\n      ']	0.08
+["Britain's FTSE rises as housebuilders, miners rally"]	Reuters	['\n        By ', '  -\n\n        September 1st 2016, 9:25:36 am\n      ']	0.0
+['Post-Brexit bounce in UK factories sparks BoE rate cut doubts']	Reuters	['\n        By ', '  -\n\n        September 1st 2016, 9:18:23 am\n      ']	0.0
+[u"France's far-Right leader Marine Le Pen expresses support for Trump saying 'anything is better than Clinton'\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        September 1st 2016, 9:03:17 am\n      ']	0.5
+['UK factory activity rebounds in August, helped by slump in sterling: PMI']	Reuters	['\n        By ', '  -\n\n        September 1st 2016, 8:45:32 am\n      ']	0.0
+['FTSE CLOSE: Footsie finishes lower ahead of US jobs report; pound up on UK factory data as oil falls below $46']	The Daily Mail	['\n        By ', '  -\n\n        September 1st 2016, 8:10:03 am\n      ']	0.0
+['German manufacturing growth slows in August but remains strong, PMI shows']	Reuters	['\n        By ', '  -\n\n        September 1st 2016, 7:55:03 am\n      ']	0.216666666667
+['FOREX-Dollar stalls before U.S. jobs data, sterling awaits UK PMI']	Reuters	['\n        By ', '  -\n\n        September 1st 2016, 7:51:21 am\n      ']	0.0
+['Hays says hiring levels weakened after Brexit vote']	Reuters	['\n        By ', '  -\n\n        September 1st 2016, 7:38:44 am\n      ']	0.0
+['Nearly a quarter fear property prices will fall following vote to quit EU']	Press Association	['\n        By ', '  -\n\n        September 1st 2016, 7:33:54 am\n      ']	0.05
+['Hays says UK hiring levels significantly weakened after Brexit vote']	Reuters	['\n        By ', '  -\n\n        September 1st 2016, 6:45:55 am\n      ']	0.375
+['BRIEF-Hays says increased uncertainty in UK market after Brexit']	Reuters	['\n        By ', '  -\n\n        September 1st 2016, 6:28:34 am\n      ']	0.0
+['Wary investors seek solid foundations in UK property post-Brexit']	Reuters	['\n        By ', '  -\n\n        September 1st 2016, 6:00:01 am\n      ']	-0.25
+["Britain's May hopes to assure Chinese over nuclear plant"]	Associated Press	['\n        By ', '  -\n\n        September 1st 2016, 4:00:41 am\n      ']	0.0
+['Ukip members get ballot papers to elect new leader']	Press Association	['\n        By ', '  -\n\n        September 1st 2016, 3:35:47 am\n      ']	0.468181818182
+[u'DAILY MAIL COMMENT: How dare the doctors barter lives for cash\xa0']	The Daily Mail	['\n        By ', '  -\n\n        September 1st 2016, 1:46:38 am\n      ']	0.0
+['Now a FIFTH of youths in Eurozone are jobless and more than half of under-25s in Greece are without work']	The Daily Mail	['\n        By ', '  -\n\n        September 1st 2016, 1:10:31 am\n      ']	0.166666666667
+['Asia shares slip, crude steadies; US jobs in focus']	Reuters	['\n        By ', '  -\n\n        September 1st 2016, 12:49:02 am\n      ']	-0.7
+["UK will remain Europe's number one financial hub for at least a decade admits pro-EU bank"]	The Daily Mail	['\n        By ', '  -\n\n        September 1st 2016, 12:43:57 am\n      ']	-0.15
+["Voters 'ill-informed by misleading and negative Brexit campaigns'"]	Press Association	['\n        By ', '  -\n\n        September 1st 2016, 12:24:08 am\n      ']	-0.3
+["PM in new pledge to 'make life easier' for majority 'who just about manage'"]	Press Association	['\n        By ', '  -\n\n        September 1st 2016, 12:01:59 am\n      ']	0.136363636364
+['Editorial Roundup: Excerpts from recent editorials']	Associated Press	['\n        By ', '  -\n\n        August 31st 2016, 9:34:03 pm\n      ']	0.0
+[u'MARKET REPORT: Housebuilder Berkeley, which warned before Brexit referendum that pre-tax profits and reservations were down, relegated\xa0from FTSE 100']	The Daily Mail	['\n        By ', '  -\n\n        August 31st 2016, 5:38:51 pm\n      ']	-0.155555555556
+[u'ALEX BRUMMER: Telling EU to butt out of American affairs over Apple is humbug on a grand scale coming from Barack Obama\u2019s White House']	The Daily Mail	['\n        By ', '  -\n\n        August 31st 2016, 5:37:54 pm\n      ']	0.166666666667
+["CITY DIARY: Ryanair's Michael O'Leary suggests Irish government should write to Europe telling them politely to **** off over Apple"]	The Daily Mail	['\n        By ', '  -\n\n        August 31st 2016, 5:37:32 pm\n      ']	0.0
+['DAILY BRIEFING: Hargreaves Lansdown adds 13 tracker funds to its Wealth 150 Plus list of top investments for first time']	The Daily Mail	['\n        By ', '  -\n\n        August 31st 2016, 5:37:07 pm\n      ']	0.25
+["Polymetal pushes housebuilder Berkeley out of UK's FTSE 100"]	Reuters	['\n        By ', '  -\n\n        August 31st 2016, 5:00:06 pm\n      ']	0.0
+['Merger talk boosts banks but European shares end lower']	Reuters	['\n        By ', '  -\n\n        August 31st 2016, 4:52:00 pm\n      ']	0.0
+['Anna Soubry MP says those who voted for Brexit need to step up']	The Daily Mail	['\n        August 31st 2016, 4:27:33 pm\n      ']	0.0
+["Britain's FTSE posts third straight month of gains"]	Reuters	['\n        By ', '  -\n\n        August 31st 2016, 4:03:23 pm\n      ']	0.1
+['Wary investors seek solid foundations in UK property post-Brexit']	Reuters	['\n        By ', '  -\n\n        August 31st 2016, 3:26:07 pm\n      ']	-0.25
+['UK PM May and ministers reiterate commitment to fiscal discipline']	Reuters	['\n        By ', '  -\n\n        August 31st 2016, 3:16:33 pm\n      ']	0.0
+['Ryanair "very cautious" on winter travel as fares fall']	Reuters	['\n        By ', '  -\n\n        August 31st 2016, 3:02:18 pm\n      ']	0.2
+[u"'Tell the EU to f*** off!' Ryanair boss Michael O'Leary urges Irish government to defy Brussels over Apple tax ruling\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        August 31st 2016, 3:00:25 pm\n      ']	0.0
+['Best-performing global stock markets revealed: Austria, Spain and Japan going strong as investors eye nervy September']	The Daily Mail	['\n        By ', '  -\n\n        August 31st 2016, 2:32:08 pm\n      ']	0.216666666667
+["'Robbie tells me several times a day that he's a national treasure': actress Ayda Field on life as Mrs Williams"]	The Daily Mail	['\n        By ', '  -\n\n        August 31st 2016, 2:03:27 pm\n      ']	0.0
+["Apple tax row: Irish government should tell EU to f**k off, says Michael O'Leary"]	Press Association	['\n        By ', '  -\n\n        August 31st 2016, 1:58:04 pm\n      ']	0.0
+["EXC: More than half the 1,000 foreign criminals freed without being considered for deportation STILL haven't been kicked out and 22 are MISSING a decade later"]	The Daily Mail	['\n        By ', '  -\n\n        August 31st 2016, 1:47:08 pm\n      ']	0.00166666666667
+[u"Pictured: Family man, 40, 'beaten to death by a gang of teens' as brother claims he was killed after \u2018they heard him speaking in Polish\u2019\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        August 31st 2016, 1:02:26 pm\n      ']	-0.2
+['Theresa May chairs a Cabinet meeting at Chequers']	The Daily Mail	['\n        August 31st 2016, 12:49:42 pm\n      ']	0.0
+[u"British firms 'can't survive' without open border immigration from the EU, claims ex-minister Anna Soubry\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        August 31st 2016, 12:38:35 pm\n      ']	0.0
+['May tells her Cabinet there will be no second Brexit referendum']	The Daily Mail	['\n        August 31st 2016, 12:06:33 pm\n      ']	0.0
+["MPs urge Theresa May to take advantage of the EU's 'Mugabe-like' Apple tax ruling by attracting US tech giants to Britain after Brexit"]	The Daily Mail	['\n        By ', '  -\n\n        August 31st 2016, 11:48:26 am\n      ']	0.0
+[u'But has she got any answers now? Top civil servant given a senior role in the Brexit department is a former winner of University Challenge\xa0']	The Daily Mail	['\n        By ', '  -\n\n        August 31st 2016, 11:34:24 am\n      ']	0.25
+["May's red line on mass migration: Tories agree curb on free movement must be top priority in Brexit talks as Cabinet meets inside the Chequers war room"]	The Daily Mail	['\n        By ', '  -\n\n        August 31st 2016, 11:18:25 am\n      ']	0.3
+['Britain to seek unique deal with EU, including immigration curbs']	Reuters	['\n        By ', '  -\n\n        August 31st 2016, 11:15:42 am\n      ']	0.375
+["WIDER IMAGE-Brexit town wants government to 'get on with it' and leave EU"]	Reuters	['\n        By ', '  -\n\n        August 31st 2016, 11:00:01 am\n      ']	0.2
+["Germany's robust labour market brushes off Brexit fears"]	Reuters	['\n        By ', '  -\n\n        August 31st 2016, 10:58:26 am\n      ']	0.0
+['Labour contender Owen Smith would not oppose second independence referendum']	Press Association	['\n        By ', '  -\n\n        August 31st 2016, 10:38:46 am\n      ']	0.0
+['Consumer confidence rebounds in August as post-Brexit recovery shines through, although savings rate drops']	The Daily Mail	['\n        By ', '  -\n\n        August 31st 2016, 10:32:18 am\n      ']	0.0
+['No second vote or attempt to stay in EU by "back door" -UK PM']	Reuters	['\n        By ', '  -\n\n        August 31st 2016, 10:16:08 am\n      ']	0.0
+["Britain's FTSE set for third straight month of gains"]	Reuters	['\n        By ', '  -\n\n        August 31st 2016, 9:35:17 am\n      ']	0.1
+["Shaun Barker ruptured every ligament and tendon in his knee but four-and-a-half years later he's back in football with Burton: This is his story"]	The Daily Mail	['\n        By ', '  -\n\n        August 31st 2016, 9:23:15 am\n      ']	0.0
+['European shares set new 2-week high, Commerzbank gains']	Reuters	['\n        By ', '  -\n\n        August 31st 2016, 9:06:31 am\n      ']	0.0987878787879
+['British leader rejects notion of a 2nd British EU vote']	Associated Press	['\n        By ', '  -\n\n        August 31st 2016, 9:02:10 am\n      ']	0.0
+['Euro 2016 and expansion on the Continent gives a boost to results for online gaming firm 888 Holdings']	The Daily Mail	['\n        By ', '  -\n\n        August 31st 2016, 8:53:07 am\n      ']	-0.2
+['Another blow to Project Fear as house prices rise AGAIN despite dire warnings about impact of Brexit vote']	The Daily Mail	['\n        By ', '  -\n\n        August 31st 2016, 8:42:51 am\n      ']	0.0
+['FTSE CLOSE: Footsie finishes lower after mixed US data sparks fresh Fed rate hike fears; oil drops towards $47']	The Daily Mail	['\n        By ', '  -\n\n        August 31st 2016, 8:40:45 am\n      ']	0.15
+['Euro 2016 helps 888 Holdings score record revenue']	Press Association	['\n        By ', '  -\n\n        August 31st 2016, 8:00:28 am\n      ']	0.0
+['Sterling boosted by consumer confidence and housing data']	Reuters	['\n        By ', '  -\n\n        August 31st 2016, 7:48:04 am\n      ']	0.0
+['UK house prices rise, consumers regain some confidence after Brexit hit']	Reuters	['\n        By ', '  -\n\n        August 31st 2016, 7:19:51 am\n      ']	0.0
+['Activist investor Elliott ups stake in Steinhoff target Poundland']	Reuters	['\n        By ', '  -\n\n        August 31st 2016, 7:19:12 am\n      ']	0.0
+["Britain's Corbyn to win bigger mandate in Labour leadership vote-poll"]	Reuters	['\n        By ', '  -\n\n        August 31st 2016, 6:55:44 am\n      ']	0.4
+['British house price rises pick up speed in August - Nationwide']	Reuters	['\n        By ', '  -\n\n        August 31st 2016, 6:17:40 am\n      ']	0.0
+["Slim pickings: Without EU laborers, who'll harvest UK fruit?"]	Associated Press	['\n        By ', '  -\n\n        August 31st 2016, 6:16:33 am\n      ']	0.0
+['Hard to detect seismic politics in weather-worn markets']	Reuters	['\n        By ', '  -\n\n        August 31st 2016, 5:50:01 am\n      ']	-0.291666666667
+['FOREX-Dollar/yen hits 1-month high as investors reassess stance, reverse bets']	Reuters	['\n        By ', '  -\n\n        August 31st 2016, 3:25:44 am\n      ']	0.16
+[u'DAILY MAIL COMMENT: And still we pay the departing boss of scandal-hit NHS trust Southern Health\xa0']	The Daily Mail	['\n        By ', '  -\n\n        August 31st 2016, 1:49:16 am\n      ']	0.0
+['Vigil held for Polish man killed in Harlow in show of solidarity']	Press Association	['\n        By ', '  -\n\n        August 31st 2016, 12:27:39 am\n      ']	-0.2
+["Relationship with EU must be 'unique to UK' and deliver 'positive' trade outcome"]	Press Association	['\n        By ', '  -\n\n        August 31st 2016, 12:27:39 am\n      ']	0.301136363636
+['Businesses show flicker of confidence after post-Brexit vote slump']	Press Association	['\n        By ', '  -\n\n        August 31st 2016, 12:27:39 am\n      ']	0.0
+['British PM May gathers ministers to hear views on Brexit']	Reuters	['\n        By ', '  -\n\n        August 30th 2016, 11:01:01 pm\n      ']	0.0
+[u"Britain opens the door to Apple: Downing Street says iPhone giant would be 'welcome' here after EU orders it to pay back \xa311BILLION in tax to Ireland over 'sweetheart deal'\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        August 30th 2016, 9:29:19 pm\n      ']	0.266666666667
+['Brexit DOES mean Brexit: Theresa May confirms there will be NO vote for MPs on leaving the EU and NO new election']	The Daily Mail	['\n        By ', '  -\n\n        August 30th 2016, 6:32:58 pm\n      ']	-0.190340909091
+['DAILY BRIEFING: Oil services firm Petrofac puts headache caused by delay of Laggan-Tormore gas plant development behind it']	The Daily Mail	['\n        By ', '  -\n\n        August 30th 2016, 5:59:43 pm\n      ']	-0.2
+[u'CITY DIARY: Stately Greenhill chairman Lord Lupton\u2019s departure as Tory treasurer leaves Theresa May with an appointment to make']	The Daily Mail	['\n        By ', '  -\n\n        August 30th 2016, 5:59:25 pm\n      ']	0.0
+['Sterling slips vs dollar as transatlantic policy paths diverge']	Reuters	['\n        By ', '  -\n\n        August 30th 2016, 3:39:35 pm\n      ']	0.0
+["Parliament 'will have its say on Brexit process'"]	Press Association	['\n        By ', '  -\n\n        August 30th 2016, 3:22:13 pm\n      ']	0.0
+[u'Brexit Britain could become home to giant global firms which fear huge EU tax demands after Apple ruling\xa0']	The Daily Mail	['\n        By ', '  -\n\n        August 30th 2016, 3:00:26 pm\n      ']	0.133333333333
+["Berkeley could be dumped from Britain's FTSE 100 as Brexit bites"]	Reuters	['\n        By ', '  -\n\n        August 30th 2016, 2:23:02 pm\n      ']	0.0
+['UK, France stick to Calais migrant deal "now and when" Britain leaves EU']	Reuters	['\n        By ', '  -\n\n        August 30th 2016, 2:07:13 pm\n      ']	0.0
+['London financial groups open line to Dublin after Brexit']	Reuters	['\n        By ', '  -\n\n        August 30th 2016, 1:46:18 pm\n      ']	0.0
+["Brexit? I wouldn't bet on it! Top German Eurocrat is branded 'breathtakingly arrogant' after saying economic pain could force us to think again about leaving the EU"]	The Daily Mail	['\n        By ', '  -\n\n        August 30th 2016, 1:12:11 pm\n      ']	0.425
+['UK PM has no legal obligation to consult parliament on EU divorce -spokesman']	Reuters	['\n        By ', '  -\n\n        August 30th 2016, 12:02:13 pm\n      ']	-0.1
+['Abercrombie no longer sees comparable sales improving this year']	Reuters	['\n        By ', '  -\n\n        August 30th 2016, 11:57:07 am\n      ']	0.0
+['Warsaw looks to win more finance business in wake of Brexit']	Reuters	['\n        By ', '  -\n\n        August 30th 2016, 11:28:45 am\n      ']	0.65
+['Cooler lending, company doubts point to Brexit "slow burn" for economy']	Reuters	['\n        By ', '  -\n\n        August 30th 2016, 11:19:24 am\n      ']	-0.3
+['Mortgage approvals fall to an 18-month low in July as Brexit vote hits property transactions']	The Daily Mail	['\n        By ', '  -\n\n        August 30th 2016, 11:04:39 am\n      ']	0.0
+['Mortgage approvals at lowest level since January 2015']	Press Association	['\n        By ', '  -\n\n        August 30th 2016, 11:04:33 am\n      ']	0.0
+['Euro zone monthly economic sentiment falls more than expected']	Reuters	['\n        By ', '  -\n\n        August 30th 2016, 10:29:01 am\n      ']	0.2
+["France's Hollande says Brexit talks must be concluded by 2019"]	Reuters	['\n        By ', '  -\n\n        August 30th 2016, 10:10:45 am\n      ']	0.0
+['Britain seeks to reaffirm Calais migrant deal to keep thousands in France']	Reuters	['\n        By ', '  -\n\n        August 30th 2016, 10:03:13 am\n      ']	0.0
+['British business supplies company Bunzl still keen on UK acquisitions despite Brexit']	Reuters	['\n        By ', '  -\n\n        August 30th 2016, 10:00:37 am\n      ']	0.0
+["What Brexit blues? Bars and restaurants boom as consumers give a vote of confidence in UK's future"]	The Daily Mail	['\n        By ', '  -\n\n        August 30th 2016, 9:40:57 am\n      ']	0.0
+[u"Pictured: Family man, 40, 'beaten to death by a gang of teens for being POLISH' as police arrest six for the 'hate crime'\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        August 30th 2016, 9:16:43 am\n      ']	-0.425
+['Sterling slips back towards $1.30 as Transatlantic rate paths diverge']	Reuters	['\n        By ', '  -\n\n        August 30th 2016, 8:44:26 am\n      ']	0.0
+['FTSE CLOSE: Footsie struggles for headway as falling copper prices hit mining giants']	The Daily Mail	['\n        By ', '  -\n\n        August 30th 2016, 8:25:02 am\n      ']	0.0
+['No EU-US trade deal during Obama presidency, Francois Hollande says']	Press Association	['\n        By ', '  -\n\n        August 30th 2016, 8:17:57 am\n      ']	0.0
+['Shares in blue chip outsourcer Bunzl rise after strong performance in Europe helps offset weak UK market']	The Daily Mail	['\n        By ', '  -\n\n        August 30th 2016, 8:14:09 am\n      ']	0.0194444444444
+['Britain, EU need new, "fair and binding" rules for post-Brexit ties-Germany']	Reuters	['\n        By ', '  -\n\n        August 30th 2016, 7:46:38 am\n      ']	0.418181818182
+['Brexit could add to high youth jobless rates in UK cities, charity warns']	Press Association	['\n        By ', '  -\n\n        August 30th 2016, 7:18:07 am\n      ']	0.16
+["German EU commissioner 'wouldn't bet big money on Brexit'"]	Associated Press	['\n        By ', '  -\n\n        August 30th 2016, 6:46:32 am\n      ']	0.0
+['Bunzl sees no material Brexit impact, H1 profit beats consensus']	Reuters	['\n        By ', '  -\n\n        August 30th 2016, 6:22:29 am\n      ']	0.0
+['JGBs gain, upbeat 2-year auction lifts shorter-dated maturities']	Reuters	['\n        By ', '  -\n\n        August 30th 2016, 5:08:27 am\n      ']	0.0
+[u"Apple holds Europe to ransom: Tech giant threatens to cut jobs in EU after Brussels orders it to pay back \xa311BILLION in tax over 'illegal' sweetheart deal with Irish government\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        August 30th 2016, 1:44:51 am\n      ']	-0.125
+[u'DAILY MAIL COMMENT: Sarkozy and a recipe for more border chaos\xa0']	The Daily Mail	['\n        By ', '  -\n\n        August 30th 2016, 1:43:15 am\n      ']	0.25
+[u'Bungle in the Jungle is not our problem: RICHARD LITTLEJOHN says it is up to the French to solve the crisis in Calais - and they could start by bulldozing the camp \xa0']	The Daily Mail	['\n        By ', '  -\n\n        August 30th 2016, 1:26:37 am\n      ']	0.0
+[u'Let us sell in pounds and ounces, say post-Brexit grocers: Traders demand right to use imperial measures again after they were axed to comply with EU regulations\xa0']	The Daily Mail	['\n        By ', '  -\n\n        August 30th 2016, 1:23:21 am\n      ']	0.285714285714
+['If you like eating tuna, prepare to pay more: Price of variety commonly sold in cans up by a third as Brexit and fall in the pound push up import costs']	The Daily Mail	['\n        By ', '  -\n\n        August 30th 2016, 1:16:19 am\n      ']	0.0666666666667
+[u'Living wage threat to elderly care: Huge cost of paying for the scheme putting pressure on councils who pay the wages of home-helps\xa0']	The Daily Mail	['\n        By ', '  -\n\n        August 30th 2016, 1:14:29 am\n      ']	0.4
+[u'So much for nerves! UK saw record foreign investment last year despite warnings Brexit would harm the economy\xa0']	The Daily Mail	['\n        By ', '  -\n\n        August 30th 2016, 12:48:13 am\n      ']	0.0416666666667
+["Failure to deliver on employment rights pledges after Brexit would be 'betrayal'"]	Press Association	['\n        By ', '  -\n\n        August 30th 2016, 12:18:33 am\n      ']	-0.316666666667
+[u'Brexit Britain\u2019s booming! EVERY region of the country is more prosperous than last year, a new study finds\xa0']	The Daily Mail	['\n        By ', '  -\n\n        August 30th 2016, 12:14:43 am\n      ']	0.212121212121
+["CITY DIARY: Lloyds boss's alleged fling with think-tank hotty almost certainly rules him out of HSBC top job"]	The Daily Mail	['\n        By ', '  -\n\n        August 29th 2016, 8:48:19 pm\n      ']	0.204761904762
+['Upstart challenger banks soar after weathering the Brexit storm and plan new raid on high street']	The Daily Mail	['\n        By ', '  -\n\n        August 29th 2016, 7:25:31 pm\n      ']	0.148181818182
+[u'Deloitte sees revenues hit a record \xa33bn \u2013 so its bosses give themselves a pay rise']	The Daily Mail	['\n        By ', '  -\n\n        August 29th 2016, 7:15:10 pm\n      ']	0.0
+[u"'Brexit will actually help the economy thrive' claims former Bank of England governor Lord King as he criticises 'speculative' scare stories as 'insulting to the intelligence of the voter'\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        August 29th 2016, 6:55:04 pm\n      ']	-0.333333333333
+[u"Sir Shifty's obnoxious legacy:\xa0The 'King of the High Street' has destroyed his reputation, says ALEX BRUMMER"]	The Daily Mail	['\n        By ', '  -\n\n        August 29th 2016, 6:52:47 pm\n      ']	0.16
+['European experts float post-Brexit "partnership" with Britain']	Reuters	['\n        By ', '  -\n\n        August 29th 2016, 6:51:38 pm\n      ']	0.0
+["Emily Thornberry 'disgusted' at Labour bid to end Corbyn leadership"]	Press Association	['\n        By ', '  -\n\n        August 29th 2016, 1:02:10 pm\n      ']	-1.0
+['German trade group slashes exports forecast as Brexit hit looms']	Reuters	['\n        By ', '  -\n\n        August 29th 2016, 12:46:28 pm\n      ']	0.0
+['European Commission says "ball still rolling" on trade deal with U.S. after German comments']	Reuters	['\n        By ', '  -\n\n        August 29th 2016, 11:24:35 am\n      ']	0.0
+['German trade body cuts forecast for 2016 export growth']	Reuters	['\n        By ', '  -\n\n        August 29th 2016, 11:03:03 am\n      ']	0.0
+['Monzo boss warns major banks face ruin as they are swept away by new technology']	Press Association	['\n        By ', '  -\n\n        August 29th 2016, 10:58:20 am\n      ']	0.0994318181818
+['Are You Being Served? remake panned by viewers']	Press Association	['\n        By ', '  -\n\n        August 29th 2016, 10:55:28 am\n      ']	0.0
+["Plea to Leavers over People's Challenge to May's Brexit-without-Parliament move"]	Press Association	['\n        By ', '  -\n\n        August 29th 2016, 10:55:28 am\n      ']	0.0
+[u"Brexit voters are NOT racist': Leading Remainers finally admit they were WRONG on immigration and 'ducked the debate' during the referendum\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        August 29th 2016, 8:18:44 am\n      ']	-0.25
+["Options sought as Merkel's radio silence complicates path to soft Brexit landing"]	Reuters	['\n        By ', '  -\n\n        August 29th 2016, 8:00:01 am\n      ']	0.1
+['New tans, same old "polycrisis" as Europe\'s summer ends']	Reuters	['\n        By ', '  -\n\n        August 29th 2016, 5:50:01 am\n      ']	0.0787878787879
+[u"DAILY MAIL COMMENT: You can't bully away justice, Sir Shifty\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        August 29th 2016, 1:46:29 am\n      ']	0.0
+["DOMINIC LAWSON: Try as they might, legal chancers and arrogant mandarins WON'T stop Brexit"]	The Daily Mail	['\n        By ', '  -\n\n        August 29th 2016, 1:40:59 am\n      ']	0.2
+[u"Treasury slammed over 'power grab': Hammond accused of muscling in on Brexit by demand UK retains access to the single market\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        August 29th 2016, 12:55:54 am\n      ']	-0.0714285714286
+[u"Good deal for Britain could kill off the EU, say Germans: Vice-Chancellor warns union will go 'down the drain'\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        August 29th 2016, 12:41:59 am\n      ']	0.272222222222
+[u"'Are the new Porridge and Are You Being Served the BBC's revenge for Brexit?' Twitter users blast 'abysmal' remakes of iconic shows as the 'worst things on TV'... but some viewers are left wanting more\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        August 29th 2016, 12:37:14 am\n      ']	-0.0909090909091
+[u'You MUST deliver Brexit: Civil servants are warned by May after former chief sparks fury by saying that leaving EU is not inevitable\xa0']	The Daily Mail	['\n        By ', '  -\n\n        August 29th 2016, 12:35:08 am\n      ']	0.0
+["'Gerrymandering' claim with Labour set to lose most seats under boundary review"]	Press Association	['\n        By ', '  -\n\n        August 29th 2016, 12:10:47 am\n      ']	0.5
+['TRADERS TIPS: City insiders say buy Ryanair as company is in strong position to expand but sell British Land which is expected to struggle following Brexit']	The Daily Mail	['\n        By ', '  -\n\n        August 28th 2016, 6:29:38 pm\n      ']	0.0833333333333
+['UK economy bouncing back following Brexit vote, a string of surveys will show, in further evidence optimism is returning']	The Daily Mail	['\n        By ', '  -\n\n        August 28th 2016, 6:29:14 pm\n      ']	0.0
+['Building firms set to be kicked out of FTSE 100 after their share prices crashed in wake of Brexit vote, despite signs of strong performance']	The Daily Mail	['\n        By ', '  -\n\n        August 28th 2016, 6:29:09 pm\n      ']	0.433333333333
+['EU-US trade deal talks have stalled, says German economy minister']	Press Association	['\n        By ', '  -\n\n        August 28th 2016, 6:03:53 pm\n      ']	0.0
+[u"Britain WILL keep access to the single market AND be able to limit migration under new plans on Theresa May's desk\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        August 28th 2016, 4:42:23 pm\n      ']	0.188311688312
+["Germany's Gabriel says poorly handled Brexit would see Europe go down the drain"]	Reuters	['\n        By ', '  -\n\n        August 28th 2016, 1:54:30 pm\n      ']	-0.277777777778
+['Germany\'s Gabriel: badly handled Brexit would send Europe "down the drain"']	Reuters	['\n        By ', '  -\n\n        August 28th 2016, 12:25:08 pm\n      ']	-0.427777777778
+["Pro-EU Open Britain movement calls on PM to secure 'best possible relationship'"]	Press Association	['\n        By ', '  -\n\n        August 28th 2016, 11:39:29 am\n      ']	0.35
+[u"How Boris Johnson's bid to be PM was stumped when he held cricket match and boozy barbecue which led rival Michael Gove to stab him in the back\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        August 28th 2016, 9:01:33 am\n      ']	0.0
+["Nigel Farage says 'Trump was my warm-up' and draws Reagan parallel"]	Press Association	['\n        By ', '  -\n\n        August 28th 2016, 3:21:28 am\n      ']	0.0
+['Theresa May summons ministers to Chequers to discuss Brexit']	Press Association	['\n        By ', '  -\n\n        August 28th 2016, 12:01:23 am\n      ']	0.0
+["PM lays down the law on Brexit! Cabinet Ministers summoned to Chequers to create action plans on making EU vote a success as May orders an end to 'turf wars'"]	The Daily Mail	['\n        By ', '  -\n\n        August 27th 2016, 11:22:31 pm\n      ']	0.0685185185185
+["She sees herself as a modern Elizabeth I and hates bigheads and snakes: Theresa May gives a rare and astonishingly candid insight into her life (but don't mention her nose!)"]	The Daily Mail	['\n        By ', '  -\n\n        August 27th 2016, 9:43:24 pm\n      ']	0.416666666667
+[u"Nigel Farage says Donald Trump has made blunders but he's no monster... and Brexit is going global\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        August 27th 2016, 9:21:27 pm\n      ']	0.0
+[u"NIGEL FARAGE: Trump was MY warm-up man... but I gave him a bounce - and he'll be new Ronald Reagan\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        August 27th 2016, 9:18:08 pm\n      ']	0.136363636364
+[u'MAIL ON SUNDAY COMMENT: Our aid fiasco: the fightback finally begins\xa0']	The Daily Mail	['\n        By ', '  -\n\n        August 27th 2016, 9:01:01 pm\n      ']	0.0
+['The Migration Ultimatum... or 300,000 reasons why the PM must kick out dodgy asylum seekers, bogus students - and demand work permits for unskilled EU workers']	The Daily Mail	['\n        By ', '  -\n\n        August 27th 2016, 8:55:24 pm\n      ']	0.0
+[u"Britain's oldest bank C Hoare and Co reins in London mortgages\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        August 27th 2016, 6:52:48 pm\n      ']	0.0
+[u'BLACK DOG: Education Minister Rob bags his Brazilian beauty\xa0']	The Daily Mail	['\n        By ', '  -\n\n        August 27th 2016, 5:45:29 pm\n      ']	-0.166666666667
+[u'Housebuilder Berkeley is set to fall out of the FTSE 100\xa0']	The Daily Mail	['\n        By ', '  -\n\n        August 27th 2016, 5:32:59 pm\n      ']	0.0
+[u"400,000 new jobs: the Brexit bonanza goes on against the tide of 'Project Fear'\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        August 27th 2016, 5:21:10 pm\n      ']	0.136363636364
+['Greece PM says EU sleepwalking toward cliff, wants debt relief by end 2016']	Reuters	['\n        By ', '  -\n\n        August 27th 2016, 4:58:53 pm\n      ']	0.2
+["East London based conference call firm LoopUp braves Brexit to list on London Stock Exchange's AIM market"]	The Daily Mail	['\n        By ', '  -\n\n        August 27th 2016, 4:48:14 pm\n      ']	-0.2
+['MIDAS SHARE TIPS UPDATE: A 68% rise in five years and strong profits to Boot!']	The Daily Mail	['\n        By ', '  -\n\n        August 27th 2016, 4:24:20 pm\n      ']	0.541666666667
+['AURORA INVESTMENT TRUST: Will Aurora see a brighter dawn as Mars is left behind?']	The Daily Mail	['\n        By ', '  -\n\n        August 27th 2016, 3:55:47 pm\n      ']	-0.2
+['British PM to trigger Brexit without vote by lawmakers - Telegraph']	Reuters	['\n        By ', '  -\n\n        August 27th 2016, 10:13:13 am\n      ']	0.0
+['How upbeat British families ignored project fear ahead of the EU referendum and set a new spending record']	The Daily Mail	['\n        By ', '  -\n\n        August 27th 2016, 12:34:58 am\n      ']	0.0681818181818
+[u'Bad news for Remainers! Parliament will NOT hold a vote before formally triggering Britain\u2019s withdrawal from the EU\xa0']	The Daily Mail	['\n        By ', '  -\n\n        August 27th 2016, 12:30:30 am\n      ']	-0.875
+["Theresa May 'can trigger Brexit without Parliament'"]	Press Association	['\n        By ', '  -\n\n        August 27th 2016, 12:19:17 am\n      ']	0.0
+[u'Ban the Beads: Theresa May is under pressure to ban toxic beads after Brussels says UK is free to act on plastic pollutants\xa0']	The Daily Mail	['\n        By ', '  -\n\n        August 27th 2016, 12:10:57 am\n      ']	0.4
+[u'DR MAX THE MIND DOCTOR: Learn to embrace your inner psychopath\xa0']	The Daily Mail	['\n        By ', '  -\n\n        August 26th 2016, 11:57:33 pm\n      ']	0.0
+['THE DAILY BRIEFING: Property tycoon Nick Candy and his wife buy more Audioboom shares']	The Daily Mail	['\n        By ', '  -\n\n        August 26th 2016, 9:40:58 pm\n      ']	0.25
+['Garden paving specialist Marshalls sees dividend boost and says Brexit has not hurt business']	The Daily Mail	['\n        By ', '  -\n\n        August 26th 2016, 9:05:19 pm\n      ']	0.0
+['Sales of 4x4s accelerate for Jaguar Land Rover but profits tumble due to weaker pound and heavy investments']	The Daily Mail	['\n        By ', '  -\n\n        August 26th 2016, 9:01:21 pm\n      ']	-0.1625
+['UN committee concerned about rise in racist hate crimes after Brexit vote']	Press Association	['\n        By ', '  -\n\n        August 26th 2016, 6:53:10 pm\n      ']	-0.8
+[u"I'm not wealthy claims Jeremy Corbyn, despite earning \xa3138,000 a-year, owning a \xa3600,000 home and \xa31.6million pension"]	The Daily Mail	['\n        By ', '  -\n\n        August 26th 2016, 4:20:43 pm\n      ']	-0.25
+['Rating firm DBRS considering European office as Brexit insurance']	Reuters	['\n        By ', '  -\n\n        August 26th 2016, 3:38:32 pm\n      ']	-0.1
+['TAKE A LOOK-Five world markets themes in the coming week']	Reuters	['\n        By ', '  -\n\n        August 26th 2016, 3:08:39 pm\n      ']	0.0
+["India's Tata Motors Q1 net profit halves on forex loss post-Brexit vote"]	Reuters	['\n        By ', '  -\n\n        August 26th 2016, 2:30:06 pm\n      ']	0.0
+[u'Project Fear turns into Project Cheer: EU vote has had no impact on economic growth and household spending saw biggest rise since 2007 as Brexit bounce continues\xa0']	The Daily Mail	['\n        By ', '  -\n\n        August 26th 2016, 1:39:07 pm\n      ']	0.2
+['INVESTMENT FOCUS-From toilets to trainers, search for yield finds unlikely shares']	Reuters	['\n        By ', '  -\n\n        August 26th 2016, 1:38:40 pm\n      ']	-0.5
+['Controversial election-favourite Geert Wilders calls for all mosques to be shut and the Koran banned in Holland - as German right wingers want undocumented migrants sent to camps in chilling echo of the Nazis']	The Daily Mail	['\n        By ', ' ', '  -\n\n        August 26th 2016, 1:07:24 pm\n      ']	0.0839285714286
+['Financial services trade options for Britain post Brexit']	Reuters	['\n        By ', '  -\n\n        August 26th 2016, 1:03:39 pm\n      ']	0.0
+['London firms losing faith in quick-fix access to EU after Brexit']	Reuters	['\n        By ', '  -\n\n        August 26th 2016, 1:01:50 pm\n      ']	0.0
+['US STOCKS-Wall St set to open flat as traders count down to Yellen']	Reuters	['\n        By ', '  -\n\n        August 26th 2016, 12:59:21 pm\n      ']	-0.0601851851852
+['Labour suspends member from the party after she posted about her love of the FOO FIGHTERS on Facebook']	The Daily Mail	['\n        By ', '  -\n\n        August 26th 2016, 12:34:06 pm\n      ']	0.5
+['Top 25 fund manager stars of past decade revealed: Mark Slater shoots to top spot, as Woodford takes fifth place']	The Daily Mail	['\n        By ', '  -\n\n        August 26th 2016, 12:24:41 pm\n      ']	0.25
+['Pound on solid ground as data confirms UK economic growth held up in months before EU referendum']	The Daily Mail	['\n        By ', '  -\n\n        August 26th 2016, 12:20:05 pm\n      ']	0.1
+['Why are we making nurses pay for their training when the NHS needs to recruit 25,000 each year just to keep going?']	The Daily Mail	['\n        By ', '  -\n\n        August 26th 2016, 12:09:29 pm\n      ']	0.0
+['Tata Motors profits fall on weak Jaguar Land Rover sales']	The Daily Mail	['\n        By ', '  -\n\n        August 26th 2016, 11:55:38 am\n      ']	-0.375
+["UK's troubled Labour party faces new woe over annual conference"]	Reuters	['\n        By ', '  -\n\n        August 26th 2016, 11:54:15 am\n      ']	-0.181818181818
+['No impact from Brexit on Norway gas exports to Britain - minister']	Reuters	['\n        By ', '  -\n\n        August 26th 2016, 11:38:45 am\n      ']	0.0
+["'Very little anecdotal evidence' UK economy hit by Brexit uncertainty"]	Press Association	['\n        By ', '  -\n\n        August 26th 2016, 11:11:11 am\n      ']	-0.24375
+['German economy set fair on growth path despite Brexit risk']	Reuters	['\n        By ', '  -\n\n        August 26th 2016, 11:06:14 am\n      ']	0.35
+[u"Labour officials accused of mounting a 'rigged purge' of Corbyn supporters but taking no action against Blairite peer who gave Lib Dems \xa32m"]	The Daily Mail	['\n        By ', '  -\n\n        August 26th 2016, 11:04:45 am\n      ']	-0.05
+['UK economy suffers little immediate Brexit hit, tests to come']	Reuters	['\n        By ', '  -\n\n        August 26th 2016, 10:31:13 am\n      ']	-0.39375
+['British economy escapes Brexit blow, for now']	Reuters	['\n        By ', '  -\n\n        August 26th 2016, 10:24:08 am\n      ']	0.0
+['Sterling hits 3-wk high after robust UK data, Yellen speech']	Reuters	['\n        By ', '  -\n\n        August 26th 2016, 9:48:07 am\n      ']	0.16
+['Euro zone lending picks up, easing pressure on ECB to act']	Reuters	['\n        By ', '  -\n\n        August 26th 2016, 9:27:45 am\n      ']	0.0
+['French consumer morale resilient after attacks, Brexit']	Reuters	['\n        By ', '  -\n\n        August 26th 2016, 9:25:17 am\n      ']	0.0
+["Czech police foil 'assassination attempt' on Angela Merkel as man armed with handcuffs and tear gas attempted to ram the Chancellor's motorcade"]	The Daily Mail	['\n        By ', '  -\n\n        August 26th 2016, 9:19:58 am\n      ']	0.0
+['FTSE CLOSE: Footsie finishes higher as Fed boss Janet Yellen signals case for US rate hike has strengthened']	The Daily Mail	['\n        By ', '  -\n\n        August 26th 2016, 8:18:50 am\n      ']	0.25
+['Exchange Bats eyes new EU base outside London after Brexit']	Reuters	['\n        By ', '  -\n\n        August 26th 2016, 7:59:04 am\n      ']	-0.221212121212
+['Sterling climbs towards three-week high, GDP data eyed']	Reuters	['\n        By ', '  -\n\n        August 26th 2016, 7:57:44 am\n      ']	0.16
+['Muddy lovely! Music lovers make the most of the weather at Leeds Festival as Britain faces Bank Holiday weekend washout (and LOTS of traffic jams)']	The Daily Mail	['\n        By ', ' ', '  -\n\n        August 26th 2016, 7:54:01 am\n      ']	0.5625
+['GPIF suffers $51.8 bln investment losses in 1st quarter']	Reuters	['\n        By ', '  -\n\n        August 26th 2016, 6:33:19 am\n      ']	-0.6
+["British economy escapes Brexit 'bomb', for now"]	Reuters	['\n        By ', '  -\n\n        August 26th 2016, 6:00:01 am\n      ']	0.0
+['Poland - Factors to Watch Aug 26']	Reuters	['\n        By ', '  -\n\n        August 26th 2016, 5:50:20 am\n      ']	0.0
+[u'Car rental firm Avis slammed for imposing \xa32 \u2018Brexit tax\u2019 even though we haven\u2019t left the EU yet\xa0']	The Daily Mail	['\n        By ', '  -\n\n        August 26th 2016, 1:35:25 am\n      ']	-0.1
+[u'Take a staycation to help the British economy after Brexit, urges May \u2013 just days after she returned from a walking trip in Switzerland\xa0']	The Daily Mail	['\n        By ', '  -\n\n        August 26th 2016, 1:16:28 am\n      ']	0.0
+[u'SEBASTIAN SHAKESPEARE: How the mighty have fallen! Champagne George Osborne gets used to life in a minicab\xa0']	The Daily Mail	['\n        By ', '  -\n\n        August 26th 2016, 12:39:05 am\n      ']	0.5
+["Corbyn voted for Brexit! Owen Smith accuses Labour leader of lying about voting to stay in the EU and says he's secretly 'happy' about the result"]	The Daily Mail	['\n        By ', '  -\n\n        August 26th 2016, 12:30:24 am\n      ']	0.8
+['Consumer confidence sees fastest monthly rise in three years - survey']	Press Association	['\n        By ', '  -\n\n        August 26th 2016, 12:22:23 am\n      ']	0.0
+['May: Brexit will create growth opportunities for UK tourism']	Press Association	['\n        By ', '  -\n\n        August 26th 2016, 12:22:23 am\n      ']	0.0
+['Hillary Clinton blasts Nigel Farage for Trump rally attack']	Press Association	['\n        By ', '  -\n\n        August 26th 2016, 12:22:23 am\n      ']	0.0
+[u"Strictly scary? No the judges are pussycats compared to Paxman: As Ed Balls joins the show, ANN WIDDECOMBE'S waspish survival guide\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        August 26th 2016, 12:10:54 am\n      ']	-0.5
+["There's a triple helping of good news for Britain PLC... while German confidence slumps"]	The Daily Mail	['\n        By ', '  -\n\n        August 25th 2016, 11:58:39 pm\n      ']	0.35
+[u'Apocalypse NO! Britain is confounding the doom mongers and enjoying a Brexit bounce, says City Editor ALEX BRUMMER\xa0']	The Daily Mail	['\n        By ', '  -\n\n        August 25th 2016, 11:45:30 pm\n      ']	0.5
+[u'DAILY MAIL COMMENT: Enough SNP bleating about independence!\xa0']	The Daily Mail	['\n        By ', '  -\n\n        August 25th 2016, 11:35:18 pm\n      ']	0.0
+[u"The Premier League Show gets off to strong start as Jurgen Klopp's chat with Gary Lineker provides unique insight\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        August 25th 2016, 11:19:04 pm\n      ']	0.404166666667
+[u'Chinese takeaway our bacon: Cost of a rasher set to rise in Britain because of increasing demand for it in China\xa0']	The Daily Mail	['\n        By ', '  -\n\n        August 25th 2016, 11:05:04 pm\n      ']	0.0
+[u"If Google can track my pants, why can't they nail the jihadis? RICHARD LITTLEJOHN says internet giants should not aid terrorists who want to destroy our freedoms\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        August 25th 2016, 11:03:46 pm\n      ']	-0.2
+['Ukip leadership hopeful Bill Etheridge calls for BBC to be privatised']	Press Association	['\n        By ', '  -\n\n        August 25th 2016, 11:01:57 pm\n      ']	0.0
+['UK consumers recover some confidence after Brexit vote hit-survey']	Reuters	['\n        By ', '  -\n\n        August 25th 2016, 11:01:01 pm\n      ']	0.0
+["Clinton attacks Nigel Farage for campaigning with Trump - after he taunts: 'I wouldn't vote for Hillary if SHE pays me!'"]	The Daily Mail	['\n        By ', '  -\n\n        August 25th 2016, 9:00:58 pm\n      ']	0.0
+['Sarkozy tells comeback rally he would ban burkini across France']	Reuters	['\n        By ', '  -\n\n        August 25th 2016, 8:55:03 pm\n      ']	0.0
+['Markets subdued ahead of Yellen speech, healthcare stocks dip']	Reuters	['\n        By ', '  -\n\n        August 25th 2016, 8:52:10 pm\n      ']	0.0
+[u'CITY DIARY: Has \xa370m-a-year-man Sir Martin Sorrell been splashing out on the fake tan?']	The Daily Mail	['\n        By ', '  -\n\n        August 25th 2016, 7:36:17 pm\n      ']	-0.5
+['Markets subdued ahead of Fed speech, healthcare stocks dip']	Reuters	['\n        By ', '  -\n\n        August 25th 2016, 7:15:38 pm\n      ']	0.0
+[u"Lloyds boss fights for his future: Falling shares and a sordid 'affair' a perfect storm for Horta-Osorio\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        August 25th 2016, 6:45:50 pm\n      ']	0.5
+['Britain must invest in rail and airports NOW if it is to remain a top trading hub, claims building boss']	The Daily Mail	['\n        By ', '  -\n\n        August 25th 2016, 6:38:52 pm\n      ']	0.5
+["MARKET REPORT: Hillary Clinton's threat of a clampdown is headache for pharmaceutical firms"]	The Daily Mail	['\n        By ', '  -\n\n        August 25th 2016, 6:13:13 pm\n      ']	0.0
+["Hilarious moment Trump supporter recoils in wide-eyed horror as the Donald labels Hillary Clinton a 'bigot'"]	The Daily Mail	['\n        By ', '  -\n\n        August 25th 2016, 5:33:07 pm\n      ']	0.5
+['Exchange Bats eyes new EU base outside London after Brexit']	Reuters	['\n        By ', '  -\n\n        August 25th 2016, 4:53:00 pm\n      ']	-0.221212121212
+['Pharma nerves hit European stocks, dollar wobbles']	Reuters	['\n        By ', '  -\n\n        August 25th 2016, 4:42:17 pm\n      ']	0.0
+[u'Number of Polish-born residents in Britain tops 830,000 - overtaking India to become most common non-UK origin\xa0']	The Daily Mail	['\n        By ', '  -\n\n        August 25th 2016, 3:57:38 pm\n      ']	0.1
+["'Booming' British car manufacturing unfazed by Brexit: UK factories churn out more than one million cars in 2016 - the fastest rate in 12 years"]	The Daily Mail	['\n        By ', '  -\n\n        August 25th 2016, 3:05:08 pm\n      ']	0.25
+['Sterling edges down from three-week high, GDP data eyed']	Reuters	['\n        By ', '  -\n\n        August 25th 2016, 2:56:44 pm\n      ']	0.00222222222222
+["It's the Nigel Farage show! BBC announces plans for new comedy on ex-Ukip leader's life after politics"]	The Daily Mail	['\n        By ', '  -\n\n        August 25th 2016, 2:36:22 pm\n      ']	0.136363636364
+["FOREX-Dollar dips as investors await Yellen's Jackson Hole speech"]	Reuters	['\n        By ', '  -\n\n        August 25th 2016, 2:13:07 pm\n      ']	0.0
+[u"Ex-Sainsbury's chair who blew \xa38m trying to keep us in the EU donates millions to Labour AND the Lib Dems"]	The Daily Mail	['\n        By ', '  -\n\n        August 25th 2016, 2:03:47 pm\n      ']	0.0
+[u"LIZ JONES'S DIARY:\xa0In which I hold my tongue \u2013 over text, at least"]	The Daily Mail	['\n        By ', '  -\n\n        August 25th 2016, 1:07:18 pm\n      ']	-0.3
+['Upbeat U.S. factory data suggests business spending stabilizing']	Reuters	['\n        By ', '  -\n\n        August 25th 2016, 1:06:43 pm\n      ']	0.0
+['Signet Jewelers cuts profit forecast, shares lose shine']	Reuters	['\n        By ', '  -\n\n        August 25th 2016, 12:47:23 pm\n      ']	0.0
+["So who REALLY did well out of Brexit? New figures show Britain is booming -  while confidence in the German economy is wobbling after firms 'fall into a summer slump' over Britain leaving"]	The Daily Mail	['\n        By ', '  -\n\n        August 25th 2016, 12:40:33 pm\n      ']	0.112121212121
+['POLL-Brexit to crimp housing market, foreign buyers eye sterling bargains']	Reuters	['\n        By ', '  -\n\n        August 25th 2016, 12:37:48 pm\n      ']	-0.125
+['Savers use pension freedoms to switch cash to low-interest accounts - forgoing tax benefits and risking inflation losses']	The Daily Mail	['\n        By ', '  -\n\n        August 25th 2016, 12:34:14 pm\n      ']	0.0
+['British retail sales hit highest levels for six months in August, as consumers shrug aside Brexit worries']	The Daily Mail	['\n        By ', '  -\n\n        August 25th 2016, 12:14:24 pm\n      ']	0.0
+['Leader of British movement to leave EU joins Trump at rally']	Associated Press	['\n        By ', '  -\n\n        August 25th 2016, 12:07:19 pm\n      ']	0.0
+['Pharma nerves hit stocks, dollar wobbles before Fed gathering']	Reuters	['\n        By ', '  -\n\n        August 25th 2016, 11:58:21 am\n      ']	0.0
+[u"If demography is destiny, this chart is Britain's: Nearly three in 10 babies are born to foreign mothers - and in parts of London the figure is over 75%\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        August 25th 2016, 11:55:27 am\n      ']	-0.0125
+['UK retailers see best sales in 6 months as Brexit slump fades-CBI']	Reuters	['\n        By ', '  -\n\n        August 25th 2016, 11:47:06 am\n      ']	1.0
+['Portuguese yields retreat from 1-month highs as bank deal brings respite']	Reuters	['\n        By ', '  -\n\n        August 25th 2016, 11:13:25 am\n      ']	0.0
+["FOREX-Dollar slips as investors await Yellen's Jackson Hole speech"]	Reuters	['\n        By ', '  -\n\n        August 25th 2016, 10:48:38 am\n      ']	0.0
+['Life insurer Phoenix eyes deals to bulk up post Brexit']	Reuters	['\n        By ', '  -\n\n        August 25th 2016, 10:41:04 am\n      ']	0.0
+["'Hillary is a bigot': Trump accuses Clinton of prejudice saying she 'sees people of color only as votes, not as human beings'"]	The Daily Mail	['\n        By ', '  -\n\n        August 25th 2016, 10:36:16 am\n      ']	0.0
+['All 57,000 EU migrants working in the NHS must be offered FREE British citizenship to stop the health service collapsing after Brexit, thinktank says']	The Daily Mail	['\n        By ', '  -\n\n        August 25th 2016, 10:18:41 am\n      ']	0.2
+['UK retailers see best sales in 6 months as Brexit slump fades-CBI']	Reuters	['\n        By ', '  -\n\n        August 25th 2016, 10:01:16 am\n      ']	1.0
+['Net migration to Britain fell slightly before EU vote']	Reuters	['\n        By ', '  -\n\n        August 25th 2016, 9:52:46 am\n      ']	-0.0833333333333
+["Luxury footwear brand Jimmy Choo boosted by weaker pound, men's collections and growth in China"]	The Daily Mail	['\n        By ', '  -\n\n        August 25th 2016, 9:25:14 am\n      ']	0.0
+['Net migration is still more than TRIPLE government target at 327,000 as Theresa May orders ministers to come up with ways of curbing numbers']	The Daily Mail	['\n        By ', '  -\n\n        August 25th 2016, 9:16:06 am\n      ']	0.25
+['Stocks wilt ahead of Fed gathering, dollar wobbles']	Reuters	['\n        By ', '  -\n\n        August 25th 2016, 9:15:26 am\n      ']	0.0
+['Brexit hits German business morale, Ifo index plunges']	Reuters	['\n        By ', '  -\n\n        August 25th 2016, 9:02:13 am\n      ']	0.0
+['Brexit takes deeper toll on German business morale-Ifo economist']	Reuters	['\n        By ', '  -\n\n        August 25th 2016, 8:53:11 am\n      ']	0.0
+['Sterling near 3-week high as fears over impact of Brexit ease']	Reuters	['\n        By ', '  -\n\n        August 25th 2016, 8:33:10 am\n      ']	0.13
+["FTSE CLOSE: Footsie remains lower with US stocks also cautious ahead of Janet Yellen's key Jackson Hole speech"]	The Daily Mail	['\n        By ', '  -\n\n        August 25th 2016, 8:28:11 am\n      ']	0.0
+['German business confidence drops unexpectedly, survey shows']	Associated Press	['\n        By ', '  -\n\n        August 25th 2016, 8:13:22 am\n      ']	0.05
+['British car output up in July but growth slows']	Reuters	['\n        By ', '  -\n\n        August 25th 2016, 7:39:59 am\n      ']	0.0
+["FOREX-Dollar rangebound as investors await Yellen's Jackson Hole speech"]	Reuters	['\n        By ', '  -\n\n        August 25th 2016, 7:33:37 am\n      ']	0.0
+['Life insurer Phoenix says Solvency II surplus impacted by Brexit']	Reuters	['\n        By ', '  -\n\n        August 25th 2016, 6:28:52 am\n      ']	0.0
+['Clean air but murky policy as Yellen speech awaited']	The Daily Mail	['\n        By ', '  -\n\n        August 25th 2016, 5:07:47 am\n      ']	0.366666666667
+["Trump finds anti-establishment ally in Brexit's Farage"]	The Daily Mail	['\n        By ', '  -\n\n        August 25th 2016, 4:38:17 am\n      ']	0.0
+['Donald Trump shares stage with Brexit leader Nigel Farage']	The Daily Mail	['\n        August 25th 2016, 2:10:01 am\n      ']	0.0
+['Brexit an anti-establishment victory, Nigel Farage tells Trump supporters']	Press Association	['\n        By ', '  -\n\n        August 25th 2016, 2:03:01 am\n      ']	0.0
+["The Donald brings UK independence leader Nigel Farage to Mississippi rally and British leader says he wouldn't vote for Hillary 'if you paid me'"]	The Daily Mail	['\n        By ', '  -\n\n        August 25th 2016, 1:53:24 am\n      ']	0.0
+["Low-skilled EU workers should apply for permits says government's top adviser as it's revealed net migration figures are three times HIGHER than official targets"]	The Daily Mail	['\n        By ', '  -\n\n        August 25th 2016, 1:31:30 am\n      ']	0.25
+["Brick shortage holding up housebuilding process 'from beginning to end' - report"]	Press Association	['\n        By ', '  -\n\n        August 25th 2016, 1:05:12 am\n      ']	0.0
+["Owen Smith accuses Jeremy Corbyn of being 'happy' about vote for Brexit"]	Press Association	['\n        By ', '  -\n\n        August 25th 2016, 1:05:12 am\n      ']	0.8
+[u'DAILY MAIL COMMENT: Web giants turning a blind eye to terror\xa0']	The Daily Mail	['\n        By ', '  -\n\n        August 25th 2016, 12:59:04 am\n      ']	-0.25
+['The quiet revolutionary who turned Sir Humphrey into TV gold: Yes Minister genius Antony Jay, who has died aged 86, loved nothing more than pricking the pomposity of politicians with his deadly wit']	The Daily Mail	['\n        By ', '  -\n\n        August 24th 2016, 11:06:59 pm\n      ']	0.18
+['Wall Street stocks retreat, oil tumbles on oversupply concerns']	Reuters	['\n        By ', '  -\n\n        August 24th 2016, 9:37:02 pm\n      ']	0.0
+['Brexit leader Nigel Farage addresses Trump rally, bashes Clinton']	Reuters	['\n        By ', '  -\n\n        August 24th 2016, 8:48:23 pm\n      ']	0.0
+['FTSE 250 soars to a 14 month high closing more than 20% above its post-Brexit low']	The Daily Mail	['\n        By ', '  -\n\n        August 24th 2016, 8:38:02 pm\n      ']	0.165
+['Trump, aiming to widen support, makes pitch to Hispanics']	Associated Press	['\n        By ', '  -\n\n        August 24th 2016, 8:30:22 pm\n      ']	0.0
+[u'MARKET REPORT: Banks are the latest sector to quash Brexit uncertainty as they bounce back after OneSavings profits surge\xa0']	The Daily Mail	['\n        By ', '  -\n\n        August 24th 2016, 8:05:05 pm\n      ']	0.25
+['Donald Trump is the candidate for change, Nigel Farage claims ahead of US speech']	Press Association	['\n        By ', '  -\n\n        August 24th 2016, 7:51:18 pm\n      ']	0.0
+['Jeremy Corbyn is caught out AGAIN as US politician Bernie Sanders denies sending him message of support']	The Daily Mail	['\n        By ', '  -\n\n        August 24th 2016, 7:42:12 pm\n      ']	0.0
+[u"ALEX BRUMMER: Think Lloyds boss's business trip fling is a private matter? His bank was bailed-out with \xa320.5bn of public cash"]	The Daily Mail	['\n        By ', '  -\n\n        August 24th 2016, 7:33:46 pm\n      ']	0.0
+['DAILY BRIEFING: French bank Societe Generale forges ahead with a move to Canary Wharf']	The Daily Mail	['\n        By ', '  -\n\n        August 24th 2016, 7:12:55 pm\n      ']	0.0
+['European stocks rebound as euro slips; oil tumbles']	Reuters	['\n        By ', '  -\n\n        August 24th 2016, 7:08:58 pm\n      ']	0.0
+[u"UK 'perking up' after EU vote, says Sir Martin Sorrell:\xa0Advertising tycoon changes his tune on Brexit"]	The Daily Mail	['\n        By ', '  -\n\n        August 24th 2016, 6:42:26 pm\n      ']	0.0
+['Brexit campaigner Farage says to address Trump rally']	Reuters	['\n        By ', '  -\n\n        August 24th 2016, 6:30:46 pm\n      ']	0.0
+[u"Didn't that bloke used to be the Prime Minister? David Cameron blends in with the crowd as he chomps down on his fish and chips in Cornwall\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        August 24th 2016, 6:13:50 pm\n      ']	-0.155555555556
+[u'Tony Blair insists mass immigration has been GOOD for Britain and he STILL won\u2019t rule out calling for another EU referendum']	The Daily Mail	['\n        By ', '  -\n\n        August 24th 2016, 5:05:01 pm\n      ']	0.7
+['European stocks rebound as euro slips; oil tumbles']	Reuters	['\n        By ', '  -\n\n        August 24th 2016, 4:41:57 pm\n      ']	0.0
+["'You can smash the establishment too!' Nigel Farage ditches the dodgy moustache to join Donald Trump on stage and explain how Brexit success can be blueprint for his outsider victory"]	The Daily Mail	['\n        By ', '  -\n\n        August 24th 2016, 4:23:09 pm\n      ']	0.3
+["Brexit a boon for Berlin's fintech talent pool"]	Reuters	['\n        By ', '  -\n\n        August 24th 2016, 4:19:53 pm\n      ']	0.0
+['Merkel urges judicious moves by remaining EU states after Brexit vote']	Reuters	['\n        By ', '  -\n\n        August 24th 2016, 4:18:42 pm\n      ']	0.0
+["Britain's FTSE underperforms European peers, miners hinder"]	Reuters	['\n        By ', '  -\n\n        August 24th 2016, 4:16:34 pm\n      ']	0.0
+['Hands across the North Sea? Flanders eyes post-Brexit union']	Reuters	['\n        By ', '  -\n\n        August 24th 2016, 4:15:21 pm\n      ']	0.0
+[u'It\u2019s bad in France but at least we\u2019re not Britain! Sarkozy launches astonishing attack on multiculturalism in the UK as he bids to return as president']	The Daily Mail	['\n        By ', '  -\n\n        August 24th 2016, 3:37:05 pm\n      ']	-0.191666666667
+['Merkel urges judicious moves by remaining EU states after Brexit vote']	Reuters	['\n        By ', '  -\n\n        August 24th 2016, 3:02:46 pm\n      ']	0.0
+[u"RACHEL RICKARD STRAUS: The evidence is clear that house price rises must stop \u2013 so why can't we see it?\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        August 24th 2016, 2:56:56 pm\n      ']	0.1
+['Bank lending goes UP in month after the historic Brexit vote as consumers show little sign of nerves about leaving EU']	The Daily Mail	['\n        By ', '  -\n\n        August 24th 2016, 2:06:17 pm\n      ']	-0.09375
+['New trade deal with Britain may take time, Norwegian minister says']	Reuters	['\n        By ', '  -\n\n        August 24th 2016, 2:00:51 pm\n      ']	0.0681818181818
+['Colombia, FARC rebels reach deal to end half-century war']	Associated Press	['\n        By ', '  -\n\n        August 24th 2016, 1:12:01 pm\n      ']	0.0
+[u"Nicola Sturgeon's dream for Scottish independence lies in tatters as North Sea oil revenue plunges by 97% and leaves \xa315bn black hole in Scotland's finances"]	The Daily Mail	['\n        By ', '  -\n\n        August 24th 2016, 1:11:16 pm\n      ']	-0.166666666667
+["The Latest: Trump won't address immigration in Phoenix"]	Associated Press	['\n        By ', '  -\n\n        August 24th 2016, 12:29:13 pm\n      ']	0.5
+['Demand for buy-to-let mortgages and loans boosts OneSavings Bank profits but lender set to slash standard rates']	The Daily Mail	['\n        By ', '  -\n\n        August 24th 2016, 11:56:38 am\n      ']	0.0
+['New trade deal with Britain may take time, Norwegian minister says']	Reuters	['\n        By ', '  -\n\n        August 24th 2016, 11:51:47 am\n      ']	0.0681818181818
+['European stocks rebound as euro slips, U.S. curve flattens']	Reuters	['\n        By ', '  -\n\n        August 24th 2016, 11:49:45 am\n      ']	0.0
+['Sterling hits 3-week high, buoyed by upbeat data post-Brexit']	Reuters	['\n        By ', '  -\n\n        August 24th 2016, 11:36:56 am\n      ']	0.16
+['Scottish public finance gap rises to 9.5 percent of GDP']	Reuters	['\n        By ', '  -\n\n        August 24th 2016, 11:08:01 am\n      ']	0.0
+['UK banks approve fewest mortgages since Jan 2015, consumer credit growth strong']	Reuters	['\n        By ', '  -\n\n        August 24th 2016, 10:44:30 am\n      ']	0.433333333333
+[u"Oil revenues down 97% as Scotland's deficit increases to almost \xa315bn"]	Press Association	['\n        By ', '  -\n\n        August 24th 2016, 10:29:17 am\n      ']	-0.155555555556
+['Slump in mortgage approvals following Brexit vote']	Press Association	['\n        By ', '  -\n\n        August 24th 2016, 10:29:17 am\n      ']	0.0
+[u"Remain backer William Hague lands \xa3250,000 role advising companies on how to influence government's plans for leaving the EU"]	The Daily Mail	['\n        By ', '  -\n\n        August 24th 2016, 10:04:00 am\n      ']	0.0
+["WPP warns interest rates and global growth to stay 'lower for longer' as it posts another strong set of results"]	The Daily Mail	['\n        By ', '  -\n\n        August 24th 2016, 9:45:02 am\n      ']	0.216666666667
+['UK banks approve fewest mortgages since Jan 2015, consumer credit growth strong']	Reuters	['\n        By ', '  -\n\n        August 24th 2016, 9:34:08 am\n      ']	0.433333333333
+["'Tesco's run out of vanilla pods': Superfans reveal the tell-tale signs Bake Off is back as Twitter goes into a frenzy hours before the series premiere"]	The Daily Mail	['\n        By ', '  -\n\n        August 24th 2016, 9:00:55 am\n      ']	0.0
+["Labour leadership hopeful Owen Smith faces backlash after threatening to block Brexit and demanding the public 'thinks again'"]	The Daily Mail	['\n        By ', '  -\n\n        August 24th 2016, 8:59:48 am\n      ']	0.0
+["Britain's FTSE underperforms, hindered by Glencore"]	Reuters	['\n        By ', '  -\n\n        August 24th 2016, 8:41:02 am\n      ']	-0.2
+[u'WPP growth strategy unaffected by Brexit as profits rise 15.8% to \xa3690m']	Press Association	['\n        By ', '  -\n\n        August 24th 2016, 8:18:58 am\n      ']	-0.05
+['UK carpet seller Headlam ups prices after post-Brexit sterling weakness']	Reuters	['\n        By ', '  -\n\n        August 24th 2016, 8:15:49 am\n      ']	0.0
+["FTSE CLOSE: Footsie stays weak as traders get jitters over oil price moves and Yellen's Jackson Hole speech"]	The Daily Mail	['\n        By ', '  -\n\n        August 24th 2016, 8:10:07 am\n      ']	-0.375
+['Sterling pinned near recent highs, boosted by upbeat data']	Reuters	['\n        By ', '  -\n\n        August 24th 2016, 8:07:11 am\n      ']	0.05
+['UK Labour leadership candidate says will block Brexit talks if no second vote']	Reuters	['\n        By ', '  -\n\n        August 24th 2016, 7:23:53 am\n      ']	0.0
+['OneSavings more keen on lending to professional landlords after EU vote']	Reuters	['\n        By ', '  -\n\n        August 24th 2016, 6:47:40 am\n      ']	0.3
+['WPP sees signs of post-Brexit recovery in British ad market']	Reuters	['\n        By ', '  -\n\n        August 24th 2016, 6:35:57 am\n      ']	0.0
+['OneSavings more keen on lending to professional landlords after Brexit']	Reuters	['\n        By ', '  -\n\n        August 24th 2016, 6:28:55 am\n      ']	0.3
+['Asian stocks slip on profit-taking; oil falls']	Reuters	['\n        By ', '  -\n\n        August 24th 2016, 12:36:22 am\n      ']	0.0
+["Brexit 'offers UK unique opportunity to reshape fishing industry'"]	Press Association	['\n        By ', '  -\n\n        August 24th 2016, 12:31:15 am\n      ']	0.2375
+['Demand for new homes has soared since Brexit vote, says major housebuilder as Britons shrug off concerns about leaving the EU']	The Daily Mail	['\n        By ', ' ', '  -\n\n        August 24th 2016, 12:10:17 am\n      ']	0.0994318181818
+[u"EPHRAIM HARDCASTLE: \xa0Life's still grand for Alan Yentob, despite losing half of his \xa3330,000 BBC salary"]	The Daily Mail	['\n        By ', '  -\n\n        August 24th 2016, 12:00:34 am\n      ']	0.166666666667
+['Owen Smith puts economy at centre of his pitch for Labour leadership']	Press Association	['\n        By ', '  -\n\n        August 23rd 2016, 10:33:38 pm\n      ']	0.0
+[u"Embarrassed Lloyds boss apologises to his 75,000 staff after being caught 'having an affair on a business trip' but adds: 'We all make mistakes'\xa0"]	The Daily Mail	['\n        By ', ' ', '  -\n\n        August 23rd 2016, 10:28:47 pm\n      ']	0.0
+["'PM will order a second referendum': Expert claims Britain will NEVER leave the EU because Brexit process is 'too complex' for ministers to see through"]	The Daily Mail	['\n        By ', '  -\n\n        August 23rd 2016, 10:02:50 pm\n      ']	-0.15
+['How to give YOUR pension a Brexit boost from the falling pound by investing in multinational firms']	The Daily Mail	['\n        By ', '  -\n\n        August 23rd 2016, 9:15:10 pm\n      ']	0.0
+["Worldwide concern grows over 'too many immigrants' - but the British are LESS worried than they were five years ago"]	The Daily Mail	['\n        By ', '  -\n\n        August 23rd 2016, 7:53:23 pm\n      ']	0.111111111111
+[u'Sir Antony Jay, creator of the classic Whitehall satire Yes, Minister, dies aged 86\xa0']	The Daily Mail	['\n        By ', '  -\n\n        August 23rd 2016, 7:47:15 pm\n      ']	0.0333333333333
+['Sir Antony Jay, co-writer of Yes Minister, dies aged 86']	Press Association	['\n        By ', '  -\n\n        August 23rd 2016, 7:05:12 pm\n      ']	-0.1
+[u'Investors facing pensions nightmare: Star fund manager Neil Woodford to blow the whistle on \xa31trillion black hole']	The Daily Mail	['\n        By ', '  -\n\n        August 23rd 2016, 6:37:44 pm\n      ']	-0.166666666667
+["MARKET REPORT: The FTSE's worst performer - annuity provider JRP Group - finally shows signs of life"]	The Daily Mail	['\n        By ', '  -\n\n        August 23rd 2016, 6:33:44 pm\n      ']	-0.5
+['Sales of Swiss watches soar as weak pound makes Britain one of the cheapest places to buy luxury goods']	The Daily Mail	['\n        By ', '  -\n\n        August 23rd 2016, 6:19:15 pm\n      ']	-0.375
+[u'Nicola Sturgeon says Brexit could cost Scotland over \xa311bn']	The Daily Mail	['\n        August 23rd 2016, 5:22:42 pm\n      ']	0.0
+[u"DO mention the war! Prince William reveals he wished he had served in Germany as he marks 70 years of British soldiers being stationed in the country (and insists our relationship won't change despite Brexit vote)\xa0"]	The Daily Mail	['\n        By ', ' ', ' ', '  -\n\n        August 23rd 2016, 5:05:26 pm\n      ']	0.0
+['European shares gain, led by housebuilders, mining companies']	Reuters	['\n        By ', '  -\n\n        August 23rd 2016, 4:28:49 pm\n      ']	0.0
+['U.K. banks seen losing customers after Brexit -study']	Reuters	['\n        By ', '  -\n\n        August 23rd 2016, 4:12:52 pm\n      ']	0.0
+['France, Germany press for access to encrypted messages after attacks']	Reuters	['\n        By ', '  -\n\n        August 23rd 2016, 3:55:03 pm\n      ']	0.0
+['Housing sector helps stocks advance; dollar dips']	Reuters	['\n        By ', '  -\n\n        August 23rd 2016, 3:53:01 pm\n      ']	0.0
+['UK corporate bond issuance soars ahead of BoE purchases']	Reuters	['\n        By ', '  -\n\n        August 23rd 2016, 3:36:48 pm\n      ']	0.0
+['Tesco criticised over removal of Scottish flag from packaging after complaints']	Press Association	['\n        By ', '  -\n\n        August 23rd 2016, 3:16:03 pm\n      ']	0.0
+[u"'Get on with the day job!' Scottish Tory leader Ruth Davidson slaps down Nicola Sturgeon as she claims Brexit will cost Scotland up to \xa311bn a year\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        August 23rd 2016, 2:56:50 pm\n      ']	-0.155555555556
+['Sterling hits three-week high as speculators cut unfavourable bets']	Reuters	['\n        By ', '  -\n\n        August 23rd 2016, 2:55:03 pm\n      ']	0.16
+["'This is a national disgrace!' Public vote that Mrs Brown's Boys is the best sitcom of the CENTURY sparks howls of outrage on the Internet"]	The Daily Mail	['\n        By ', '  -\n\n        August 23rd 2016, 2:47:05 pm\n      ']	0.5
+['Euro zone business growth stable in August, France surprises upwards']	Reuters	['\n        By ', '  -\n\n        August 23rd 2016, 2:18:57 pm\n      ']	0.0
+["Half of UK households worried about Brexit's impact on finances and nearly a third think their job could be at risk"]	The Daily Mail	['\n        By ', '  -\n\n        August 23rd 2016, 2:08:46 pm\n      ']	-0.0833333333333
+["Drunk Brexit supporter who shouted: 'We voted to take our country back' as she destroyed a burka sculpture 'worked as a designer for the Beatles'"]	The Daily Mail	['\n        By ', '  -\n\n        August 23rd 2016, 1:50:18 pm\n      ']	-0.25
+['Austrian independent presidential hopeful bets on EU against far-right rival']	Reuters	['\n        By ', '  -\n\n        August 23rd 2016, 1:41:58 pm\n      ']	0.0
+['UK economy suffers little immediate Brexit hit, tests to come']	Reuters	['\n        By ', '  -\n\n        August 23rd 2016, 1:19:26 pm\n      ']	-0.39375
+['Europe needs a joint army says Czech Prime Minister after big three leaders pledge more integration between EU countries']	The Daily Mail	['\n        By ', ' ', '  -\n\n        August 23rd 2016, 1:00:31 pm\n      ']	0.25
+["Worried about Brexit risk, Japan's financial regulator extends safety net"]	Reuters	['\n        By ', '  -\n\n        August 23rd 2016, 12:39:27 pm\n      ']	0.0
+['Stocks creep up amid Fed limbo, dollar dips']	Reuters	['\n        By ', '  -\n\n        August 23rd 2016, 12:39:14 pm\n      ']	0.0
+['New UNICEF deputy to focus on hate politics, child slavery and virtual reality']	Reuters	['\n        By ', '  -\n\n        August 23rd 2016, 12:34:18 pm\n      ']	-0.331818181818
+['France, Germany press for EU encryption law after attacks']	Reuters	['\n        By ', '  -\n\n        August 23rd 2016, 11:58:02 am\n      ']	0.0
+['UK manufacturing export orders highest in 2 years after Brexit vote']	Reuters	['\n        By ', '  -\n\n        August 23rd 2016, 11:53:42 am\n      ']	0.0
+['Tide turns for first-time buyers: Small deposit mortgages on the wane as Help to Buy scheme comes to a close']	The Daily Mail	['\n        By ', '  -\n\n        August 23rd 2016, 11:53:21 am\n      ']	-0.25
+["Brexit has 'little or no direct impact' for Rank as casinos and bingos firm posts profit rise after bid withdrawal"]	The Daily Mail	['\n        By ', '  -\n\n        August 23rd 2016, 11:50:24 am\n      ']	-0.309375
+[u"UK manufacturing exports climb to two-year high bolstered by drop in pound in Brexit's aftermath\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        August 23rd 2016, 11:36:07 am\n      ']	0.16
+['Are these the biggest property bargains in Britain? Ten homes that have seen their asking price slashed by up to 50%']	The Daily Mail	['\n        By ', '  -\n\n        August 23rd 2016, 11:13:53 am\n      ']	0.0
+['Euro zone yields up as PMIs prove resilient post-Brexit vote']	Reuters	['\n        By ', '  -\n\n        August 23rd 2016, 11:10:49 am\n      ']	0.0
+[u"Brexit 'to cost Scottish economy \xa311.2bn a year'"]	Press Association	['\n        By ', '  -\n\n        August 23rd 2016, 11:06:27 am\n      ']	0.0
+['Ukip leadership contender in row over call for apparent face veils ban in public']	Press Association	['\n        By ', '  -\n\n        August 23rd 2016, 11:06:27 am\n      ']	0.025
+['Summer sunshine encourages grocery sales acceleration']	Press Association	['\n        By ', '  -\n\n        August 23rd 2016, 11:06:27 am\n      ']	0.0
+["Lidl becomes UK's fastest growing supermarket as feared post-Brexit price hikes fail to materialise"]	The Daily Mail	['\n        By ', '  -\n\n        August 23rd 2016, 10:11:31 am\n      ']	-0.5
+['UK manufacturing export orders highest in 2 years after Brexit vote']	Reuters	['\n        By ', '  -\n\n        August 23rd 2016, 10:02:45 am\n      ']	0.0
+['Is Boris being Foreign Secretary really THAT bad? Enquiries about emigrating to New Zealand have DOUBLED since the Brexit vote']	The Daily Mail	['\n        By ', '  -\n\n        August 23rd 2016, 10:02:21 am\n      ']	-0.122159090909
+['Euro zone business growth stable in August, France surprises upwards']	Reuters	['\n        By ', '  -\n\n        August 23rd 2016, 9:52:26 am\n      ']	0.0
+['Housebuilders, miners lead European shares higher']	Reuters	['\n        By ', '  -\n\n        August 23rd 2016, 8:57:36 am\n      ']	0.125
+['Eurozone business resilient in face of Brexit uncertainties']	Associated Press	['\n        By ', '  -\n\n        August 23rd 2016, 8:55:48 am\n      ']	0.0
+["Britain's FTSE buoyed by resilient Persimmon"]	Reuters	['\n        By ', '  -\n\n        August 23rd 2016, 8:54:55 am\n      ']	0.0
+['Housebuilder Persimmon sees profits RISE 29% despite Brexit worries, with UK rate cut set to boost sector']	The Daily Mail	['\n        By ', '  -\n\n        August 23rd 2016, 8:32:50 am\n      ']	0.0
+['FTSE CLOSE: Footsie holds onto gains as focus stays on Yellen speech at Jackson Hole; oil nudges $50 again']	The Daily Mail	['\n        By ', '  -\n\n        August 23rd 2016, 8:12:26 am\n      ']	0.0
+['Sterling jumps above $1.32 as speculators cut unfavourable bets']	Reuters	['\n        By ', '  -\n\n        August 23rd 2016, 8:07:10 am\n      ']	0.0
+['Euro zone yields creep up after resilient German, French data']	Reuters	['\n        By ', '  -\n\n        August 23rd 2016, 8:03:19 am\n      ']	0.0
+[u'Rank shrugs off Brexit hit to pound as profits rise 15% to \xa385.5m']	Press Association	['\n        By ', '  -\n\n        August 23rd 2016, 7:58:24 am\n      ']	-0.8
+[u"Persimmon profits soar 29% to \xa3352m amid 'robust' customer interest post-Brexit"]	Press Association	['\n        By ', '  -\n\n        August 23rd 2016, 7:58:24 am\n      ']	0.0
+['Builder Persimmon shrugs off Brexit as reservation rate rises']	Reuters	['\n        By ', '  -\n\n        August 23rd 2016, 7:57:53 am\n      ']	0.0
+['Kier wins place on some UK construction contracts post Brexit']	Reuters	['\n        By ', '  -\n\n        August 23rd 2016, 7:38:26 am\n      ']	0.3
+['European shares gain, UK homebuilders rally for second day']	Reuters	['\n        By ', '  -\n\n        August 23rd 2016, 7:34:34 am\n      ']	0.0
+['Kier, others win UK construction contracts worth over 5 bln stg post Brexit']	Reuters	['\n        By ', '  -\n\n        August 23rd 2016, 6:36:10 am\n      ']	0.55
+['BRIEF-Hansteen says occupational market in the UK continues to be strong']	Reuters	['\n        By ', '  -\n\n        August 23rd 2016, 6:18:10 am\n      ']	0.433333333333
+['Bookmakers Rank Group sees no direct impact from Brexit']	Reuters	['\n        By ', '  -\n\n        August 23rd 2016, 5:30:13 am\n      ']	-0.425
+['William: Brexit will not weaken friendship between UK and Germany']	Press Association	['\n        By ', '  -\n\n        August 23rd 2016, 3:30:12 am\n      ']	0.0
+["FOREX-Dollar dips vs yen, kiwi lifted by RBNZ's rate view"]	Reuters	['\n        By ', '  -\n\n        August 23rd 2016, 2:40:35 am\n      ']	0.0
+['How to flush out illegal immigrants: RICHARD LITTLEJOHN says monitoring sewage from homes could help officers target their raids']	The Daily Mail	['\n        By ', '  -\n\n        August 23rd 2016, 12:46:02 am\n      ']	-0.5
+["FOREX-Dollar dips vs yen, kiwi rises on RBNZ Wheeler's comments"]	Reuters	['\n        By ', '  -\n\n        August 23rd 2016, 12:35:05 am\n      ']	0.0
+["DAILY MAIL COMMENT: The epic delusion of Europe's failing elite who ignore the litany of problems on their doorsteps while pursuing the disastrous political project"]	The Daily Mail	['\n        By ', '  -\n\n        August 23rd 2016, 12:29:04 am\n      ']	-0.15
+[u'Women spend \xa37billion a year on clothes and shoes - four times as much as men']	The Daily Mail	['\n        By ', '  -\n\n        August 23rd 2016, 12:08:45 am\n      ']	0.2
+[u"Seven-day NHS 'disaster': Sceptics claim there's not enough cash or staff... and say it won't help patients\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        August 22nd 2016, 11:55:07 pm\n      ']	0.0
+["Has Brexit taught them nothing? Europe's big three leaders pledge MORE integration despite popular backlash"]	The Daily Mail	['\n        By ', '  -\n\n        August 22nd 2016, 11:21:01 pm\n      ']	0.366666666667
+['Documents reveal doubts over viability of seven-day NHS service']	Press Association	['\n        By ', '  -\n\n        August 22nd 2016, 8:53:15 pm\n      ']	0.0
+[u'Overseas tourists splashing out in UK and more Britons opting to holiday at home fuels spending boom\xa0']	The Daily Mail	['\n        By ', '  -\n\n        August 22nd 2016, 8:17:05 pm\n      ']	0.5
+['Germany, France, Italy say Europe must move forward after Brexit vote']	Reuters	['\n        By ', '  -\n\n        August 22nd 2016, 7:36:50 pm\n      ']	0.0
+['MAGGIE PAGANO: As star fund manager Neil Woodford bans them for his staff...is it time to scrap bonuses?']	The Daily Mail	['\n        By ', '  -\n\n        August 22nd 2016, 7:29:48 pm\n      ']	0.0
+['Merkel and Hollande received by Renzi ahead of Brexit summit']	The Daily Mail	['\n        August 22nd 2016, 6:52:50 pm\n      ']	0.0
+[u'DAILY BRIEFING: Watchdogs too bogged down in paperwork to catch rogue traders, says rogue trader\xa0']	The Daily Mail	['\n        By ', '  -\n\n        August 22nd 2016, 6:24:09 pm\n      ']	-0.118518518519
+['How Britain weathered storm after Brexit vote: Two months on, the pound is down but shares have soared']	The Daily Mail	['\n        By ', '  -\n\n        August 22nd 2016, 6:15:24 pm\n      ']	-0.155555555556
+["Europe is hurtling towards a 'cataclysmic event' that will destroy the euro and kill off the EU, says Nobel prize-winning economist"]	The Daily Mail	['\n        By ', '  -\n\n        August 22nd 2016, 6:02:59 pm\n      ']	-0.2
+['US STOCKS-Wall St claws back losses as healthcare rises']	Reuters	['\n        By ', '  -\n\n        August 22nd 2016, 5:14:43 pm\n      ']	0.0
+[u'Human Rights Act WILL be scrapped and replaced with a British Bill of Rights, says Justice Secretary Liz Truss\xa0']	The Daily Mail	['\n        By ', '  -\n\n        August 22nd 2016, 4:59:20 pm\n      ']	0.0
+['European shares edge up helped by Syngenta, commodity stocks weigh']	Reuters	['\n        By ', '  -\n\n        August 22nd 2016, 4:45:22 pm\n      ']	0.0
+['Short-covering lifts sterling as bets against it hit record high']	Reuters	['\n        By ', '  -\n\n        August 22nd 2016, 4:21:05 pm\n      ']	0.16
+["EU is mocked for claiming it 'won' the Olympics - by using Team GB's medal haul to beat US and China in rankings"]	The Daily Mail	['\n        By ', '  -\n\n        August 22nd 2016, 3:58:25 pm\n      ']	0.0
+['Weaker commodity-related stocks push FTSE to 2-week low']	Reuters	['\n        By ', '  -\n\n        August 22nd 2016, 3:48:43 pm\n      ']	0.0
+['GRAPHIC-Extreme bets against pound may be overdone as Brexit risks smoulder']	Reuters	['\n        By ', '  -\n\n        August 22nd 2016, 2:31:47 pm\n      ']	0.0
+[u"'Borders are the worst invention ever!' EU chief Jean-Claude Juncker widens rift with European leaders as he calls for open borders\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        August 22nd 2016, 1:06:11 pm\n      ']	-0.333333333333
+[u'KATIE HOPKINS: How Civil Service saboteurs have turned Brexit into the Phony Exit \u2013 and what Theresa can do to get us back on track to Independence\xa0']	The Daily Mail	['\n        By ', '  -\n\n        August 22nd 2016, 1:03:36 pm\n      ']	0.0
+['Renzi calls for less bureaucratic Europe ahead of 3-way summit']	Reuters	['\n        By ', '  -\n\n        August 22nd 2016, 12:01:03 pm\n      ']	-0.166666666667
+['Italy, German, French eye beefed up EU defense after attacks']	Associated Press	['\n        By ', '  -\n\n        August 22nd 2016, 11:37:42 am\n      ']	0.0
+[u'Top fund manager Neil Woodford scraps all staff bonuses at his investment firm\xa0']	The Daily Mail	['\n        By ', '  -\n\n        August 22nd 2016, 10:57:07 am\n      ']	0.5
+['The scramble to save the EU: Leaders meet on the Italian island where the idea of a federal Europe began as they plot to stop the Brussels project unravelling following Brexit']	The Daily Mail	['\n        By ', '  -\n\n        August 22nd 2016, 10:29:45 am\n      ']	0.0
+["Britain's FTSE edges up as housebuilders rise, miners lag"]	Reuters	['\n        By ', '  -\n\n        August 22nd 2016, 9:16:28 am\n      ']	0.0
+[u"TalkSport owner Wireless Group posts profits dip ahead of \xa3220m sale to Rupert Murdoch's News Corp\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        August 22nd 2016, 8:49:05 am\n      ']	0.0
+['Sterling inches higher after strongest week in five']	Reuters	['\n        By ', '  -\n\n        August 22nd 2016, 8:45:32 am\n      ']	0.25
+['Syngenta deal clearance gives European stocks a lift']	Reuters	['\n        By ', '  -\n\n        August 22nd 2016, 8:37:24 am\n      ']	0.0

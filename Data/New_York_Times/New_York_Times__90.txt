@@ -1,0 +1,50 @@
+Marine Le Pen: After Brexit, the Peoples Spring Is Inevitable	The New York Times	2016-06-28	0.0
+Brexit: The Morning After	The New York Times	2016-06-24	0.0
+Brexit Plan for the Financial World? Cross Your Fingers	The New York Times	2016-06-16	0.0
+Brexit Vote Feeds Scotlands Alienation		2016-08-27	0.0
+After Brexit, a Splitting Hangover for the City of London	The New York Times	2016-06-27	0.0
+What Is Driving the Brexit Debate, and What a Leave Vote Could Mean	The New York Times	2016-06-19	-0.3125
+Carney Speaks on Brexit	Reuters	2016-03-08	0.0
+Brexit Briefing: Conservative Mudslinging, and George Osborne Calls for Tax Cuts	The New York Times	2016-07-05	0.0
+Brexit Briefing: David Cameron Leaves Brussels Early; Conservatives Seek New Leader	The New York Times	2016-06-30	0.118181818182
+In Brexit Debate, English Fishermen Eye Waters Free of E.U.	The New York Times	2016-04-15	0.2
+Carney Speaks on Brexit	Reuters	2016-03-08	0.0
+Brexit Briefing: Conservative Mudslinging, and George Osborne Calls for Tax Cuts	The New York Times	2016-07-05	0.0
+Brexit Briefing: David Cameron Leaves Brussels Early; Conservatives Seek New Leader	The New York Times	2016-06-30	0.118181818182
+In Brexit Debate, English Fishermen Eye Waters Free of E.U.	The New York Times	2016-04-15	0.2
+European Funds Cut UK, Euro Zone Stocks on Brexit Fallout Fears-Reuters Poll		2016-09-30	0.0
+After Nissan Ultimatum, Jaguar Land Rover Says Brexit Must Be Fair for All		2016-09-30	0.7
+UK Service Firms Defy Brexit, Put BoE on Spot Over Rates		2016-09-30	0.0
+Why the Brexit Warnings Dont Seem to Be Working in Britain	The New York Times	2016-06-17	0.0
+British Fashion Takes a Stand Against Brexit	The New York Times	2016-06-16	0.0
+After Brexit, Britain Could Look to Norway as a Model	The New York Times	2016-07-14	0.0
+Brexit Gives G.O.P. Opening to Tilt From Donald Trump on Trade	The New York Times	2016-06-30	0.0
+A Blunt Message After Brexit: Bolting Will Carry a Heavy Price	The New York Times	2016-06-28	-0.2
+UK Service Firms Defy Brexit, Put BoE on Spot Over Rates		2016-09-30	0.0
+London Still Top Finance Centre, but Brexit May Change That-Survey		2016-09-27	0.5
+Brexit Could Put Lives of Vulnerable at Risk Due to Less Charity Funding: Report		2016-09-28	-0.263888888889
+Bank of Finland Cuts Europe Growth Forecasts on Brexit, Italy Problems		2016-09-29	0.0
+Divided European Leaders Struggle With Post-Brexit Vision		2016-09-16	0.0
+From Robots to Websites, British Firms Curb Spending Due to Brexit		2016-09-29	-0.0625
+EU's Bienkowska Proposes Joint Defence Bonds After Brexit		2016-09-16	0.0
+Britain's Capita Feels Brexit Chill as Profits, Shares Take a Hit		2016-09-29	0.0
+Swiss Exchange Confident of Post-Brexit Access to EU Stock Market		2016-09-28	0.5
+UK Appears Headed for 'Hard Brexit', Scots Minister Says After Talks		2016-09-26	-0.291666666667
+S&P Sees Slowdown but No Recession for UK and Euro Zone After Brexit		2016-09-28	0.0
+German Business Morale Shrugs Off Brexit to Hit 28-Month High		2016-09-26	0.08
+Europe Divided, Juncker Urges Post-Brexit EU to Unite		2016-09-14	0.0
+Majority of UK CEOs Considering Moving Operations Abroad Post-Brexit-Survey		2016-09-26	0.0
+Purplebricks Latest British Real Estate Firm to Shrug Off Brexit		2016-09-15	0.125
+Bank of England Signals New Rate Cut Despite Brexit Bounceback		2016-09-15	0.136363636364
+Tusk Calls on EU Leaders to Seize Chance of Brexit		2016-09-15	0.0
+Britain's May Prepares for Brexit Talks, Keeps Europe Guessing		2016-09-15	0.0
+UK's Johnson Reassures Ukraine of Support After Brexit Vote		2016-09-14	0.0
+London Still Top Finance Center, but Brexit May Change That: Survey		2016-09-26	0.2
+Majority of UK CEOs Considering Moving Operations Abroad Post-Brexit: Survey		2016-09-26	0.0
+UK Leader May Accused of Duplicity in Run-Up to Brexit Vote		2016-09-25	0.0
+Still Confused About Brexit Macroeconomics	The New York Times	2016-07-12	-0.4
+UK Parliament Must Be Fully Informed on Brexit Strategy: Opposition Leader		2016-09-25	0.0
+Brexit Forever? Britain Keeps the World Waiting for EU Divorce Papers		2016-09-23	0.0
+Luck Runs Out for a Leader of Brexit Campaign	The New York Times	2016-07-01	0.0
+As Britain Faces Uncertainty, Europeans Jockey for Londons Business	The New York Times	2016-07-01	0.0
+Hard-to-Sell Assets Complicate European Banks Brexit Risks	The New York Times	2016-06-29	0.0

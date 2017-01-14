@@ -1,0 +1,500 @@
+[u'JAN MOIR: The wives divorced from reality... As a former model cries in court as she explains why she needs \xa3196m from her Saudi billionaire ex, have the super rich ever been scarier or more out of touch?']	The Daily Mail	['\n        By ', '  -\n\n        July 1st 2016, 1:48:54 am\n      ']	0.302083333333
+['China factory activity stalls in June, more stimulus expected']	Reuters	['\n        By ', '  -\n\n        July 1st 2016, 1:31:35 am\n      ']	0.2
+['EPHRAIM HARDCASTLE: Why did the Queen and Prince Philip meet former IRA commander Martin McGuinness behind closed doors?']	The Daily Mail	['\n        By ', '  -\n\n        July 1st 2016, 1:27:24 am\n      ']	-0.166666666667
+["George Osborne warns of 'significant negative shock' to budget after Brexit vote"]	Press Association	['\n        By ', '  -\n\n        July 1st 2016, 1:18:29 am\n      ']	0.0375
+['Gold holds overnight gains, heads for fifth weekly gain']	Reuters	['\n        By ', '  -\n\n        July 1st 2016, 1:13:19 am\n      ']	0.0
+['S.Korea June exports fall for 18th month, Brexit sows uncertainty']	Reuters	['\n        By ', '  -\n\n        July 1st 2016, 1:02:53 am\n      ']	0.0
+['How the five Tory leadership hopefuls compare: The backgrounds, odds and Achilles heels of May, Gove, Crabb, Fox and Leadsom']	The Daily Mail	['\n        By ', '  -\n\n        July 1st 2016, 12:50:41 am\n      ']	0.0
+['England were always going to freeze at Euro 2016 from the moment Roy Hodgson made the mistake of picking such a young squad']	The Daily Mail	['\n        By ', '  -\n\n        July 1st 2016, 12:46:06 am\n      ']	0.05
+[u"Stop squabbling, grow up - and get on with Brexit: RICHARD LITTLEJOHN says the political class's behaviour since the referendum vote has bordered on the clinically insane\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        July 1st 2016, 12:36:51 am\n      ']	0.0
+[u"Turkey wants Britain's place in the EU: Country demands it is made a member so it can fill the gap made by the UK following Brexit\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        July 1st 2016, 12:26:14 am\n      ']	0.1
+[u"Two of Britain's biggest banks say they will stay in the UK following the Brexit: Bosses of HSBC and Barclays confirm they have no plans to leave\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        July 1st 2016, 12:21:49 am\n      ']	0.0
+['Asia stocks up as risk appetite recovers, pound under fresh pressure']	Reuters	['\n        By ', '  -\n\n        July 1st 2016, 12:20:01 am\n      ']	0.3
+["Japan's subdued business mood, yen rise call out for BOJ response"]	Reuters	['\n        By ', '  -\n\n        July 1st 2016, 12:18:47 am\n      ']	0.0
+['Australia could soon elect  5th prime minister in 3 years']	Associated Press	['\n        By ', '  -\n\n        July 1st 2016, 12:08:07 am\n      ']	0.8
+[u"The vicar's daughter who met her husband at a Conservative disco: Deadly serious. Utterly steely. After all those Etonians, could this grammar school girl, whose grandmothers were in service, be just what Britain needs? \xa0"]	The Daily Mail	['\n        By ', '  -\n\n        July 1st 2016, 12:01:40 am\n      ']	-0.166666666667
+['Japan clobbered by weak inflation, businesss confidence']	The Daily Mail	['\n        By ', '  -\n\n        June 30th 2016, 11:59:56 pm\n      ']	-0.375
+['Number of planning permissions for new homes in England hits its highest level since the crash after more than 66,000 were granted in first three months of 2016']	The Daily Mail	['\n        By ', '  -\n\n        June 30th 2016, 11:56:37 pm\n      ']	0.295454545455
+['Lower voting age leaves many wondering "Where\'s Japan\'s Bernie?"']	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 11:00:01 pm\n      ']	0.5
+["So fell Boris, a crowd pleaser seen off by the forces of greyness: QUENTIN LETTS sees Johnson quit with a showman's flourish"]	The Daily Mail	['\n        By ', '  -\n\n        June 30th 2016, 10:56:26 pm\n      ']	0.0
+[u'DAILY MAIL COMMENT: A party in flames and why it must be Theresa for leader\xa0']	The Daily Mail	['\n        By ', '  -\n\n        June 30th 2016, 10:47:47 pm\n      ']	0.0
+[u'Doomed from the moment Gove stuck the knife in: How Tory master strategist who guided Cameron to election victory told Boris to quit an hour after Justice Secretary said he would stand for the leadership\xa0']	The Daily Mail	['\n        By ', '  -\n\n        June 30th 2016, 10:30:26 pm\n      ']	0.0
+["ANDREW PIERCE: A boozy barbecue... and then shambolic BoJo was hit for six: How last-minute doubts over Boris' leadership led  Gove to knife his Brexit ally"]	The Daily Mail	['\n        By ', '  -\n\n        June 30th 2016, 10:30:18 pm\n      ']	0.0
+['Did shambolic Boris lose his shot at No 10 by failing to deliver one hand written note? Johnson faces claims his leadership bid was destroyed when his promises to Team Brexit never arrived']	The Daily Mail	['\n        By ', ' ', ' ', '  -\n\n        June 30th 2016, 10:28:59 pm\n      ']	0.0
+['Business Highlights']	Associated Press	['\n        By ', '  -\n\n        June 30th 2016, 10:25:49 pm\n      ']	0.0
+["EMERGING MARKETS-Mexico markets rise after cenbank's aggressive hike"]	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 10:10:59 pm\n      ']	0.0
+['COMMODITIES-Oil, gold propel market to biggest quarterly rally in years']	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 10:10:54 pm\n      ']	0.0
+['CANADA STOCKS-TSX rises for third straight day, up 4.2 pct for Q2']	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 9:22:34 pm\n      ']	0.1
+["Fed's swap line hints at little market stress after Brexit"]	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 9:07:06 pm\n      ']	-0.1875
+['Stocks rise, bond yields subdued as more stimulus eyed']	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 8:46:02 pm\n      ']	0.5
+[u'KATIE HOPKINS: Surely the British people who just voted to take back their future deserve so much better than this bunch of back-stabbing political pygmies?\xa0']	The Daily Mail	['\n        By ', '  -\n\n        June 30th 2016, 8:34:45 pm\n      ']	0.166666666667
+['US STOCKS-Wall St rallies for 3rd day as Brexit bruises fade']	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 8:22:58 pm\n      ']	0.0
+["Brexit vote huge for UK, global markets coping well-Fed's Bullard"]	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 8:03:03 pm\n      ']	0.2
+['UK says it will do all it can to safeguard Japanese investment post-Brexit']	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 7:51:12 pm\n      ']	0.0
+["FOREX-Sterling tumbles after dovish comments from BoE's Carney"]	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 7:48:18 pm\n      ']	0.0
+["S&P downgrades European Union to 'AA' after Brexit"]	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 7:44:45 pm\n      ']	0.0
+['PRESS DIGEST-New Zealand newspapers - July 1']	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 7:39:16 pm\n      ']	0.0
+["Britain's vote to exit EU makes for a rocky end to quarter"]	Associated Press	['\n        By ', '  -\n\n        June 30th 2016, 7:38:32 pm\n      ']	0.0
+['Tory MP Nadine Dorries bursts out crying as Boris Johnson quits Tory leadership contest']	The Daily Mail	['\n        By ', '  -\n\n        June 30th 2016, 7:36:42 pm\n      ']	-0.2
+[u'\u2018The victim of the strange relationships within the Tory party\u2019: How a 25-year-old journalist called Michael Gove perfectly summed up the fall of Boris after he stabbed him in the back himself \xa0']	The Daily Mail	['\n        By ', '  -\n\n        June 30th 2016, 6:50:01 pm\n      ']	0.21875
+['US STOCKS-Wall St rallies for 3rd day, healing Brexit wounds']	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 6:43:55 pm\n      ']	0.0
+['The man who could have been king: After winning Brexit and getting to the brink of No 10, Boris Johnson gets tripped at the final hurdle']	The Daily Mail	['\n        By ', '  -\n\n        June 30th 2016, 6:16:05 pm\n      ']	0.25
+['Equities rise, bond yields subdued as more stimulus seen']	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 6:11:56 pm\n      ']	0.5
+['EU approves Italian contingency plan to guarantee bank liquidity']	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 6:02:35 pm\n      ']	0.0
+["S&P cuts rating on EU to 'AA' after Brexit"]	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 5:50:08 pm\n      ']	0.0
+['FTSE 100 surges as Carney signals rates cut']	Press Association	['\n        By ', '  -\n\n        June 30th 2016, 5:33:30 pm\n      ']	0.0
+['Half-way through 2016, which stocks are faring the best? How miners struck gold while banks lost half of their worth']	The Daily Mail	['\n        By ', '  -\n\n        June 30th 2016, 5:32:22 pm\n      ']	0.377777777778
+['MARKET REPORT: Giant hint of interest rate cut by Governor of the Bank of England, Mark Carney, sends stock market into late flurry']	The Daily Mail	['\n        By ', '  -\n\n        June 30th 2016, 5:31:59 pm\n      ']	-0.15
+['ALEX BRUMMER: Someone needed to show they were in charge of the clattering Brexit train - step forward Mark Carney']	The Daily Mail	['\n        By ', '  -\n\n        June 30th 2016, 5:31:27 pm\n      ']	0.0
+["S&P cuts rating on EU to 'AA' after Brexit"]	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 5:30:00 pm\n      ']	0.0
+[u'Fall in value of pound gives surprise boost to some of Britain\u2019s biggest fine wine exporters']	The Daily Mail	['\n        By ', '  -\n\n        June 30th 2016, 5:27:27 pm\n      ']	0.416666666667
+["Brexit vote won't affect EU-US trade deal talks: EU commissioner"]	The Daily Mail	['\n        By ', '  -\n\n        June 30th 2016, 5:25:49 pm\n      ']	0.0
+['US STOCKS-Wall St rallies after BoE governor hints at stimulus']	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 5:09:28 pm\n      ']	0.0
+['UK must negotiate Brexit before Article 50 - Conservative Gove says']	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 5:03:18 pm\n      ']	0.0
+["How does the UK's Conservative Party elect a leader, and who is running?"]	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 5:02:18 pm\n      ']	0.8
+['Lindsay Lohan invited to turn on Kettering Christmas lights']	The Daily Mail	['\n        June 30th 2016, 5:01:20 pm\n      ']	0.0
+["Britain's Corbyn under fire over Israel comments"]	The Daily Mail	['\n        By ', '  -\n\n        June 30th 2016, 5:00:09 pm\n      ']	0.0
+['Governor of the Bank of England Mark Carney on the Brexit vote.']	The Daily Mail	['\n        June 30th 2016, 4:59:57 pm\n      ']	0.0
+['Deutsche Bank lags as European shares extend post-Brexit bounce']	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 4:57:08 pm\n      ']	0.0
+[u"Is THIS why you're single? Experts reveal the reasons you could be struggling to find love... and the very simple ways you can fix it\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        June 30th 2016, 4:55:37 pm\n      ']	0.142857142857
+['Britain to double its number of troops in Iraq to 500 in a bid to reassure nervous allies we are still a world power in wake of Brexit']	The Daily Mail	['\n        By ', '  -\n\n        June 30th 2016, 4:51:39 pm\n      ']	0.0
+[u"Samuel Adams brewer files to trademark 'Brexit' for new range of hard cider made with British apples\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        June 30th 2016, 4:50:12 pm\n      ']	-0.0517676767677
+[u"Brexit has caused 'economic PTSD' that means we're less likely to make big purchases warns Mark Carney as he hints at more CUTS to historically low interest rates\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        June 30th 2016, 4:50:02 pm\n      ']	0.0888888888889
+[u'\u2018No one is above the law\u2019 warns White House as it admits questions about why Loretta Lynch met Bill Clinton are \u2018legitimate\u2019']	The Daily Mail	['\n        By ', ' ', '  -\n\n        June 30th 2016, 4:46:58 pm\n      ']	0.0
+['COMMODITIES-Q2 gains strongest since 2010, driven by oil, gold']	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 4:42:10 pm\n      ']	0.0
+["Bank of England's Carney sees need for summer stimulus after Brexit shock"]	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 4:35:49 pm\n      ']	0.0
+[u'Police hunt for a racist white driver who threw a banana at a black father\u2019s car while he drove his two sons to school as official figures reveal 300 incidents of hate crimes have been reported since Brexit']	The Daily Mail	['\n        By ', '  -\n\n        June 30th 2016, 4:26:50 pm\n      ']	-0.322222222222
+[u"Kirstie Allsopp hits the roof! Host of Location, Location, Location speaks her mind about universities, fertility and David Cameron's post-Brexit resignation\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        June 30th 2016, 4:26:26 pm\n      ']	0.0
+['Conservative leadership candidate Gove says next PM needs to back Brexit']	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 4:16:02 pm\n      ']	0.0
+["Do you really want to be Prime Minister, Mr Gove? Justice Secretary enters Tory leadership race despite repeatedly admitting: 'I know I couldn't do it'"]	The Daily Mail	['\n        By ', '  -\n\n        June 30th 2016, 4:14:14 pm\n      ']	0.2
+["Britain's FTSE ends June on 2016 high"]	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 4:12:27 pm\n      ']	0.16
+['Sterling skids as Bank of England chief says UK needs stimulus']	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 4:12:13 pm\n      ']	0.0
+['Brexit to take toll on British Florida vacation home dreams']	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 4:00:01 pm\n      ']	0.0
+['Equities rise, bond yields subdued as more stimulus seen']	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 3:55:59 pm\n      ']	0.5
+["'How are we debating Lindsay Lohan in Parliament?' Mean Girls actress features in bizarre Commons debate after 'slagging off parts of Britain' in Brexit tweets"]	The Daily Mail	['\n        By ', '  -\n\n        June 30th 2016, 3:51:52 pm\n      ']	0.04375
+['Cerebral Gove bids to be next British prime minister']	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 3:47:40 pm\n      ']	0.0
+['The Brexit Lear - a divided kingdom, a youthful schism with an out-of-touch older generation... sound familiar?']	The Daily Mail	['\n        By ', '  -\n\n        June 30th 2016, 3:46:53 pm\n      ']	0.313888888889
+['EU authorises Italian guarantee scheme for solvent banks - spokeswoman']	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 3:39:17 pm\n      ']	0.0
+[u'PIERS MORGAN: I won\u2019t be shedding too much blood, sweat and tears for Boris \u2018Winston\u2019 Johnson \u2013 but I am sorry to see him brought down by such a dirty stab in the back']	The Daily Mail	['\n        By ', '  -\n\n        June 30th 2016, 3:33:35 pm\n      ']	-0.175925925926
+['Brexit fuels worries about expected U.S. earnings recovery']	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 3:32:13 pm\n      ']	-0.1
+["TEXT-Bank of England's Carney speaks on need for stimulus after Brexit shock"]	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 3:30:16 pm\n      ']	0.0
+["IMF says 'Brexit' uncertainty to dampen near-term growth outlook"]	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 3:28:05 pm\n      ']	0.0
+['U.S. bond prices dip, set for strong first half']	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 3:20:36 pm\n      ']	0.172222222222
+['No market access without budget contributions, Dombrovskis tells UK']	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 3:15:54 pm\n      ']	0.0
+["5 candidates in leadership race for UK's Conservative Party"]	Associated Press	['\n        By ', '  -\n\n        June 30th 2016, 3:14:23 pm\n      ']	0.0
+['FOREX-Dollar rises against sterling, euro on UK political uncertainty']	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 3:07:45 pm\n      ']	0.0
+['Japan PM urges UK, Germany to reassure markets after Brexit vote']	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 3:02:25 pm\n      ']	0.0
+["Bank of England's Carney sees need for summer stimulus after Brexit shock"]	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 3:00:10 pm\n      ']	0.0
+["Slovakia says western members can't dictate EU future after Brexit"]	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 2:56:24 pm\n      ']	0.0
+['UK markets watchdog asks banks to weigh up Brexit options']	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 2:47:17 pm\n      ']	0.0
+["IMF says 'Brexit' uncertainty to dampen growth outlook"]	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 2:42:38 pm\n      ']	0.0
+['Asian shares rise as low interest rates fuel buying']	Associated Press	['\n        By ', '  -\n\n        June 30th 2016, 2:30:10 pm\n      ']	0.0
+['CANADA STOCKS-TSX falls as oil, weak growth weigh on energy, bank stocks']	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 2:15:23 pm\n      ']	-0.375
+["All hail the Govefather: Twitter explodes with memes mocking Boris Johnson's shock decision to withdraw from the Tory leadership as Gove is blamed for forcing him to quit"]	The Daily Mail	['\n        By ', '  -\n\n        June 30th 2016, 2:08:29 pm\n      ']	0.0
+['US STOCKS-Wall St rally falters as oil prices skid']	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 2:04:33 pm\n      ']	0.0
+["Germany's strong domestic economy seen cushioning Brexit fallout"]	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 2:04:24 pm\n      ']	0.216666666667
+['Czech central bank sticks with plan to lift crown cap despite Brexit']	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 2:02:51 pm\n      ']	0.0
+["EU 'transitional holding pen' talks for Scotland under way - former EC adviser"]	Press Association	['\n        By ', '  -\n\n        June 30th 2016, 1:57:48 pm\n      ']	0.0
+['Property funds try to protect themselves against Brexit fallout']	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 1:37:37 pm\n      ']	0.0
+['Brexit fallout adds to pressure on UK corporate pension deficits']	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 1:34:09 pm\n      ']	0.0
+['Brexit spells end to EU leadership in climate diplomacy']	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 1:32:51 pm\n      ']	0.0
+['UK budget agency postpones public finance forecasts after Brexit vote']	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 1:21:35 pm\n      ']	0.0
+["American man abused on UK tram: 'Keeping calm is vital'"]	Associated Press	['\n        By ', '  -\n\n        June 30th 2016, 1:21:30 pm\n      ']	0.133333333333
+['News Corp bolsters UK soccer line-up with talkSPORT deal']	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 1:14:58 pm\n      ']	0.0
+['US STOCKS-Wall St set to open little changed; oil skids']	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 1:08:34 pm\n      ']	-0.09375
+['Spanish emigration hits highest level since at least 2008']	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 12:54:40 pm\n      ']	-0.15
+['U.S. data offers hope for manufacturing; jobs market steady']	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 12:52:24 pm\n      ']	0.133333333333
+["British-born BBC radio host was branded a n***** and told to 'go home' by a passing cyclist days after Brexit vote"]	The Daily Mail	['\n        By ', '  -\n\n        June 30th 2016, 12:50:27 pm\n      ']	0.0
+['U.S. jobless claims rise last week, underlying trend still favorable']	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 12:31:03 pm\n      ']	0.0
+['Airport expansion decision deferred until at least October']	Press Association	['\n        By ', '  -\n\n        June 30th 2016, 12:30:23 pm\n      ']	-0.3
+['FOREX-Yuan touches six-month low, sterling steadies']	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 12:29:39 pm\n      ']	0.0
+['Sterling steadies after two-day rebound']	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 12:26:58 pm\n      ']	0.0
+['Boris Johnson says he will not be running in leadership race']	The Daily Mail	['\n        June 30th 2016, 12:24:19 pm\n      ']	0.0
+['Turkey defies EU over anti-terrorism laws after Istanbul attack']	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 12:17:29 pm\n      ']	0.0
+['Will Britain be Norway, Switzerland or Canada? The trade deals the UK could follow to strike a Brexit deal with the EU']	The Daily Mail	['\n        By ', '  -\n\n        June 30th 2016, 11:58:11 am\n      ']	0.0
+['Brexit no more than a bump on the road to oil rebalancing: Kemp']	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 11:51:39 am\n      ']	-0.25
+['EU Commission ready to respond to post-Brexit market turmoil - Dombrovskis']	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 11:50:18 am\n      ']	0.2
+["Putin: let's see how British democracy works after Brexit"]	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 11:47:19 am\n      ']	0.0
+['Euro zone yields set for biggest monthly fall since Jan thanks to Brexit']	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 11:45:18 am\n      ']	0.2
+['US STOCKS-Futures up for third day as Brexit nerves settle']	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 11:32:25 am\n      ']	0.0
+["Could this be the what's left of Nessie? Dog walker stumbles across what looks like skeletal remains washed up on the shore of Loch Ness"]	The Daily Mail	['\n        By ', '  -\n\n        June 30th 2016, 11:16:24 am\n      ']	0.0
+["China to tolerate weaker yuan, wary of trade partners' reaction-sources"]	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 11:12:25 am\n      ']	-0.5
+['Ex-London mayor Boris Johnson rules out bid to be next British prime minister']	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 11:10:28 am\n      ']	0.0
+['Zinc price at highest level in a year, inventories loom large']	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 11:03:53 am\n      ']	0.214285714286
+['Britain delays airport decision due to post-Brexit fallout']	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 11:00:54 am\n      ']	-0.125
+['Brexit fuels worries about expected U.S. earnings recovery']	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 11:00:01 am\n      ']	-0.1
+["Italy's UniCredit names Mustier as new CEO"]	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 10:50:23 am\n      ']	0.136363636364
+["I'll take on Angela Merkel and win! Pro-EU Theresa May says there must be 'no attempts to rejoin the EU through the back door' as she vows hard-line approach to Brussels negotiations"]	The Daily Mail	['\n        By ', '  -\n\n        June 30th 2016, 10:50:17 am\n      ']	0.5
+["For some in England's north, Brexit means control"]	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 10:44:23 am\n      ']	0.0
+["German economy's domestic strength seen cushioning Brexit fallout"]	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 10:39:43 am\n      ']	0.0
+['UK current account gap remained near record high before EU vote']	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 10:32:26 am\n      ']	0.0866666666667
+['Carney hints that interest rates could be cut in the summer to cope with Brexit shock for economy - and could QE be restarted too?']	The Daily Mail	['\n        By ', '  -\n\n        June 30th 2016, 10:28:32 am\n      ']	0.0
+['Ireland could review AIB sale timetable if situation changes']	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 10:25:33 am\n      ']	0.0
+[u"'How quickly can I join Labour?' SamCam's former wild child sister who was expelled from public school over drugs wants her say in ousting Corbyn - and admits she 'only voted Tory for David'\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        June 30th 2016, 10:19:19 am\n      ']	0.105555555556
+["Merkel and EU must allow Britain time to sort itself out, warns ex German chancellor Helmut Kohl as he insists slamming door on UK would be a 'giant mistake'"]	The Daily Mail	['\n        By ', ' ', '  -\n\n        June 30th 2016, 10:11:24 am\n      ']	0.0
+["EMERGING MARKETS-China's yuan sees biggest quarterly fall on record"]	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 10:02:22 am\n      ']	0.0
+[u"Heathrow's third runway plan is dead in the water as Cameron passes the buck to his successor \u2013 and neither of the favourites want it to happen\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        June 30th 2016, 10:01:13 am\n      ']	-0.1
+['Brexit shakes hopes of Balkan EU bidders']	Associated Press	['\n        By ', '  -\n\n        June 30th 2016, 9:59:54 am\n      ']	0.0
+["Theresa May sets out 'one nation' vision in Tory leadership bid"]	Press Association	['\n        By ', '  -\n\n        June 30th 2016, 9:59:10 am\n      ']	0.0
+["'Remain on your island! No pity': Offensive graffiti, bullying notes and postboxes defaced - welcome to the bitter world of the EU as British MEPs are subjected to a campaign of intimidation  in Brussels post-Brexit"]	The Daily Mail	['\n        By ', '  -\n\n        June 30th 2016, 9:40:37 am\n      ']	0.1875
+['JP Morgan sees new Scottish currency initially backed by BoE, ECB']	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 9:39:04 am\n      ']	0.0681818181818
+['Top banker calls for clarity on British position on EU talks']	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 9:35:56 am\n      ']	0.25
+['Ex-London mayor halts bid to be UK prime minister, upends race']	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 9:35:10 am\n      ']	0.0
+["UK's May, favourite to be next PM, vows to honour Brexit vote"]	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 9:34:39 am\n      ']	0.0
+['EU farming chief wants rapid Brexit talks, plans new dairy aid']	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 9:30:37 am\n      ']	0.168181818182
+['World Bank president expresses concern over Brexit']	Associated Press	['\n        By ', '  -\n\n        June 30th 2016, 9:28:34 am\n      ']	0.0
+['No Brexit regrets for voters yearning for a better Britain']	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 9:20:01 am\n      ']	0.2
+['Sterling rises for third day after post-referendum plunge']	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 9:16:49 am\n      ']	0.0
+["Turkey's position will be stronger in post-Brexit EU -Turkish EU minister"]	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 9:16:07 am\n      ']	0.0
+["'There's a deep pit in Hell reserved for you, Michael! Boris Johnson allies react with fury as Gove stabs ex-mayor in the back saying he is not up to being PM - and insists HE should get the job instead"]	The Daily Mail	['\n        By ', ' ', ' ', '  -\n\n        June 30th 2016, 9:09:37 am\n      ']	0.0
+['No decision on Heathrow until at least October - UK minister']	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 9:05:04 am\n      ']	-0.3
+["UK's May, launching leadership bid, vows to honour Brexit vote"]	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 9:01:28 am\n      ']	0.0
+["Britain's FTSE set to finish June above its pre-Brexit level"]	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 8:54:51 am\n      ']	0.0
+[u'South West Trains owner Stagecoach on alert over Brexit as revenues climb 20% \xa0']	The Daily Mail	['\n        By ', '  -\n\n        June 30th 2016, 8:44:26 am\n      ']	0.0
+['UBS cuts its year-end FTSE target following shock Brexit vote']	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 8:39:03 am\n      ']	0.0
+['World stocks poised for worst month since January']	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 8:31:54 am\n      ']	-1.0
+[u'Brewer Greene King cheers pub grub as profits rise over 50%\xa0']	The Daily Mail	['\n        By ', '  -\n\n        June 30th 2016, 8:31:37 am\n      ']	0.0
+['FOREX-Yuan, Aussie sink on report China to tolerate weaker yuan']	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 8:28:04 am\n      ']	0.0
+['Brexit campaigner Andrea Leadsom to stand to be UK Conservative Party leader']	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 8:24:46 am\n      ']	0.0
+['Euro zone yields lift off lows, debt sales in focus']	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 8:22:37 am\n      ']	0.0
+['Hong Kong shares rebound a 2nd day as Brexit fears wane again']	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 8:16:56 am\n      ']	0.0
+['Leading Brexit campaigner Gove to run for UK Conservative leadership']	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 8:11:49 am\n      ']	0.0
+["Stocks rise as markets get over 'Brexit' shock"]	Associated Press	['\n        By ', '  -\n\n        June 30th 2016, 8:10:05 am\n      ']	0.0
+['Post-Brexit stabilisation sees sterling rise for third day']	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 8:09:36 am\n      ']	0.0
+["In Brexit chaos, Conservative May pitches anti-Boris case for Britain's top job"]	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 8:06:51 am\n      ']	0.5
+['FTSE CLOSE: Footsie rockets by over 2% in final half hour, but pound drops like a stone after Governor Carney promises more stimulus and rate cuts']	The Daily Mail	['\n        By ', ' ', '  -\n\n        June 30th 2016, 8:02:29 am\n      ']	0.111111111111
+['Gold bulls buoyed by prospect of Brexit swaying Fed']	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 8:01:05 am\n      ']	0.0
+['TABLE-German engineering orders fall 4 pct y/y in May - VDMA']	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 8:00:25 am\n      ']	0.0
+['European stocks fall as post-Brexit recovery hits barrier']	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 7:51:22 am\n      ']	0.0
+["Britain's FTSE 100 edges lower, stays above pre-Brexit level"]	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 7:17:36 am\n      ']	0.0
+['China stocks flat as Brexit rebound invites profit-taking']	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 7:16:52 am\n      ']	-0.025
+['European stocks fall as post-Brexit recovery stalls']	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 7:12:03 am\n      ']	0.0
+[u"Osborne's dire warnings of economic doom and an emergency Budget hurt Remain campaign because voters didn't believe him, say Cameron aides\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        June 30th 2016, 7:03:10 am\n      ']	0.2
+["Don't burden Germany with Brexit costs, warn Merkel's Bavarian allies"]	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 6:57:30 am\n      ']	0.0
+["China to tolerate weaker yuan, wary of trade partners' reaction-sources"]	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 6:55:57 am\n      ']	-0.5
+['German regional official: cut EU spending after UK exit']	Associated Press	['\n        By ', '  -\n\n        June 30th 2016, 6:54:15 am\n      ']	0.0
+['Nikkei ends steady, but Brexit shock drives biggest monthly loss in 4 yrs']	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 6:38:59 am\n      ']	0.166666666667
+['Czech Republic - Factors To Watch on June 30']	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 6:33:50 am\n      ']	0.0
+['Farage says can envisage Britain contribution to EU budget post-Brexit - Le Figaro']	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 6:07:10 am\n      ']	0.0
+['Hungary, Factors to watch, June 30']	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 5:53:50 am\n      ']	0.0
+['Romania - Factors to watch on June 30']	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 5:02:56 am\n      ']	0.0
+['Mexico central bank seen hiking rate to support battered peso']	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 5:00:02 am\n      ']	0.0
+['Hong Kong stocks extend recovery as Brexit worries ease; China steady']	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 4:48:17 am\n      ']	0.166666666667
+['FOREX-Dollar edges up, sterling steadies after traumatic month']	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 4:41:23 am\n      ']	0.0
+['Brexit shadow hangs over Australian polls']	The Daily Mail	['\n        By ', '  -\n\n        June 30th 2016, 3:17:32 am\n      ']	0.0
+['Government adopts target for 57% reduction in greenhouse gas emissions by 2030']	Press Association	['\n        By ', '  -\n\n        June 30th 2016, 3:07:10 am\n      ']	0.0
+['Nikkei up on bargain hunting but poised for worst monthly drop in 4 years']	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 2:06:51 am\n      ']	-1.0
+["'You lose your right to moan': Peta Credlin hits out at 'uninformed' young people who complain about politics but don't vote"]	The Daily Mail	['\n        By ', '  -\n\n        June 30th 2016, 2:01:09 am\n      ']	0.192857142857
+['Singapore bank halts London mortgage loans after Brexit as Asia lenders flag risks']	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 1:52:22 am\n      ']	0.0
+['New Zealand business confidence at 6-mth high, but ANZ says rate cut likely']	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 1:45:05 am\n      ']	0.0987878787879
+[u'DAILY MAIL COMMENT: Brexit is a beacon of hope for all Europe\xa0']	The Daily Mail	['\n        By ', '  -\n\n        June 30th 2016, 1:30:05 am\n      ']	0.0
+["GEOFFREY LEVY: Still sneering at Britain: Jean-Claude Juncker the boozy bully who sums up all that's rotten about the EU"]	The Daily Mail	['\n        By ', '  -\n\n        June 30th 2016, 1:28:05 am\n      ']	0.0
+["'My dog did it, honestly!' Crazed pooch ransacks couple's house leaving a shocking trail of destruction - and even unearths a sex toy"]	The Daily Mail	['\n        By ', '  -\n\n        June 30th 2016, 1:19:13 am\n      ']	-0.125
+['London copper buoyed near 8-week top as dollar slips']	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 1:16:46 am\n      ']	0.3
+['Gold slips as Brexit shock fades']	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 1:15:22 am\n      ']	0.0
+['At Pacific Alliance summit, Chile warns against isolationism']	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 1:10:13 am\n      ']	0.0
+[u"SEBASTIAN SHAKESPEARE: Stars hold one last big bash for showbiz legend Stigwood: 'Memorial Party' to be held at The Dorchester for man who produced Grease and Saturday Night Fever\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        June 30th 2016, 1:01:50 am\n      ']	0.0
+[u"The poor boy liberated from life on welfare: ANDREW PIERCE on Stephen Crabb's rise from a council estate to potential Tory leader\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        June 30th 2016, 12:56:09 am\n      ']	-0.2
+[u"Sir Shifty, \xa350m 'Woody' and the vampire squid: Just when you thought you couldn't be any more enraged by the BHS scandal, read how millionaire banker and billionaire tycoon clashed over sale of the store"]	The Daily Mail	['\n        By ', '  -\n\n        June 30th 2016, 12:51:13 am\n      ']	0.5
+['Europe offers another concession on migrants: Hollande says Britain CAN  keep border agents in Calais after breakthrough on trade deal in boost for hopes of a smooth exit from EU']	The Daily Mail	['\n        By ', ' ', ' ', '  -\n\n        June 30th 2016, 12:40:53 am\n      ']	0.25
+["'The world keeps on turning': Top bosses are optimistic for the future as they insist decision to leave the EU will not harm their companies"]	The Daily Mail	['\n        By ', '  -\n\n        June 30th 2016, 12:36:51 am\n      ']	0.25
+[u"Don't blame Corbyn for Labours voters backing Brexit. It was Blair and his cronies who betrayed them on immigration\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        June 30th 2016, 12:36:43 am\n      ']	0.0
+[u'North-South gap in house prices widens to \xa3169,000: Widest difference on record after average property in the South now costs \xa3324,000\xa0']	The Daily Mail	['\n        By ', '  -\n\n        June 30th 2016, 12:35:34 am\n      ']	-0.15
+['FOREX-Dollar edges down, sterling steadies after traumatic month']	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 12:32:13 am\n      ']	-0.155555555556
+['Asian stocks rise as post-Brexit rebound continues, yen held in check']	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 12:21:54 am\n      ']	0.0
+['Top Tories back leadership favourite Theresa May']	Press Association	['\n        By ', '  -\n\n        June 30th 2016, 12:21:45 am\n      ']	0.25
+['Japan factory output hits 3yr-low on weak domestic demand, export slump']	Reuters	['\n        By ', '  -\n\n        June 30th 2016, 12:13:52 am\n      ']	-0.1875
+['Sterling drops after Bank of England governor hints at interest rate cut']	Press Association	['\n        By ', '  -\n\n        June 30th 2016, 12:10:58 am\n      ']	0.0
+['Consumer confidence plummets in Brexit aftermath - report']	Press Association	['\n        By ', '  -\n\n        June 30th 2016, 12:10:58 am\n      ']	0.0
+[u"Corbyn noted Cameron had 'two months left in his job'... More than you, mate, heckled a Labour MP: QUENTIN LETTS sees a lonely leader jeered by his own side at Prime Minister's Questions\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        June 30th 2016, 12:08:08 am\n      ']	0.25
+[u"Was this the email that ended Boris's Downing Street dream? Mr and Mrs Gove likened to the Macbeths and 'Poundland Lannisters' after turning on Johnson\xa0"]	The Daily Mail	['\n        By ', ' ', '  -\n\n        June 30th 2016, 12:04:04 am\n      ']	0.0
+["It's Theresa May vs Boris: Home Secretary throws her hat into the leadership ring - with Brexit leader set to confirm he will stand later today"]	The Daily Mail	['\n        By ', ' ', '  -\n\n        June 29th 2016, 11:57:42 pm\n      ']	0.0
+[u'Borrowing binge leaves families \xa37,000 in the red: Family debt rose by 9.9% last month with \xa3184.3bn now owed by Britons']	The Daily Mail	['\n        By ', ' ', '  -\n\n        June 29th 2016, 11:50:26 pm\n      ']	0.2
+['Loretta Lynch held private talks with Bill Clinton aboard a plane in Phoenix while her department investigates Hillary']	The Daily Mail	['\n        By ', '  -\n\n        June 29th 2016, 11:25:06 pm\n      ']	0.0
+['Global M&A declines in second quarter as mega deals seen too risky']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 11:08:16 pm\n      ']	0.0
+['UK consumer confidence tumbles after Brexit vote - YouGov/CEBR']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 11:01:01 pm\n      ']	0.0
+['Equity deals sag to four-year low, Brexit seen shrinking volumes - TR data']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 11:01:01 pm\n      ']	0.0
+['Western Sydney takes centre stage in close-run Australian election']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 11:00:03 pm\n      ']	0.0
+['British bank branch closures cut small business lending in half']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 11:00:02 pm\n      ']	-0.138888888889
+["BOJ sceptics calling time on Kuroda's two-year target"]	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 11:00:01 pm\n      ']	0.0
+[u'Tactics of terror: Three-man ISIS cell created suicide shootout to cause maximum devastation in Istanbul jihadist attack\xa0']	The Daily Mail	['\n        By ', '  -\n\n        June 29th 2016, 10:56:48 pm\n      ']	0.0
+['IMF will lower growth forecast for German economy after Brexit, official says']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 10:30:04 pm\n      ']	0.0
+['Obama says he is confident Europe will come up with prudent post-Brexit plan']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 10:27:37 pm\n      ']	0.5
+[u'Harrow-educated hedge fund manager whose father is a friend of Prince Charles wins \xa3110MILLION by betting Britain would vote for Brexit and the pound would tumble']	The Daily Mail	['\n        By ', ' ', '  -\n\n        June 29th 2016, 10:23:07 pm\n      ']	0.3
+["Corbyn: I have people's mandate to stay as leader"]	Press Association	['\n        By ', '  -\n\n        June 29th 2016, 10:05:38 pm\n      ']	0.0
+['The yen as a safe haven: a familiar but painful refrain for Japan']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 10:00:01 pm\n      ']	0.0583333333333
+['China growth rebounds in Q2, but may not last-private survey']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 10:00:01 pm\n      ']	0.0
+["Get on with Brexit, says Obama: Britain must quit EU 'fairly quickly' as soon as it has a new prime minister, president warns"]	The Daily Mail	['\n        By ', ' ', '  -\n\n        June 29th 2016, 9:49:39 pm\n      ']	0.234848484848
+["'We must concentrate on efficiency' says Chancellor Merkel"]	The Daily Mail	['\n        June 29th 2016, 9:38:05 pm\n      ']	0.0
+['Editorial Roundup: Excerpts from recent editorials']	Associated Press	['\n        By ', '  -\n\n        June 29th 2016, 9:13:18 pm\n      ']	0.0
+['Official: EU trade negotiations to go on despite Brexit']	Associated Press	['\n        By ', '  -\n\n        June 29th 2016, 8:59:36 pm\n      ']	0.0
+[u"Lightning roars through the rainbow: Two years late, the RAF's first \xa3100m F-35 stealth jets touch down in Britain to resurrect 617 'Dambusters' Squadron\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        June 29th 2016, 8:52:23 pm\n      ']	-0.0685185185185
+['Obama concerned over longer term global growth after Brexit']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 8:47:47 pm\n      ']	0.0
+['Stock, oil prices gain as Brexit jitters abate']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 8:34:43 pm\n      ']	0.0
+['CANADA STOCKS-TSX rises most in 7 weeks as oil rallies, investors buy post-Brexit']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 8:31:43 pm\n      ']	0.5
+["France's Hollande flags tax relief for voters, businesses, banks"]	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 8:31:21 pm\n      ']	0.0
+['Fed gives OK to 30 banks to up dividends, buy back shares']	Associated Press	['\n        By ', '  -\n\n        June 29th 2016, 8:30:23 pm\n      ']	0.25
+['GM economist:no Brexit impact to US auto market now; more UK car production possible']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 8:25:07 pm\n      ']	0.25
+['US STOCKS-Wall St rebounds from Brexit with second day of big gains']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 8:23:59 pm\n      ']	0.0
+['UK leaders scramble to stop Brexit being Brexit after all']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 8:11:12 pm\n      ']	0.0
+[u"'Brexit must be used as an opportunity': Henry Kissinger calls on EU not to treat Britain 'as a prison escapee but a potential compatriot'\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        June 29th 2016, 8:10:58 pm\n      ']	0.0
+['US STOCKS SNAPSHOT-Wall St jumps for 2nd day on post-Brexit bounce']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 8:02:04 pm\n      ']	0.0
+["Italy's ENAV set to delay IPO amid Brexit volatility -sources"]	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 7:56:55 pm\n      ']	0.0
+['Chinese conglomerate swoops for larger slice of Thomas Cook to take advantage of weak pound and share price fall after Brexit vote']	The Daily Mail	['\n        By ', '  -\n\n        June 29th 2016, 7:55:47 pm\n      ']	-0.125
+['PRESS DIGEST-New Zealand newspapers - June 30']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 7:38:38 pm\n      ']	0.0
+['Stock, oil prices gain as Brexit jitters abate']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 7:28:21 pm\n      ']	0.0
+['EU trade chief says U.S. trade talks can survive Brexit']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 7:27:21 pm\n      ']	0.0
+['UK parties head for leadership battles amid Brexit fallout']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 7:25:05 pm\n      ']	0.0
+["Merkel's open door policy has brought 'chaos' to Europe, claims George Soros as German leader is blamed for Brexit over her failure to deal with migrant crisis"]	The Daily Mail	['\n        By ', '  -\n\n        June 29th 2016, 7:05:37 pm\n      ']	-0.105555555556
+['GM chief economist sees negligible impact of Brexit on U.S. autos']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 6:54:44 pm\n      ']	0.0
+['US STOCKS-Wall St surges as Brexit rebound continues']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 6:51:47 pm\n      ']	0.0
+[u'Will Brexit create an EU army? Europe cannot rely on NATO without British military might, says Brussels chief\xa0']	The Daily Mail	['\n        By ', '  -\n\n        June 29th 2016, 6:42:58 pm\n      ']	-0.05
+["SIMON LAMBERT: How much does the EU need Britain's trade? Brexit means we'll find out"]	The Daily Mail	['\n        By ', '  -\n\n        June 29th 2016, 6:41:05 pm\n      ']	0.2
+["Switzerland and EU need to find compromise on immigration - EU's Schulz"]	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 6:38:57 pm\n      ']	0.0
+['Travel expert says deals still around within Europe']	The Daily Mail	['\n        June 29th 2016, 6:35:45 pm\n      ']	0.0
+['HAMISH MCRAE: Dust is settling after Brexit vote, at least as far as financial markets are concerned']	The Daily Mail	['\n        By ', '  -\n\n        June 29th 2016, 6:24:55 pm\n      ']	-0.0666666666667
+['Brexit campaigner says not in EU interest to give UK a bad deal']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 6:20:03 pm\n      ']	-0.7
+['MARKET REPORT: Share price rally after Brexit continues to gather pace - but there is no respite for retirement home builder McCarthy & Stone']	The Daily Mail	['\n        By ', '  -\n\n        June 29th 2016, 6:18:38 pm\n      ']	0.0
+['ALEX BRUMMER: Acting as clean-up crew at Barratt is a task John Allan probably could have done without']	The Daily Mail	['\n        By ', '  -\n\n        June 29th 2016, 6:17:41 pm\n      ']	0.0
+['CITY DIARY: Remain campaign chair Sir Stuart Rose set to resurface at weekend']	The Daily Mail	['\n        By ', '  -\n\n        June 29th 2016, 6:12:53 pm\n      ']	0.6
+['FTSE 100 wipes out post-Brexit losses as market bounces back']	Press Association	['\n        By ', '  -\n\n        June 29th 2016, 5:37:20 pm\n      ']	0.0
+[u"Chaos at Europe's big banks:\xa0Italy begs for bad loans bailout and IMF warns Germany's Deutsche Bank 'poses risk to global economy'"]	The Daily Mail	['\n        By ', '  -\n\n        June 29th 2016, 5:34:28 pm\n      ']	-0.233333333333
+[u'How Brexit has hit bank share prices: Bank of England orders banking bosses to keep on lending and\xa0keep economy moving']	The Daily Mail	['\n        By ', '  -\n\n        June 29th 2016, 5:34:18 pm\n      ']	0.0
+['EU tells UK single market access requires full free movement']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 5:27:58 pm\n      ']	0.22619047619
+['AerCap says Brexit will not impact its aircraft leasing']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 5:15:43 pm\n      ']	0.0
+["'Boris is the only PM who can unite the north': Close George Osborne ally James Wharton declares his support for Brexit champion in Tory leadership race"]	The Daily Mail	['\n        By ', '  -\n\n        June 29th 2016, 5:14:22 pm\n      ']	0.0
+[u"Four out of ten people believe that Brexit WON'T affect immigration and half of young adults 'want a referendum re-run'\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        June 29th 2016, 5:14:09 pm\n      ']	-0.0222222222222
+['Hedge fund Caxton gained 2 pct in Brexit vote aftermath -source']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 5:09:45 pm\n      ']	0.0
+['US STOCKS-Wall St cuts some Brexit losses as jitters ease']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 4:57:18 pm\n      ']	0.0
+['Slim majority of French think Brexit bad for the EU - poll']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 4:49:08 pm\n      ']	-0.35
+['Brexit campaigner says not in EU interest to give UK a bad Brexit deal']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 4:45:04 pm\n      ']	-0.7
+["BoE's Carney to speak on Thursday as UK reels from Brexit vote"]	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 4:43:17 pm\n      ']	0.0
+["Britain's FTSE makes up all its post-Brexit losses"]	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 4:39:11 pm\n      ']	0.0
+['Brexit makes government fix to Tata steel pension plan elusive']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 4:29:40 pm\n      ']	0.0
+['Stocks and oil prices gain as Brexit nerves settle']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 4:17:50 pm\n      ']	0.0
+["PROFILE-Soccer-Bruising Chiellini's tough exterior hides a softer centre"]	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 4:16:31 pm\n      ']	-0.388888888889
+["Italy's UniCredit hastens CEO search as shares sink - sources"]	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 4:13:03 pm\n      ']	0.0
+['What you need to know about Brexit: Essential reading on the economy and your finances']	The Daily Mail	['\n        By ', '  -\n\n        June 29th 2016, 4:08:07 pm\n      ']	0.0
+["Britain's FTSE erases all its post-Brexit vote losses"]	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 3:53:33 pm\n      ']	0.0
+['GRAPHIC-Oil, gold the winners in H1, euro zone stocks the big losers in Brexit-hit Q2']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 3:52:20 pm\n      ']	-0.1
+["'Praised to grave,' loser Cameron slides out of Brussels"]	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 3:51:48 pm\n      ']	0.0
+['US STOCKS-Wall St cuts some Brexit losses as fears recede']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 3:50:22 pm\n      ']	0.0
+["'I'm grieving for our loss of cultural enrichment': Students claim they will fail their exams because they are so DEPRESSED about Brexit"]	The Daily Mail	['\n        By ', '  -\n\n        June 29th 2016, 3:44:52 pm\n      ']	-0.2
+["'Pension time bomb' warning: Annuity rates slashed 8% and final salary deficits widen as Brexit vote sees gilt yields crash"]	The Daily Mail	['\n        By ', '  -\n\n        June 29th 2016, 3:44:40 pm\n      ']	0.0
+['David Cameron announces extra cash for fight against hate crime']	Press Association	['\n        By ', '  -\n\n        June 29th 2016, 3:33:00 pm\n      ']	-0.4
+["Obama launches an extraordinary rant against Trump's 'xenophobia' and 'disregard for workers' - as he insists 'I care about poor people'"]	The Daily Mail	['\n        By ', '  -\n\n        June 29th 2016, 3:32:11 pm\n      ']	-0.0333333333333
+['EMERGING MARKETS-Latam stocks, currencies up for 2nd day as Brexit woes fade']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 3:31:38 pm\n      ']	0.0
+["Recession 'cannot be ruled out' as consumer confidence plummets in the wake of Brexit vote"]	The Daily Mail	['\n        By ', '  -\n\n        June 29th 2016, 3:30:53 pm\n      ']	0.0
+['Follow the rules on banks, EU tells Italy, Brexit no excuse']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 3:20:49 pm\n      ']	0.025
+['N. America leaders mount strong defense of trade despite threats']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 3:17:40 pm\n      ']	0.433333333333
+["Brexit uncertainty may pose threat to EU economy, Germany's Schaeuble says"]	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 3:02:45 pm\n      ']	0.0
+['Sterling above $1.35 as stocks rally, market eyes Brexit politics']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 2:56:01 pm\n      ']	0.0
+['Ab Fab: Patsy and Edina talk Brexit']	Associated Press	['\n        By ', '  -\n\n        June 29th 2016, 2:54:03 pm\n      ']	0.0
+['Housebuilder McCarthy & Stone warns on Brexit impact']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 2:53:31 pm\n      ']	0.0
+['US pending home sales slumped in May']	The Daily Mail	['\n        By ', '  -\n\n        June 29th 2016, 2:51:55 pm\n      ']	0.0
+['FOREX-Sterling, euro rebound for 2nd day on reduced Brexit anxiety']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 2:44:56 pm\n      ']	0.0
+['British expats flock to Brussels city halls to become Belgian']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 2:41:11 pm\n      ']	0.0
+['Europe launches reform "reflection" after Brexit shock']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 2:38:59 pm\n      ']	0.0
+[u'Cold-blooded killers: How three ISIS suicide bombers herded travellers like prey with no chance of escape in carefully coordinated attack that killed 42 at Istanbul airport\xa0']	The Daily Mail	['\n        By ', ' ', ' ', '  -\n\n        June 29th 2016, 2:34:26 pm\n      ']	-0.15
+['Looking for Brexit-proof portfolios? Try drugs, alcohol and tobacco']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 2:32:54 pm\n      ']	0.0
+['Asian shares mostly up as markets get over Brexit shock']	Associated Press	['\n        By ', '  -\n\n        June 29th 2016, 2:30:33 pm\n      ']	0.25
+['British PM Cameron vows action on hate crime after rise in incidents post-Brexit']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 2:28:03 pm\n      ']	-0.233333333333
+['CANADA STOCKS-TSX jumps 1 pct as oil supports, investors buy post-Brexit']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 2:21:36 pm\n      ']	0.0
+['US STOCKS-Wall St opens higher as Brexit grip loosens']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 2:05:13 pm\n      ']	0.25
+['Brexit shakes UK banking system, but no repeat of 2008 seizure seen']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 1:57:39 pm\n      ']	0.0
+["Britain's future at stake in opposition turmoil over Brexit"]	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 1:49:24 pm\n      ']	0.0
+['Hollande says no sense in scrapping France-Britain border policy']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 1:32:54 pm\n      ']	0.0
+['UK PM candidate Crabb says immigration is red line in Brexit talks']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 1:31:44 pm\n      ']	0.0
+['EU heads clear that open market relies on migrant access - Tusk']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 1:31:36 pm\n      ']	0.05
+['Schaeuble says cannot rule out domino effect in EU from Brexit']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 1:31:30 pm\n      ']	0.0
+['German inflation hits five-month high, Spanish prices fall less than expected']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 1:12:30 pm\n      ']	-0.0213333333333
+['US STOCKS-Wall St set for higher open as Brexit grip loosens']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 1:01:03 pm\n      ']	0.125
+['FTSE 100 regains Brexit losses and pound continues to recover but uncertainty weighs on consumers']	The Daily Mail	['\n        By ', '  -\n\n        June 29th 2016, 1:00:37 pm\n      ']	0.0
+["France's Hollande says Britain must play by EU rules for single market access"]	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 12:59:32 pm\n      ']	-0.0714285714286
+['U.S. consumer spending rises, Brexit casts shadow on outlook']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 12:55:12 pm\n      ']	0.0
+['Merkel rebuffs Italy on EU deficit, bank aid rules']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 12:52:55 pm\n      ']	0.0
+['Brexit a chance to ease "suicidal" EU antitrust policy-SFR chief']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 12:50:36 pm\n      ']	0.0
+["Europe has more to lose from hitting car trade than Britain, say motor bosses, as Jaguar Land Rover and Toyota insist Brexit won't hit jobs now"]	The Daily Mail	['\n        By ', '  -\n\n        June 29th 2016, 12:50:22 pm\n      ']	0.5
+['Renault may raise UK car prices to weather Brexit storm']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 12:41:38 pm\n      ']	0.0
+['ECB to hold fire after Brexit vote as markets regain poise: officials']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 12:35:27 pm\n      ']	0.0
+['US consumer spending posts healthy gain in May']	Associated Press	['\n        By ', '  -\n\n        June 29th 2016, 12:31:24 pm\n      ']	0.5
+['U.S. consumer spending rises for second straight month']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 12:30:39 pm\n      ']	0.1
+['ECB happy to stay put after Brexit vote as markets regain pose-sources']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 12:30:00 pm\n      ']	0.8
+['Stocks gain as Brexit nerves settle']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 12:22:02 pm\n      ']	0.0
+["'My party is in peril, it faces an existential crisis': Even Labour deputy leader Tom Watson tells Corbyn to go - but he STILL refuses to as Angela Eagle prepares leadership bid"]	The Daily Mail	['\n        By ', ' ', '  -\n\n        June 29th 2016, 12:20:18 pm\n      ']	0.0
+['Europe "not convinced" by Italy\'s plan to buoy banks after Brexit -EU source']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 12:20:13 pm\n      ']	0.0
+['POLL-Czech central bank on hold for now, Brexit may extend FX cap']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 12:18:23 pm\n      ']	0.0
+['Vodafone warns over future of its global HQ in London if Brexit vote ends ability to freely move across the EU']	The Daily Mail	['\n        By ', '  -\n\n        June 29th 2016, 12:15:26 pm\n      ']	0.133333333333
+["UK's Cameron: Brexit talks can begin before Article 50 triggered"]	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 12:09:14 pm\n      ']	0.0
+['Goldman, M.Stanley deny plans for Frankfurt office switch after Brexit']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 12:01:16 pm\n      ']	0.0
+['Where to splash the holiday cash post-Brexit: Destinations with good exchange rates for UK tourists include Argentina, South Africa and Norway']	The Daily Mail	['\n        By ', '  -\n\n        June 29th 2016, 12:00:10 pm\n      ']	0.7
+['Prospect of more ECB action drive French, Irish yields to record lows']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 11:54:39 am\n      ']	0.15
+['As Britain turns inward, one firm looks to Europe']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 11:48:14 am\n      ']	-0.2
+['US STOCKS-Futures tread higher as Brexit fears ebb']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 11:37:43 am\n      ']	0.25
+['Sanders worries Trump is benefiting politically from Brexit']	Associated Press	['\n        By ', '  -\n\n        June 29th 2016, 11:13:47 am\n      ']	0.0
+['German Bund yields forecast to fall further sub-zero, ratcheting up pain for ECB']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 11:13:14 am\n      ']	0.0
+["'I'm so very sorry': Minicab driver writes letter of apology to passenger over racist tirade about Brexit"]	The Daily Mail	['\n        By ', '  -\n\n        June 29th 2016, 11:08:53 am\n      ']	-0.65
+['UK consumer borrowing growth hit 10-year high before Brexit storm']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 11:03:46 am\n      ']	0.16
+['REPEAT-N. America leaders meet with trade threats, Brexit on their minds']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 11:00:01 am\n      ']	0.0
+['Rail and bus firm Stagecoach and pub giant Greene King latest firms to warn Brexit will hurt consumer confidence']	The Daily Mail	['\n        By ', '  -\n\n        June 29th 2016, 10:57:27 am\n      ']	0.1
+['FOREX-Commodity currencies climb as markets regain some risk appetite']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 10:57:26 am\n      ']	0.0
+["On Ireland's border, Britain's EU exit threatens jobs, peace"]	Associated Press	['\n        By ', '  -\n\n        June 29th 2016, 10:43:57 am\n      ']	0.0
+['UK car industry: demand not hit by Brexit vote yet, forecast unchanged']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 10:38:33 am\n      ']	0.0
+["UK Conservatives line up to be next PM; Labour in 'shambles'"]	Associated Press	['\n        By ', '  -\n\n        June 29th 2016, 10:36:53 am\n      ']	0.0
+["You'll get no exceptions! EU leaders tell Britain it must accept freedom of movement rules if it wants access to single market as they start plotting Brexit WITHOUT Cameron"]	The Daily Mail	['\n        By ', ' ', '  -\n\n        June 29th 2016, 10:36:30 am\n      ']	0.0642857142857
+['German inflation picks up in June, state data suggest']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 10:35:07 am\n      ']	0.0
+["Hedge fund Brevan Howard up 1 pct on UK's Brexit vote - source"]	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 10:34:33 am\n      ']	0.0
+['Copper hits eight-week peak as Brexit fears fade, dollar dips']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 10:32:12 am\n      ']	0.0
+['Vodafone warns over future of UK HQ after Brexit vote']	Press Association	['\n        By ', '  -\n\n        June 29th 2016, 10:25:07 am\n      ']	0.0
+['Fitch forecasts UK investment to drop 5 pct next year after Brexit hit']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 10:11:52 am\n      ']	0.0
+["Michael Gove played Monopoly 'at height of Brexit hysteria', says wife"]	Press Association	['\n        By ', '  -\n\n        June 29th 2016, 10:02:31 am\n      ']	0.0
+['GAM acquires Cantab Capital in trends-based investment push']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 10:02:25 am\n      ']	0.0
+['Market infrastructure coped well with Brexit fallout - EU watchdog']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 9:55:42 am\n      ']	0.0
+['Anna Soubry struggles to hold back the tears over Brexit vote']	The Daily Mail	['\n        June 29th 2016, 9:48:56 am\n      ']	0.0
+["Scottish leader's plea to stay in Europe rebuffed in Brussels"]	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 9:41:16 am\n      ']	0.0
+["World stocks up as worries ease over Britain's EU leave vote"]	Associated Press	['\n        By ', '  -\n\n        June 29th 2016, 9:36:12 am\n      ']	0.0
+['The Latest: Scottish leader meets with EU over Brexit']	Associated Press	['\n        By ', '  -\n\n        June 29th 2016, 9:07:58 am\n      ']	0.5
+[u'House prices rise again to hit almost \xa3205k, says Nationwide, but full force of Brexit result yet to be felt']	The Daily Mail	['\n        By ', '  -\n\n        June 29th 2016, 9:00:21 am\n      ']	0.35
+['Dixons Carphone upbeat despite Brexit threat to consumer confidence, as it unveils 17% jump in profits']	The Daily Mail	['\n        By ', '  -\n\n        June 29th 2016, 9:00:08 am\n      ']	0.0
+['Jaguar Land Rover says short-term Brexit impact will not affect Slovak plant']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 8:58:39 am\n      ']	0.0
+['Stocks gain as Brexit nerves settle']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 8:57:51 am\n      ']	0.0
+["'He's an idiot': Family disowns bigot who wore disgusting 'send them back' T-shirt to celebrate Brexit vote"]	The Daily Mail	['\n        By ', '  -\n\n        June 29th 2016, 8:48:07 am\n      ']	-0.6
+['Expectations of central bank stimulus drive down euro zone bond yields']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 8:39:04 am\n      ']	-0.0777777777778
+["'I went into my savings account and started up with $5,000 - now we sell $400m a year': Spanx founder Sara Blakely and model Tyra Banks reveal their beauty business secrets"]	The Daily Mail	['\n        By ', '  -\n\n        June 29th 2016, 8:37:47 am\n      ']	0.0
+['Man arrested in London over suspected racist social media posts']	Press Association	['\n        By ', '  -\n\n        June 29th 2016, 8:28:21 am\n      ']	0.0333333333333
+['European healthcare first sector to recover Brexit losses']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 8:28:05 am\n      ']	0.125
+['EXCLUSIVE: Is this proof France is planning to let migrants get to Britain? Passport control posts showing UK, French and EU flags are found DUMPED near Calais Jungle after Brexit']	The Daily Mail	['\n        By ', '  -\n\n        June 29th 2016, 8:24:32 am\n      ']	0.05
+['FOREX-Yen gains as relative calm descends on currency markets']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 8:23:32 am\n      ']	0.15
+['Hong Kong shares break 3-day losing streak on global rebound']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 8:17:10 am\n      ']	0.0
+['Sterling rises for second day, market eyes Brexit politics']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 8:14:22 am\n      ']	0.0
+['European shares lifted by higher oil price and stimulus potential']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 8:12:49 am\n      ']	0.0833333333333
+[u'Brexit, what Brexit? FTSE 100 Index has WIPED OUT losses seen in the post-Leave sell-off as it soars another 3.6% higher\xa0']	The Daily Mail	['\n        By ', '  -\n\n        June 29th 2016, 8:12:31 am\n      ']	0.0
+['EMERGING MARKETS-Emerging assets in second day of gains; Turkish tourism shares hit']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 8:07:07 am\n      ']	0.0
+['FTSE CLOSE Footsie rebounds from post-Brexit slump; sterling pushes higher to $1.35']	The Daily Mail	['\n        By ', '  -\n\n        June 29th 2016, 8:06:09 am\n      ']	0.25
+['German consumer confidence rises but clouds on horizon']	Associated Press	['\n        By ', '  -\n\n        June 29th 2016, 8:02:32 am\n      ']	0.0
+['CEE MARKETS-Post-Brexit cherry-picking lifts east European assets']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 7:58:29 am\n      ']	0.0
+['Market infrastructure coped well with Brexit fallout - EU watchdog']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 7:55:51 am\n      ']	0.0
+['For one UK firm, Brexit vote means expansion abroad, not at home']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 7:36:29 am\n      ']	-0.2
+['JGB 10-year yield hits fresh record low, others mixed']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 7:28:44 am\n      ']	0.1
+["The Latest: Deputy Labour leader: 'My party is in peril'"]	Associated Press	['\n        By ', '  -\n\n        June 29th 2016, 7:27:59 am\n      ']	0.5
+["North America leaders urge against Trump's isolationism"]	Associated Press	['\n        By ', '  -\n\n        June 29th 2016, 7:24:46 am\n      ']	0.0
+['FTSE up for second day as banks fight back from post-Brexit slump']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 7:23:27 am\n      ']	0.0
+['Slovakia - Factors To Watch on June 29']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 7:23:17 am\n      ']	0.0
+['European shares rise on firmer oil and chance of more stimulus']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 7:19:31 am\n      ']	0.25
+['China stocks end up as authorities seek to calm Brexit fears']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 7:09:24 am\n      ']	0.3
+['Pub firm Greene King expects to win market share post-Brexit']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 7:08:21 am\n      ']	0.3
+['UK annual house price growth picked up in June, Brexit effect uncertain - Nationwide']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 7:02:42 am\n      ']	0.0
+['Dixons Carphone says can prosper after Brexit vote']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 6:49:06 am\n      ']	0.0
+['Pub firm Greene King cautions Brexit to weigh on consumer spending']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 6:38:52 am\n      ']	-0.2
+["Scotland's Sturgeon to meet EU's Juncker on Wednesday"]	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 6:35:53 am\n      ']	0.0
+['Hungary, Factors to watch, June 29']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 6:20:37 am\n      ']	0.0
+['Poland - Factors to Watch June 29']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 6:17:20 am\n      ']	0.0
+["Dixons Carphone says Brexit vote won't stop it growing"]	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 6:16:52 am\n      ']	0.0
+['Nikkei gains as markets try to fight off Brexit fears']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 6:10:53 am\n      ']	0.0
+['Czech Republic - Factors To Watch on June 29']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 6:03:18 am\n      ']	0.0
+['FOREX-Yen up, sterling steadies but post-Brexit sentiment remains fragile']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 5:43:47 am\n      ']	0.0
+["Japan's Abe pledges broad policy support to weather Brexit shock"]	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 5:00:27 am\n      ']	0.0625
+['N. America leaders meet with trade threats, Brexit on their minds']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 5:00:01 am\n      ']	0.0
+["China's yuan lingers near 5.5-yr low as c.bank stays on sidelines"]	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 4:57:12 am\n      ']	0.05
+['China, Hong Kong stocks track global rebound as Beijing soothes investors']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 4:49:04 am\n      ']	0.0
+['Romania - Factors to watch on June 29']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 4:45:02 am\n      ']	0.0
+['Oil up 4 pct on U.S. crude draw; Brent back above $50']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 4:41:27 am\n      ']	-0.233333333333
+['Australian bonds drop as global investor confidence rises after the Brexit EU referendum vote']	The Daily Mail	['\n        By ', '  -\n\n        June 29th 2016, 3:33:27 am\n      ']	0.0
+['China official newspapers say market expectations on yuan are stable']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 3:31:44 am\n      ']	0.0
+['Taiwan stocks rise ahead of cbank rate review']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 3:27:03 am\n      ']	0.0
+['Nikkei bounces as yen rally pauses, Idemitsu Kosan tumbles']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 2:43:25 am\n      ']	0.0
+['London copper hits highest since early May as risk-appetite returns']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 1:43:21 am\n      ']	0.1
+["'Nothing was handed to me on a plate': Stephen Crabb takes swipe at Boris Johnson as he launches Tory leadership bid and is joined by right-winger Liam Fox in growing list of contenders for PM"]	The Daily Mail	['\n        By ', ' ', '  -\n\n        June 29th 2016, 1:26:30 am\n      ']	0.0
+['Gold gains on economic worries after Brexit vote']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 1:24:49 am\n      ']	0.2
+['Japan PM Abe urges BOJ to ensure market liquidity after Brexit vote']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 1:24:39 am\n      ']	0.0
+[u"I've joined ghastly Corbyn's Labour. And if you believe in democracy, you should do the same\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        June 29th 2016, 1:17:08 am\n      ']	0.0
+["EU 'crystal clear' that single market access means accepting freedom of movement"]	Press Association	['\n        By ', '  -\n\n        June 29th 2016, 1:07:56 am\n      ']	0.0142857142857
+["London copper holds gains as risk appetite returns post 'Brexit'"]	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 12:54:13 am\n      ']	0.0
+['FOREX-Sterling, euro win reprieve but sentiment remains fragile']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 12:50:27 am\n      ']	0.4
+["Philip Hammond 'shocked' as suicide attack kills dozens at Istanbul airport"]	Press Association	['\n        By ', '  -\n\n        June 29th 2016, 12:31:42 am\n      ']	-0.7
+['Johnson and May set to join race for Tory leadership crown']	Press Association	['\n        By ', '  -\n\n        June 29th 2016, 12:30:19 am\n      ']	0.0
+['Oil prices rise on Norway strike threat; Brexit shock fades']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 12:30:02 am\n      ']	0.0
+['EMERGING MARKETS-Latam currencies rise on bargain hunting after Brexit sell-off']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 12:28:50 am\n      ']	0.0
+[u"The \xa31bn prince: Flowers and farms help send Charles's assets soaring to a record high while his salary goes past \xa320m for the first time"]	The Daily Mail	['\n        By ', '  -\n\n        June 29th 2016, 12:27:21 am\n      ']	0.0533333333333
+['Asia stocks bounce, bonds benefit from the unknown']	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 12:24:35 am\n      ']	-0.1
+[u'Cameron tells the EU it was YOUR immigration policy that led to Brexit: PM warns Brussels that freedom of movement was key reason for Leave victory and says no trade deal without border crackdown\xa0']	The Daily Mail	['\n        By ', ' ', '  -\n\n        June 29th 2016, 12:21:29 am\n      ']	0.0
+["'Praised to grave,' loser Cameron slides out of Brussels"]	Reuters	['\n        By ', '  -\n\n        June 29th 2016, 12:01:31 am\n      ']	0.0
+['Japan PM Abe urges BOJ to provide ample funds to ensure market liquidity']	Reuters	['\n        By ', '  -\n\n        June 28th 2016, 11:54:44 pm\n      ']	0.0
+["Dutch PM Rutte wants 'binding' assurances over EU's Ukraine deal"]	Reuters	['\n        By ', '  -\n\n        June 28th 2016, 11:16:38 pm\n      ']	0.2
+['Expressing regret, Cameron says Britain will not turn back on EU']	Reuters	['\n        By ', '  -\n\n        June 28th 2016, 11:06:07 pm\n      ']	0.0
+["MARKET REPORT: Savers' bets on turmoil help Hargreaves Lansdown top the blue-chip leader board as FTSE 100 stages a rally"]	The Daily Mail	['\n        By ', '  -\n\n        June 28th 2016, 11:04:16 pm\n      ']	0.5
+[u"They picked on the wrong guy: Man who British racists told to 'go back to Africa' is an American army veteran and rugby player who is lecturing at UK university\xa0"]	The Daily Mail	['\n        By ', ' ', '  -\n\n        June 28th 2016, 11:04:10 pm\n      ']	-0.1
+["DAILY BRIEFING: Rolls-Royce rolls along nicely as Brexit has 'no immediate impact to its day-to-day business'"]	The Daily Mail	['\n        By ', '  -\n\n        June 28th 2016, 10:39:58 pm\n      ']	0.3
+['CITY DIARY: Young property mogul Alex Dellal clearly riled MPs on the Treasury Select Committee']	The Daily Mail	['\n        By ', '  -\n\n        June 28th 2016, 10:33:39 pm\n      ']	0.1
+['Merkel sees no reason to halt TTIP talks after Brexit vote']	Reuters	['\n        By ', '  -\n\n        June 28th 2016, 10:29:41 pm\n      ']	0.0
+['Obama may seek trade deals with EU, UK at same time - Kerry']	Reuters	['\n        By ', '  -\n\n        June 28th 2016, 10:29:40 pm\n      ']	0.0
+[u'Builders lead a FTSE fightback:\xa0After two days of falls, developers and bankers snap up cheap shares']	The Daily Mail	['\n        By ', '  -\n\n        June 28th 2016, 10:26:06 pm\n      ']	0.4
+['Investors spend equivalent of 17 years trading in just one day: Hargreaves Landown reveals Brexit roller-coaster']	The Daily Mail	['\n        By ', '  -\n\n        June 28th 2016, 10:14:32 pm\n      ']	0.0
+[u"Tories at war as minister Anna Soubry is accused of being 'drunk' by fellow MP as she nearly breaks down telling campaigners Brexit is 'a terrible mistake'\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        June 28th 2016, 10:09:51 pm\n      ']	-0.388888888889
+['PRESS DIGEST-Australian News - June 29']	Reuters	['\n        By ', '  -\n\n        June 28th 2016, 10:06:53 pm\n      ']	0.0
+['Merkel sees no chance of British U-turn on Brexit']	Reuters	['\n        By ', '  -\n\n        June 28th 2016, 10:02:08 pm\n      ']	0.0
+['Nearly 50 dead in Istanbul airport terror attack']	Press Association	['\n        By ', '  -\n\n        June 28th 2016, 10:01:41 pm\n      ']	-0.2
+['Next UK PM has to be on Brexit side-Conservative leader candidate Leadsom']	Reuters	['\n        By ', '  -\n\n        June 28th 2016, 9:44:54 pm\n      ']	0.0
+['Stiff U.S. corn export competition redrawing global grain flows']	Reuters	['\n        By ', '  -\n\n        June 28th 2016, 9:36:24 pm\n      ']	-0.107142857143
+['How to protect your pension after Brexit vote: As stock markets yo-yo and annuity rates tumble... there are still ways to profit from the jitters']	The Daily Mail	['\n        By ', '  -\n\n        June 28th 2016, 9:32:29 pm\n      ']	0.0
+['World stock markets climb after two-day Brexit rout']	Reuters	['\n        By ', '  -\n\n        June 28th 2016, 9:29:03 pm\n      ']	0.0
+[u'Rates as bad as \u20ac1 to \xa31: How holiday money firms are cashing in on Brexit - when the true figure is around \u20ac1.20']	The Daily Mail	['\n        By ', '  -\n\n        June 28th 2016, 9:20:29 pm\n      ']	-0.175
+['Peter Hargeaves welcomed weaker Pound before referendum']	The Daily Mail	['\n        June 28th 2016, 9:17:55 pm\n      ']	0.0
+['Banks suspend deals for landlords: Buy-to-let lenders pulling loans in case homes slip into negative equity']	The Daily Mail	['\n        By ', '  -\n\n        June 28th 2016, 9:15:14 pm\n      ']	-0.3
+["S.Africa's slowing growth to be hit by Brexit - Reserve Bank governor"]	Reuters	['\n        By ', '  -\n\n        June 28th 2016, 9:12:30 pm\n      ']	0.0
+['Bonfire of EU red tape could help you get a mortgage: Rules introduced earlier this year had nasty side-effects for homebuyers']	The Daily Mail	['\n        By ', '  -\n\n        June 28th 2016, 9:08:53 pm\n      ']	-0.333333333333
+['CANADA STOCKS-TSX bounces from Brexit slide, scoring largest gain in 7 weeks']	Reuters	['\n        By ', '  -\n\n        June 28th 2016, 9:05:39 pm\n      ']	0.0
+['Hold out for lowest home loans ever! Best mortgage deals tipped to become even cheaper after Brexit rate cut']	The Daily Mail	['\n        By ', '  -\n\n        June 28th 2016, 9:00:28 pm\n      ']	1.0
+[u'NHS trust offers nurses and mental health carers free counselling to get over the referendum vote\xa0']	The Daily Mail	['\n        By ', '  -\n\n        June 28th 2016, 8:51:08 pm\n      ']	0.133333333333
+['Two UK lawmakers start push for second Brexit referendum']	Reuters	['\n        By ', '  -\n\n        June 28th 2016, 8:49:24 pm\n      ']	0.0
+[u'Nicola Sturgeon gets a VERY warm reception in Brussels from EU chief after her Brexit talks - but Spain vows to veto Scottish membership before negotiations can even begin\xa0']	The Daily Mail	['\n        By ', '  -\n\n        June 28th 2016, 8:38:13 pm\n      ']	0.78
+[u"'There was blood and body parts everywhere': Terrifying moment ISIS suicide bomber blew himself up in Istanbul airport terminal in Brussels-style attack that left at least 41 dead and 239 injured\xa0"]	The Daily Mail	['\n        By ', ' ', ' ', '  -\n\n        June 28th 2016, 8:27:12 pm\n      ']	-0.375
+['US STOCKS-Wall St bounces back after two-day Brexit rout']	Reuters	['\n        By ', '  -\n\n        June 28th 2016, 8:26:24 pm\n      ']	0.0
+[u"'You only won because of lies and Nazi propaganda!' Nigel Farage attacked by furious MEPs - but they also rejoice at saving the 'biggest waste of EU money' (the Ukip leader's salary)\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        June 28th 2016, 8:17:10 pm\n      ']	-0.108333333333
+['What will really happen to house prices, fuel bills and taxes? We debunk the Brexit myths so you can plan YOUR family finances']	The Daily Mail	['\n        By ', '  -\n\n        June 28th 2016, 8:15:35 pm\n      ']	0.2
+[u"DAN HYDE: We may be in unchartered waters but don't panic... just carry on hunting down the best deals\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        June 28th 2016, 8:04:32 pm\n      ']	0.422222222222
+['Two UK lawmakers start push for second Brexit referendum']	Reuters	['\n        By ', '  -\n\n        June 28th 2016, 7:55:47 pm\n      ']	0.0
+[u'Savers face a Brexit rate cut so should lock into a short-term\xa0fixed savings account now']	The Daily Mail	['\n        By ', '  -\n\n        June 28th 2016, 7:46:41 pm\n      ']	0.0
+["'Globalization has wiped out our middle class': Trump says he will stage his OWN Brexit by pulling US out of NAFTA trade deal to declare 'economic independence'"]	The Daily Mail	['\n        By ', ' ', '  -\n\n        June 28th 2016, 7:42:46 pm\n      ']	0.266666666667
+['PRESS DIGEST-New Zealand newspapers - June 29']	Reuters	['\n        By ', '  -\n\n        June 28th 2016, 7:39:05 pm\n      ']	0.0
+[u'ALEX BRUMMER: Rolls-Royce lifts Brexit despair as falling pound could\xa0add \xa340m to aero-engine manufacturer\u2019s profits']	The Daily Mail	['\n        By ', '  -\n\n        June 28th 2016, 7:30:24 pm\n      ']	0.0
+['Draghi sees Brexit vote hitting euro zone growth by up to 0.5 pct over 3 years - official']	Reuters	['\n        By ', '  -\n\n        June 28th 2016, 7:28:11 pm\n      ']	0.0
+["Is Brexit good news for Trump? It's not that simple"]	The Daily Mail	['\n        By ', '  -\n\n        June 28th 2016, 7:27:18 pm\n      ']	0.35
+['FOREX-Sterling, euro rebound on post-Brexit vote respite']	Reuters	['\n        By ', '  -\n\n        June 28th 2016, 7:26:16 pm\n      ']	0.0
+['Stocks, sterling fight back after Brexit beating']	Reuters	['\n        By ', '  -\n\n        June 28th 2016, 7:18:08 pm\n      ']	0.0
+["'Britain got the first shot in': French far-right leader Marine Le Pen says 'politicians are afraid' amid calls for THIRTY FOUR separate EU referendums across Europe"]	The Daily Mail	['\n        By ', '  -\n\n        June 28th 2016, 7:16:10 pm\n      ']	-0.116666666667
+['EU leaders tell Britain to exit swiftly, markets steadier']	Reuters	['\n        By ', '  -\n\n        June 28th 2016, 7:09:02 pm\n      ']	0.0
+['NATO, EU leaders pledge strong alliance to counter Brexit fallout']	Reuters	['\n        By ', '  -\n\n        June 28th 2016, 7:00:29 pm\n      ']	0.433333333333
+['US STOCKS-Wall St licks its wounds after two-day Brexit rout']	Reuters	['\n        By ', '  -\n\n        June 28th 2016, 6:54:10 pm\n      ']	0.0
+[u"BBC's pay bill for highest-paid stars falls by \xa38 million now Jeremy Clarkson and other Top Gear hosts are off the payroll"]	The Daily Mail	['\n        By ', '  -\n\n        June 28th 2016, 6:46:54 pm\n      ']	0.1875
+['Draghi sees Brexit vote hitting euro zone growth by up to 0.5 pct over 3 years - official']	Reuters	['\n        By ', '  -\n\n        June 28th 2016, 6:41:14 pm\n      ']	0.0
+[u"Time to shed some pounds, Dave? Cameron pats his stomach after Angela Merkel points to his midriff - and with only weeks to go until he's out of a job, the PM will soon have plenty of time on his hands \xa0"]	The Daily Mail	['\n        By ', '  -\n\n        June 28th 2016, 6:40:00 pm\n      ']	0.0
+["President Obama warns against 'hysteria' after Brexit vote"]	The Daily Mail	['\n        June 28th 2016, 6:37:37 pm\n      ']	0.0
+['EU leaders tell Britain to exit swiftly, market rout halts']	Reuters	['\n        By ', '  -\n\n        June 28th 2016, 6:23:12 pm\n      ']	0.0
+[u'British banks could still thrive in Europe: Loophole may allow lenders to keep doing business with\xa0reforms set to be introduced by 2018']	The Daily Mail	['\n        By ', '  -\n\n        June 28th 2016, 6:22:18 pm\n      ']	0.0
+['Hopes falling pound could help Ocado secure overseas licensing deal as shares soar 15% on sales and profits boost']	The Daily Mail	['\n        By ', '  -\n\n        June 28th 2016, 6:18:04 pm\n      ']	0.4
+['UK minister says EU single market access is top goal, businesses decry lack of plan']	Reuters	['\n        By ', '  -\n\n        June 28th 2016, 6:09:40 pm\n      ']	0.214285714286
+['No EU access for Britain without paying bill - Belgium']	Reuters	['\n        By ', '  -\n\n        June 28th 2016, 6:02:42 pm\n      ']	0.0
+[u'Six Iranian migrants are caught by French coastguard after British pleasure cruiser spots them trying to get to UK in 13ft rubber dinghy\xa0']	The Daily Mail	['\n        By ', '  -\n\n        June 28th 2016, 6:01:34 pm\n      ']	0.0
+['White House says U.S., UK security relationship unaffected by Brexit']	Reuters	['\n        By ', '  -\n\n        June 28th 2016, 5:49:28 pm\n      ']	-0.025
+["Obama says he doesn't anticipate huge change from EU exit"]	Associated Press	['\n        By ', '  -\n\n        June 28th 2016, 5:48:20 pm\n      ']	0.4
+['FTSE stages fightback following loses brought on by EU vote']	Press Association	['\n        By ', '  -\n\n        June 28th 2016, 5:38:03 pm\n      ']	-0.15
+['East EU states want powers returned to capitals after Brexit vote']	Reuters	['\n        By ', '  -\n\n        June 28th 2016, 5:34:08 pm\n      ']	0.0
+[u'Now Juncker to force all remaining EU countries to adopt the euro after Brexit paves way for single monetary union\xa0']	The Daily Mail	['\n        By ', '  -\n\n        June 28th 2016, 5:31:05 pm\n      ']	-0.0714285714286
+['EU leaders tell Britain to exit swiftly, market rout halts']	Reuters	['\n        By ', '  -\n\n        June 28th 2016, 5:21:42 pm\n      ']	0.0
+["Brexit crisis talks as Obama meets Canada's Justin Trudeau and Mexico's president for summit this week"]	The Daily Mail	['\n        By ', '  -\n\n        June 28th 2016, 5:12:42 pm\n      ']	0.0
+['US STOCKS-Wall St climbs after Brexit-sparked selloff']	Reuters	['\n        By ', '  -\n\n        June 28th 2016, 5:06:45 pm\n      ']	0.0
+['"Set up shop in Belgium!": PM\'s appeal to British companies']	Reuters	['\n        By ', '  -\n\n        June 28th 2016, 4:58:59 pm\n      ']	0.0
+['Halal butchers is destroyed after thugs throw petrol bomb at it as it emerges race-hate crime soars by 57% days after Britain votes to quit the EU']	The Daily Mail	['\n        By ', '  -\n\n        June 28th 2016, 4:58:43 pm\n      ']	0.0
+['How cheap? American tourists look to cash in on the weak pound with huge rise in plans for cheaper holidays to Britain after Brexit vote']	The Daily Mail	['\n        By ', '  -\n\n        June 28th 2016, 4:54:54 pm\n      ']	0.10625
+['Polish migrants fearful over future after Brexit vote']	Reuters	['\n        By ', '  -\n\n        June 28th 2016, 4:51:46 pm\n      ']	-0.45
+['Soccer embarrassment, political turmoil after double Brexit']	Associated Press	['\n        By ', '  -\n\n        June 28th 2016, 4:39:03 pm\n      ']	0.0
+['Zombie government? UK politics consumed by Brexit concerns']	Associated Press	['\n        By ', '  -\n\n        June 28th 2016, 4:21:02 pm\n      ']	0.0
+['Labour leader Corbyn loses no-confidence vote as Brexit crisis deepens']	Reuters	['\n        By ', '  -\n\n        June 28th 2016, 4:20:34 pm\n      ']	-0.3
+["EU's most widely use language, English, endangered by Brexit"]	Associated Press	['\n        By ', '  -\n\n        June 28th 2016, 4:19:44 pm\n      ']	0.133333333333
+['Huawei 1.3 bln stg investment in UK to go ahead despite Brexit vote -Javid']	Reuters	['\n        By ', '  -\n\n        June 28th 2016, 4:10:21 pm\n      ']	0.0
+["France's Macron demands quick EDF decision on UK's Hinkley Point"]	Reuters	['\n        By ', '  -\n\n        June 28th 2016, 4:06:02 pm\n      ']	0.333333333333
+['Taunts, threats surge in days following British referendum']	Associated Press	['\n        By ', '  -\n\n        June 28th 2016, 4:02:36 pm\n      ']	0.0
+['Trump vows to reopen, or toss, NAFTA pact with Canada and Mexico']	Reuters	['\n        By ', '  -\n\n        June 28th 2016, 3:59:03 pm\n      ']	0.0
+["'It's time for a new captain to steer the show': Rochelle Humes and Melvin Odoom QUIT ITV2's Xtra Factor in witty parody of David Cameron's resignation speech"]	The Daily Mail	['\n        By ', '  -\n\n        June 28th 2016, 3:55:29 pm\n      ']	0.318181818182
+["'Some people drive, I prefer the yacht': Russian Rich Kids of Instagram infuriate Vladimir Putin as they flaunt their Lamborghinis, private jets and brand new KALASHNIKOVS"]	The Daily Mail	['\n        By ', '  -\n\n        June 28th 2016, 3:53:44 pm\n      ']	0.127840909091

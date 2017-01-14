@@ -1,0 +1,500 @@
+["Bank of England was right to cut rates, says OECD, as it lifts forecasts for UK's Brexit economy"]	The Daily Mail	['\n        By ', '  -\n\n        November 28th 2016, 12:08:55 pm\n      ']	0.285714285714
+["Dictionary.com's word of the year is 'xenophobia'"]	Associated Press	['\n        By ', '  -\n\n        November 28th 2016, 12:04:39 pm\n      ']	0.0
+['Anti-EU party UKIP elect ex-chairman Paul Nuttall to replace Farage']	Reuters	['\n        By ', '  -\n\n        November 28th 2016, 12:00:24 pm\n      ']	0.8
+['Anti-EU UKIP picks new leader to replace Trump ally Farage']	Associated Press	['\n        By ', '  -\n\n        November 28th 2016, 11:53:54 am\n      ']	0.136363636364
+["Britain, Poland keen for reciprocity over citizens post-Brexit - UK PM's spokeswoman"]	Reuters	['\n        By ', '  -\n\n        November 28th 2016, 11:46:50 am\n      ']	0.0
+['Think tank plans legal action to keep UK in EU single market']	Associated Press	['\n        By ', '  -\n\n        November 28th 2016, 11:11:25 am\n      ']	0.0761904761905
+[u'The not so Big Pot: Activia low-fat yoghurt is the latest product to reduce in size  after Danone shrink tubs by 50g (but keep the \xa31.40 price tag)']	The Daily Mail	['\n        By ', '  -\n\n        November 28th 2016, 11:08:30 am\n      ']	0.25
+['Not so gloomy now! Influential think-tank revises UK growth forecasts UP and the economy is due to outperform the eurozone over the next decade']	The Daily Mail	['\n        By ', '  -\n\n        November 28th 2016, 11:00:36 am\n      ']	-0.0625
+["Aberdeen Asset's profits dive as Brexit 'weighs on investor sentiment' with big fund outflows"]	The Daily Mail	['\n        By ', '  -\n\n        November 28th 2016, 10:20:47 am\n      ']	0.0
+['Britain seeks to strengthen ties with Poland before Brexit']	Reuters	['\n        By ', '  -\n\n        November 28th 2016, 9:51:44 am\n      ']	0.0
+[u'The Hillsborough survivor who wants to put Labour to the sword: New Ukip leader Paul Nuttall is an ex-Tory vowing to stand up for the English with a hard Brexit that curbs immigration\xa0']	The Daily Mail	['\n        By ', '  -\n\n        November 28th 2016, 9:39:19 am\n      ']	0.0111742424242
+["Italy's Monte dei Paschi lists multiple threats to rescue plan"]	Reuters	['\n        By ', '  -\n\n        November 28th 2016, 9:35:03 am\n      ']	0.0
+['Sterling dips on euro bounce, focus on Draghi hearing']	Reuters	['\n        By ', '  -\n\n        November 28th 2016, 9:30:36 am\n      ']	0.0
+[u"JD Sports becomes UK's biggest sporting goods retailer with \xa3112m Go Sports acquisition"]	The Daily Mail	['\n        By ', '  -\n\n        November 28th 2016, 8:55:50 am\n      ']	0.0
+["Italy is set to DITCH the euro if PM Matteo Renzi becomes the latest leader to lose anti-establishment referendum following Brexit and Trump's election victories"]	The Daily Mail	['\n        By ', ' ', '  -\n\n        November 28th 2016, 8:52:49 am\n      ']	0.25
+[u'Is Brexit EVER going to happen? Theresa May faces fresh legal battle over whether MPs must approve leaving single market as well as EU\xa0']	The Daily Mail	['\n        By ', '  -\n\n        November 28th 2016, 8:43:53 am\n      ']	0.142857142857
+['FTSE CLOSE: Footsie drops as US stocks retreat from record highs, but volatile oil prices rally']	The Daily Mail	['\n        By ', '  -\n\n        November 28th 2016, 8:39:56 am\n      ']	0.0
+['UK think-tank plans legal challenge over Europe single market access']	Reuters	['\n        By ', '  -\n\n        November 28th 2016, 8:30:34 am\n      ']	0.0642857142857
+[u"Clampdown on greed will see pay of 'superstar CEOs' come under greater scrutiny following Brexit vote and Trump's election victory\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        November 28th 2016, 7:08:13 am\n      ']	0.25
+[u'Camilla\u2019s very touchy-feely friend: Australian novelist\xa0Kathy Lette slings an arm around her shoulder as they watch the racing at Newbury\xa0']	The Daily Mail	['\n        By ', '  -\n\n        November 28th 2016, 1:55:32 am\n      ']	0.1
+[u'New Calamity Clegg flip-flops over Brexit plan: ANDREW PIERCE says the former deputy PM has changed his tune over the Norwegian model\xa0']	The Daily Mail	['\n        By ', '  -\n\n        November 28th 2016, 1:55:02 am\n      ']	0.0454545454545
+[u'DOMINIC LAWSON: The horrific murder of Jo Cox and a contemptible campaign to smear Brexit supporters\xa0']	The Daily Mail	['\n        By ', '  -\n\n        November 28th 2016, 1:29:49 am\n      ']	-1.0
+[u'More gloom from the author of Article 50: Negotiator says there is only a 50/50 chance of an orderly Brexit within the next two years\xa0']	The Daily Mail	['\n        By ', '  -\n\n        November 28th 2016, 12:51:22 am\n      ']	0.0916666666667
+[u"EU 'must come to a good compromise' with the UK over Brexit because nations rely on Britain for security, Polish PM warns ahead of meeting with Theresa May\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        November 28th 2016, 12:48:44 am\n      ']	0.7
+['British troops to be deployed to Poland, confirms Prime Minister']	Press Association	['\n        By ', '  -\n\n        November 28th 2016, 12:22:56 am\n      ']	0.0
+["Ukip leader Paul Nuttall hoping to boost party's vote at next general election"]	Press Association	['\n        By ', '  -\n\n        November 28th 2016, 12:22:56 am\n      ']	0.025
+[u'Bank chief under fire for Brexit meddling: Carney plots with big business to stay in single market till 2021\xa0']	The Daily Mail	['\n        By ', '  -\n\n        November 28th 2016, 12:18:48 am\n      ']	-0.0357142857143
+[u'Britain to send 150 troops to Poland in the face of Putin threat as it bids to secure the country as a key ally in Brexit talks\xa0']	The Daily Mail	['\n        By ', '  -\n\n        November 28th 2016, 12:15:53 am\n      ']	0.2
+['Britain seeks to strengthen ties with Poland ahead of Brexit']	Reuters	['\n        By ', '  -\n\n        November 28th 2016, 12:01:01 am\n      ']	0.0
+['UK services businesses report weaker profits - CBI']	Reuters	['\n        By ', '  -\n\n        November 28th 2016, 12:01:01 am\n      ']	0.0
+["Exit the clowns! Honey G and Ed Balls booted off X Factor and Strictly Come Dancing on SAME night... as Twitter rejoices the 'return of sanity to the voting public'"]	The Daily Mail	['\n        By ', '  -\n\n        November 27th 2016, 11:11:29 pm\n      ']	0.0
+['France\'s far-right says Fillon "great candidate" to face in presidential election']	Reuters	['\n        By ', '  -\n\n        November 27th 2016, 8:34:09 pm\n      ']	0.8
+[u'Nice work if EU can get it! Jean-Claude Juncker scoops an extra \xa39,000 as Eurocrats are handed bumper pay hike']	The Daily Mail	['\n        By ', '  -\n\n        November 27th 2016, 4:59:16 pm\n      ']	0.375
+[u"'Somebody offered a \xa35,000 bounty to run me over': Remain campaigner Gina Miller reveals she has spent \xa360,000 on security measures amid Brexit court case"]	The Daily Mail	['\n        By ', '  -\n\n        November 27th 2016, 4:24:00 pm\n      ']	-0.1
+['Labour shambles over Brexit as Emily Thornberry REFUSES to rule out backing a second EU referendum']	The Daily Mail	['\n        By ', '  -\n\n        November 27th 2016, 1:57:10 pm\n      ']	0.0
+['Sunday newspaper share tips: Mercia | Lavendon | Grainger']	The Daily Mail	['\n        By ', '  -\n\n        November 27th 2016, 1:46:40 pm\n      ']	0.0
+["Gove says people will be 'angry' with a second referendum"]	The Daily Mail	['\n        November 27th 2016, 1:39:57 pm\n      ']	-0.25
+['Gove dismisses economists comparing it to pre-Brexit talk']	The Daily Mail	['\n        November 27th 2016, 1:10:42 pm\n      ']	0.0
+[u"You've learned NOTHING from Project Fear: Michael Gove hits out at economists' dire warnings of a \xa360bn Brexit hit and says their whole industry risks being discredited over hyped fears\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        November 27th 2016, 12:06:32 pm\n      ']	0.2
+['Bank of England under fire over summer party spending']	Press Association	['\n        By ', '  -\n\n        November 27th 2016, 11:49:04 am\n      ']	0.0
+['Hard Brexit trade deals could take 25 years, ministers are warned']	Press Association	['\n        By ', '  -\n\n        November 27th 2016, 10:05:57 am\n      ']	-0.291666666667
+["Don't brand Brexit supporters racist! Equalities watchdog insists people who voted Leave in the referendum wanted the 'best for the UK'"]	The Daily Mail	['\n        By ', '  -\n\n        November 27th 2016, 10:05:57 am\n      ']	1.0
+[u'Nigel Farage fears for his LIFE after threats over links to Trump \u2013 but it WON\u2019T stop him backing Marine Le Pen in France\u2019s elections']	The Daily Mail	['\n        By ', '  -\n\n        November 27th 2016, 9:40:23 am\n      ']	0.0
+[u"Britain would STILL be ruled by European judges under Labour's shock 'soft Brexit' plans, shadow minister reveals\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        November 27th 2016, 9:36:51 am\n      ']	0.05
+[u'My worries over \u2018hugely challenging\u2019 Brexit keep me awake at night, says Theresa May \u2013 but she insists she WILL make it work\xa0']	The Daily Mail	['\n        By ', '  -\n\n        November 27th 2016, 8:38:09 am\n      ']	0.0
+['Thatcherite Anglophile storms to victory: Francois Fillon wants to sack 500,000 French civil servants if elected president']	The Daily Mail	['\n        By ', ' ', ' ', '  -\n\n        November 27th 2016, 6:11:25 am\n      ']	0.1
+["Article 50 WILL trigger economic pain and uncertainty, writes pro-leave advocate MARK LITTLEWOOD, as he calls for end to 'Brexit blame game'"]	The Daily Mail	['\n        By ', '  -\n\n        November 27th 2016, 2:04:20 am\n      ']	-0.1
+[u'Bank of England boss Mark Carney risks a clash with Theresa May over plot to stay in single market until 2021\xa0']	The Daily Mail	['\n        By ', '  -\n\n        November 27th 2016, 1:39:31 am\n      ']	-0.0714285714286
+["RACHEL JOHNSON: Football's greatest heroes? Four brave men on a TV sofa"]	The Daily Mail	['\n        By ', '  -\n\n        November 27th 2016, 1:38:01 am\n      ']	0.9
+['BLACK DOG: Boris Johnson can plan to spend Christmas in style after Theresa May nominated him as sole key-holder of Brexiteer mansion']	The Daily Mail	['\n        By ', '  -\n\n        November 27th 2016, 1:26:51 am\n      ']	-0.0833333333333
+['Madame Tussauds owner set to reveal effects of pound collapse on visitor numbers']	Press Association	['\n        By ', '  -\n\n        November 27th 2016, 1:04:34 am\n      ']	0.0
+[u"So much for austerity! Bank of England spent \xa3100,000 of taxpayers' money on a lavish summer party just two weeks after the Brexit EU referendum\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        November 27th 2016, 1:04:34 am\n      ']	0.075
+[u"Unwanted gifts from Prince Charles, Theresa May's cleavage and getting a tattoo with Kate Moss: 'Britain's best-connected man' tells all about how to survive in high society \xa0"]	The Daily Mail	['\n        By ', '  -\n\n        November 27th 2016, 12:47:54 am\n      ']	0.16
+[u"'Spreadsheet Phil' Hammond could be the man to follow Theresa May, writes SIMON WALTERS \xa0"]	The Daily Mail	['\n        By ', '  -\n\n        November 27th 2016, 12:32:31 am\n      ']	0.0
+['Nicola Sturgeon visiting Dublin to boost Scotland-Ireland links']	Press Association	['\n        By ', '  -\n\n        November 27th 2016, 12:01:28 am\n      ']	0.0
+[u"Back off our Boris! 'Sniping' by No10 is undermining Foreign Secretary's serious work abroad, says Tory MP \xa0"]	The Daily Mail	['\n        By ', ' ', '  -\n\n        November 26th 2016, 11:47:08 pm\n      ']	-0.152777777778
+[u"PETER HITCHENS: I want Jo's killer to hang. The Left want to use him for propaganda\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        November 26th 2016, 11:43:41 pm\n      ']	0.0
+['The Quitalian Job: How a chic Roman mayor and her joker of a party boss are on the brink of a Brexit-style bombshell that could tear the EU apart']	The Daily Mail	['\n        By ', '  -\n\n        November 26th 2016, 11:31:21 pm\n      ']	0.0
+["BoE's Carney wants lengthy Brexit transition for UK firms - Sunday Times"]	Reuters	['\n        By ', '  -\n\n        November 26th 2016, 11:23:35 pm\n      ']	0.2
+[u"Britain is ranked above the US and EU for entrepreneurs - but scores poorly for 'attitudes' \xa0"]	The Daily Mail	['\n        By ', '  -\n\n        November 26th 2016, 6:26:20 pm\n      ']	-0.2
+[u"'Insurance stealth tax will COST the government money', AXA UK's boss says\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        November 26th 2016, 6:06:39 pm\n      ']	0.0
+['Italy is poised to become next country to reject the establishment as shock poll finds referendum protest vote is poised to beat the government']	The Daily Mail	['\n        By ', '  -\n\n        November 26th 2016, 6:05:19 pm\n      ']	0.0
+[u"Britain WON'T withdraw from the world after Brexit and Trump win, insists Boris as he tours Afghanistan\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        November 26th 2016, 5:56:40 pm\n      ']	0.8
+['Senior Tories urged to stop making jokes about Boris Johnson']	Press Association	['\n        By ', '  -\n\n        November 26th 2016, 5:26:58 pm\n      ']	0.0
+[u'DAN HODGES: The great Brexit fantasy? Donald Trump has destroyed it with one tweet\xa0']	The Daily Mail	['\n        By ', '  -\n\n        November 26th 2016, 5:22:36 pm\n      ']	0.8
+["In Afghanistan, Britain's Johnson sees no sign of global retreat"]	Reuters	['\n        By ', '  -\n\n        November 26th 2016, 4:03:39 pm\n      ']	0.0
+["'We switched our mortgage and saved enough to buy a car': Is it time to grab a fixed rate bargain before deals disappear?"]	The Daily Mail	['\n        By ', '  -\n\n        November 26th 2016, 3:59:17 pm\n      ']	0.05
+[u"From Abergavenny to the \xc9lys\xe9e? Former law student from South Wales says she'll bring a British sense of humour to the presidential palace if she becomes France's next First Lady\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        November 26th 2016, 1:25:22 pm\n      ']	0.0625
+['Brexit dealmaker Verhofstadt backs paid EU membership for Britons']	Reuters	['\n        By ', '  -\n\n        November 26th 2016, 12:52:23 pm\n      ']	0.0
+['Britons could pay to keep EU citizenship after Brexit under new scheme']	Press Association	['\n        By ', '  -\n\n        November 26th 2016, 4:10:32 am\n      ']	0.136363636364
+[u'DAILY MAIL COMMENT: Ignoring voters would be the real tyranny\xa0']	The Daily Mail	['\n        By ', '  -\n\n        November 26th 2016, 1:13:55 am\n      ']	0.1
+[u'PETER OBORNE: If chillingly arrogant Blair and Major get their way, it would be the death of democracy\xa0']	The Daily Mail	['\n        By ', '  -\n\n        November 26th 2016, 1:05:52 am\n      ']	-0.21875
+['Brexit Bill could be pushed through Parliament in just five days if Theresa May loses Supreme Court battle']	The Daily Mail	['\n        By ', ' ', '  -\n\n        November 26th 2016, 12:01:05 am\n      ']	-0.3
+["Jaguar's Brexit boost: Car giant announces plans for 10,000 new jobs as UK sees investment, export and retail all rise"]	The Daily Mail	['\n        By ', ' ', ' ', '  -\n\n        November 25th 2016, 11:45:28 pm\n      ']	0.0681818181818
+[u'Moving out: Lindsay Lohan leaves her London home after bailiff dispute and heads for \xa3400-a-night hotel (before a beach break in Bali)\xa0']	The Daily Mail	['\n        By ', '  -\n\n        November 25th 2016, 11:05:10 pm\n      ']	0.0
+["Labour's Sir Keir Starmer vows to press for environmentally-friendly Brexit"]	Press Association	['\n        By ', '  -\n\n        November 25th 2016, 9:48:18 pm\n      ']	0.0
+["France's Fillon seen as favourite to beat Juppe for conservative nomination"]	Reuters	['\n        By ', '  -\n\n        November 25th 2016, 8:38:13 pm\n      ']	0.0
+['Business Highlights']	Associated Press	['\n        By ', '  -\n\n        November 25th 2016, 7:51:01 pm\n      ']	0.0
+['Scotland sets out legal case to have a say on Brexit trigger']	Reuters	['\n        By ', '  -\n\n        November 25th 2016, 7:39:45 pm\n      ']	0.2
+['Waiting for Theresa, EU closes ranks, draws battle plans']	Reuters	['\n        By ', '  -\n\n        November 25th 2016, 6:21:26 pm\n      ']	0.0
+[u"BEL MOONEY: My furious daughter STILL won't speak to me after I voted for Brexit\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        November 25th 2016, 6:14:07 pm\n      ']	0.0
+['French voters choose conservative candidate for president, security threats lurk']	Reuters	['\n        By ', '  -\n\n        November 25th 2016, 6:05:14 pm\n      ']	0.0
+[u'MARKET REPORT: Builder Travis Perkins set to lose blue-chip rank as firm\u2019s shares are down around 29 per cent this year to date']	The Daily Mail	['\n        By ', '  -\n\n        November 25th 2016, 5:29:25 pm\n      ']	-0.477777777778
+["BIG SHOT OF THE WEEK: Willie Walsh, the 'scampish' boss of British Airways owner IAG"]	The Daily Mail	['\n        By ', '  -\n\n        November 25th 2016, 5:29:05 pm\n      ']	0.0
+['ALEX BRUMMER: Election of Donald Trump a profound political shock but gives a boost for Britain']	The Daily Mail	['\n        By ', '  -\n\n        November 25th 2016, 5:28:54 pm\n      ']	0.0416666666667
+[u'Britons could keep benefits of EU membership after Brexit but only if they PAY under new plan being considered by Euro MPs\xa0']	The Daily Mail	['\n        By ', ' ', '  -\n\n        November 25th 2016, 5:04:05 pm\n      ']	0.0681818181818
+['Boris Johnson says he favoured Brexit to widen UK foreign policy']	The Daily Mail	['\n        By ', '  -\n\n        November 25th 2016, 4:59:21 pm\n      ']	-0.125
+["We NEED a good deal with Britain! German minister warns Angela Merkel she must 'find a way' to hold on to economic ties after Brexit"]	The Daily Mail	['\n        By ', '  -\n\n        November 25th 2016, 4:51:42 pm\n      ']	0.358333333333
+['Ireland PM says Brexit deal impossible in 2 years so must be transition - Sky']	Reuters	['\n        By ', '  -\n\n        November 25th 2016, 4:20:54 pm\n      ']	-0.666666666667
+['UK financial firms seen applying for licences in Dublin by early 2017']	Reuters	['\n        By ', '  -\n\n        November 25th 2016, 3:43:00 pm\n      ']	0.05
+['Waiting for Theresa, EU closes ranks, draws battle plans']	Reuters	['\n        By ', '  -\n\n        November 25th 2016, 3:02:52 pm\n      ']	0.0
+["Nicola Sturgeon's call for a Scottish Brexit deal won't work because it would mean border posts INSIDE the UK, Welsh First Minster warns"]	The Daily Mail	['\n        By ', '  -\n\n        November 25th 2016, 2:42:17 pm\n      ']	-0.03125
+['Multi-nationals overcome Brexit strains to boost FTSE earnings']	Reuters	['\n        By ', '  -\n\n        November 25th 2016, 2:12:11 pm\n      ']	0.0
+['KATIE HOPKINS: The people have spoken and the bad losers in Britain and America - who think they know better - ignore them at their peril. (And if that sounds like a threat - it is!)']	The Daily Mail	['\n        By ', '  -\n\n        November 25th 2016, 1:53:36 pm\n      ']	-0.0916666666667
+['Former PM Tony Blair says Brexit can be stopped if voters decide']	Reuters	['\n        By ', '  -\n\n        November 25th 2016, 1:51:01 pm\n      ']	0.0
+[u'Jaguar Land Rover says it wants to build electric cars in Britain - but only if the government stumps up \xa3450m investment in local infrastructure']	The Daily Mail	['\n        By ', ' ', '  -\n\n        November 25th 2016, 1:17:14 pm\n      ']	0.0666666666667
+['Retailers see sales rise at fastest pace in a over a year as shoppers keep spending despite rising inflation']	The Daily Mail	['\n        By ', '  -\n\n        November 25th 2016, 12:45:16 pm\n      ']	0.0
+['UK firms show no Brexit vote hit in Q3 as investment grows']	Reuters	['\n        By ', '  -\n\n        November 25th 2016, 12:41:45 pm\n      ']	0.0
+['Jaguar Land Rover plans to build electric cars in Britain']	Reuters	['\n        By ', '  -\n\n        November 25th 2016, 12:31:12 pm\n      ']	0.0
+['Incoming EU president Malta signals tough Brexit talks with UK']	Reuters	['\n        By ', '  -\n\n        November 25th 2016, 11:44:40 am\n      ']	-0.388888888889
+['Britons chase Black Friday bargains online']	Reuters	['\n        By ', '  -\n\n        November 25th 2016, 11:30:53 am\n      ']	-0.166666666667
+['Sterling heads for best run of gains vs euro since early 2015']	Reuters	['\n        By ', '  -\n\n        November 25th 2016, 11:06:34 am\n      ']	0.55
+['Strong services sector helps economy avoid Brexit slowdown']	Press Association	['\n        By ', '  -\n\n        November 25th 2016, 10:43:59 am\n      ']	0.433333333333
+['Office for Budget Responsibility defends forecasts warning of Brexit cost']	Press Association	['\n        By ', '  -\n\n        November 25th 2016, 10:43:59 am\n      ']	0.0
+['EU gets tough: Bloc tells UK Brexit is lose-lose situation']	Associated Press	['\n        By ', '  -\n\n        November 25th 2016, 10:40:57 am\n      ']	-0.388888888889
+["Low interest rates spur investors to diversify and increase risk as half confess they aren't on track financially"]	The Daily Mail	['\n        By ', '  -\n\n        November 25th 2016, 10:29:25 am\n      ']	-0.0555555555556
+['Ex-Hong Kong governor Patten says independence call a "terrible mistake"']	Reuters	['\n        By ', '  -\n\n        November 25th 2016, 9:31:30 am\n      ']	-1.0
+['What Brexit gloom? UK economy SURGED after referendum with 0.5% growth as businesses and consumers ignored the doomsayers']	The Daily Mail	['\n        By ', '  -\n\n        November 25th 2016, 9:30:56 am\n      ']	-0.133333333333
+['Incoming EU president Malta signals tough Brexit talks with UK']	Reuters	['\n        By ', '  -\n\n        November 25th 2016, 9:19:00 am\n      ']	-0.388888888889
+['FTSE CLOSE: Footsie flat as oil prices ease; pound at $1.24 after latest UK growth data is left unchanged']	The Daily Mail	['\n        By ', '  -\n\n        November 25th 2016, 8:22:43 am\n      ']	0.158333333333
+['Britons look online for Black Friday bargains']	Reuters	['\n        By ', '  -\n\n        November 25th 2016, 8:16:19 am\n      ']	-0.166666666667
+["DAILY MAIL COMMENT: Truth about forecasts? They're always wrong"]	The Daily Mail	['\n        By ', '  -\n\n        November 25th 2016, 2:31:47 am\n      ']	-0.25
+[u"There will be NO second referendum on Brexit, No 10 insists in a slapdown to ex-PM Sir John Major's attack on the 'tyranny of the majority'\xa0"]	The Daily Mail	['\n        By ', ' ', '  -\n\n        November 25th 2016, 2:10:21 am\n      ']	0.03125
+["Fizz, fags, Ferrero Rocher: SEBASTIAN SHAKESPEARE goes inside Farage's night at The Ritz"]	The Daily Mail	['\n        By ', '  -\n\n        November 25th 2016, 1:37:11 am\n      ']	0.0
+[u"Would-be envoy Farage told 'don't hold your breath' by Hammond: Chancellor says if he ever needs advice he'll give him a call\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        November 25th 2016, 1:18:50 am\n      ']	0.0
+[u"Help! Isn't there any escape from the hell of Black Friday? JAN MOIR wants to know why Britain is slavishly copying America\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        November 25th 2016, 12:57:13 am\n      ']	0.0166666666667
+["Economics quango under fire for claim Brexit cut in migrant numbers will blow a hole in Britain's finances"]	The Daily Mail	['\n        By ', '  -\n\n        November 25th 2016, 12:37:44 am\n      ']	0.0
+["Sir John Major warns against 'tyranny of the majority' applying to Brexit"]	Press Association	['\n        By ', '  -\n\n        November 25th 2016, 12:07:56 am\n      ']	0.0625
+['Devolved leaders challenge PM over Brexit summit no-show']	Press Association	['\n        By ', '  -\n\n        November 25th 2016, 12:07:56 am\n      ']	0.0
+[u"The 'Brexit dividend' DOES exist: Britain to benefit from extra \xa332BILLION when it leaves the EU and stops sending cash to Brussels"]	The Daily Mail	['\n        By ', '  -\n\n        November 24th 2016, 11:54:44 pm\n      ']	0.0
+["Who are they trying to kid? Top economists are accused of Brexit doom-mongering after claiming today's living standards are worst since 1920"]	The Daily Mail	['\n        By ', ' ', '  -\n\n        November 24th 2016, 11:43:47 pm\n      ']	-0.25
+['The original Brexiteer! ROBERT HARDMAN meets the 82-year-old who has been fighting the metric menace since Nigel Farage was a young pup']	The Daily Mail	['\n        By ', '  -\n\n        November 24th 2016, 10:59:02 pm\n      ']	0.284375
+[u'Sunny old Andrea does her best to cheer up the Brexit moaners: QUENTIN LETTS on yesterday in Parliament\xa0']	The Daily Mail	['\n        By ', '  -\n\n        November 24th 2016, 9:49:17 pm\n      ']	0.55
+['CITY DIARY: Was David Cameron meeting his old Bullingdon chum on a trip to Currys?']	The Daily Mail	['\n        By ', '  -\n\n        November 24th 2016, 8:25:31 pm\n      ']	0.1
+[u"We'll never give up our fight for second runway, says the Gatwick boss planning \xa3250m overhaul\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        November 24th 2016, 7:26:39 pm\n      ']	0.0
+["After promising to make a 'Titanic success' of Brexit, Boris tells India and Pakistan to become a 'boom-zone' the day after explosive Indian artillery fire kills 10 people in Kashmir"]	The Daily Mail	['\n        By ', ' ', '  -\n\n        November 24th 2016, 6:32:26 pm\n      ']	0.25
+['ALEX BRUMMER: UK tech success Skyscanner takes flight but sadly its destination appears to be Chinese ownership']	The Daily Mail	['\n        By ', '  -\n\n        November 24th 2016, 6:32:07 pm\n      ']	-0.0666666666667
+["Trump's friend Farage taunts British PM with 'ambassador's reception'"]	Reuters	['\n        By ', '  -\n\n        November 24th 2016, 5:21:02 pm\n      ']	0.0
+["Upcoming votes could test the eurozone's stability again"]	Associated Press	['\n        By ', '  -\n\n        November 24th 2016, 5:16:09 pm\n      ']	0.0
+['Sterling heads for strongest month in 8 years, hits nine-week high']	Reuters	['\n        By ', '  -\n\n        November 24th 2016, 5:08:57 pm\n      ']	0.16
+["Workers' wages in 2021 will STILL be worth less than they were in 2008 as Brexit slowdown extends 'dreadful' decade of stalled earnings growth"]	The Daily Mail	['\n        By ', '  -\n\n        November 24th 2016, 1:13:27 pm\n      ']	-0.288888888889
+['German growth halves on weak trade, uncertainty clouds euro zone outlook']	Reuters	['\n        By ', '  -\n\n        November 24th 2016, 12:48:48 pm\n      ']	-0.1875
+[u'Do you really NEED a discount, Mr Cameron? Former PM spotted out hunting for Black Friday bargains despite raking in \xa3120,000 a speech\xa0']	The Daily Mail	['\n        By ', '  -\n\n        November 24th 2016, 12:44:01 pm\n      ']	0.0111111111111
+["I'm an insurgent who can keep us in the EU, says Blair: Former PM says Brexit 'can be stopped' as he admits he didn't call a referendum because he thought he would lose"]	The Daily Mail	['\n        By ', '  -\n\n        November 24th 2016, 12:10:04 pm\n      ']	0.0
+['Parents face Brexit hit as Mothercare warns over clothing price hikes']	Press Association	['\n        By ', '  -\n\n        November 24th 2016, 11:37:57 am\n      ']	0.0
+['Tony Blair rules out frontline politics return but wants behind-the-scenes role']	Press Association	['\n        By ', '  -\n\n        November 24th 2016, 11:37:57 am\n      ']	0.2
+["'They were tweeting about me!' John McDonnell insists Labour MPs WERE listening to his rambling response to the Autumn Statement despite most being seen busy on their phones"]	The Daily Mail	['\n        By ', '  -\n\n        November 24th 2016, 11:25:10 am\n      ']	0.3
+[u"Plunging pound will add \xa32.7billion to Britain's EU bill and we could be forced to continue paying Brussels even AFTER Brexit, watchdog predicts\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        November 24th 2016, 10:42:32 am\n      ']	-0.3
+['Unfazed by Trump, German business climate remains steady']	Reuters	['\n        By ', '  -\n\n        November 24th 2016, 10:25:26 am\n      ']	0.0833333333333
+['Just two in 10 cars built in the UK are for British customers as figures reveal car making slows for first time in 15 months']	The Daily Mail	['\n        By ', '  -\n\n        November 24th 2016, 10:00:32 am\n      ']	0.125
+[u'By George! Osborne rakes in \xa3220,000 for just THREE speeches to US bankers as Britain faces \xa32trillion debt pile\xa0']	The Daily Mail	['\n        By ', '  -\n\n        November 24th 2016, 9:59:15 am\n      ']	0.0
+['Farage predicts UK political earthquake if Brexit is slowed']	Associated Press	['\n        By ', '  -\n\n        November 24th 2016, 9:53:49 am\n      ']	0.0
+['Sterling edges down after hitting two-month high on budget boost']	Reuters	['\n        By ', '  -\n\n        November 24th 2016, 9:53:36 am\n      ']	0.00222222222222
+["Trump's friend Farage taunts British PM with 'ambassador's reception'"]	Reuters	['\n        By ', '  -\n\n        November 24th 2016, 9:49:36 am\n      ']	0.0
+['German economy unfazed by election of Trump - Ifo economist']	Reuters	['\n        By ', '  -\n\n        November 24th 2016, 9:37:19 am\n      ']	0.0
+[u"'No-one knows what will happen': Hammond refuses to back gloomy forecast of \xa360bn bill for Brexit as he insists the economy can keep thriving"]	The Daily Mail	['\n        By ', '  -\n\n        November 24th 2016, 9:22:42 am\n      ']	0.0
+['Mothercare and Argos warn of price hikes within WEEKS after Brexit vote sent the pound plunging']	The Daily Mail	['\n        By ', ' ', '  -\n\n        November 24th 2016, 8:46:37 am\n      ']	0.0
+["Countrywide shares sink again as UK's biggest agent warns transaction levels are 'significantly below' last year"]	The Daily Mail	['\n        By ', '  -\n\n        November 24th 2016, 8:44:08 am\n      ']	0.1875
+["EU's Schulz steps down, fuelling German, EU reshuffles"]	Reuters	['\n        By ', '  -\n\n        November 24th 2016, 8:28:04 am\n      ']	-0.0777777777778
+["UK's Countrywide warns Brexit will hit 2016 earnings"]	Reuters	['\n        By ', '  -\n\n        November 24th 2016, 8:25:20 am\n      ']	0.0
+["We must unite our country after Jo Cox murder, says Labour's John McDonnell"]	Press Association	['\n        By ', '  -\n\n        November 24th 2016, 8:16:05 am\n      ']	0.0
+["UK's Countrywide warns again that Brexit will hit 2016 earnings"]	Reuters	['\n        By ', '  -\n\n        November 24th 2016, 8:09:16 am\n      ']	0.0
+["Nigel makes ANOTHER trip to Trumpton! Farage is set to embarrass PM once again by meeting president-elect's aides during US visit"]	The Daily Mail	['\n        By ', ' ', ' ', '  -\n\n        November 24th 2016, 7:35:48 am\n      ']	0.0
+["Yes, we are doom mongers: Even the quangocrats themselves admit their predictions for UK economy could well be 'too gloomy'"]	The Daily Mail	['\n        By ', ' ', '  -\n\n        November 24th 2016, 2:25:54 am\n      ']	0.0
+[u'DAILY MAIL COMMENT: So much for George Osborne\u2019s emergency post-Brexit Budget\xa0']	The Daily Mail	['\n        By ', '  -\n\n        November 24th 2016, 1:47:14 am\n      ']	0.1
+[u'MAX HASTINGS: Yes he had to be optimistic. But whatever happened to the idea of living within our means? \xa0']	The Daily Mail	['\n        By ', '  -\n\n        November 24th 2016, 1:37:23 am\n      ']	0.0
+[u'ALEX BRUMMER: Yes there are risks, but I\u2019m hopeful for the future of the British economy\xa0']	The Daily Mail	['\n        By ', '  -\n\n        November 24th 2016, 1:24:48 am\n      ']	0.0
+["Care for the elderly will suffer from a lack of cash, says Labour: Party hits out at Hammond's failure to pledge money for services"]	The Daily Mail	['\n        By ', '  -\n\n        November 24th 2016, 1:17:11 am\n      ']	-0.316666666667
+[u"Employers hit by \xa3750m raid on national insurance after threshold to start paying is 'aligned' with the amount employees pay\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        November 24th 2016, 1:08:02 am\n      ']	0.0
+[u'So much for Mr Gloomy!\xa0The elite said Brexit would spell apocalypse. Yesterday, an upbeat Chancellor predicted growth for the next five years (pity about the terrifying debt)']	The Daily Mail	['\n        By ', '  -\n\n        November 24th 2016, 12:38:18 am\n      ']	-0.225
+["Britons facing 'more than a decade without real earnings growth'"]	Press Association	['\n        By ', '  -\n\n        November 24th 2016, 12:21:24 am\n      ']	0.35
+["By his own morose standards Mr Gloomy was almost skittishly optimistic: QUENTIN LETTS watches the Chancellor's first (and last) Autumn Statement"]	The Daily Mail	['\n        By ', '  -\n\n        November 24th 2016, 12:17:43 am\n      ']	0.3875
+['British car demand stalls after Brexit, denting October output']	Reuters	['\n        By ', '  -\n\n        November 24th 2016, 12:01:01 am\n      ']	0.0
+[u'\u2018It\u2019s not all about salary\u2026 it\u2019s an attack on loyalty\u2019: Middle class tax perks including mobile phones, gym memberships and PlayStations are raided to raise \xa31bn\xa0']	The Daily Mail	['\n        By ', '  -\n\n        November 23rd 2016, 11:49:46 pm\n      ']	0.0
+[u'Our debt appals me \u2013 and it\u2019s all Osborne\u2019s fault...PETER OBORNE says former Chancellor did not cut deeply enough because he had ambitions of getting to Number 10\xa0']	The Daily Mail	['\n        By ', '  -\n\n        November 23rd 2016, 11:45:09 pm\n      ']	0.0
+[u"Why a UK worker takes five days to do what a German does in just four! Hammond announces billions to tackle 'shocking' productivity gap that means Britain 'lags behind' other countries \xa0"]	The Daily Mail	['\n        By ', '  -\n\n        November 23rd 2016, 11:12:46 pm\n      ']	-0.38125
+[u"Insurance exec gets a \xa317m golden goodbye despite firm's disappointing shares performance"]	The Daily Mail	['\n        By ', '  -\n\n        November 23rd 2016, 10:45:57 pm\n      ']	-0.166666666667
+["Farage predicts 'seismic shock' at next general election"]	Press Association	['\n        By ', '  -\n\n        November 23rd 2016, 10:04:25 pm\n      ']	0.025
+[u"You're spoiling us Mr Ambassador! Nigel Farage rehearses for job as link-man to Trump's US as he hands out Ferrero Rocher chocolates at Ritz party to celebrate Brexit victory\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        November 23rd 2016, 9:33:47 pm\n      ']	0.0
+["Raising productivity 'is central long-term challenge'"]	Press Association	['\n        By ', '  -\n\n        November 23rd 2016, 7:56:20 pm\n      ']	0.0
+[u'Government borrowing costs jump and row erupts over pessimistic economic forecasts after OBR says debt is heading to \xa32trillion']	The Daily Mail	['\n        By ', ' ', '  -\n\n        November 23rd 2016, 7:31:34 pm\n      ']	0.2
+[u"ALEX BRUMMER: British Business Bank could play an important role in funding\xa0Theresa May's industrial strategy"]	The Daily Mail	['\n        By ', '  -\n\n        November 23rd 2016, 7:21:26 pm\n      ']	0.2
+["CITY DIARY: Sir Shifty's yacht could be seized by the courts to help plug the BHS pension gap"]	The Daily Mail	['\n        By ', '  -\n\n        November 23rd 2016, 7:13:23 pm\n      ']	0.0
+['After Barroso row, Juncker proposes tighter EU ethics rules']	Reuters	['\n        By ', '  -\n\n        November 23rd 2016, 6:34:19 pm\n      ']	0.0
+['DAILY BRIEFING: First Property Group gets a post-Brexit boost from the fall in the pound']	The Daily Mail	['\n        By ', '  -\n\n        November 23rd 2016, 6:29:04 pm\n      ']	0.125
+['Brexit protesters tell British PM May: "Get on with EU divorce"']	Reuters	['\n        By ', '  -\n\n        November 23rd 2016, 5:01:43 pm\n      ']	0.0
+['Budget drives sterling higher vs struggling euro']	Reuters	['\n        By ', '  -\n\n        November 23rd 2016, 5:00:59 pm\n      ']	0.25
+['EU lawmakers denounce Russian info tactics, anger Putin']	Reuters	['\n        By ', '  -\n\n        November 23rd 2016, 4:43:33 pm\n      ']	-0.35
+['Swiss cenbank set to act in wake of Italy vote-Maechler']	Reuters	['\n        By ', '  -\n\n        November 23rd 2016, 4:31:54 pm\n      ']	0.0
+['Pro-Brexit CMC boss bullish in long-term despite his share hit']	Reuters	['\n        By ', '  -\n\n        November 23rd 2016, 4:18:44 pm\n      ']	0.0
+['Is ANYBODY listening to you, John? Labour MPs busy with their PHONES as Shadow Chancellor rails at Autumn Statement']	The Daily Mail	['\n        By ', '  -\n\n        November 23rd 2016, 4:06:43 pm\n      ']	0.1
+["Immigration will fall but STILL won't hit target of dropping below 100,000 a year even after Brexit, budget watchdog predicts"]	The Daily Mail	['\n        By ', '  -\n\n        November 23rd 2016, 3:48:32 pm\n      ']	0.0
+["Anti-Islam Dutch MP Geert Wilders slams his hate speech trial as 'a charade, a disgrace and a mockery'"]	The Daily Mail	['\n        By ', '  -\n\n        November 23rd 2016, 3:47:51 pm\n      ']	-0.8
+[u'German MEP says European Army WILL now happen thanks to Brexit because Britain was the only thing stopping Germany and France\u2019s plans\xa0']	The Daily Mail	['\n        By ', '  -\n\n        November 23rd 2016, 3:22:32 pm\n      ']	0.05
+["'Sensible, sober and a bit less Eeyore': Technocrat Chancellor Hammond gets the thumbs up as he steadies the ship but there's no 'rabbits out of the hat'"]	The Daily Mail	['\n        By ', '  -\n\n        November 23rd 2016, 3:15:51 pm\n      ']	-0.0333333333333
+['Chancellor uses Autumn Statement to abolish the Autumn Statement']	The Daily Mail	['\n        November 23rd 2016, 2:43:10 pm\n      ']	0.0
+['Nazi-obsessed loner gets life for murder of British lawmaker Jo Cox']	Reuters	['\n        By ', '  -\n\n        November 23rd 2016, 1:49:06 pm\n      ']	0.0
+['Peaks, black swans and bonanzas: Market tips, bold calls and eyecatchers for 2017']	Reuters	['\n        By ', '  -\n\n        November 23rd 2016, 1:39:17 pm\n      ']	0.0833333333333
+["Pound strengthens against euro as investors welcome Hammond's spending splurge on infrastructure"]	The Daily Mail	['\n        By ', ' ', '  -\n\n        November 23rd 2016, 1:34:26 pm\n      ']	0.8
+[u'Growth forecasts slashed as experts predict \xa360bn Brexit beating for economy']	Press Association	['\n        By ', '  -\n\n        November 23rd 2016, 1:28:42 pm\n      ']	0.0
+[u"Brexiteers rail at 'bogus' forecast that leaving the EU will punch a \xa3122bn black hole in public finances and take national debt to \xa32TRILLION"]	The Daily Mail	['\n        By ', ' ', '  -\n\n        November 23rd 2016, 1:14:31 pm\n      ']	-0.0833333333333
+['Challenges of Brexit: Chancellor kicks off Autumn Statement']	The Daily Mail	['\n        November 23rd 2016, 1:04:10 pm\n      ']	0.0
+["AUTUMN STATEMENT 2016 IN BRIEF: The key points of the Chancellor's speech at a glance"]	The Daily Mail	['\n        By ', '  -\n\n        November 23rd 2016, 12:30:00 pm\n      ']	0.0
+["AUTUMN STATEMENT LIVE BLOG: Analysis, reaction and the verdict on the Chancellor's speech - and what it means for you"]	The Daily Mail	['\n        By ', '  -\n\n        November 23rd 2016, 11:30:41 am\n      ']	0.136363636364
+[u'Hammond offers a hand out to three million benefit claimants but Labour warn it does not make up for years of cuts imposed on working families\xa0']	The Daily Mail	['\n        By ', '  -\n\n        November 23rd 2016, 10:58:17 am\n      ']	0.1
+["Supermarket prices 'will rise at least 5% next year as result of Brexit'"]	Press Association	['\n        By ', '  -\n\n        November 23rd 2016, 10:44:44 am\n      ']	-0.15
+["Supermarket prices 'will rise at least 5% next year as result of Brexit'"]	Press Association	['\n        By ', '  -\n\n        November 23rd 2016, 10:44:44 am\n      ']	-0.15
+['Aviva to reopen UK property fund shut by Brexit turmoil']	Reuters	['\n        By ', '  -\n\n        November 23rd 2016, 10:11:44 am\n      ']	0.0
+['Low and middle earners promised they WILL get income tax cuts despite Brexit uncertainty hitting growth']	The Daily Mail	['\n        By ', '  -\n\n        November 23rd 2016, 10:09:59 am\n      ']	0.0
+['Sterling inches lower before budget statement']	Reuters	['\n        By ', '  -\n\n        November 23rd 2016, 9:52:12 am\n      ']	0.0
+['Development bank EBRD exploring moving staff from London']	Reuters	['\n        By ', '  -\n\n        November 23rd 2016, 9:30:01 am\n      ']	0.0
+["Trump names South Carolina governor and 'proven dealmaker' Nikki Haley UN ambassador"]	The Daily Mail	['\n        By ', ' ', ' ', '  -\n\n        November 23rd 2016, 9:16:29 am\n      ']	0.0
+['FTSE CLOSE: Footsie weakens as City digests Autumn Statement: US stocks mixed ahead of Fed minutes']	The Daily Mail	['\n        By ', '  -\n\n        November 23rd 2016, 8:40:32 am\n      ']	0.0
+["Higher margins help UK lender Paragon's profit beat expectations"]	Reuters	['\n        By ', '  -\n\n        November 23rd 2016, 8:38:40 am\n      ']	0.25
+['Thomas Cook sees shares soar, despite profits fall, as travel giant coughs up its first dividend for 5 years']	The Daily Mail	['\n        By ', '  -\n\n        November 23rd 2016, 8:17:38 am\n      ']	0.125
+["UK lender Paragon's full-year profit rises"]	Reuters	['\n        By ', '  -\n\n        November 23rd 2016, 7:37:39 am\n      ']	0.0
+['Romania - Factors to watch on Nov. 23']	Reuters	['\n        By ', '  -\n\n        November 23rd 2016, 7:30:03 am\n      ']	0.0
+['Ireland reluctant to host high-risk bank trading after Brexit -sources']	Reuters	['\n        By ', '  -\n\n        November 23rd 2016, 7:21:35 am\n      ']	0.0
+["Former Sainsbury's chief predicts consumers face a 5% hike in food prices post-Brexit and warns a high street chain will fold"]	The Daily Mail	['\n        By ', '  -\n\n        November 23rd 2016, 7:21:20 am\n      ']	0.08
+['Less money and a slowing economy: UK plans for Brexit years']	Associated Press	['\n        By ', '  -\n\n        November 23rd 2016, 5:02:16 am\n      ']	-0.166666666667
+[u'Philip Hammond gets pre-autumn statement boost as new figures show economy on the up after Brexit vote\xa0']	The Daily Mail	['\n        By ', '  -\n\n        November 23rd 2016, 2:00:14 am\n      ']	0.136363636364
+[u'SARAH VINE: The luvvies who loathe Trump are bigots too\xa0']	The Daily Mail	['\n        By ', '  -\n\n        November 23rd 2016, 1:20:54 am\n      ']	0.0
+['SEBASTIAN SHAKESPEARE: What DID Andy and Bojo chat about at the Palace? Prince summons Foreign Secretary for private talks']	The Daily Mail	['\n        By ', '  -\n\n        November 23rd 2016, 1:17:36 am\n      ']	-0.0625
+[u"Ambassador Farage may not be so daft an idea: Don't scoff, says Nixon biographer JONATHAN AITKEN - History shows that a close bond with the President has brought huge benefits to Britain\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        November 23rd 2016, 1:07:49 am\n      ']	0.4
+["'We're writing a new chapter for Britain!' Chancellor pledges help for families who are 'just about managing' as he gets the country ready for Brexit"]	The Daily Mail	['\n        By ', ' ', '  -\n\n        November 23rd 2016, 12:49:34 am\n      ']	0.185227272727
+[u'Farage gives snootocracy an attack of the ab-dabs: QUENTIN LETTS on yesterday in Parliament\xa0']	The Daily Mail	['\n        By ', '  -\n\n        November 23rd 2016, 12:48:40 am\n      ']	0.0
+[u'I want to make our tickets free, claims Ryanair boss: Tycoon says he could scrap fares within five years by making airports pay him instead\xa0']	The Daily Mail	['\n        By ', '  -\n\n        November 23rd 2016, 12:48:07 am\n      ']	0.4
+[u"\xa31,640,000,000,000: That's the record debt now owed by Britain...and it's up from \xa3500bn a decade ago"]	The Daily Mail	['\n        By ', '  -\n\n        November 23rd 2016, 12:24:58 am\n      ']	0.0
+['Parliament watchdog calls for greater transparency over public spending']	Press Association	['\n        By ', '  -\n\n        November 23rd 2016, 12:22:53 am\n      ']	0.25
+["Philip Hammond: Brexit vote highlighted need to tackle UK economy's weaknesses"]	Press Association	['\n        By ', '  -\n\n        November 23rd 2016, 12:22:53 am\n      ']	0.0
+['How Trump could benefit Babcock: Defence supplier says Nato members may be forced to increase defence spending']	The Daily Mail	['\n        By ', '  -\n\n        November 22nd 2016, 11:44:04 pm\n      ']	-0.3
+["'Nigel Farage would represent Nigel Farage, not Britain': IDS slams call for the Ukip leader to be made our US ambassador as Theresa May faces calls to work harder on ties with Trump"]	The Daily Mail	['\n        By ', ' ', ' ', '  -\n\n        November 22nd 2016, 10:43:25 pm\n      ']	-0.1
+['Gold sales heat up in Europe after Trump win but not in U.S.']	Reuters	['\n        By ', '  -\n\n        November 22nd 2016, 10:33:40 pm\n      ']	0.8
+[u"DAN HYDE: It's time for ministers to stick up for savers over\xa0rip-off annuities"]	The Daily Mail	['\n        By ', '  -\n\n        November 22nd 2016, 10:05:02 pm\n      ']	0.0
+["New UN chief admits 'the losers of globalisation' are turning to nationalist politicians such as Trump and Farage because they are ignored by the political establishment"]	The Daily Mail	['\n        By ', ' ', '  -\n\n        November 22nd 2016, 8:22:08 pm\n      ']	-0.0159090909091
+['A bigger safety net to protect your savings if your bank or building society goes bust']	The Daily Mail	['\n        By ', '  -\n\n        November 22nd 2016, 7:35:40 pm\n      ']	0.0
+[u'Beware of the gloomsters: A big growth downgrade for Britain will not fit the facts, says\xa0ALEX BRUMMER']	The Daily Mail	['\n        By ', '  -\n\n        November 22nd 2016, 7:30:29 pm\n      ']	-0.1
+['CITY DIARY: Why Goldman boss Richard Gnodde is a cut above his departing co-head Mike Sherwood']	The Daily Mail	['\n        By ', '  -\n\n        November 22nd 2016, 7:27:08 pm\n      ']	0.0
+['DAILY BRIEFING: IBM is latest US tech firm to commit to Britain announcing launch of four new data centres']	The Daily Mail	['\n        By ', '  -\n\n        November 22nd 2016, 7:18:59 pm\n      ']	0.109090909091
+["New UN chief says politicians are failing 'losers of globalisation'"]	Reuters	['\n        By ', '  -\n\n        November 22nd 2016, 6:50:03 pm\n      ']	-0.0318181818182
+[u"Donald Trump urges Britain's Brexit leader Nigel Farage to help his campaign to ban wind farms in site of his luxury Scottish golf resort\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        November 22nd 2016, 6:12:32 pm\n      ']	0.0
+['No special favours for Britain, EU lawmakers tell Brexit chief']	Reuters	['\n        By ', '  -\n\n        November 22nd 2016, 6:05:05 pm\n      ']	-0.178571428571
+["'What utter drivel!' Furious Tories slam Britain's top judge after he tells MPs we're sending too many criminals to prison"]	The Daily Mail	['\n        By ', '  -\n\n        November 22nd 2016, 4:16:04 pm\n      ']	0.333333333333
+['Why are energy bills rising? We look at what next after five of the Big Six hike prices and one small player folds']	The Daily Mail	['\n        By ', '  -\n\n        November 22nd 2016, 4:03:52 pm\n      ']	-0.0833333333333
+['Ireland reluctant to host high-risk bank trading after Brexit -sources']	Reuters	['\n        By ', '  -\n\n        November 22nd 2016, 4:02:28 pm\n      ']	0.0
+['More than 250 jobs lost and hundreds more at risk as Manchester equipment hire firm collapses into administration']	The Daily Mail	['\n        By ', '  -\n\n        November 22nd 2016, 3:58:36 pm\n      ']	0.266666666667
+['Sterling slips in volatile price action']	Reuters	['\n        By ', '  -\n\n        November 22nd 2016, 3:57:29 pm\n      ']	0.1
+['JPMorgan says French labour law in way of big move to Paris post Brexit']	Reuters	['\n        By ', '  -\n\n        November 22nd 2016, 2:34:42 pm\n      ']	0.0
+["Food and drink prices set to soar in run-up to Christmas as Britain's producers are hurt by the weak pound"]	The Daily Mail	['\n        By ', '  -\n\n        November 22nd 2016, 2:16:19 pm\n      ']	-0.375
+['IBM joins tech giants backing investment in UK with new cloud data centres']	Press Association	['\n        By ', '  -\n\n        November 22nd 2016, 2:11:51 pm\n      ']	0.136363636364
+['Sex toy retailer Lovehoney in the pink despite Brexit worries']	Press Association	['\n        By ', '  -\n\n        November 22nd 2016, 2:11:51 pm\n      ']	-0.1
+['Food and drink prices to soar as UK manufacturers hit by weak pound']	Press Association	['\n        By ', '  -\n\n        November 22nd 2016, 2:11:51 pm\n      ']	-0.375
+["KATIE HOPKINS College liberals think people who voted for Trump and Brexit are dumb but letting them brainwash our society is what's stupid"]	The Daily Mail	['\n        By ', '  -\n\n        November 22nd 2016, 1:50:11 pm\n      ']	-0.5875
+['Slovak PM Robert Fico: Brexit will be painful for Britain']	Associated Press	['\n        By ', '  -\n\n        November 22nd 2016, 1:03:49 pm\n      ']	-0.7
+["Britons are 10% worse-off thanks to Brexit vote - but UK still has third highest share of the world's mega-rich"]	The Daily Mail	['\n        By ', '  -\n\n        November 22nd 2016, 12:49:26 pm\n      ']	0.1
+[u"Lord chief justice says \xa3180,000 is 'a great deal of money for ordinary people' but not enough to attract High Court judges as he demands ministers approve 15% pay hike"]	The Daily Mail	['\n        By ', '  -\n\n        November 22nd 2016, 12:36:53 pm\n      ']	0.1775
+["Could investing through an algorithm help to identify 'black swan' events? New robo-adviser claims its formula can shield you from economic shocks"]	The Daily Mail	['\n        By ', '  -\n\n        November 22nd 2016, 12:22:04 pm\n      ']	0.0565656565657
+['AIG joins list of finance firms looking at moving some UK operations']	Reuters	['\n        By ', '  -\n\n        November 22nd 2016, 12:02:28 pm\n      ']	0.0
+['"We appoint our ambassadors," says UK PM\'s spokesman']	Reuters	['\n        By ', '  -\n\n        November 22nd 2016, 11:45:18 am\n      ']	0.0
+['Chancellor is boosted by FALL in government borrowing defying Brexit doomsayers as he prepares to deliver crucial Autumn Statement package']	The Daily Mail	['\n        By ', ' ', '  -\n\n        November 22nd 2016, 11:18:19 am\n      ']	0.0
+['UK factories say outlook strong, but price pressures rising - CBI']	Reuters	['\n        By ', '  -\n\n        November 22nd 2016, 11:01:04 am\n      ']	0.433333333333
+["UK's Mr Brexit says no vacancy for ambassador to United States"]	Reuters	['\n        By ', '  -\n\n        November 22nd 2016, 11:00:50 am\n      ']	0.0
+[u"Grounded! Rise of the 'delivery drones' in UK skies is in doubt after transport minister voices safety fears\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        November 22nd 2016, 10:58:08 am\n      ']	0.0
+['Brexit bridge deal for banks nice in theory, tough in practice']	Reuters	['\n        By ', '  -\n\n        November 22nd 2016, 10:57:49 am\n      ']	0.105555555556
+['EU conservative slams Johnson\'s "arrogant provocation" on Turkey']	Reuters	['\n        By ', '  -\n\n        November 22nd 2016, 10:54:43 am\n      ']	0.0
+['A soft Brexit is best for Norway, trade minister says']	Reuters	['\n        By ', '  -\n\n        November 22nd 2016, 10:52:59 am\n      ']	0.55
+[u'RACHEL RICKARD STRAUS: This is why the Autumn Statement is doomed (\u2026and every one ever after)\xa0']	The Daily Mail	['\n        By ', '  -\n\n        November 22nd 2016, 10:50:28 am\n      ']	0.0
+['British online retailer AO World expects Black Friday rush before prices rise']	Reuters	['\n        By ', '  -\n\n        November 22nd 2016, 10:30:39 am\n      ']	-0.0833333333333
+['Lower-than-expected Government borrowing boosts Hammond before Autumn Statement']	Press Association	['\n        By ', '  -\n\n        November 22nd 2016, 10:23:40 am\n      ']	0.0
+["'There is no idea what Brexit MEANS!' EU negotiators claim Britain has failed to offer an exit plan after talks with David Davis"]	The Daily Mail	['\n        By ', ' ', '  -\n\n        November 22nd 2016, 10:02:00 am\n      ']	-0.5
+[u'Ukip faces a probe by the elections watchdog over claims it wrongly used \u20ac500,000 of European Parliament cash to campaign for Brexit']	The Daily Mail	['\n        By ', '  -\n\n        November 22nd 2016, 9:59:56 am\n      ']	-0.25
+['All Bar One pubs owner Mitchells & Butlers sees profits fall and warns of rising costs ahead']	The Daily Mail	['\n        By ', '  -\n\n        November 22nd 2016, 9:58:24 am\n      ']	0.0
+['Sterling at one-week high on hopes for slower, softer Brexit']	Reuters	['\n        By ', '  -\n\n        November 22nd 2016, 9:55:10 am\n      ']	0.16
+["UKIP's Farage: I can help UK build ties with Trump"]	Reuters	['\n        By ', '  -\n\n        November 22nd 2016, 9:54:40 am\n      ']	0.0
+["Catering firm Compass' revenue growth slows on commodity slump"]	Reuters	['\n        By ', '  -\n\n        November 22nd 2016, 9:53:13 am\n      ']	-0.2
+['A British soft Brexit is best for Norway, trade minister says']	Reuters	['\n        By ', '  -\n\n        November 22nd 2016, 9:43:26 am\n      ']	0.366666666667
+[u"EXCLUSIVE: The EU readies itself for war with Putin: Europe prepares to 'act where NATO is unwilling to do so' as MEP admits 'Trump is right \u2013 we rely on US too much'\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        November 22nd 2016, 9:13:23 am\n      ']	0.242857142857
+['Trump wants Farage to represent UK in US but May says no']	Associated Press	['\n        By ', '  -\n\n        November 22nd 2016, 9:03:50 am\n      ']	0.2
+['FTSE CLOSE: Footsie solid as pound falls to $1.24, while on Wall Street the Dow Jones smashes through 19,000']	The Daily Mail	['\n        By ', '  -\n\n        November 22nd 2016, 8:20:01 am\n      ']	0.0
+['Babcock says on track to hit full-year targets']	Reuters	['\n        By ', '  -\n\n        November 22nd 2016, 8:18:41 am\n      ']	0.0
+['Britain to Trump: "No vacancy" for Farage as ambassador']	Reuters	['\n        By ', '  -\n\n        November 22nd 2016, 8:09:08 am\n      ']	0.0
+["UK's Babcock posts 7 pct rise in operating profit, sees stable outlook"]	Reuters	['\n        By ', '  -\n\n        November 22nd 2016, 7:31:46 am\n      ']	0.0
+['Trump backs Brexit leader Farage as UK envoy to US']	The Daily Mail	['\n        By ', '  -\n\n        November 22nd 2016, 7:24:44 am\n      ']	0.0
+['BRIEF-Mitchells & Butlers says full-year lfl total sales down 0.8 pct']	Reuters	['\n        By ', '  -\n\n        November 22nd 2016, 7:16:10 am\n      ']	-0.0777777777778
+["Britain's Big Yellow says demand moderated slightly after Brexit vote"]	Reuters	['\n        By ', '  -\n\n        November 22nd 2016, 7:15:21 am\n      ']	-0.0555555555556
+['Britain tells Trump: "There is no vacancy" for Farage as ambassador to United States']	Reuters	['\n        By ', '  -\n\n        November 22nd 2016, 7:12:49 am\n      ']	0.0
+['Euro zone nations turn to hedge funds to meet borrowing needs']	Reuters	['\n        By ', '  -\n\n        November 22nd 2016, 7:00:01 am\n      ']	0.0
+['Trump says Brexiteer Farage would be a good British ambassador to U.S.']	Reuters	['\n        By ', '  -\n\n        November 22nd 2016, 6:59:00 am\n      ']	0.35
+["'He TRUSTS me!' Nigel Farage rages at the 'cesspit' establishment after PM DISMISSES call from Donald Trump for him to become ambassador to the US"]	The Daily Mail	['\n        By ', ' ', '  -\n\n        November 22nd 2016, 3:24:56 am\n      ']	0.0
+["EPHRAIM HARDCASTLE: Doesn't an early meeting between the Queen and Donald Trump to improve post-Brexit prospects smack of desperation?"]	The Daily Mail	['\n        By ', '  -\n\n        November 22nd 2016, 2:01:27 am\n      ']	0.1
+[u"DAILY MAIL COMMENT: A family torn apart by the scourge of 'soft' drugs\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        November 22nd 2016, 1:27:28 am\n      ']	0.05
+[u"Supreme Court judges are told to go with the majority if they don't feel strongly: President tells justices to not 'break ranks' ahead of crucial vote on triggering Article 50\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        November 22nd 2016, 1:11:28 am\n      ']	0.216666666667
+[u'Theresa May soothes the Brexit jitters: No cliff edge when we quit but deal will cost billions, PM warns\xa0']	The Daily Mail	['\n        By ', '  -\n\n        November 22nd 2016, 12:35:34 am\n      ']	0.0
+['David Davis warned UK cannot cherry pick single market when it leaves EU']	Press Association	['\n        By ', '  -\n\n        November 22nd 2016, 12:25:29 am\n      ']	-0.0714285714286
+["Philip Hammond's measures to help low-paid workers and fund affordable housing"]	Press Association	['\n        By ', '  -\n\n        November 22nd 2016, 12:25:29 am\n      ']	0.0
+["Upstaged by a divebombing moth... was it a Ukip plant? QUENTIN LETTS at the CBI sees a flying invader nearly land on the PM's hairdo"]	The Daily Mail	['\n        By ', '  -\n\n        November 22nd 2016, 12:08:42 am\n      ']	0.1
+['IBM invests in UK data centres as tech sector defies Brexit worries']	Reuters	['\n        By ', '  -\n\n        November 22nd 2016, 12:01:01 am\n      ']	0.0
+[u"The other PM set to lose his job after calling a referendum: Italy's December vote spells trouble for Matteo Renzi\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        November 21st 2016, 8:22:39 pm\n      ']	-0.1625
+['Scots push case for special Brexit deal in Brussels']	Reuters	['\n        By ', '  -\n\n        November 21st 2016, 7:45:47 pm\n      ']	0.357142857143
+["David Davis off to Europe to establish 'positive' links with Brexit negotiators"]	Press Association	['\n        By ', '  -\n\n        November 21st 2016, 7:12:32 pm\n      ']	0.227272727273
+['Labour is looking for a new HQ as Jeremy Corbyn launches recruitment drive to prepare for an early election']	The Daily Mail	['\n        By ', '  -\n\n        November 21st 2016, 7:10:48 pm\n      ']	0.118181818182
+['UK Brexit minister starts tour to lay ground for "constructive" EU talks']	Reuters	['\n        By ', '  -\n\n        November 21st 2016, 6:28:25 pm\n      ']	0.0
+["Pound tops $1.25 as Theresa May tells business leaders she will avoid a 'cliff edge' Brexit"]	The Daily Mail	['\n        By ', '  -\n\n        November 21st 2016, 6:24:32 pm\n      ']	0.0
+["Britain's FTSE lags after sterling surge"]	Reuters	['\n        By ', '  -\n\n        November 21st 2016, 6:05:00 pm\n      ']	0.0
+['Trump outlines plans for first day in office, meets with Cabinet hopefuls']	Reuters	['\n        By ', '  -\n\n        November 21st 2016, 6:02:11 pm\n      ']	0.25
+["'The system is not working': Corbyn warns of world of disruption"]	The Daily Mail	['\n        November 21st 2016, 5:58:03 pm\n      ']	0.0
+[u"Britain's economy is growing faster than the ENTIRE G7 in another sign fears over Brexit vote are unfounded\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        November 21st 2016, 5:21:54 pm\n      ']	0.0
+['Former UKIP leader Diane James quits pro-Brexit party']	Associated Press	['\n        By ', '  -\n\n        November 21st 2016, 5:17:03 pm\n      ']	0.0
+['Sterling jumps after PM hints at Brexit transition deal']	Reuters	['\n        By ', '  -\n\n        November 21st 2016, 5:09:54 pm\n      ']	0.0
+['Yaskawa sees short-term Brexit gain from lower labour costs']	Reuters	['\n        By ', '  -\n\n        November 21st 2016, 5:09:03 pm\n      ']	0.0
+['After Trump and Brexit, French voting hard to call']	Reuters	['\n        By ', '  -\n\n        November 21st 2016, 4:41:07 pm\n      ']	-0.145833333333
+['UK inflation expectations rise at fastest rate since 2011-Barclays']	Reuters	['\n        By ', '  -\n\n        November 21st 2016, 3:39:49 pm\n      ']	0.0
+["ECB's Villeroy points to 'pragmatic approach' over QE in March"]	Reuters	['\n        By ', '  -\n\n        November 21st 2016, 3:32:48 pm\n      ']	0.0
+['Euro zone nations turn to hedge funds to meet borrowing needs']	Reuters	['\n        By ', '  -\n\n        November 21st 2016, 2:17:46 pm\n      ']	0.0
+["UK to raise deposit guarantee after pound's Brexit plunge"]	Reuters	['\n        By ', '  -\n\n        November 21st 2016, 2:08:14 pm\n      ']	0.0
+[u"'Build an economy that works for everyone!' Chancellor defies dire warnings over \xa32TRILLION debt pile to splurge on help for hard-pressed families and investment in industry"]	The Daily Mail	['\n        By ', ' ', ' ', '  -\n\n        November 21st 2016, 1:57:48 pm\n      ']	0.0
+['French frontrunner could prove difficult partner for Merkel']	Reuters	['\n        By ', '  -\n\n        November 21st 2016, 1:51:42 pm\n      ']	-0.25
+['Citi becomes first U.S. bank supervised by ECB since Brexit vote']	Reuters	['\n        By ', '  -\n\n        November 21st 2016, 1:21:44 pm\n      ']	0.25
+["Girls in single-sex schools 'more likely to enjoy sport'"]	Press Association	['\n        By ', '  -\n\n        November 21st 2016, 1:09:12 pm\n      ']	0.3
+['Facebook "likes" Britain\'s talent, to add jobs despite Brexit']	Reuters	['\n        By ', '  -\n\n        November 21st 2016, 12:58:14 pm\n      ']	0.0
+['British PM hints she may be open to transitional agreement with EU']	Reuters	['\n        By ', '  -\n\n        November 21st 2016, 12:32:45 pm\n      ']	0.0
+['Scottish visit Liechtenstein, eyeing EU trade post-Brexit']	Associated Press	['\n        By ', '  -\n\n        November 21st 2016, 11:54:12 am\n      ']	0.0
+["Britain considering all options for Brexit talks - May's spokeswoman"]	Reuters	['\n        By ', '  -\n\n        November 21st 2016, 11:48:12 am\n      ']	0.0
+["British PM May says knows firms do not want 'cliff-edge' after Brexit"]	Reuters	['\n        By ', '  -\n\n        November 21st 2016, 10:26:37 am\n      ']	0.0
+['Mitie warns again on profits, blaming Brexit uncertainties']	Reuters	['\n        By ', '  -\n\n        November 21st 2016, 10:21:57 am\n      ']	0.0
+['European shares fall on Italian worries']	Reuters	['\n        By ', '  -\n\n        November 21st 2016, 10:17:43 am\n      ']	0.0
+['UK PM calls on business to invest in innovative firms, spur productivity']	Reuters	['\n        By ', '  -\n\n        November 21st 2016, 10:11:06 am\n      ']	0.5
+['Sterling struggles on run-in to UK budget statement']	Reuters	['\n        By ', '  -\n\n        November 21st 2016, 10:01:41 am\n      ']	0.0
+["EU has no concerns yet about UK's Nissan deal, awaits details"]	Reuters	['\n        By ', '  -\n\n        November 21st 2016, 9:51:54 am\n      ']	0.0
+['Facebook to expand in UK in latest vote of confidence after Brexit']	Reuters	['\n        By ', '  -\n\n        November 21st 2016, 9:44:00 am\n      ']	0.5
+['Swiss sight deposits jump most in 5 months after US election']	Reuters	['\n        By ', '  -\n\n        November 21st 2016, 9:34:17 am\n      ']	0.5
+["UK's May courts business seeking to avoid Brexit exodus"]	Reuters	['\n        By ', '  -\n\n        November 21st 2016, 9:11:46 am\n      ']	0.0
+[u'Pump up the JAMs! Hammond is under renewed pressure to help \u2018just about managing\u2019 families amid claims existing welfare curbs will make them \xa32,500 worse off']	The Daily Mail	['\n        By ', '  -\n\n        November 21st 2016, 8:53:49 am\n      ']	-0.4
+[u'Facebook backs post-Brexit Britain: US social media giant joins Google with plans for new London HQs (so how much tax will they both pay?)\xa0']	The Daily Mail	['\n        By ', '  -\n\n        November 21st 2016, 8:50:09 am\n      ']	0.0924242424242
+['FTSE CLOSE: Footsie up as commodities rally with oil prices; pound at $1.25 ahead of Autumn Statement']	The Daily Mail	['\n        By ', '  -\n\n        November 21st 2016, 8:32:29 am\n      ']	0.0
+[u"Mitie issues second profit warning in space of just two months, citing 'economic uncertainty and staff costs'\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        November 21st 2016, 8:28:49 am\n      ']	0.1
+['Mining shares rebound, pharma under pressure in weak European open']	Reuters	['\n        By ', '  -\n\n        November 21st 2016, 8:28:40 am\n      ']	-0.125
+[u'Eastern European countries begin sidling up to Putin as voters elect Russia-friendly leaders and disappointment grows with their life under the weakening EU\xa0']	The Daily Mail	['\n        By ', ' ', '  -\n\n        November 21st 2016, 8:22:20 am\n      ']	0.0666666666667
+["Facebook announces 500 new jobs in 'global hub' London"]	The Daily Mail	['\n        By ', '  -\n\n        November 21st 2016, 8:06:54 am\n      ']	0.0681818181818
+['Burdened but unbowed, Merkel faces biggest test in tilt at 4th term']	Reuters	['\n        By ', '  -\n\n        November 21st 2016, 7:00:01 am\n      ']	0.0
+['Burdened but unbowed, Merkel faces biggest test in tilt at 4th term']	Reuters	['\n        By ', '  -\n\n        November 21st 2016, 7:00:01 am\n      ']	0.0
+["Chancellor urged to halt northern 'brain drain'"]	Press Association	['\n        By ', '  -\n\n        November 21st 2016, 3:00:37 am\n      ']	0.0
+['Hammond under pressure to help families as well as reassure businesses']	Press Association	['\n        By ', '  -\n\n        November 21st 2016, 3:00:37 am\n      ']	0.0
+[u'What older shoppers REALLY want \u2013 somewhere to sit! High Street stores are losing billions because they don\u2019t provide enough places for elderly customers to rest\xa0']	The Daily Mail	['\n        By ', '  -\n\n        November 21st 2016, 1:52:09 am\n      ']	0.144166666667
+[u'ANDREW PIERCE: True saviour of sterling... take a bow, Ed Balls\xa0']	The Daily Mail	['\n        By ', '  -\n\n        November 21st 2016, 1:47:29 am\n      ']	0.35
+["Furious Brexiteers hit out at Theresa May for 'fueling uncertainty' after she hints at 'transitional' EU exit deal to appease City firms that could see us tied to Brussels for YEARS"]	The Daily Mail	['\n        By ', ' ', ' ', '  -\n\n        November 21st 2016, 1:38:15 am\n      ']	0.0
+[u"National Trust's VERY PC boss - and the betrayal of Beatrix Potter's Lake District legacy: Locals' fury as charity's Whitehall mandarin is accused of 'mafia tactics' in Borrowdale land grab\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        November 21st 2016, 1:01:21 am\n      ']	0.2
+['Replace warm words with hard cash for natural flood management, Government told']	Press Association	['\n        By ', '  -\n\n        November 21st 2016, 12:13:24 am\n      ']	0.136111111111
+["PM 'breaks promise' over 'workers on company boards' plan"]	Press Association	['\n        By ', '  -\n\n        November 21st 2016, 12:01:49 am\n      ']	0.0
+['British PM May to unveil industrial strategy to spur "ambitious" ideas']	Reuters	['\n        By ', '  -\n\n        November 21st 2016, 12:01:01 am\n      ']	0.125
+['Obama defends free trade at Asia-Pacific summit rattled by Trump']	The Daily Mail	['\n        By ', '  -\n\n        November 20th 2016, 10:49:51 pm\n      ']	0.4
+[u'Margaret Thatcher fan with a British wife becomes the surprise favourite to become the next French President as Sarkozy\u2019s political career is left in tatters']	The Daily Mail	['\n        By ', '  -\n\n        November 20th 2016, 9:14:22 pm\n      ']	0.0
+['Tony Blair to continue speaking out on Brexit as office move confirmed']	Press Association	['\n        By ', '  -\n\n        November 20th 2016, 8:42:33 pm\n      ']	0.4
+['Merkel says she will seek 4th term as German chancellor']	Reuters	['\n        By ', '  -\n\n        November 20th 2016, 7:59:41 pm\n      ']	0.0
+['Burdened but unbowed, Merkel faces biggest test in tilt at 4th term']	Reuters	['\n        By ', '  -\n\n        November 20th 2016, 7:39:34 pm\n      ']	0.0
+['DAILY BRIEFING: Thomas Cook expected to report drop in profit as terror attacks and political instability in Turkey hit  balance sheet']	The Daily Mail	['\n        By ', '  -\n\n        November 20th 2016, 6:56:08 pm\n      ']	-0.0333333333333
+['TRADER TIPS: City insiders say buy specialist lender One Savings Bank but sell budget airline easyJet']	The Daily Mail	['\n        By ', '  -\n\n        November 20th 2016, 6:55:53 pm\n      ']	0.0
+["'How vain!' Simon Cowell is slammed on Twitter after pausing critique to demand big screen close-up during live X Factor broadcast"]	The Daily Mail	['\n        By ', ' ', '  -\n\n        November 20th 2016, 4:49:35 pm\n      ']	0.0681818181818
+["'Stop this endless pessimism!' Tory MPs blast Chancellor Philip Hammond after he warns of rising inflation, slower growth and 'eye-watering debt' in latest doom-laden Brexit warning"]	The Daily Mail	['\n        By ', '  -\n\n        November 20th 2016, 2:33:57 pm\n      ']	0.171875
+["'This will be a negotiation': Philip Hammond on Brexit strategy"]	The Daily Mail	['\n        November 20th 2016, 2:29:16 pm\n      ']	0.0
+[u"Germany's Iron Lady Angela Merkel plans to run for a fourth term as chancellor in next year's election\xa0"]	The Daily Mail	['\n        By ', ' ', '  -\n\n        November 20th 2016, 2:20:56 pm\n      ']	0.0
+['UK Treasury chief: Brexit uncertainty could drag on economy']	Associated Press	['\n        By ', '  -\n\n        November 20th 2016, 12:35:39 pm\n      ']	-0.1
+['Merkel says she will seek 4th term as German chancellor']	Reuters	['\n        By ', '  -\n\n        November 20th 2016, 11:50:25 am\n      ']	0.0
+[u"Blair is back! Former PM announces he is 'returning to British politics' because the Tories are 'screwing up Brexit and Jeremy Corbyn is a nutter' as he prepares to meet with Theresa May\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        November 20th 2016, 11:32:38 am\n      ']	0.0
+[u"BBC faces a bias backlash as producer who joined Bob Geldof's pro-EU 'luvvies' flotilla is to head up a flagship Brexit show\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        November 20th 2016, 9:52:34 am\n      ']	0.0
+["Chancellor admits to 'unprecedented uncertainty' after Brexit vote"]	Press Association	['\n        By ', '  -\n\n        November 20th 2016, 9:49:55 am\n      ']	0.6
+['Queen to invite Trump to Britain for state visit -Sunday Times']	Reuters	['\n        By ', '  -\n\n        November 20th 2016, 9:17:45 am\n      ']	0.0
+[u'Austerity hits women harder: 85% of the tax burden of government cuts \u2018falls on the shoulders of females\u2019']	The Daily Mail	['\n        By ', '  -\n\n        November 20th 2016, 8:33:18 am\n      ']	-0.1
+['Middle class earners will have to pay hundreds of pounds more in tax as Philip Hammond plans tax raid on free gym membership, health checks, phone contracts and other job perks']	The Daily Mail	['\n        By ', ' ', '  -\n\n        November 20th 2016, 8:30:36 am\n      ']	0.19375
+[u"EU leaders want to force Britain into a 'hard Brexit' as they fear showing weakness will empower Marine Le Pen and spell the end of the union\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        November 20th 2016, 8:09:55 am\n      ']	-0.291666666667
+['French in centre-right primary to pick presidential candidate to face Le Pen']	Reuters	['\n        By ', '  -\n\n        November 20th 2016, 3:01:13 am\n      ']	0.2
+[u"The G Factor! Aspiring rapper Honey G overtakes bookies' favourite Matt Terry in The X Factor phone votes causing Simon Cowell to 'worry'\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        November 20th 2016, 1:55:55 am\n      ']	0.0
+[u'BLACK DOG: John admits to major slip-up\xa0']	The Daily Mail	['\n        By ', '  -\n\n        November 20th 2016, 1:52:53 am\n      ']	-0.0520833333333
+["DAN HODGES: In three days' time, George Osborne is going to be erased from history"]	The Daily Mail	['\n        By ', '  -\n\n        November 20th 2016, 1:45:09 am\n      ']	0.0
+[u"Oh b*******! I'm in a bally musical, too: SIMON WALTERS reviews the first night of Brexit The Musical\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        November 20th 2016, 1:35:44 am\n      ']	0.125
+[u'THE MAIL ON SUNDAY COMMENT: It\u2019s JAMs today for May \u2013 but it could get sticky\xa0']	The Daily Mail	['\n        By ', '  -\n\n        November 20th 2016, 1:28:58 am\n      ']	0.0
+['Yvette Cooper warns Brexit could lead to Scotland having its own border controls with England operating under different immigration rules']	The Daily Mail	['\n        By ', '  -\n\n        November 20th 2016, 1:22:52 am\n      ']	0.3
+[u"Bumbling Boris's Brexit 'blunder' (part three): After prosecco and trade gaffes... now Johnson is accused of bringing the WRONG notes to Cabinet\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        November 20th 2016, 1:12:01 am\n      ']	-0.5
+[u'Nigel Farage makes new comeback bid: Acting Ukip leader rips up pledge to quit frontline politics as he vows to forge new alliance with Donald Trump and fight for a Commons seat\xa0']	The Daily Mail	['\n        By ', '  -\n\n        November 20th 2016, 12:49:31 am\n      ']	0.0909090909091
+['Northern leaders urge Chancellor to fund improved transport infrastructure']	Press Association	['\n        By ', '  -\n\n        November 20th 2016, 12:16:09 am\n      ']	0.0
+["Philip Hammond warns of 'sharp challenge' ahead of Autumn Statement"]	Press Association	['\n        By ', '  -\n\n        November 20th 2016, 12:16:09 am\n      ']	-0.125
+[u'And she lived tipsily ever after:\xa0Romance is out as Mills & Boon launch spoof \u2018feisty and feminist\u2019 guides to drink, diets and work']	The Daily Mail	['\n        By ', '  -\n\n        November 20th 2016, 12:06:30 am\n      ']	-0.1
+['Businesses fear tipping off Brexit cliff edge, warns CBI president']	Press Association	['\n        By ', '  -\n\n        November 20th 2016, 12:02:04 am\n      ']	0.0
+[u"Theresa May clips Chancellor Philip Hammond's wings as she orders him to spend \xa31billion on the roads and warns he shouldn't try to emulate George Osborne\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        November 19th 2016, 11:41:02 pm\n      ']	0.0
+["Facebook's Zuckerberg urges post-Trump world not to 'disconnect'"]	The Daily Mail	['\n        By ', '  -\n\n        November 19th 2016, 7:19:05 pm\n      ']	0.0
+[u"Ireland 9-21 New Zealand: All Blacks get revenge for Chicago defeat as\xa0Malakai Fekitoa scores twice to ensure there's no repeat glory for Joe Schmidt's men"]	The Daily Mail	['\n        By ', '  -\n\n        November 19th 2016, 6:37:13 pm\n      ']	0.136363636364
+[u"'We'll open 2,000 new branches': Meet the reforming Post Office boss aiming for \xa3100m profit after decades in red"]	The Daily Mail	['\n        By ', '  -\n\n        November 19th 2016, 6:35:07 pm\n      ']	0.0454545454545
+['Chancellor Philip Hammond to say UK economy will grow by just 1.25% in 2017']	The Daily Mail	['\n        By ', '  -\n\n        November 19th 2016, 5:44:43 pm\n      ']	0.0
+[u"Facebook warriors are all talk and no action: How millennials will moan about Brexit and Trump on social media, but won't actually do anything about it\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        November 19th 2016, 5:40:03 pm\n      ']	-0.00555555555556
+['Facebook says it intends to fix its problem with fake news after claims the site helped Trump win the election']	The Daily Mail	['\n        By ', ' ', '  -\n\n        November 19th 2016, 5:10:36 pm\n      ']	0.15
+["JON REES: It's outrageous that thousands of businesses could be forced to pay taxes they do not owe with no possibility of redress"]	The Daily Mail	['\n        By ', '  -\n\n        November 19th 2016, 4:43:26 pm\n      ']	-0.65
+['CBI boss Paul Drechsler to tell Theresa May: We must have a Brexit plan']	The Daily Mail	['\n        By ', '  -\n\n        November 19th 2016, 4:35:56 pm\n      ']	0.0
+["President-elect Donald Trump's blunt speaking could lead to chaos on the foreign exchange markets"]	The Daily Mail	['\n        By ', '  -\n\n        November 19th 2016, 4:30:11 pm\n      ']	-0.125
+[u"HEALTH NOTES: Yasmin's still shouldering pain of tuk tuk crash\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        November 19th 2016, 3:24:29 pm\n      ']	0.0
+['BLACKROCK UK INCOME FUND: Mark Wharrier has made a triumphant return after a ten-year absence']	The Daily Mail	['\n        By ', '  -\n\n        November 19th 2016, 3:08:58 pm\n      ']	-0.0125
+["JEFF PRESTRIDGE: Philip Hammond has intimated he doesn't want to meddle with our finances at this time of the year, but in his debut Autumn Statement, meddle he will"]	The Daily Mail	['\n        By ', '  -\n\n        November 19th 2016, 2:22:19 pm\n      ']	0.0
+[u"Senior Tories including Michael Gove pen a letter to Theresa May demanding 'hard Brexit' and a clean break from the EU\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        November 19th 2016, 12:11:45 pm\n      ']	0.0375
+["'First Brexit, then Trump and there is more of this to come!': Nigel Farage says 'poor darlings' Merkel and Obama are in denial over the public's rejection of the political establishment"]	The Daily Mail	['\n        By ', '  -\n\n        November 19th 2016, 11:38:50 am\n      ']	0.095
+['PM risks losing Brexit speed and scope with appeal, senior Conservatives say']	Reuters	['\n        By ', '  -\n\n        November 19th 2016, 11:14:07 am\n      ']	0.0
+["The Queen's our trump card: Theresa May to use Her Majesty as the 'secret weapon' to win over the Donald"]	The Daily Mail	['\n        By ', '  -\n\n        November 19th 2016, 9:42:48 am\n      ']	0.2
+[u'Sail into antiquity:\xa0Step aboard this Mediterranean cruise for ancient wonders, comfy cabins and Oxbridge guides']	The Daily Mail	['\n        By ', '  -\n\n        November 19th 2016, 9:26:07 am\n      ']	0.0
+[u'PETER OBORNE: Why HAS Theresa caved in to the House of Cronies?\xa0PM had vowed to Britain a country that worked \u2018not for a privileged few, but for every one of us\u2019']	The Daily Mail	['\n        By ', '  -\n\n        November 19th 2016, 1:55:31 am\n      ']	-0.2
+[u"Britain's \xa3100bn budget black hole: Philip Hammond to admit he can't clear deficit by 2020\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        November 19th 2016, 1:51:37 am\n      ']	-0.0333333333333
+[u'Olive oil price \u2018to soar by 20%\u2019: Manufacturers warn a squeeze on production and the falling pound are piling the pressure on costs\xa0']	The Daily Mail	['\n        By ', '  -\n\n        November 19th 2016, 1:41:42 am\n      ']	0.0
+[u"Petrol pump price lottery 'back with a vengeance': Supermarkets are charging almost \xa34 more for fuel in towns just a few miles apart with Sainsbury's as one of the worst offenders"]	The Daily Mail	['\n        By ', '  -\n\n        November 19th 2016, 1:19:30 am\n      ']	-0.175
+[u"Supreme Court's most senior judge is urged to stand down from crucial Brexit case over his wife's pro-Remain tweets declaring EU referendum was 'mad and bad'\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        November 19th 2016, 1:12:21 am\n      ']	-0.196111111111
+['SEBASTIAN SHAKESPEARE: Sulky Sir Spin stuns new firm with Remoaner rant']	The Daily Mail	['\n        By ', '  -\n\n        November 19th 2016, 1:11:12 am\n      ']	-0.0318181818182
+[u"How the young declared war on the old (And why I'm fighting back): JOHN SUTHERLAND on how Brexit encouraged a state-condoned campaign to wipe out the nation's 'wrinklies'\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        November 19th 2016, 12:13:47 am\n      ']	0.0666666666667
+['Labour urges Hammond to boost wages and childcare provision']	Press Association	['\n        By ', '  -\n\n        November 19th 2016, 12:08:51 am\n      ']	0.0
+['No false promises from Labour on immigration targets, says Corbyn']	Press Association	['\n        By ', '  -\n\n        November 19th 2016, 12:01:21 am\n      ']	0.2
+[u"The death knell for Britain's helicopter industry: Last jobs at historic Westland factory may go overseas\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        November 18th 2016, 9:19:24 pm\n      ']	0.0
+[u'Will you be barred from selling if the bond bubble bursts? Trump turnaround sees savers flocking to riskier stocks since US election\xa0']	The Daily Mail	['\n        By ', '  -\n\n        November 18th 2016, 8:28:32 pm\n      ']	0.0
+[u"Race for France's conservative presidential nomination heats up amid fears over the rise of Marine Le Pen and the far-right\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        November 18th 2016, 8:21:49 pm\n      ']	0.0
+["ALEX BRUMMER: Hammond's deficit ordeal will be holding him back as he plans his Autumn Statement"]	The Daily Mail	['\n        By ', '  -\n\n        November 18th 2016, 7:27:37 pm\n      ']	0.0
+["Charles Kennedy's wisdom greatly missed from EU debate, says Nicola Sturgeon"]	Press Association	['\n        By ', '  -\n\n        November 18th 2016, 6:43:34 pm\n      ']	0.8
+['McLaren shareholders have rejected bids, not looking to sell']	Reuters	['\n        By ', '  -\n\n        November 18th 2016, 5:50:46 pm\n      ']	0.0
+['N.Ireland deputy leader says post-Brexit border could lead to violence']	Reuters	['\n        By ', '  -\n\n        November 18th 2016, 5:34:20 pm\n      ']	0.0
+["Income tax boost for hard-up households, universal credits restored, a VAT cut even? What's in store for the Autumn Statement"]	The Daily Mail	['\n        By ', '  -\n\n        November 18th 2016, 3:58:44 pm\n      ']	0.0
+["ECB fears populist backlash after Trump's win: sources"]	Reuters	['\n        By ', '  -\n\n        November 18th 2016, 3:13:08 pm\n      ']	0.8
+["After Brexit and Trump, a third global iceberg looms: How Italy's referendum could send shockwaves through the EU and beyond"]	The Daily Mail	['\n        By ', '  -\n\n        November 18th 2016, 3:09:18 pm\n      ']	0.0
+["Trump effect hammer Renzi's referendum hopes, Italian pollsters say"]	Reuters	['\n        By ', '  -\n\n        November 18th 2016, 2:36:13 pm\n      ']	0.0
+["MP describes mocked-up photograph of his son being 'executed' by Islamic State"]	Press Association	['\n        By ', '  -\n\n        November 18th 2016, 2:31:16 pm\n      ']	0.0
+["MP describes mocked-up photograph of his son being 'executed' by Islamic State"]	Press Association	['\n        By ', '  -\n\n        November 18th 2016, 2:31:16 pm\n      ']	0.0
+["UK's May tells Germany: Brexit preparations are 'on track'"]	Reuters	['\n        By ', '  -\n\n        November 18th 2016, 2:16:58 pm\n      ']	0.0
+["Angry backlash for 'Brits are bloody stupid' pro-immigration peer"]	Press Association	['\n        By ', '  -\n\n        November 18th 2016, 2:02:29 pm\n      ']	-0.7
+["UK's May to Germany's Merkel: Brexit preparations are 'on track'"]	Reuters	['\n        By ', '  -\n\n        November 18th 2016, 1:48:22 pm\n      ']	0.0
+[u'How Scotland, Wales and Corbyn-backed trade union are trying to derail Brexit: Supreme Court allows MORE groups to join legal battle to block Theresa May\u2019s EU exit plans']	The Daily Mail	['\n        By ', '  -\n\n        November 18th 2016, 1:06:03 pm\n      ']	0.35
+['Autumn Statement: The challenge facing Philip Hammond']	Press Association	['\n        By ', '  -\n\n        November 18th 2016, 12:55:14 pm\n      ']	0.0
+["Swiss set to call EU's bluff on immigration curbs"]	Reuters	['\n        By ', '  -\n\n        November 18th 2016, 12:48:08 pm\n      ']	0.0
+[u'\'I was sent a picture of my son being "executed" by ISIS\': Tory MP tells of sickening abuse and death threats amid mounting fears over politicians\' security\xa0']	The Daily Mail	['\n        By ', '  -\n\n        November 18th 2016, 12:47:45 pm\n      ']	-0.9
+['Supreme Court rules Scottish and Welsh Governments can intervene in Brexit fight']	Press Association	['\n        By ', '  -\n\n        November 18th 2016, 12:43:41 pm\n      ']	0.0
+['Brits shun new home purchases in Europe post-Brexit -Moneycorp']	Reuters	['\n        By ', '  -\n\n        November 18th 2016, 12:21:15 pm\n      ']	0.136363636364
+["Scottish lawyers invited to address UK Supreme Court's Brexit hearing"]	Reuters	['\n        By ', '  -\n\n        November 18th 2016, 12:17:34 pm\n      ']	0.0
+['Race wide open as France ticks down to presidential primaries']	Reuters	['\n        By ', '  -\n\n        November 18th 2016, 11:47:10 am\n      ']	-0.0851851851852
+['UK housebuilders find lenders more cautious after Brexit vote - survey']	Reuters	['\n        By ', '  -\n\n        November 18th 2016, 11:33:45 am\n      ']	0.5
+['Pacific leaders urged to defend free trade after Trump win']	The Daily Mail	['\n        By ', '  -\n\n        November 18th 2016, 11:24:44 am\n      ']	0.6
+['Price rises should be justified, not to offset falling pound, says Tesco chief']	Press Association	['\n        By ', '  -\n\n        November 18th 2016, 11:03:59 am\n      ']	0.4
+[u"Fancy hiring Michael Gove to speak at your dinner party? Ex-Justice Secretary becomes the latest sacked member of Cameron's Cabinet to join the lucrative speaking circuit\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        November 18th 2016, 10:58:21 am\n      ']	0.5
+["Fuller's pub and hotel profits grow but beer and cider sales slump"]	The Daily Mail	['\n        By ', '  -\n\n        November 18th 2016, 10:43:21 am\n      ']	0.0
+[u'Marmitegate Round 2: Tesco boss vows he will take products off the shelves AGAIN if companies try to ramp up prices and rip off customers\xa0']	The Daily Mail	['\n        By ', '  -\n\n        November 18th 2016, 10:25:15 am\n      ']	-0.2
+['German exports to UK, U.S. fall sharply in Q3']	Reuters	['\n        By ', '  -\n\n        November 18th 2016, 10:00:01 am\n      ']	-0.0625
+["I'm not listening! Theresa May pledges to 'update' Angela Merkel on Brexit progress during visit to Berlin but German chancellor says she won't discuss it"]	The Daily Mail	['\n        By ', '  -\n\n        November 18th 2016, 9:56:23 am\n      ']	0.0
+['Sterling heads for third straight weekly rise']	Reuters	['\n        By ', '  -\n\n        November 18th 2016, 9:46:53 am\n      ']	0.1
+["Something we said, Barack? Obama visits Europe for the last time as US president - but goes to BERLIN and Theresa May only gets a 'brush-by' meeting"]	The Daily Mail	['\n        By ', ' ', '  -\n\n        November 18th 2016, 9:34:59 am\n      ']	0.0
+['Inflation pressure limits BoE response to jobless rise-Broadbent']	Reuters	['\n        By ', '  -\n\n        November 18th 2016, 9:31:52 am\n      ']	0.0
+["Nationwide profits slip 13% as low interest rate environment grips UK's biggest building society"]	The Daily Mail	['\n        By ', '  -\n\n        November 18th 2016, 9:21:03 am\n      ']	0.0
+['Jimmy Choo sees revenues grow as sales are boosted by tourists taking advantage of the weaker pound']	The Daily Mail	['\n        By ', '  -\n\n        November 18th 2016, 9:09:33 am\n      ']	0.0
+["First Toblerone, now this! Chocolate fans outraged as Malteser bags are now SMALLER than they've ever been before (and it looks like Galaxy are also getting in on the act)"]	The Daily Mail	['\n        By ', '  -\n\n        November 18th 2016, 8:48:44 am\n      ']	-0.195833333333
+["Britain's Nationwide to close Commercial Real Estate lending business"]	Reuters	['\n        By ', '  -\n\n        November 18th 2016, 8:46:43 am\n      ']	0.1
+["We're not letting EU go! German finance minister warns that Britain could still be paying into Brussels coffers in 2030"]	The Daily Mail	['\n        By ', '  -\n\n        November 18th 2016, 8:40:56 am\n      ']	0.0
+["Tom Hanks talks Trump and Brexit: 'I didn't vote for that guy'"]	The Daily Mail	['\n        November 18th 2016, 7:55:10 am\n      ']	0.0
+['POLL-Modest fiscal easing ahead for Britain, but BoE likely done']	Reuters	['\n        By ', '  -\n\n        November 18th 2016, 7:35:01 am\n      ']	0.0
+['POLL-Euro zone economy to hum at modest pace; ECB to extend QE']	Reuters	['\n        By ', '  -\n\n        November 18th 2016, 7:30:01 am\n      ']	0.1
+["British PM's speeches show changing Brexit view"]	Reuters	['\n        By ', '  -\n\n        November 18th 2016, 7:00:01 am\n      ']	0.0
+['British PM\'s changing vocabulary signals shift from "hard Brexit"']	Reuters	['\n        By ', '  -\n\n        November 18th 2016, 7:00:01 am\n      ']	-0.145833333333
+['In Israel, famed pre-WWII ship survivors relate to refugees']	Associated Press	['\n        By ', '  -\n\n        November 18th 2016, 6:09:00 am\n      ']	0.0
+['European leaders, Obama vow to hold fast to NATO']	The Daily Mail	['\n        By ', '  -\n\n        November 18th 2016, 5:29:02 am\n      ']	0.1
+['SEBASTIAN SHAKESPEARE: Did angry judges snub Justice Secretary Liz Truss over Brexit row?']	The Daily Mail	['\n        By ', '  -\n\n        November 18th 2016, 2:07:24 am\n      ']	-0.5
+["Deloitte chairman says will continue to invest 'hugely' in UK"]	Reuters	['\n        By ', '  -\n\n        November 18th 2016, 1:45:38 am\n      ']	0.4
+[u'Marine Le Pen fails to expel her father: Judges rule founder of the French far right party can remain as its honorary president\xa0']	The Daily Mail	['\n        By ', '  -\n\n        November 18th 2016, 1:39:03 am\n      ']	-0.0285714285714
+[u'Could the peers cope with Lord Farage of Closing Time? QUENTIN LETTS on Yesterday in Parliament\xa0']	The Daily Mail	['\n        By ', '  -\n\n        November 18th 2016, 1:03:39 am\n      ']	0.0
+["Government 'complacent about risks councils taking to raise funds after cuts'"]	Press Association	['\n        By ', '  -\n\n        November 18th 2016, 12:17:06 am\n      ']	0.0
+['UK could pay into EU for decade after Brexit, German minister warns']	Press Association	['\n        By ', '  -\n\n        November 18th 2016, 12:17:06 am\n      ']	0.0
+[u"It's a gift! Aldi's \xa310 bubbly and \xa36 Malbec beat their high-priced rivals in taste tests ahead of the festive season\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        November 18th 2016, 12:11:50 am\n      ']	0.0
+["Chancellor warned of 'Brexit austerity' danger ahead of autumn statement"]	Press Association	['\n        By ', '  -\n\n        November 18th 2016, 12:01:43 am\n      ']	0.0
+['Theresa May warns Russia of possible sanctions over its role in Syria']	Press Association	['\n        By ', '  -\n\n        November 18th 2016, 12:01:43 am\n      ']	0.0
+[u"Don't block Brexit, minister warns the Lords: Downing Street says peers will have powers curtailed if they try to delay leaving the EU\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        November 17th 2016, 11:52:36 pm\n      ']	0.0
+[u"Brits are stupid! Europhile peer behind Article 50 sparks fury after he says we need MORE migrants because we're not intelligent enough\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        November 17th 2016, 11:21:53 pm\n      ']	-0.325
+['EPHRAIM HARDCASTLE: Will Downton Abbey fans recognise Michelle Dockery in her raunchy new series?']	The Daily Mail	['\n        By ', '  -\n\n        November 17th 2016, 11:01:22 pm\n      ']	-0.181818181818
+['DAILY BRIEFING: Office supply store Staples is latest retailer to disappear from the High Street']	The Daily Mail	['\n        By ', '  -\n\n        November 17th 2016, 9:18:22 pm\n      ']	0.22
+['UK frustratingly unclear about Brexit goals - Scottish minister']	Reuters	['\n        By ', '  -\n\n        November 17th 2016, 8:47:24 pm\n      ']	-0.4
+["Wine prices will have to go up due to pound's Brexit plonk, warns Majestic boss"]	The Daily Mail	['\n        By ', '  -\n\n        November 17th 2016, 8:34:35 pm\n      ']	-0.125
+['MARKET REPORT: Jet2 shares soar by 8% as it carries 2.5m passengers and records a 36% increase in package holiday customers']	The Daily Mail	['\n        By ', '  -\n\n        November 17th 2016, 7:47:00 pm\n      ']	0.0
+["This is Money named Financial Website of the Year, as judges praise the 'consumer champion'"]	The Daily Mail	['\n        By ', '  -\n\n        November 17th 2016, 6:08:59 pm\n      ']	0.0
+['Sweden says euro zone should stick to budget rules, wants soft Brexit']	Reuters	['\n        By ', '  -\n\n        November 17th 2016, 6:01:56 pm\n      ']	0.15
+["Civil service not ready for 'enormous job' of delivering Brexit, says O'Donnell"]	Press Association	['\n        By ', '  -\n\n        November 17th 2016, 5:39:38 pm\n      ']	-0.05
+["Britain's FTSE rises, though Royal Mail lags after results"]	Reuters	['\n        By ', '  -\n\n        November 17th 2016, 5:07:26 pm\n      ']	0.0
+['Sterling hits 2-month high vs euro after bumper retail sales data']	Reuters	['\n        By ', '  -\n\n        November 17th 2016, 5:01:13 pm\n      ']	0.16
+['Trump victory in US election drives investors to dump bonds: Will sell-off turn into a rout?']	The Daily Mail	['\n        By ', '  -\n\n        November 17th 2016, 4:34:45 pm\n      ']	0.0
+['Andrew Lloyd Webber goes to top of the class for his high-spirited new School Of Rock musical - with full marks for the youngsters playing live']	The Daily Mail	['\n        By ', '  -\n\n        November 17th 2016, 4:26:11 pm\n      ']	0.224545454545
+[u'ART REVIEWS: Balls, biros ... and Brexit: It\u2019s the everyday icons, not the politics, that impress at London\u2019s new home of design']	The Daily Mail	['\n        By ', '  -\n\n        November 17th 2016, 4:25:47 pm\n      ']	-0.0318181818182
+[u"'Trump doesn\u2019t follow Farage on Twitter. He only follows one Brit. Me'"]	The Daily Mail	['\n        By ', '  -\n\n        November 17th 2016, 4:21:01 pm\n      ']	0.0
+["'We're not racist.. and we WILL take over France!' Inside Front National's heartland as party enjoys surge in support after Donald Trump election"]	The Daily Mail	['\n        By ', '  -\n\n        November 17th 2016, 3:42:05 pm\n      ']	0.0
+["UK has kind of Brexit negotiating structure but won't be easy-Scots minister"]	Reuters	['\n        By ', '  -\n\n        November 17th 2016, 2:35:03 pm\n      ']	0.6
+['Tom Holland and Dan Snow back Scotland in Union campaign against independence']	Press Association	['\n        By ', '  -\n\n        November 17th 2016, 2:07:12 pm\n      ']	0.0
+['Votes for Brexit and Trump due to frozen living standards, says Heseltine']	Press Association	['\n        By ', '  -\n\n        November 17th 2016, 2:07:12 pm\n      ']	-0.125
+[u'Ukip group is accused of wrongly splurging \u20ac500,000 of EU cash to fight for Westminster seats and boost its Brexit battle']	The Daily Mail	['\n        By ', '  -\n\n        November 17th 2016, 2:05:20 pm\n      ']	-0.5
+["'It was just deceitful and covert': Protesting pensioners are arrested as 'pig-headed' council workers move in to fell trees at dawn"]	The Daily Mail	['\n        By ', '  -\n\n        November 17th 2016, 1:38:13 pm\n      ']	0.0
+[u"Brexit vote sees Manchester United's debt rise 18 per cent to \xa3338m while matchday revenue drops with Red Devils out of Champions League"]	The Daily Mail	['\n        By ', '  -\n\n        November 17th 2016, 1:34:15 pm\n      ']	0.0
+['With inflation tipped to hit 4%, how can you protect your savings and make the most of your investments?']	The Daily Mail	['\n        By ', '  -\n\n        November 17th 2016, 1:26:11 pm\n      ']	0.5
+['Britain should pay into EU budget until 2020 - Poland']	Reuters	['\n        By ', '  -\n\n        November 17th 2016, 1:24:16 pm\n      ']	0.0
+['450,000 euros misspent on Ukip poll campaigns, says EU audit']	Press Association	['\n        By ', '  -\n\n        November 17th 2016, 1:04:53 pm\n      ']	0.0
+['Lego aims high as six-metre Big Ben dominates its biggest store in the world']	Press Association	['\n        By ', '  -\n\n        November 17th 2016, 1:04:53 pm\n      ']	0.08
+[u"The EU will COLLAPSE if Germany and France do not begin to listen to people's concerns on immigration and Islamist terrorism, says French PM\xa0"]	The Daily Mail	['\n        By ', ' ', '  -\n\n        November 17th 2016, 12:46:35 pm\n      ']	0.0
+['Colder weather helps UK retail sales growth to 14-year high - ONS']	Reuters	['\n        By ', '  -\n\n        November 17th 2016, 12:41:26 pm\n      ']	0.16
+['German finance minister sees no room for euro zone fiscal stimulus']	Reuters	['\n        By ', '  -\n\n        November 17th 2016, 12:30:39 pm\n      ']	0.0
+[u"Far-right leader Marine Le Pen could WIN France's presidential elections due to the rise of populist politics and the success of Trump, admits country's prime minister\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        November 17th 2016, 12:18:23 pm\n      ']	0.325
+['UK insurer body wants bulk of EU capital rules to stay after Brexit']	Reuters	['\n        By ', '  -\n\n        November 17th 2016, 12:15:15 pm\n      ']	0.2
+['Retail sales surge at the fastest rate for 14 YEARS as confident shoppers splurge on winter clothes']	The Daily Mail	['\n        By ', '  -\n\n        November 17th 2016, 11:24:50 am\n      ']	0.5
+['Engineer WS Atkins expects to benefit from Trump infrastructure boost']	Reuters	['\n        By ', '  -\n\n        November 17th 2016, 11:15:22 am\n      ']	0.0
+['Retail sales show strongest rise since 2002']	Press Association	['\n        By ', '  -\n\n        November 17th 2016, 11:12:48 am\n      ']	0.0
+['UK ratifies the Paris Agreement on tackling climate change']	Press Association	['\n        By ', '  -\n\n        November 17th 2016, 11:12:48 am\n      ']	0.0
+['Bank of England independence needs reining in, says Ed Balls']	Press Association	['\n        By ', '  -\n\n        November 17th 2016, 11:12:48 am\n      ']	0.0
+["Where the trolls live: Midlothian is UK's most racist region, Northampton is sexist and north Wales is homophobic  says huge study of hate Tweets"]	The Daily Mail	['\n        By ', '  -\n\n        November 17th 2016, 11:05:47 am\n      ']	0.0590909090909
+["Austria's far-right presidential hopeful inspired by Trump victory"]	Reuters	['\n        By ', '  -\n\n        November 17th 2016, 11:00:06 am\n      ']	0.0
+["French PM says can't allow Britain to keep EU advantages"]	Reuters	['\n        By ', '  -\n\n        November 17th 2016, 10:39:24 am\n      ']	0.0
+["Britain's FTSE edges higher, though Royal Mail lags after results"]	Reuters	['\n        By ', '  -\n\n        November 17th 2016, 10:17:53 am\n      ']	0.25
+['BoE independence architect wants more government say at central banks']	Reuters	['\n        By ', '  -\n\n        November 17th 2016, 10:12:12 am\n      ']	0.233333333333
+['Great Portland becomes second firm to cut forecast due to Brexit']	Reuters	['\n        By ', '  -\n\n        November 17th 2016, 9:53:14 am\n      ']	0.11875
+["Theresa May DUMPS David Cameron's plans to strip key powers from the House of Lords as she clears the decks for Article 50 battle"]	The Daily Mail	['\n        By ', '  -\n\n        November 17th 2016, 8:46:17 am\n      ']	0.0

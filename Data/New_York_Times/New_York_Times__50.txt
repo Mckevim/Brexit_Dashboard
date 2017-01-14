@@ -1,0 +1,50 @@
+Among the Little Englanders	The New York Times	2016-07-11	-0.1875
+British Government Bond Yields Rise to Highest Since Brexit Result		2016-10-14	0.0
+Brexit Worries Dominate Meeting of Finance Ministers		2016-07-25	0.0
+Le Pen Sees Opportunity in Brexit	Reuters	2016-06-29	0.0
+Brexit Is No Business of U.S.	The New York Times	2016-04-25	0.0
+Global Investors Wary of UK Markets as Brexit Fog Thickens		2016-10-12	-0.25
+Collapsing Mushroom Sector Exposes Flaws in Ireland's Brexit Response		2016-10-14	0.0
+'Hard Brexit' Could Cost 66 Billion Pounds a Year-Times		2016-10-10	-0.291666666667
+Sterling Fails to Shake Off Hard-Brexit Blues		2016-10-10	-0.5
+UK Rating at Risk of Downgrade if It Gets Poor Brexit Deal-Moody's	Reuters	2016-11-02	-0.4
+Housebuilder McCarthy & Stone Says Trading More Stable After Brexit Dip		2016-10-11	0.5
+Brexit Worries Dominate Meeting of Finance Ministers		2016-07-25	0.0
+Le Pen Sees Opportunity in Brexit	Reuters	2016-06-29	0.0
+Brexit Is No Business of U.S.	The New York Times	2016-04-25	0.0
+UK Rating at Risk of Downgrade if It Gets Poor Brexit Deal-Moody's	Reuters	2016-11-02	-0.4
+Global Investors Wary of UK Markets as Brexit Fog Thickens		2016-10-12	-0.25
+Tesco, Unilever Settle Prices Row After Pound's Brexit Dive		2016-10-14	0.0
+British Advertising Budgets to Grow in 2016 Despite Brexit-Survey		2016-10-12	0.0
+Exclusive: Deutsche Telekom Mulls BT Stake Sale After Brexit Vote-Sources	Reuters	2016-11-04	0.0
+Virgin Money Joins Rival UK Banks to Shrug Off Brexit Chill	Reuters	2016-11-01	0.0
+Sterling Enjoys Best Week Since 2009 as 'Hard Brexit' Fears Ease	Reuters	2016-11-04	0.354166666667
+UK PM May Seeks to Boost Trade Ties With India Before Brexit	Reuters	2016-11-06	0.0
+Dueling Protests as Brexit Battle Goes to UK's High Court		2016-10-13	0.16
+How Brexit Could Change Business in Britain	The New York Times	2016-08-17	0.0
+Caddyshack Statesmanship: Donald Trump Whiffs on Brexit	The New York Times	2016-06-24	0.0
+British Advertising Budgets to Grow in 2016 Despite Brexit-Survey		2016-10-12	0.0
+Mercuria Boss Says Brexit Boosts London Due to Weak Pound		2016-10-13	-0.25
+Markets Move Toward Stability After Brexit Turbulence		2016-06-29	0.0
+Making Sense of Brexit in 4 Charts	The New York Times	2016-06-24	0.0
+Brexit Minister Says UK Has Negotiating Leverage on Financial Passporting		2016-10-10	0.0
+As Fears of Brexit Ease, Wall Street Thrives	The New York Times	2016-06-21	0.0
+No Link Between EU-Canada Trade Agreement and Brexit: EU's Juncker	Reuters	2016-10-30	0.0
+Access to EU Financial Services Market Key to Britain's Brexit Talks: Minister	Reuters	2016-11-03	0.0
+Court Ruling Does Not Derail Brexit Timetable, Says UK PM May's Spokeswoman	Reuters	2016-11-03	0.0
+UK Third Housebuilding Plans Show No Impact of Brexit Vote-Industry Data	Reuters	2016-11-03	0.0
+Dueling Protests as Brexit Battle Goes to UK's High Court		2016-10-13	0.16
+UK's May Always Saw Parliament Playing Important Brexit Role: Spokeswoman		2016-10-12	0.4
+Second Brexit Vote 'Not Acceptable': UK PM May's Spokesman		2016-10-10	0.0
+Mercuria Boss Says Brexit Boosts London Due to Weak Pound		2016-10-13	-0.25
+Property Developer Countryside Says Trading Picks Up After Brexit Dip		2016-10-12	0.0
+Best Outcome of Brexit Talks Is to Avert It: German Experts	Reuters	2016-11-02	0.5
+Brexit Talks Must Cause as Little Friction as Possible for EU-Merkel	Reuters	2016-11-02	-0.09375
+Northern Ireland Leader Says Special Status for Province Possible After Brexit	Reuters	2016-10-29	0.178571428571
+Brexit to Be Difficult Process Like No Other-Croatia President		2016-10-12	-0.5
+Property Developer Countryside Says Trading Picks Up After Brexit Dip		2016-10-12	0.0
+Post-Brexit, EU's Military Powers Argue for Common Defenses		2016-10-12	-0.2
+JCB to Quit UK Business Lobby Group Amid Brexit Differences		2016-10-11	0.0
+Getting Best Brexit Deal for Banks 'Absolute Priority'-UK Minister		2016-10-11	0.6
+Mayor of London Says Banks Must Have Post-Brexit Access to Europe	Reuters	2016-10-27	0.0
+Staffing Firm PageGroup Says UK Market 'Fragile' After Brexit		2016-10-11	-0.1

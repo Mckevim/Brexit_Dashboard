@@ -1,0 +1,50 @@
+Chappatte on Brexit: Free at Last?		2016-06-23	0.2
+Early Brexit Votes Cast in London	Reuters	2016-06-23	0.1
+If Ruling Upheld, Britain to Need Act of Parliament to Trigger Brexit: Davis	Reuters	2016-11-03	0.0
+Builder Bovis Says Prices, Sales Continue to Rise After Brexit Vote	Reuters	2016-11-10	0.0
+ECB Looking at All Options for Euro Trading After Brexit-Mersch	Reuters	2016-11-10	0.0
+Is Brexit Europes Lehman Brothers Moment?		2016-06-29	0.0
+Brexit and the Risks of Democracy	The New York Times	2016-06-24	0.0
+An Index of Uncertainty Surges After Brexit	The New York Times	2016-07-01	0.0
+Portraits of a Nation Contemplating a Brexit	The New York Times	2016-06-23	0.0
+Brexit Vote Spurs Concerns Over Market Liquidity		2016-06-21	0.0
+An Index of Uncertainty Surges After Brexit	The New York Times	2016-07-01	0.0
+Portraits of a Nation Contemplating a Brexit	The New York Times	2016-06-23	0.0
+Brexit Vote Spurs Concerns Over Market Liquidity		2016-06-21	0.0
+Hungarian Immigrant Workers in UK Won't Be Affected by Brexit: Hungarian PM	Reuters	2016-11-11	0.0
+Scotland's Sturgeon Sparks Brexit Duel With May, Plans Independence Bill		2016-10-13	0.0
+Love or Hate It: Marmite Becomes Symbol of Brexit Impact		2016-10-13	-0.15
+Financial Strain Grows From Brexit Vote	The New York Times	2016-07-06	0.0
+Yellen Watching Brexit Effect On Economy	Reuters	2016-06-22	0.0
+London Mayor Explains Stance on Brexit	AP	2016-02-22	0.0
+UK Hirings Pick Up Pace in October Despite Brexit Shock-REC	Reuters	2016-11-08	0.0
+UK Hirings Pick Up Pace in October Despite Brexit Shock-REC	Reuters	2016-11-08	0.0
+Scotland to Join Legal Appeal to Ensure Vote on Brexit Trigger	Reuters	2016-11-08	0.2
+Fashioning a Post-Brexit World		2016-09-22	0.0
+UK Public Debt Won't Fall Until End of Decade After Brexit-IFS	Reuters	2016-11-08	0.0
+UK's Brexit Vote Had No Constitutional Substance, Court Hears		2016-10-13	0.0
+BoE Says It May Tighten Bank Capital Rules After Brexit Relief	Reuters	2016-11-03	0.0
+Seeking Brexit Consensus, Britain Offers to Share Information With Devolved Governments	Reuters	2016-11-09	0.1
+Ireland Unveils Pro-Growth 2017 Budget, Forecasts Brexit Hit		2016-10-11	0.0
+Britain's Labour Calls on PM May to Consult Parliament on Brexit Terms	Reuters	2016-11-03	0.0
+UK Hirings Pick Up Pace in October Despite Brexit Shock-REC	Reuters	2016-11-08	0.0
+UK October Commercial Property Capital Values Show First Monthly Rise Since Brexit-CBRE	Reuters	2016-11-08	0.125
+Britain's Labour Calls on PM May to Consult Parliament on Brexit Terms	Reuters	2016-11-03	0.0
+UK Hirings Pick Up Pace in October Despite Brexit Shock-REC	Reuters	2016-11-08	0.0
+Adecco CEO Sees 'Good Momentum' in UK Business After Brexit Vote	Reuters	2016-11-08	0.7
+After Court Ruling, Merkel Ally Says EU Needs Brexit Clarity by March	Reuters	2016-11-03	0.0
+Ireland Unveils 'Brexit-Proof' Budget, Opposition Calls It 'Pathetic'		2016-10-12	-1.0
+An Irish-German-Chinese Perspective on Brexit		2016-06-30	0.0
+World Reacts to Game-Changing Brexit	The New York Times	2016-06-24	0.0
+Biden, in Dublin, Reacts to Brexit'	AP	2016-06-24	0.0
+Aligning UK Bank Rules With EU Is Best After Brexit-Think Tank	Reuters	2016-11-02	1.0
+Aligning UK Bank Rules With EU Is Best After Brexit-Think Tank	Reuters	2016-11-02	1.0
+Scotland and Others Expected to Join Brexit Legal Challenge: Lead Claimant	Reuters	2016-11-06	0.05
+UK Brexit Minister Davis Says There Will Be Parliamentary Vote Before EU Exit	Reuters	2016-11-07	0.0
+Central London House Prices Fall Again in October After Brexit-Knight Frank	Reuters	2016-11-07	0.0
+M&S Will Not Raise Prices to Offset Brexit-Induced Drop in the Pound	Reuters	2016-11-08	0.0
+British Advertising Budgets to Grow in 2016 Despite Brexit-Survey		2016-10-11	0.0
+UK Lawmakers Press Government for Vote on Brexit Talks		2016-10-12	0.0
+UK Government Bond Trading Volume Gets a Huge Brexit Boost		2016-10-11	0.4
+Learning From the Past After Brexit		2016-07-18	-0.25
+Among the Little Englanders	The New York Times	2016-07-11	-0.1875

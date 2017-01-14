@@ -1,0 +1,50 @@
+European Leaders Tell a Dazed Britain to Get Going on Brexit	The New York Times	2016-06-26	-0.25
+Young and Oppose Brexit? You May Be David Camerons Match on Tinder	The New York Times	2016-05-18	0.1
+Victim of Racist Taunts in England: A Mexican-American Who Backs Brexit	The New York Times	2016-06-30	-0.075
+How Britain Could Exit Brexit	The New York Times	2016-06-28	0.0
+Fractures From Brexit Vote Spread Into Opposition Labour Party	The New York Times	2016-06-27	0.0
+Brexit Aftershocks: More Rifts in Europe, and in Britain, Too		2016-06-25	0.5
+A Question Lingers on the Irish Border: Whats Next?		2016-08-07	0.0
+Post-Brexit Vote, Anheuser-Busch InBev Raises Offer for SABMiller	The New York Times	2016-07-27	0.0
+Frances Far Right Sees an Opportunity in Brexit	The New York Times	2016-06-28	0.192857142857
+Jeremy Corbyn Speaks on Brexit	None	2016-06-24	0.0
+Leave London After Brexit? Steve Cohen Doubles Down		2016-07-22	-0.155555555556
+Euronext CEO Sees 'Diminished Role' for London as Financial Hub After Brexit-Bloomberg		2016-09-22	0.0
+Lloyd's of London Cautions on Brexit as First Half Pre-Tax Profits Rise		2016-09-22	0.0416666666667
+Brexit Opens Uncertain Chapter in Britains Storied History	The New York Times	2016-06-25	0.0
+The End of the Anglo-American Order	The New York Times	2016-11-29	0.0
+New Presidents Who Tilt Toward Russia	The New York Times	2016-11-16	0.136363636364
+UK Report Say Hiring at Some Firms on Hold Post-Brexit		2016-09-21	0.0
+UK Central Bank Warns of Financial Risks in Wake of Brexit		2016-09-22	0.0
+Carney's Choice-Stay for Brexit or Seek New Role in 2018?		2016-09-23	0.136363636364
+Property Valuers Drop Brexit Clauses From Most Contracts as Markets Steady		2016-09-20	0.333333333333
+Property Valuers Drop Brexit Clauses From Most Contracts as Markets Steady		2016-09-21	0.333333333333
+Theresa Mays British Cabinet Has New Faces but Old Divides		2016-07-15	0.0787878787879
+In American Markets, Panic Begins to Subside	The New York Times	2016-06-28	0.0
+After Brexit Vote, Investors Are Gripped by a Panic Last Seen in 2008		2016-06-25	0.0
+The Consequences of a Brexit	The New York Times	2016-06-20	0.0
+Brexit, a Feel-Good Vote That Could Sink Britains Economy	The New York Times	2016-05-22	0.0
+Fractures From Brexit Vote Spread Into Opposition Labour Party		2016-06-27	0.0
+If Britain Favors Brexit, Changes Will Come Slowly	The New York Times	2016-06-23	-0.3
+Brexit and Russia Loom Over Obamas Final NATO Summit Meeting	The New York Times	2016-07-08	0.0
+British Politicians Campaign Over Brexit	Reuters	2016-06-22	0.0
+Without Britain, European Leaders Chart a Rocky New Course		2016-08-23	0.0681818181818
+In Brexit and Trump, a Populist Farewell to Laissez-Faire Capitalism	The New York Times	2016-06-29	0.0
+After Brexit, 3 Centuries of Unity in Britain Are in Danger	The New York Times	2016-06-25	0.0
+Asia Sentiment Hits Five-Quarter High as China, Brexit Worries Ease-Survey		2016-09-21	0.16
+How a Quest by Elites Is Driving Brexit and Trump		2016-07-03	0.0
+Brexit Vote Stokes Fear on the Rock	The New York Times	2016-05-06	0.0
+Asia Sentiment Hits Five-Quarter High as China, Brexit Worries Ease-Survey		2016-09-21	0.16
+After Brexit, Finding a New London for the Financial World to Call Home	The New York Times	2016-07-01	0.0681818181818
+Corbyn Makes Case Against 'Brexit'	Reuters	2016-04-14	0.0
+Taking Refuge in Dollar Could Expose World Economy to New Perils	The New York Times	2016-07-01	0.136363636364
+Taking Refuge in Dollar Could Expose World Economy to New Perils	The New York Times	2016-07-01	0.136363636364
+UK Not Turning Away From World After Brexit Vote, PM May Tells United Nations		2016-09-20	0.0
+Brexit Means Central London House Prices Will Not Grow Until 2019-Savills		2016-09-21	0.0
+UK Public Finances in August Leave Hammond Little Room for Brexit Budget Boost		2016-09-21	-0.09375
+Brexit Means Central London House Prices Will Not Grow Until 2019-Savills		2016-09-20	0.0
+UK Financial Services Industry Told,' Speak With One Voice' on Brexit		2016-09-20	0.0
+Britain's May Meets Goldman, Amazon, IBM to Discuss Post-Brexit Investment		2016-09-19	0.0
+A Battle to Define Democracy		2016-09-30	0.0
+On New York Mission, Theresa May Seeks to Shore Up UK Influence After Brexit		2016-09-19	0.136363636364
+Central Europe Would Veto Any Brexit Deal Limiting Rights to Work in Britain: Slovak PM		2016-09-17	0.0

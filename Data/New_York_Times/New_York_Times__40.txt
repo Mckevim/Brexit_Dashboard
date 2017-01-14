@@ -1,0 +1,50 @@
+German Pharma, Transport Sectors to Feel Most Brexit Pain-Study		2016-10-20	0.25
+Booming Property Auctions Lift Brexit Gloom in British Real Estate		2016-10-17	0.0222222222222
+EU Says British Growth to Almost Halve Next Year Amid Brexit	AP	2016-11-09	0.0
+German Finance Minister Schaeuble Says There Is No a La Carte Brexit Menu	Reuters	2016-11-17	0.0
+Sweden Says Euro Zone Should Stick to Budget Rules, Wants Soft Brexit	Reuters	2016-11-17	0.15
+UK Insurer Body Wants Bulk of EU Capital Rules to Stay After Brexit	Reuters	2016-11-17	0.2
+Mosul, Brexit, U.S. Presidential Race: Your Monday Briefing		2016-10-17	0.0
+Travis Perkins Warns on Profit, Blaming Weak Demand and Brexit		2016-10-19	-0.375
+After Trump and Brexit Shocks, Hammond Hopes to Ease Voters' Frustrations	Reuters	2016-11-13	0.0
+Bank of Ireland CEO Says Surprised by Lack of Brexit Impact	Reuters	2016-11-17	0.1
+After Trump and Brexit Shocks, Hammond Hopes to Ease Voters' Frustrations	Reuters	2016-11-13	0.0
+Banks Could Move From UK 18 Months Before a 'Hard Brexit'-Carney	Reuters	2016-11-16	-0.291666666667
+ECB Talking to London-Based Banks Over EU Access Post-Brexit	Reuters	2016-11-15	0.0
+Judge: Threats to Brexit Lawsuit Claimant 'Wholly Wrong'		2016-10-17	-0.5
+First Utility Postpones IPO Following Brexit Vote		2016-10-05	0.125
+Singapore Sees Brexit as Chance to Lure FinTech Talent From London	Reuters	2016-11-16	0.0
+UK Commercial Property Values Halt Post Brexit Declines-MSCI IPD Index	Reuters	2016-11-15	0.0
+Great Portland Becomes Second Firm to Cut Forecast Due to Brexit	Reuters	2016-11-17	0.11875
+German Third-Quarter Growth Halves Post-Brexit, Economists See Better Fourth Quarter	Reuters	2016-11-15	0.166666666667
+UK Jews Seek Restoration of German Citizenship Post-Brexit		2016-10-17	0.0
+Chappatte on Britains Vote to Leave	The New York Times	2016-06-24	0.0
+UK Commercial Property Values Halt Post Brexit Declines-MSCI IPD Index	Reuters	2016-11-14	0.0
+Third of Large EU Companies Sees Damage From Brexit Talks-Deloitte	Reuters	2016-11-15	0.107142857143
+UK Jews Seek Restoration of German Citizenship Post-Brexit		2016-10-17	0.0
+UK Firms See Slower Hiring, Weak Pay Growth on Brexit Fears-CIPD	Reuters	2016-11-14	-0.375
+UK Top Court Likely to Rule on Parliament's Brexit Role in New Year	Reuters	2016-11-08	0.212121212121
+Will Brexit Upset the Melting Pot That Has Been British Fashion?		2016-09-17	0.0
+BHP Boss Calls for 'Hard-Headed Brexit' With Little Bureaucracy		2016-10-17	-0.1875
+'Get on With It': English Seaside Town Has Brexit Message for PM May	Reuters	2016-11-08	0.0
+UK Government Disputes Suggestion It Has No Plan for Brexit: PM's Spokeswoman	Reuters	2016-11-15	0.0
+Banks Could Move From UK 18 Months Before a 'Hard Brexit': BoE's Carney	Reuters	2016-11-15	-0.291666666667
+UK Public Debt Won't Fall Until End of Decade After Brexit-IFS	Reuters	2016-11-08	0.0
+UK's Lib Dems Will Vote Against Triggering Brexit if No Second Referendum	Reuters	2016-11-11	0.0
+Hollande Says Brexit Should Bring More Investments Into France		2016-10-18	0.5
+Diane James Is Elected to Lead UKIP, a Force Behind the Brexit Vote		2016-09-17	-0.4
+After Trump and Brexit Shocks, Hammond Hopes to Ease Voters' Frustrations	Reuters	2016-11-14	0.0
+Economic Uncertainty Remains Even After Brexit	The New York Times	2016-07-09	0.2
+Germany, France and Italy on Brexit	AP	2016-06-27	0.0
+Labour Leader Blames Tories for Brexit	None	2016-06-27	0.0
+How Brexit Will Affect Travel to Europe	The New York Times	2016-06-24	0.0
+Uncertain Economics Influence &#8216;Brexit&#8217; Talk 	The New York Times	2016-04-03	0.0
+Ahead of Brexit, Some Banks Quietly Shift M&A Bankers to Frankfurt	Reuters	2016-11-07	0.0
+'Hard Brexit' Would Knock 3.5 Percent Off Irish GDP in a Decade-Report	Reuters	2016-11-07	-0.145833333333
+Nissan's Key Brexit Model Decision Due by Year-End-Source		2016-10-14	-0.0625
+German Economy Likely Grew in Third-Quarter Despite Brexit; Trump Adds to Uncertainty-Ministry	Reuters	2016-11-11	0.0
+Brexit Talks Will Start by End of March, Theresa May Says		2016-10-03	0.0
+Booming Property Auctions Lift Brexit Gloom in British Real Estate		2016-10-16	0.0222222222222
+Builder Bovis Says Prices, Sales Continue to Rise After Brexit Vote	Reuters	2016-11-10	0.0
+Brexit Costs UK Its Spot Among Top 5 Investment Destinations		2016-10-16	0.5
+ECB Looking at All Options for Euro Trading After Brexit-Mersch	Reuters	2016-11-10	0.0

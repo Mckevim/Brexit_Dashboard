@@ -1,0 +1,50 @@
+George Osborne Warns of Brexit Risks and Cuts Growth Forecasts	The New York Times	2016-03-17	0.0
+Bank of England Sees Brexit Impact on Jobs and Investment		2016-09-21	0.0
+In Shadow of Brexit, NATO Will Sound Message of Unity Against Russia	The New York Times	2016-07-08	0.4
+A Brexit Battle on the Thames Between Nigel Farage and Bob Geldof	The New York Times	2016-06-16	0.0
+Brexit Prompts Some Jewish Britons to Reconcile With German Roots		2016-09-21	0.0
+Britain Is No Home to Me: Five Artists Respond to Brexit	The New York Times	2016-07-06	0.0
+Pound Hits 31-Year Low on 'Hard' Brexit Worries While UK Stocks Soar		2016-10-04	-0.145833333333
+World Bank Raises 2016 East Asia Growth View, Sees Limited Brexit Impact		2016-10-05	-0.0714285714286
+UK Households' View on Finances Unchanged After Brexit Shock		2016-09-21	0.0
+London Wraps Up Fashion Week Amid Brexit Uncertainty		2016-09-20	0.0
+Dollar Gains on Upbeat U.S. Data,' Hard Brexit' Fears Beset Pound		2016-10-04	-0.291666666667
+London Auctions Feel Little Brexit Chill as Some Works Prove Hot		2016-07-02	0.03125
+How Will Brexit Vote Go? Monty Python May Offer Clue	The New York Times	2016-06-03	0.0
+UK Firms Expect Output Surge in Late 2016 Despite Brexit Vote-CBI		2016-10-01	-0.3
+Text of Statement by George Osborne, Chancellor of Exchequer, on Brexit	The New York Times	2016-06-28	0.0
+Sturgeon Says British PM May Does Not Care About Scotland Over Brexit		2016-10-03	0.0
+London's Core Role in Euros Under Spotlight After Brexit Vote		2016-09-18	0.0
+UK's Hammond Says Britain Needs New Economic Plan After Brexit Vote		2016-10-02	0.168181818182
+Brexit: Where We Are Now in Britain's Decision to Leave EU		2016-10-03	0.0
+British PM May Says Scotland Will Have No Veto Over Brexit		2016-09-30	0.0
+Credit Suisses Surprise Profit	CNBC	2016-07-28	0.0
+Brexit Doesnt Mean Game Over, but It May Be Just the First Domino		2016-06-28	-0.154166666667
+Morning Agenda: Markets Shaky As Political Chaos Continues in the Wake of &#8216;Brexit&#8217;	The New York Times	2016-06-27	-0.166666666667
+Who Is to Blame for Brexits Appeal? British Newspapers	The New York Times	2016-06-21	0.0
+Notes on Brexit	The New York Times	2016-06-12	0.0
+Germany's Merkel Says Brexit Is Warning Shot to Rest of EU		2016-09-30	0.0
+After Brexit Vote, a Burst of Interest in Travel to Britain		2016-08-05	0.0
+Brexit Briefing: Battle of the Somme; Tories Step Up as Boris Johnson Exits		2016-07-02	0.0
+Brexit Bats Aside Younger Generations European Identity	The New York Times	2016-07-02	0.0
+Marine Le Pen : Aprs le Brexit, le printemps des peuples est invitable !	The New York Times	2016-06-28	0.0
+Notes on Brexit	The New York Times	2016-06-12	0.0
+UK Firms Reined in Investment Plans After Brexit Vote-Survey		2016-09-19	0.0
+Brexit Briefing: Boris Johnson Isnt Running; Jeremy Corbyn Seeks Labour Revolution	The New York Times	2016-07-01	0.0
+Brexit edging closer?	Reuters	2015-09-25	0.0
+UK Will Want to Keep Some EU Laws Post-Brexit: Minister		2016-10-02	0.0
+Britain Must Maintain Close EU Police Links Post Brexit-NCA Chief		2016-09-30	0.0
+UK Firms Reined in Investment Plans After Brexit Vote-Survey		2016-09-18	0.0
+Britain's Banks Face Losing EU Access After Brexit: Bundesbank Chief		2016-09-19	0.0
+Quiz: The Brexit Vote Is Here. How Much Do You Know?	The New York Times	2016-06-23	0.2
+Brexit Vote and Donald Trumps Surge Reflect Discontent		2016-03-01	0.0
+Mitie Warns on Profits as Brexit Vote Stalls Outsourcing Decisions		2016-09-19	0.0
+Britain Will Have to Stick With EU Bank Regulation After Brexit-Lobbyist		2016-09-29	0.0
+Britain to Enshrine All EU Rules in UK Law After Brexit: ITV		2016-10-01	0.0
+Already Shaky, U.S. Profits Shudder After Brexit Vote		2016-07-17	-0.333333333333
+Adrift in Sheffield&#8217;s Hinterlands, Brexit&#8217;s Psychic Landscape	The New York Times	2016-07-11	0.0
+Marine Le Pen: After Brexit, the Peoples Spring Is Inevitable	The New York Times	2016-06-28	0.0
+Brexit: The Morning After	The New York Times	2016-06-24	0.0
+Jacob Lew on Headwinds From Brexit	CNBC	2016-06-27	0.0
+Brexit, Explained: 7 Questions About What It Means and Why It Matters	The New York Times	2016-06-21	0.0
+Why Will Markets Recover From Brexit? Clues From Past Crises	The New York Times	2016-07-03	-0.25

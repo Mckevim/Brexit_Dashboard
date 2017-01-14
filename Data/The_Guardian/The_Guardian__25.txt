@@ -1,0 +1,500 @@
+Corrections and clarifications	The Guardian	2016-07-17	0.0
+Nigel Lawson on Brexit: I love Europe! Thats why I live in France. But the EU hasno purpose	The Guardian	2016-04-02	0.380681818182
+Davos 2016: Migration crisis, gender diversity and Brexit - as it happened	The Guardian	2016-01-22	0.0
+JP Morgan's threat to leave if UK quits EU may bolster support for Brexit	The Guardian	2016-01-21	0.0
+Andy Burnham: election of Trump was a cry for change	The Guardian	2016-11-10	0.0
+UK press registers its profound shock at a Trump victory	The Guardian	2016-11-10	0.0833333333333
+Boris Johnson ridiculed by European ministers after prosecco claim	The Guardian	2016-11-17	0.0
+Why kids shows make the best memes	The Guardian	2016-07-13	1.0
+Pity the poor Brexiters  they could win yet still lose | Rafael Behr	The Guardian	2016-02-24	0.1
+India warns UK immigration policy could wreck trade deal	The Guardian	2016-11-06	0.0
+Inside the 28 October edition	The Guardian	2016-10-25	0.0
+Schrdingers cat litter | Brief letters	The Guardian	2016-12-01	0.0
+David Olusoga: Theres a dark side to British history, and we saw a flash of it this summer	The Guardian	2016-11-04	-0.075
+The voice of Brexit speaks and the pro-EU camp cracks open the champagne	The Guardian	2016-01-14	0.0
+Brexit backer Peter Cruddas to sell 200m-plus of CMC Markets shares	The Guardian	2016-01-13	0.0
+Scottish government calls on UK to clarify position on single market	The Guardian	2016-11-09	-0.0714285714286
+Brexit donor Peter Cruddas to float CMC on London Stock Exchange	The Guardian	2016-01-11	0.0
+Civil servants will be banned from helping Brexit ministers, Cameron says - Politics live	The Guardian	2016-01-11	0.136363636364
+Sir David Attenborough: BBC right to let Bake Off go but wrong to sack Clarkson	The Guardian	2016-11-01	-0.107142857143
+FTSE falls back but Imperial Brands and BAT higher	The Guardian	2016-10-28	0.125
+Peaches webchat  your questions answered on Trump, feminism and being yourself	The Guardian	2016-11-03	0.0
+How Brexit could drive out European Premier League footballers	The Guardian	2015-09-11	0.0
+Who said it: Pub Landlord Al Murray, or JD Wetherspoon founder Tim Martin?	The Guardian	2016-11-03	0.0
+Voters will stick two fingers up to those lecturing about Brexits dangers | Suzanne Moore	The Guardian	2016-06-08	0.0
+Putin will be rubbing his hands at the prospect of Brexit | Guy Verhofstadt	The Guardian	2016-01-05	0.0
+Should we be reporting on clowns? Catch up on our live look at the week	The Guardian	2016-10-14	0.136363636364
+'Brexit' would harm peace process, warns Irish foreign minister	The Guardian	2015-09-07	-0.0625
+Trident opposition and Syria retreat are symptoms of a global Brexit	The Guardian	2015-11-03	0.0
+BA owner cuts profit forecast after bumpy ride in third quarter	The Guardian	2016-10-28	0.0
+European banks warn against political 'intrusion'	The Guardian	2016-10-20	0.0
+Guinness may be good for you but borders are bad, says Ireland drinks chief	The Guardian	2016-10-20	5.55111512313e-17
+Corbyn compares May to Baldrick for 'cunning plan to have no plan'	The Guardian	2016-10-26	0.0
+Witney byelection: Labour and Lib Dems hope to cash in on Tory divisions	The Guardian	2016-10-19	0.0
+From lumbersexual to Brexit: how many times did the Guardian print the words of the year?	The Guardian	2015-12-29	0.5
+Calls for UK to rejoin EU 'should be treason', urges Tory petition	The Guardian	2016-10-17	0.0
+EU referendum:  former Bank of England governor Mervyn King suggests he could vote for Brexit - Politics live	The Guardian	2016-03-07	0.0681818181818
+Northern Ireland should push for special EU status, says Martin McGuinness	The Guardian	2016-10-17	0.357142857143
+Eurovision 2015: is it time for Brexit?	The Guardian	2015-05-25	0.0
+More graduates 'bad for UK economy', plus TSB and Lloyds slash interest rates	The Guardian	2016-10-13	-0.1
+Scottish independence: draft bill published on second referendum	The Guardian	2016-10-20	0.0
+Liam Fox is right to say Cameron should let ministers push for Brexit	The Guardian	2015-12-21	0.285714285714
+The war drums are beating again  the Tories have begun their battle of Brexit  | Matthew dAncona	The Guardian	2015-12-20	0.0
+Lessons from history for the Brexiteers | Letters from Simon Schama and others and Jack Dromey MP	The Guardian	2016-05-24	0.0
+Most Tory MPs leaning towards Brexit, says partys leave group chair	The Guardian	2015-12-20	0.5
+Brexit will set UK back 11bn in EU trade costs, research finds	The Guardian	2015-12-16	0.0
+Government likely to miss 9 minimum wage target, thinktank warns	The Guardian	2016-10-11	0.0
+May acknowledges human rights issues in seeking Gulf trade deal	The Guardian	2016-12-05	0.0
+Year of electoral tests may end European Union as we know it	The Guardian	2016-12-02	0.0
+'Disastrous decline' in HMRC customer service predicted due to cuts	The Guardian	2016-12-02	-0.4125
+Keir Starmer calls for immigration to be reduced	The Guardian	2016-10-09	0.0
+Rush for dual-nationality passports as EU migrants fear Brexit	The Guardian	2015-08-17	0.0
+Markets tumble as oil falls; IMF chief Lagarde highlights Brexit risk -as it happened	The Guardian	2015-12-11	0.0
+UK economic growth: what the economists say	The Guardian	2016-09-30	0.2
+UK government must disclose legal arguments on article 50 procedure	The Guardian	2016-09-28	0.2
+Government policy offers UK universities competitors a rosy future | Jonathan Wolff	The Guardian	2016-09-27	0.05
+Britain may not be ready to trigger article 50 by April, says Maltas PM	The Guardian	2016-11-25	0.2
+Scotland gains 820m in funding to improve infrastructure	The Guardian	2016-11-23	0.0
+Small businesses give Hammond's autumn statement 6 out of 10	The Guardian	2016-11-23	-0.25
+Could 2016 be our own annus horribilis? | Brief letters	The Guardian	2016-07-01	0.3
+Thomas Cook resumes dividend despite fall in profits	The Guardian	2016-11-23	0.0
+David Davis's waffle a model of clarity for foreign affairs committee | John Crace	The Guardian	2016-09-13	-0.125
+After article 50: the EU trade and movement deals the UK could seek	The Guardian	2016-08-31	0.0
+Stay out of EU affairs, leading MEP tells British government	The Guardian	2016-11-22	0.0
+Yarl's Wood demonstration draws up to 2,000 campaigners	The Guardian	2016-12-03	0.0
+Theresa May criticises civil servants for not speaking their minds	The Guardian	2016-12-07	0.0
+UK services sector defies gloomy expectations as GDP grows by 0.7%	The Guardian	2016-09-30	0.0
+Ireland reports rise in relocation inquiries from UK-based finance firms	The Guardian	2016-12-01	0.0
+UK government lawyers dismiss Scotland and Wales's article 50 fears	The Guardian	2016-12-01	0.0
+Tories seek positive uncertainties in a deluge of negative certainties	The Guardian	2016-11-30	-0.0363636363636
+UK already celebrates LGBT History Month | Brief letters	The Guardian	2016-10-28	0.0
+Keir Starmer: UK should guarantee EU citizens' rights before talks begin	The Guardian	2016-11-30	0.0
+Consumer and business confidence tumbles in November, surveys find	The Guardian	2016-11-30	0.0
+The right will attack, but MPs must be brave and save us from ruin | Polly Toynbee	The Guardian	2016-11-29	0.542857142857
+Ikea considers bamboo and new materials to keep prices low	The Guardian	2016-11-29	0.0681818181818
+Labour will not win a general election as Ukip-lite, says Diane Abbott	The Guardian	2016-11-26	-0.175
+If Boris Johnson wants a welcoming, pluralist nation, he must fight for it | Matthew dAncona	The Guardian	2016-12-04	0.2
+Who are the claimants in article 50 court case?	The Guardian	2016-12-05	0.0
+Liberals can reclaim patriotism, says Austrian president-elect's camp	The Guardian	2016-12-05	0.0
+Business secretary says electric vehicles at heart of industrial strategy	The Guardian	2016-11-25	0.0
+Diane James favourite to be named Ukip leader at party conference	The Guardian	2016-09-15	0.0
+Countrywide warns over profits amid housing slowdown	The Guardian	2016-11-24	0.0
+Theresa May sets out stall for UK's place in Trumps world	The Guardian	2016-11-14	0.0
+Plan to align UK aid with trade policy could sideline poor countries	The Guardian	2016-12-01	-0.4
+Junckers speech was all about concrete ideas to heal a divided EU	The Guardian	2016-09-14	0.15
+National anti-hate crime campaign to launch after spike in incidents	The Guardian	2016-12-01	0.0
+Mark Carney: European economies face hit if cut off from City of London	The Guardian	2016-11-30	0.0
+Trump's election is a 'global wake-up call', Corbyn to say in speech	The Guardian	2016-11-12	0.0
+New Ukip leader poses threat to Labour and the Tories	The Guardian	2016-11-28	0.136363636364
+Rising costs and slower consumer spending hit service sector, says CBI	The Guardian	2016-11-28	0.0
+Jam tomorrow: all Philip Hammond is likely to offer struggling Britons	The Guardian	2016-11-20	0.0
+Bank of England to reveal stress test results for UK's biggest banks	The Guardian	2016-11-27	0.0
+May minds her grammars, all for want of a decent ringbinder	The Guardian	2016-09-09	0.166666666667
+Anti-EU group has 14bn hole in Brexit savings, says top Tory	The Guardian	2015-11-19	0.5
+Richmond Park byelection: what exactly is it for?	The Guardian	2016-11-25	0.25
+UK retail sales surge due to colder weather and Halloween	The Guardian	2016-11-17	-0.125
+Making plans for Nigel: how Trump can keep Shambassador Farage busy	The Guardian	2016-11-24	0.1
+Barratt cuts price of 1m-plus London homes	The Guardian	2016-11-16	0.0
+Michael Gove raises question of 'quickie divorce' for UK from EU	The Guardian	2016-11-16	0.0
+Philip Hammond's autumn statement is a welcome reality check	The Guardian	2016-11-23	0.8
+May just about manages to hold CBI's attention - thanks to a moth	The Guardian	2016-11-21	0.2
+May just about manages to hold CBI's attention - thanks to a moth	The Guardian	2016-11-21	0.2
+Nicola Sturgeon launches 'biggest listening exercise in SNP history'	The Guardian	2016-09-02	0.0
+Office for Budget Responsibility to tear up forecasts for UK growth	The Guardian	2016-11-20	0.0
+Britain could stay in EU if public opinion shifts, says Tony Blair	The Guardian	2016-09-01	0.0
+A reality check for both wings of the Tory party	The Guardian	2016-11-23	0.0
+'The English love this drink': Italians bemused by prosecco trade threat	The Guardian	2016-11-18	0.25
+Theresa Mays just managing families set to be worse off	The Guardian	2016-10-29	-0.4
+Ryanair boss says fares will fall up to 15% this winter	The Guardian	2016-11-07	0.0
+No 10 must have made Nissan big promise, say ex-business minister	The Guardian	2016-10-28	0.0
+Paddy Ashdown urges British progressive centre to unite	The Guardian	2016-11-16	0.0
+Jo Miller: Councils cant take more shocks to an already shocked system	The Guardian	2016-11-15	-0.1
+Either Theresa May faked it for the bankers, or shes faking now | Gaby Hinsliff	The Guardian	2016-10-27	0.0
+Office construction in central London hits eight-year high	The Guardian	2016-11-15	0.08
+Hillsborough and Shankill relatives back Human Rights Act campaign	The Guardian	2016-11-15	0.0
+The Guardian view on Richmond Park: slowly does it | Editorial	The Guardian	2016-12-02	-0.3
+All the president-elect's men: that golden Trump-Farage photo op	The Guardian	2016-11-14	0.3
+All Europe will suffer if London loses financial clout, says Bank deputy	The Guardian	2016-11-03	-0.15
+Pound has best fortnight in eight years after Trump win	The Guardian	2016-11-12	0.9
+Moody's warns of UK credit rating downgrade	The Guardian	2016-11-02	0.0
+The cheerleaders for a Brexit must say what it will look like | Pat McFadden	The Guardian	2015-11-04	0.0
+Philip Hammond urged to shelve tax cuts and help poorer families	The Guardian	2016-11-02	0.0
+Nothing but woe for users of Windows | Brief letters	The Guardian	2016-05-24	0.0
+Westminsters Leonard Cohen croons his way into trouble	The Guardian	2016-10-31	-0.2
+Europes far right has been boosted by Trumps win  for now | Cas Mudde	The Guardian	2016-11-09	0.395238095238
+Theresa Mays holiday is almost over. Maymust now define herself | Matthew dAncona	The Guardian	2016-08-22	0.0
+Money well spent in Witney as Lib Dems celebrate a swing	The Guardian	2016-10-21	-0.1
+Theresa struggles to take back control  from her Maybot | John Crace	The Guardian	2016-11-08	0.0
+The UK has slammed the door, so lets start divorce proceedings	The Guardian	2016-08-20	0.0
+Keir Starmer: Labour wont block article 50, but dont expect a blank cheque	The Guardian	2016-11-07	0.0
+Number of insolvencies jumps by a fifth in England and Wales	The Guardian	2016-10-28	0.0
+Latest Ukip leadership candidate can't help shooting from the hip	The Guardian	2016-10-28	0.5
+Theresa May defends newspapers over attacks on article 50 judges	The Guardian	2016-11-06	0.0
+Olympic cyclist Callum Skinner hits out at Leave.EU over Twitter video	The Guardian	2016-08-17	0.0
+Judges' actions around the world show they are no enemy of the people	The Guardian	2016-11-04	0.0
+Article 50 ruling leaves Theresa May facing potential MP revolt	The Guardian	2016-11-04	0.0
+Nicola Sturgeon deciding whether to join article 50 legal battle	The Guardian	2016-11-03	0.2
+Heathrow approval puts business above political and environment issues	The Guardian	2016-10-25	0.0
+The Guardian view on votes in Austria and Italy: its not just about the EU | Editorial	The Guardian	2016-12-05	0.0
+Foreign shoppers to fuel pre-Christmas sales boom in central London	The Guardian	2016-11-02	-0.0625
+Nicola Sturgeon plans to strengthen Scotlands trade links with EU	The Guardian	2016-10-14	0.0
+EU trade deal with Canada on brink of collapse after Belgian disarray	The Guardian	2016-10-24	0.0
+In a year like this, weneed Bake Offs sugary embrace | Lucy Mangan	The Guardian	2016-08-24	0.0
+Manufacturers feel falling pound is bad despite increasing their exports	The Guardian	2016-10-24	-0.7
+From Marmite to bananas: how sterling swings will affect prices	The Guardian	2016-10-13	0.0
+Shadow business minister: 'we have to stay in the single market'	The Guardian	2016-10-31	-0.0714285714286
+UK seeking tariff-free EU deal for carmakers, Nissan told	The Guardian	2016-10-30	0.0
+Gruff Rhys: 'It's like krautrock played by a jazz band in 1950'	The Guardian	2016-10-21	0.0
+The Guardian view on article 50 ruling: parliament is the winner | Editorial	The Guardian	2016-11-03	0.0
+Retailers warn on weak pound and blows to consumer confidence	The Guardian	2016-10-10	-0.375
+Tax breaks and talent fuel UKs creative industry boom	The Guardian	2016-10-29	0.5
+Cornwall wins back a slice of old Dumnonia | Brief letters	The Guardian	2016-09-16	0.1
+O2's possible IPO 'depends on weakening state of UK economy'	The Guardian	2016-10-27	0.0
+Expats to get vote for life in UK general elections, government says	The Guardian	2016-10-07	0.05
+What caused the pound's flash crash?	The Guardian	2016-10-07	0.0
+Mark Carney defends Bank of England  at House of Lords  as it happened	The Guardian	2016-10-25	0.0
+Hammond says highly skilled will not face EU immigration controls	The Guardian	2016-10-25	0.5
+Pound hits another 31-year low as Hammond launches Wall Street charm offensive as it happened	The Guardian	2016-10-06	0.0
+Welcome to Poundland, where life is bliss if youre a foreign buyer | Andrew Rawnsley	The Guardian	2016-10-16	0.3375
+UK new car sales hit record high for September	The Guardian	2016-10-05	0.148181818182
+Poland 'unlikely' to back Donald Tusk for second EU term	The Guardian	2016-10-05	-0.166666666667
+MPs urge chancellor to honour leave campaign's 350m NHS promise	The Guardian	2016-10-24	0.0
+We are witnessing nothing less than a Tory reformation  | Rafael Behr	The Guardian	2016-10-05	-0.166666666667
+Chris Grayling: May promised me she will honour EU vote	The Guardian	2016-07-13	0.0
+UK factory surge offers a silver lining but dark economic clouds remain	The Guardian	2016-10-03	0.05
+Philip Hammond vows to match lost EU funding for business	The Guardian	2016-10-03	0.0
+Dear Britain, beware: Brexit could be your Waterloo  | Le Monde	The Guardian	2015-06-18	0.0
+French warn Britain: Brexit could be your Waterloo	The Guardian	2015-06-18	0.0
+Who are the winners and losers in sterlings plunge?	The Guardian	2016-10-11	-0.2
+Honey Gs X Factor act isnt funny. Its modern-day blackface | Lola Okolosie	The Guardian	2016-10-11	0.25
+Would Brexit damage British universities, science and research? Your GuardianWitness contributions	The Guardian	2015-10-13	0.0
+Fall in sterling is a welcome change, says Mervyn King	The Guardian	2016-10-10	0.8
+Theresa May given stark warning about leaving customs union	The Guardian	2016-10-18	-0.2
+Romanian ambassador defends country's contribution to NHS	The Guardian	2016-10-18	0.0
+Britain could lose AAA rating if it leaves EU, S&P warns again - as it happened	The Guardian	2016-04-04	0.0
+Thumbs up to David Shrigley's fabulously feel-bad fourth plinth	The Guardian	2016-09-29	0.2
+Why Uber has been taken for a ride in China | John Naughton	The Guardian	2016-08-07	0.0
+House of Fraser profits plunge 46% in first half of 2016	The Guardian	2016-09-27	0.0416666666667
+Jeremy Corbyn gives top job to Diane Abbott in shadow cabinet reshuffle	The Guardian	2016-10-07	0.5
+There are several metropolitan elites. But the same one still pulls the strings | Ian Jack	The Guardian	2016-10-15	0.0
+Economic icebergs in the path of Theresa Mays government	The Guardian	2016-07-16	0.2
+Cameron had six years to change Britain. So what did he achieve?	The Guardian	2016-07-16	0.0
+Green under pressure over BHS scandal, as UK business confidence slides  as it happened	The Guardian	2016-07-25	-0.2
+David Cameron must flush out the Brexit diehard Tories | Rafael Behr	The Guardian	2015-06-09	0.0
+Protesters take to streets near Conservative conference in Birmingham	The Guardian	2016-10-02	0.1
+The loudest sound in Birmingham was of doors being slammed shut | Andrew Rawnsley	The Guardian	2016-10-09	0.4
+Senior Lib Dems confirm backing for second EU referendum	The Guardian	2016-09-20	0.0
+The Fiver | The sensation of the sharp stick	The Guardian	2016-01-29	-0.125
+The idea of a 'post-truth society' is elitist and obnoxious	The Guardian	2016-09-19	0.0
+Eurozone economic growth slows, while US GDP disappoints - as it happened	The Guardian	2016-07-29	0.2
+Labour reshuffle: who's got the big roles in Corbyn's shadow cabinet	The Guardian	2016-10-07	0.0
+What do Trump and the Brexiters have in common? A disregard for all but themselves | Deborah Orr	The Guardian	2016-03-02	-0.3
+Cancellations and delays expected in airliner market at Farnborough	The Guardian	2016-07-09	-0.1
+IMF and World Bank launch defence of open markets and free trade	The Guardian	2016-10-06	0.2
+Cambridge University names Canadian academic as next vice-chancellor	The Guardian	2016-09-26	0.0
+This is what Theresa May's Tory Britain will look like	The Guardian	2016-10-05	0.0
+New wave of female designers to take reins at London fashion week	The Guardian	2016-09-16	0.0681818181818
+Bratislava summit: EU is at critical point, says Angela Merkel	The Guardian	2016-09-16	0.0
+Tough luck if you sold your FTSE 100 tracker fund in June	The Guardian	2016-10-04	-0.388888888889
+Pound slides to 31-year low, as FTSE 250 hits record high  as it happened	The Guardian	2016-10-04	0.08
+Our nine-point guide to spotting a dodgy statistic	The Guardian	2016-07-17	0.0
+AkzoNobel chief urges UK to clarify future relationship with EU	The Guardian	2016-09-25	0.0
+Ryanair to reduce number of flights from London Stansted airport	The Guardian	2016-07-25	0.0
+Theresa May tops Trump when it comes to nukes | Brief letters	The Guardian	2016-08-23	0.0
+David Davis admits possibility of UK exiting EU without trade deal	The Guardian	2016-09-13	0.0
+What will happen now timescale for article 50 has been revealed?	The Guardian	2016-10-02	0.0
+Brexit may benefit City of London in the long run, says top consultancy	The Guardian	2015-09-24	0.225
+Andrea Leadsom vows to guarantee rights of EU citizens in UK	The Guardian	2016-07-04	0.0
+Archant launches pop-up paper to serve people who voted remain	The Guardian	2016-07-04	0.0
+Before the article 50 court battle, there was May v Merkel	The Guardian	2016-12-06	0.0
+Dear Jeremy  your work problems solved	The Guardian	2016-12-03	0.0
+In their ruthless flight from liberalism, Tories have left morality behind | Zoe Williams	The Guardian	2016-12-05	-0.466666666667
+Victory for Van der Bellen and the left is a sigh of relief for Europe	The Guardian	2016-12-04	0.0
+Growing business fleet demand fuels rise in new car sales	The Guardian	2016-12-05	0.136363636364
+Major cut in EU migrants risks long-term damage to UK economy  report	The Guardian	2016-12-07	0.0625
+Migrants are creating jobs, not taking them, says report	The Guardian	2016-09-12	0.0
+May more trusted than Corbyn on Britain's key issues, poll finds	The Guardian	2016-09-22	0.25
+Why we voted to get rid of  Zac Goldsmith	The Guardian	2016-12-02	0.0
+UK must protect EU crime prevention links, NCA says	The Guardian	2016-09-30	0.0
+David Davis suggests UK could pay for single market access	The Guardian	2016-12-01	-0.0714285714286
+Lets put an an end to the sneering at the Vote Leave folk | Gisela Stuart	The Guardian	2016-07-03	0.0
+Britons might need to pay for permission to visit EU, Rudd confirms	The Guardian	2016-09-11	0.0
+May refuses vote on article 50 after conceding debate - as it happened	The Guardian	2016-10-12	0.0
+The best fiction of 2016	The Guardian	2016-11-30	1.0
+Why Britain needs a written constitution | Anthony Barnett	The Guardian	2016-11-30	0.0
+Construction and export figures fuel hopes UK economy is growing	The Guardian	2016-09-09	0.0
+UK first-time buyers hit by steeper rises in starter home prices	The Guardian	2016-09-18	0.0
+Philip Hammond to make autumn statement on 23 November	The Guardian	2016-09-08	0.0
+Naming game for Bank of Englands Brexit plan | Letters	The Guardian	2015-05-25	-0.4
+Our democracy is drifting. Its time to act	The Guardian	2016-09-17	0.0
+The racist ideas of slave owners are stillwith us today | Catherine Hall	The Guardian	2016-09-26	0.0
+Executive pay under unprecedented scrutiny  IoD chief	The Guardian	2016-11-28	0.6
+Caroline Lucas: Why I will vote against triggering article 50	The Guardian	2016-11-27	0.0
+Ed Miliband: Labour should not be preserve solely of remain voters	The Guardian	2016-09-25	0.0
+Andrew Marr to examine recovery from stroke for BBC documentary	The Guardian	2016-09-25	0.0
+Yvette Cooper says she wont rule out standing for Labour leader	The Guardian	2016-06-28	0.0
+EU hits energy reduction target six years early	The Guardian	2016-09-06	0.1
+Ukips work is done  the party should respect its victory and disband	The Guardian	2016-09-16	0.0
+Dugdale: UK must allow Scottish independence vote if people want it	The Guardian	2016-07-07	0.0
+Only true liberalism can thwart the demagogues | Nick Cohen	The Guardian	2016-09-24	0.175
+Secret Bank of England taskforce investigates financial fallout of Brexit	The Guardian	2015-05-22	-0.2
+UK visitors handed over 1.8bn in July as weak pound fuels spending spree	The Guardian	2016-09-23	-0.375
+The SNP currently looks like the most credible political force in the UK | Joyce McMillan	The Guardian	2016-06-26	0.225
+Brexit camp might win the day if economy is in doldrums by 2017	The Guardian	2015-09-15	0.8
+PM should seek parliamentary approval over article 50, says Lords committee	The Guardian	2016-09-13	0.0
+UK manufacturing output rises and order books are solid, says CBI	The Guardian	2016-09-22	0.0
+Dont fall for the new hopelessness. We still have the power to bring change | Suzanne Moore	The Guardian	2016-11-23	0.136363636364
+David Lammy receives death threat after EU referendum result	The Guardian	2016-07-04	0.0
+Britains many faces | Katharine Whitehorn	The Guardian	2016-12-05	0.5
+Theresa Mays clever holding position has caught remainers off guard | Matthew dAncona	The Guardian	2016-12-07	0.166666666667
+Boris Johnson says 'no need for haste' to start EU exit negotiations	The Guardian	2016-06-24	0.0
+Hold your nerve, financial advisers tell small investors	The Guardian	2016-06-24	-0.125
+Guardian writers on the vote to leave | Matthew d'Ancona, Polly Toynbee, Suzanne Moore	The Guardian	2016-06-24	0.0
+Farage has hijacked the Tories flight to Trumpland | Rafael Behr	The Guardian	2016-11-22	0.0
+UK manufacturers enjoy strong order books but prices being forced up	The Guardian	2016-11-22	0.177777777778
+Tony Blair aims to fight resurgent populism with centre-ground campaign	The Guardian	2016-11-21	0.0
+Why JCBs head honcho is backing the Brexit	The Guardian	2015-05-18	0.0
+Lib Dem split emerges over policy of seeking second EU referendum	The Guardian	2016-09-19	0.0
+Is Last Night of the Proms jingoistic or ironic? Tonight well finally find out | Ian Jack	The Guardian	2016-09-10	0.0666666666667
+Look into my eyes: Leave.EU campaign consulted TV hypnotist	The Guardian	2016-07-01	0.0
+Students and lecturers march against Tories' education bill	The Guardian	2016-11-19	0.0
+Replace House of Lords with elected senate, urges Gordon Brown	The Guardian	2016-08-29	0.0
+Paul Nuttall on course to succeed Nigel Farage as new Ukip leader	The Guardian	2016-11-28	0.136363636364
+I'm British, a Brazilian entrepreneur and no, not your cleaning lady	The Guardian	2016-11-18	0.0
+May aims to woo Polish PM with senior minister summit	The Guardian	2016-11-28	0.0
+The hot summer 2016 politics quiz	The Guardian	2016-08-28	0.25
+Putting Words in Your Mouth review  LGBT lip-synch show will leave you tongue-tied	The Guardian	2016-11-27	0.0
+Is liberalism really to blame for Britain's (and America's) ills?	The Guardian	2016-11-17	0.2
+Brexit  what would happen if Britain left the EU?	The Guardian	2015-05-14	0.0
+Top UK universities consider new campuses in Europe	The Guardian	2016-09-06	0.318181818182
+PMQs verdict: good day for Corbyn with May lacking authority	The Guardian	2016-11-16	0.7
+Across the world minds are narrowing. We must fight back | Molly Crabapple	The Guardian	2016-06-27	0.0
+Steelworkers urge government to resolve concerns over Tata sale	The Guardian	2016-06-27	0.0
+UK stock market rebounds from four-month low	The Guardian	2016-06-17	0.0
+Iain Duncan Smith backtracks on leave side's 350m NHS claim	The Guardian	2016-06-26	0.0
+Inside the 8 July edition	The Guardian	2016-07-05	0.0
+Have you changed your mind about your EU referendum vote?	The Guardian	2016-11-24	0.0
+The Entertainer review  Kenneth Branagh's off-key swan song	The Guardian	2016-09-04	0.0
+The UK rise in Neets: those not in education, employment or training	The Guardian	2016-11-24	0.0
+It was supposed to be a dialogue about free trade. It morphed into a national feud over immigration | David Olusoga	The Guardian	2016-06-25	0.4
+Like a football manager, remainers can only see the other team's fouls	The Guardian	2016-12-04	-0.0625
+Michael Gove's anti-Turner prize tweets are childish	The Guardian	2016-12-06	-0.2
+The Lib Dems have rediscovered their byelection mojo  can they capitalise? | John Curtice	The Guardian	2016-12-02	0.0
+Juncker asks EU ethics panel to investigate Barroso's Goldman Sachs job	The Guardian	2016-09-12	0.0
+Bank of England must be wary of interest rate rise, says chief economist	The Guardian	2016-12-02	-0.5
+UK will not block closer EU defence ties, says Boris Johnson	The Guardian	2016-12-02	0.0
+Nigel Farage discusses 'freedom and winning' in meeting with Trump	The Guardian	2016-11-13	0.5
+Mum what have you done? Families try to resolve differences over EU vote	The Guardian	2016-06-24	0.0
+Poland runs own investigation of Polish man's death in Essex	The Guardian	2016-09-02	0.6
+EU tells Swiss no single market access if no free movement of citizens	The Guardian	2016-07-03	-0.0821428571429
+Savings protection limit to go back up to 85,000	The Guardian	2016-11-21	0.0
+Article 50 claimant Gina Miller: 'It isnt safe for me to go outside'	The Guardian	2016-11-11	0.25
+Nigel Farage: I claim 100% credit for forcing government to poll	The Guardian	2016-06-22	0.0
+House prices to fall 1% in 2017, predicts Countrywide	The Guardian	2016-08-21	0.0
+Cars could cost 1,500 more after single market exit	The Guardian	2016-11-29	0.214285714286
+Now weve got a mansplaining hotline, what other modern problems could technology fix?	The Guardian	2016-11-20	0.0375
+Philip Hammond must signal genuine change, not tinker at the edges | John McDonnell	The Guardian	2016-11-19	0.4
+The rule of law and a reboot for democracy | Letters	The Guardian	2016-11-09	0.0
+Theresa May to meet EU council president to discuss UK future	The Guardian	2016-09-07	0.0
+Bringing home the bacon? Price of pork hits two-year high	The Guardian	2016-11-18	0.16
+In the new robopolitics, social media has left newspapers for dead | Damian Tambini	The Guardian	2016-11-18	-0.00757575757576
+Hammond to give boost to 'just managing families' in autumn statement	The Guardian	2016-11-18	0.0
+Gold: key trends helping the metal keep its shine	The Guardian	2016-11-08	0.0
+Owen Smith accuses Jeremy Corbyn of having never believed in the EU	The Guardian	2016-08-18	0.0
+Duncan Smith urges government to scrap 3.4bn benefit cut  as it happened	The Guardian	2016-11-16	0.0
+UK visa policy for India could gamble away much-needed goodwill	The Guardian	2016-11-07	0.0
+FTSE falls more than 1% but Randgold and Fresnillo in demand	The Guardian	2016-06-27	0.5
+Is the return of Cold Feet just an exercise in nostalgia? No, it's far bleaker than that	The Guardian	2016-09-05	-0.25
+Is Angela Merkel willing to compromise on free movement?	The Guardian	2016-11-16	0.325
+Is a second referendum a bad idea? Not if we ask the right question | Simon Jenkins	The Guardian	2016-11-25	-0.138095238095
+Hammond's foundations are too weak to build us out of the housing crisis	The Guardian	2016-11-25	-0.375
+At a time of such crisis, a coup against Corbyn is the last thing we need | Rachel Shabi	The Guardian	2016-06-26	0.0
+The Guardian view on universities: facing a double whammy | Editorial	The Guardian	2016-09-22	0.0
+Katy Perry and the great political pop realignment of 2016	The Guardian	2016-11-24	0.4
+Britain needs EU in fight against terrorism,  warns former spymaster	The Guardian	2016-06-07	0.0
+Article 50 may be triggered in early 2017, says Iain Duncan Smith	The Guardian	2016-08-26	0.1
+Europeans will always be welcome here in Scotland, says Sturgeon	The Guardian	2016-06-25	0.8
+Anxiety, fear and shock that xenophobia and populism won, say EU expatriates	The Guardian	2016-06-25	0.0
+1960s generation: how do you feel about our changing times?	The Guardian	2016-11-14	0.0
+US economy predicted to lead global growth	The Guardian	2016-11-14	0.0
+Today's media stories from the papers	The Guardian	2016-06-24	0.0
+Mortgage approvals by UK banks fall to lowest level so far this year	The Guardian	2016-08-24	0.1
+White goods set to soar on Black Friday as shoppers rush to beat price rises	The Guardian	2016-11-22	-0.0833333333333
+Housebuilder says leaving EU would harm British construction	The Guardian	2016-06-14	0.0
+UK universities take increasing battle for students into virtual world	The Guardian	2016-08-13	0.0
+Electoral reform campaigners slam dire EU referendum debate	The Guardian	2016-08-31	0.0
+Weak sterling puts Irish mushroom farmers in the shade	The Guardian	2016-11-12	-0.1875
+Today's media stories from the papers	The Guardian	2016-06-22	0.0
+Mark Carney's critics must let him do his job, says Virgin Money chief	The Guardian	2016-11-01	0.0
+Dreaming of a single market-lite for Britain? Time to wake up | Duncan Weldon	The Guardian	2016-11-01	-0.0714285714286
+In fighting to protect jobs and workers, let's not get caught up in xenophobia | Greg Jericho	The Guardian	2016-11-20	0.0
+The UK is becoming the nasty country, and our universities will suffer	The Guardian	2016-11-01	-0.275
+Dont stop at Nissan  we all need comfort letters now | Polly Toynbee	The Guardian	2016-10-31	0.0
+Ditch Jeremy Corbyn before its too late, Sadiq Khan tells Labour	The Guardian	2016-08-21	-0.3
+Politics has gone wrong. Is digital technology to blame? | David Runciman	The Guardian	2016-10-31	-0.25
+The Guardian view on the autumn statement: half right, half wrong | Editorial	The Guardian	2016-11-23	-0.136904761905
+Today's media stories from the papers	The Guardian	2016-06-20	0.0
+EU and Canada sign Ceta free trade deal	The Guardian	2016-10-30	0.4
+John Berger: If Im a storyteller its because I listen	The Guardian	2016-10-30	0.0
+The Guardian view on a second Scottish referendum: Sturgeon has no choice but caution | Editorial	The Guardian	2016-08-28	0.0
+FTSE 100 falls as investors shun risk, with no share in positive territory	The Guardian	2016-06-10	0.227272727273
+Preparing for a Donald Trump presidency is a tall order for Whitehall	The Guardian	2016-11-08	0.0
+Theresa May finds free movement for trade an issue outside EU as well	The Guardian	2016-11-07	0.2
+Philip Hammond's task more difficult than solving 2008 crisis, says Darling	The Guardian	2016-11-21	0.0
+A 2017 general election? Heres why the Tories may not storm to victory | John Curtice	The Guardian	2016-11-07	0.05
+'I hate cynicism; you have to fight': 1960s activists on modern politics	The Guardian	2016-11-16	-0.3
+Keir Starmer: Labour will not block article 50 but must know plan	The Guardian	2016-11-07	0.0
+Its the Eurostar test: a sure way to tell if were heading for exile in Europe  | Andrew Martin	The Guardian	2016-10-28	0.5
+Who benefits from a divided Britain? More people than youd think | Bruno Rinvolucri	The Guardian	2016-10-28	0.5
+UK should monitor population with 'unique person numbers'  thinktank	The Guardian	2016-08-07	0.375
+Airport bureaux de change offering less than a euro for a pound	The Guardian	2016-08-17	-0.166666666667
+Im a rabbi, and Im applying for a German passport. Heres why | Julia Neuberger	The Guardian	2016-11-15	0.0
+Birds Eye and Walkers ask supermarkets for up to 12% price rises	The Guardian	2016-11-06	0.0
+In the age of Trump, why bother teaching students to argue logically? | David Tollerton	The Guardian	2016-11-15	0.25
+Spend 11.5bn on measures to boost economy, warns CBI	The Guardian	2016-10-26	0.0
+Richmond Park: Lib Dems' celebration should be a cautious one	The Guardian	2016-12-02	0.0
+Trade between UK and India to suffer double hit, says business chief	The Guardian	2016-11-05	0.0
+Hate crime inquiry head warns against 'whipping up prejudice' in campaigns	The Guardian	2016-11-14	-0.8
+UK depends on Channel tunnel for 90bn a year in EU trade, says report	The Guardian	2016-11-14	0.0
+'I don't want to be in no man's land': the 'Brexit Brits' seeking second passports	The Guardian	2015-08-17	0.0
+Concerns about immigration need to be addressed, but Brexit isnt the answer | Laura Sandys	The Guardian	2015-08-17	0.0
+Carney changes his tune as consumers dance on until the music stops | Nils Pratley	The Guardian	2016-11-03	0.0
+Osborne makes good point on economy  first thing he's got right this year	The Guardian	2016-08-04	0.411904761905
+Fall in factory orders offset by exports hitting two-year high, says CBI	The Guardian	2016-08-23	0.16
+Corbyn to flex Labours muscles as alarm grows over EU referendum	The Guardian	2016-06-13	0.0
+Leave.EU condemned for linking Orlando attack to referendum vote	The Guardian	2016-06-13	0.0
+Savers, it could be time to take a punt on the stock market	The Guardian	2016-08-13	0.0
+Brexit and science: let's not make the same mistake as the Swiss	The Guardian	2015-06-17	0.0
+Who voted for the intolerance poisoning the national conversation? | Seema Malhotra	The Guardian	2016-10-23	0.0
+Even the pro-Remain newspapers are sceptical about Osborne's 'dossier'	The Guardian	2016-05-24	0.0
+Vote Leaves fear-the-foreigner campaign will cause lasting divisions | Polly Toynbee	The Guardian	2016-05-23	0.0
+Sadiq Khan bangs the London drum next to ministers' listening ears	The Guardian	2016-08-01	0.0
+When Muhammad Ali took a blowbelow the belt | Brief letters	The Guardian	2016-06-10	0.0
+Sterling volatility rises amid fears over EU vote	The Guardian	2016-06-01	0.0
+UK public finances surplus lower than expected in July	The Guardian	2016-08-19	-0.05
+This has been a year of high political anxiety. Heres how to survive it | Jay Watts	The Guardian	2016-11-08	0.08
+Average London house price down by 30,000 in July, says Haart	The Guardian	2016-08-09	-0.152777777778
+Norway may block UK return to European Free Trade Association	The Guardian	2016-08-09	0.2
+Excellent science in the UK is at risk if it votes for Brexit	The Guardian	2015-06-15	1.0
+Geoffrey Boycott praises Theresa May: 'She's got more strokes than me'	The Guardian	2016-11-07	0.5
+House prices could fall by 18% if Britain quits EU, says George Osborne	The Guardian	2016-05-21	0.0
+Its a sim! When video games clash with reality	The Guardian	2016-10-19	0.0
+No 10 to proceed with national living wage despite pressure	The Guardian	2016-08-08	0.0
+Britain joined the EU as one nation, and thats how well leave | Arlene Foster	The Guardian	2016-10-28	0.0
+Thatcher snatches win from Cameron in vote on century's worst PM	The Guardian	2016-10-18	-0.1
+Dublin v London: what's the best bet for rich bankers?	The Guardian	2016-10-18	0.6875
+Vote Leave lists 50 criminals it says EU has stopped UK deporting	The Guardian	2016-06-06	0.0
+Today's media stories from the papers	The Guardian	2016-07-28	0.0
+Elites must start listening to the smelly citizens in the streets | Anne McElvoy	The Guardian	2016-08-06	0.0
+The Guardian view on the UK labour market: farewell, Lithuanian car valets | Editorial	The Guardian	2016-08-15	0.0
+The British Fashion Awards go international for 2016	The Guardian	2016-08-15	0.0
+Goldman Sachs: in the headlines despite its renowned discretion	The Guardian	2016-10-26	0.0
+When Hopeless met Hapless: how Corbyn and May failed at PMQs | John Crace	The Guardian	2016-10-26	-0.55
+McDonald's offers post-referendum reassurance with plans for 5,000 jobs	The Guardian	2016-07-27	0.1
+Bravo to the Greens of Richmond Park for showing progressives how to truly unite | John Harris	The Guardian	2016-11-04	0.0
+Leaving the EU mustnt mean crashing the digital economy | Wendy Tan White	The Guardian	2016-10-16	-0.104166666667
+Ardent remainers: don't let high court decision raise your hopes	The Guardian	2016-11-03	0.16
+We are living in The West Wing written by Adam Sandler  no wonder were looking to snack companies for sanity | Nish Kumar	The Guardian	2016-10-25	0.0
+Ukip should elect Paul Nuttall, or it risks collapse | Matthew Goodwin	The Guardian	2016-11-03	0.8
+Article 50 court ruling gives investors a shot in the arm	The Guardian	2016-11-03	0.0
+The Bank of England got it both wrong and right	The Guardian	2016-11-03	-0.107142857143
+We are living in The West Wing written by Adam Sandler  no wonder were looking to snack companies for sanity | Nish Kumar	The Guardian	2016-10-25	0.0
+UK construction sector slips into recession for first time in four years	The Guardian	2016-08-12	0.25
+'My granddaughter loses sleep over terrorism': how children respond to global events	The Guardian	2016-11-01	-0.15
+Theresa May: back from Brussels but still in fantasy land | John Crace	The Guardian	2016-10-24	0.0
+Ipso's Moses proves, once again, he was a clever choice for the post	The Guardian	2016-10-13	0.233333333333
+Mark Carney may end speculation about future this week	The Guardian	2016-10-31	0.0
+The Guardian view on tax and Ireland: Apple, pay your way | Editorial	The Guardian	2016-08-30	0.0
+Donald Trump plays Citizen Kane to perfection | Brief letters	The Guardian	2016-10-23	0.0
+Ireland gets nervous at prospect of 'Brexit' as election nears	The Guardian	2015-04-07	0.0
+Why the government should offer an amnesty to the UK's illegal immigrants I Rob Whiteman	The Guardian	2016-10-11	-0.5
+Real life has turned into a remake of The Italian Job | Anne McElvoy	The Guardian	2016-10-21	0.1
+Should he stay or should he go? Mark Carney faces big decision amid attacks	The Guardian	2016-10-21	0.0
+May gets Hollande ultimatum:  free trade depends on free movement	The Guardian	2016-07-21	0.4
+Talk to the hand, Theresa, because the EU aren't listening	The Guardian	2016-10-21	0.0
+Give Britons fast-track citizenship, says Germany's Green party	The Guardian	2016-08-01	-0.2
+Any new single market deal must have the consumer at its heart | Vicky Ford	The Guardian	2016-10-21	0.0324675324675
+Germany split on EU's future as some call for a European government	The Guardian	2016-07-21	0.0
+Daily Mail ad revenue shows signs of recovery in second quarter	The Guardian	2016-07-21	0.0
+'How do I protect my family?': EU citizens in Britain contemplate their futures	The Guardian	2016-10-10	0.0
+This sceptic isle would most displease pro-Europe Shakespeare | Chris Bryant	The Guardian	2016-04-21	0.5
+Labour must challenge the scapegoating of immigrants	The Guardian	2016-05-21	0.0
+Will Italy be Europes next casualty as Renzi risks all on referendum?	The Guardian	2016-08-06	0.0
+Home Office has no immediate plans to change EU passports	The Guardian	2016-07-29	0.0
+Some think Theresa May should call a general election. Heres why she cant | Scot Peterson	The Guardian	2016-10-25	0.05
+Ukip politicians must show self-restraint, says Coburn as he hints at leadership bid	The Guardian	2016-10-18	0.0
+US-EU bond is enduring and unbreakable, John Kerry says	The Guardian	2016-07-18	0.0
+Ladies, please tell  how do you resist the hardmen of Ukip? | Marina Hyde	The Guardian	2016-10-07	0.0
+Boris Johnson forced to share mansion with Liam Fox and David Davis	The Guardian	2016-07-18	-0.3
+Priti Patel warns aid organisations must provide value for money or face cuts	The Guardian	2016-10-25	0.0
+Nigel Farage tells pro-Brexit campaigners to get their act together	The Guardian	2015-07-30	0.0
+Crowdfunding: the new buzzword for academics needing research money	The Guardian	2016-10-25	0.136363636364
+Labour can fight for working people without dumping progressive ideas | David Edgar	The Guardian	2016-08-04	0.0
+Im one of 3 million EU citizens in the UK. This uncertainty is unbearable | Anne-Laure Donskoy	The Guardian	2016-10-17	0.0
+Its time to bring submarine May to the surface	The Guardian	2016-10-06	0.0
+Today's media stories from the papers	The Guardian	2016-08-04	0.0
+Will Britain's exit from the EU be bad for business? Readers debate	The Guardian	2016-10-06	-0.7
+Young people: does Theresa Mays politics speak to you?	The Guardian	2016-10-06	0.1
+EU firms could pay higher tariffs to export to UK than vice versa, says thinktank	The Guardian	2016-10-23	0.25
+Let the pound fall and the economy rise	The Guardian	2016-10-16	0.0
+UK to avoid recession in 2016, official figures expected to show	The Guardian	2016-10-23	-0.1
+EU-Canada deadlock is no ill omen for UK trade deal, says Chris Grayling	The Guardian	2016-10-23	0.25
+Marc Almond: Ive had the chance to be subversive in the mainstream	The Guardian	2016-10-23	0.0
+Business borrowing falls for first time this year	The Guardian	2016-07-26	0.25
+UK car registrations hit highest April level for 13 years	The Guardian	2016-05-06	0.0
+May tells Sturgeon Holyrood will be 'fully engaged' in EU talks	The Guardian	2016-07-15	0.0
+Would you say that word in a Chinese takeaway?: schools fight racism head-on	The Guardian	2016-10-04	0.0
+Will Theresa May be the next Tory leader to be bulldozed by the Europhobes? | Polly Toynbee	The Guardian	2016-10-04	0.0
+Crossword blog: from Estonia to Uganda	The Guardian	2016-07-25	0.0
+Croloaf taste test: fantastique! (if you can get your hands on one)	The Guardian	2016-10-21	0.0
+All this Tory delirium  its like stumbling into a Ukip meeting | Ian Birrell	The Guardian	2016-10-03	0.0
+Theresa May to rule out return of border checks between UK and Ireland	The Guardian	2016-07-24	0.0
+Theresa May: a Tory saviour who offers no sense of hope | Zoe Williams	The Guardian	2016-10-03	0.1
+UK banks prepare response to expected interest rate cut	The Guardian	2016-07-24	-0.1
+Gina Miller: the woman taking on Theresa May over article 50	The Guardian	2016-10-13	0.0
+Pro-leave economists urge May to embrace unilateral free trade	The Guardian	2016-07-13	-0.05
+Federal Reserve minutes show close call on September interest rate hike	The Guardian	2016-10-12	0.0
+The role of social housing in Northern Ireland's divided communities	The Guardian	2016-10-12	0.0333333333333
+Wimbledon win worth less for Serena Williams due to sterling turmoil	The Guardian	2016-07-12	0.202083333333
+Does good UK jobs data mask an impending low pay problem? | Larry Elliott	The Guardian	2016-10-19	0.35
+Alistair Darling: leaving EU could put 250bn of UK export trade at risk	The Guardian	2016-05-02	0.0
+UK officials seek draft agreements with EU before triggering article 50	The Guardian	2016-07-22	0.0
+Politicians to blame for rise of 'respectable racism', says Lady Warsi	The Guardian	2016-07-22	0.5
+Boeing's jobs pledge shows UK 'is open for business', says Cameron	The Guardian	2016-07-11	0.0
+Positive UK data may put pause on deficit reduction	The Guardian	2016-09-30	0.227272727273
+Lowest-paid workers to receive smaller pay rises, says thinktank	The Guardian	2016-07-10	0.0
+Grumpy Davis, the man with an enormous mandate and no clue | John Crace	The Guardian	2016-10-10	0.0
+Countrywide warns on earnings as London property market stalls	The Guardian	2016-07-28	0.0
+Rising inflation to hit consumers until 2018, forecasters say	The Guardian	2016-10-16	0.0
+Invest in housing and broadband, business group tells chancellor	The Guardian	2016-10-16	0.0
+UK bosses went on share-buying spree after EU referendum	The Guardian	2016-07-27	0.0
+Sluggish UK economy likely to hold back inflation	The Guardian	2016-05-17	0.0
+Theresa May does not intend to trigger article 50 this year, court told	The Guardian	2016-07-19	0.0
+Ofsted chief slams Theresa Mays obsession with grammar schools	The Guardian	2016-10-15	0.0
+Commercial property prices could fall 20% after EU vote - analysts	The Guardian	2016-07-08	0.0
+I'm being stripped of my citizenshipalong with 65 million other Britons | David Shariatmadari	The Guardian	2016-10-07	-0.125
+Im with Nigel: the Farage entourage tries to break America	The Guardian	2016-10-13	-0.1
+Little sympathy for Unilever in town where Marmite is made	The Guardian	2016-10-13	-0.1875
+Theresa May plans a long game but could need an early election | Andrew Rawnsley	The Guardian	2016-07-17	-0.116666666667
+The Guardian view on Theresa Mays conference speech: actions not words will decide | Editorial	The Guardian	2016-10-05	0.0
+Pound drops further after Davis hints UK could leave single market	The Guardian	2016-10-12	-0.0357142857143
+Al Murray, Pub Landlord review  pulling punches as well as pints	The Guardian	2016-10-12	0.0
+Labour shouldnt risk damaging the UKs economy over immigration fears | Anand Menon	The Guardian	2016-10-12	0.0
+The pound is worth less  but what does it mean for Brits?	The Guardian	2016-10-04	-0.0597222222222
+Hinkley Point C nuclear project expected to get go-ahead next week	The Guardian	2016-07-22	-0.05
+Amber Rudd announces crackdown on overseas students and work visas	The Guardian	2016-10-04	0.0
+Andrea Leadsom's time in the City: high-profile roles yet under the radar	The Guardian	2016-07-04	0.0
+Vilifying the asylum seeker next door is just plain racist	The Guardian	2016-07-15	-0.107142857143
+Up really is down on Mummy Leadsom's amazing journey | John Crace	The Guardian	2016-07-04	0.222222222222
+Deal to double flights between UK and China takes off	The Guardian	2016-10-11	0.0
+Britain will be fastest growing G7 economy this year, says IMF	The Guardian	2016-10-04	0.0
+UK firms must learn to do without imported labour, warns Ofsted boss	The Guardian	2016-07-21	0.0
+British retail spending drops sharply in June	The Guardian	2016-07-21	-0.0625
+International student numbers have been plummeting for years. Now what?	The Guardian	2016-07-14	0.0
+The national pupil database puts children at risk of racial profiling | Lola Okolosie	The Guardian	2016-10-10	0.0
+Susanna Reid: People love banter, I like it when papers pick up our interviews	The Guardian	2016-07-03	0.5
+Hungarian right does not want to leave the EU. It wants to subvert it	The Guardian	2016-10-02	0.242857142857
+Hey-ho, hey-ho, Snow White's conference dwarves get to work | John Crace	The Guardian	2016-10-02	0.0
+Theresa May rules out Commons vote on single market exit	The Guardian	2016-10-09	-0.0714285714286
+UK shops look to Chinese tourists for a golden week at the tills	The Guardian	2016-10-02	0.15
+Theresa Mays red Toryism: tax justice, statism and attacks on cartel capitalism |  Anne McElvoy	The Guardian	2016-10-09	0.0

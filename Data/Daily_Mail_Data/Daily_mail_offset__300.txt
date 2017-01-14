@@ -1,0 +1,100 @@
+['Britain\'s pro-Europeans prepare "Yes" campaign group - sources']	Reuters	['\n        By ', '  -\n\n        May 28th 2015, 1:26:16 pm\n      ']	0.0
+["Sterling slips to three-week low vs dollar after Queen's Speech"]	Reuters	['\n        By ', '  -\n\n        May 27th 2015, 4:22:56 pm\n      ']	0.0
+["Sterling slips from 2-1/2 mth high vs euro, eyes on Queen's Speech"]	Reuters	['\n        By ', '  -\n\n        May 27th 2015, 8:36:12 am\n      ']	0.16
+[u"CITY FOCUS: Bank of England's marathon man Mark\xa0Carney in long race to modernise Old Lady"]	The Daily Mail	['\n        By ', '  -\n\n        May 26th 2015, 5:08:10 pm\n      ']	0.025
+[u'VIEW FROM THE CITY:\xa0The imposition by Brussels and Berlin of stiff budget targets on Greece, just traps the Greeks in a no-growth debt trap']	The Daily Mail	['\n        By ', '  -\n\n        May 25th 2015, 7:26:41 pm\n      ']	-0.214285714286
+[u'UK manufacturers demand EU referendum be held no later than 2016\xa0to end the uncertainty for business and industry']	The Daily Mail	['\n        By ', '  -\n\n        May 25th 2015, 7:05:11 pm\n      ']	0.0
+['EU citizens barred from referendum']	Press Association	['\n        By ', '  -\n\n        May 25th 2015, 5:29:12 am\n      ']	0.0
+['Labour in U-turn on EU referendum']	Press Association	['\n        By ', '  -\n\n        May 24th 2015, 2:16:42 am\n      ']	0.0
+[u"Bank of England unwittingly reveals top secret taskforce looking into 'Brexit' - after bungling staff accidentally email highly confidential details to a NEWSPAPER\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        May 23rd 2015, 9:09:37 am\n      ']	0.0866666666667
+["Cameron wants EU reform by Christmas and hopes to seal deal long before 2017 referendum (but don't your breath, Dave!)"]	The Daily Mail	['\n        By ', '  -\n\n        May 23rd 2015, 1:20:21 am\n      ']	0.06875
+["Three strikes and you're not out: put those Brexit nerves on hold"]	Reuters	['\n        By ', '  -\n\n        May 22nd 2015, 2:12:47 pm\n      ']	0.0
+['Cameron: Tough times for EU ahead of UK membership vote']	Associated Press	['\n        By ', '  -\n\n        May 22nd 2015, 7:52:09 am\n      ']	-0.388888888889
+["Bank to probe 'Brexit' economy risk"]	Press Association	['\n        By ', '  -\n\n        May 22nd 2015, 12:07:22 am\n      ']	0.0
+[u"Top executives speak out on what a Brexit means for the UK:\xa0Business draws up battle lines over Britain's future in EU"]	The Daily Mail	['\n        By ', '  -\n\n        May 21st 2015, 5:52:18 pm\n      ']	0.25
+['Airbus: would reconsider UK investment if country leaves EU']	Associated Press	['\n        By ', '  -\n\n        May 21st 2015, 9:55:41 am\n      ']	0.0
+['German boost for Cameron EU plan']	Press Association	['\n        By ', '  -\n\n        May 21st 2015, 8:46:33 am\n      ']	0.0
+['Airbus warns it could move out of Britain if it quits the European Union as Cameron sets out demands for change']	The Daily Mail	['\n        By ', '  -\n\n        May 21st 2015, 7:43:51 am\n      ']	0.0
+["After bloodletting, UK's Eurosceptic party says united to push for EU exit"]	Reuters	['\n        By ', '  -\n\n        May 20th 2015, 12:38:47 pm\n      ']	0.0
+['"Come out for the EU", British CEOs told by business lobby group']	Reuters	['\n        By ', '  -\n\n        May 19th 2015, 11:01:00 pm\n      ']	0.0
+["Deutsche heads the queue of banks prepping for 'Brexit'"]	Reuters	['\n        By ', '  -\n\n        May 19th 2015, 10:35:42 am\n      ']	0.0
+['Deutsche Bank considering leaving UK for Germany in case of Brexit from the European Union']	The Daily Mail	['\n        By ', '  -\n\n        May 19th 2015, 9:24:27 am\n      ']	0.0
+['Deutsche Bank examine plans to move out of the UK if Britain votes to leave the European Union in 2017 referendum']	The Daily Mail	['\n        By ', '  -\n\n        May 19th 2015, 7:56:36 am\n      ']	0.0
+["Mitie shelves all plans to take over businesses in Europe until after Britain's referendum on EU membership"]	The Daily Mail	['\n        By ', '  -\n\n        May 18th 2015, 6:01:34 pm\n      ']	0.0
+["Ukip has had more knifings than Julius Caesar Act V, writes party's heritage spokesman WILLIAM CASH"]	The Daily Mail	['\n        By ', '  -\n\n        May 16th 2015, 8:21:49 pm\n      ']	0.5
+[u'ALEX BRUMMER: Relaunch for flawed mutual as\xa0Co-op members have chance to put past behind them']	The Daily Mail	['\n        By ', '  -\n\n        May 15th 2015, 8:56:45 pm\n      ']	-0.383333333333
+['TAKE A LOOK-Five world markets themes in the coming week']	Reuters	['\n        By ', '  -\n\n        May 15th 2015, 4:10:28 pm\n      ']	0.0
+['France ready for swift EU reform proposals from Cameron']	Reuters	['\n        By ', '  -\n\n        May 15th 2015, 3:14:48 pm\n      ']	0.2
+["Britain's Osborne spells out mandate on EU referendum"]	Associated Press	['\n        By ', '  -\n\n        May 12th 2015, 7:47:36 am\n      ']	0.0
+['ALEX BRUMMER: More spending cuts will be better for markets - and make it more likely rate rises can be postponed']	The Daily Mail	['\n        By ', '  -\n\n        May 8th 2015, 5:48:38 pm\n      ']	0.375
+["EU's Moscovici says Britain's place is in the European Union"]	Reuters	['\n        By ', '  -\n\n        May 8th 2015, 5:34:13 pm\n      ']	0.0
+['So, Mr Cameron, how can we help? EU seeks to avert Brexit']	Reuters	['\n        By ', '  -\n\n        May 8th 2015, 4:55:25 pm\n      ']	0.0
+['What does the Brexit vote mean for investors?']	The Daily Mail	['\n        May 8th 2015, 4:12:50 pm\n      ']	-0.3125
+['So, Mr Cameron, how can we help? EU seeks to avert Brexit']	Reuters	['\n        By ', '  -\n\n        May 8th 2015, 2:52:05 pm\n      ']	0.0
+[u'Conservative victory sparks fear in Germany... and hapless pollsters are ridiculed around the globe for getting it so wrong: How the world\u2019s media reacted to general election result\xa0']	The Daily Mail	['\n        By ', ' ', '  -\n\n        May 8th 2015, 11:09:06 am\n      ']	-0.35
+['With Cameron tops, campaign for Brexit referendum can start']	Associated Press	['\n        By ', '  -\n\n        May 8th 2015, 11:01:55 am\n      ']	0.0
+['Savers hit by political uncertainty: Henderson boss Andrew Formica frets over UK election - and Greece']	The Daily Mail	['\n        By ', '  -\n\n        May 6th 2015, 10:07:08 pm\n      ']	0.0
+["Leaving EU 'would damage N Ireland'"]	Press Association	['\n        By ', '  -\n\n        May 4th 2015, 12:13:25 am\n      ']	0.0
+['Should Britain stay in the EU? Question hovers in election']	Associated Press	['\n        By ', '  -\n\n        May 3rd 2015, 9:58:00 am\n      ']	0.0
+["ALEX BRUMMER: FTSE chiefs face Labour wrath if Ed Miliband's party forms next government"]	The Daily Mail	['\n        By ', '  -\n\n        May 1st 2015, 7:43:34 pm\n      ']	0.0
+["SCENARIOS-Up or down? Bank views of UK assets after Britain's election"]	Reuters	['\n        By ', '  -\n\n        April 29th 2015, 3:47:34 pm\n      ']	-0.155555555556
+["SCENARIOS-Up or down? UK assets after Britain's unpredictable election"]	Reuters	['\n        By ', '  -\n\n        April 29th 2015, 10:19:06 am\n      ']	-0.161111111111
+['ALEX BRUMMER: Threat by HSBC top brass to uproot from London seems ill thought out']	The Daily Mail	['\n        By ', '  -\n\n        April 27th 2015, 9:03:06 pm\n      ']	0.0
+[u"Brexit 'could cost UK \xa3225bn'"]	Press Association	['\n        By ', '  -\n\n        April 27th 2015, 4:35:59 pm\n      ']	0.0
+['Should investors worry about the election? As savers are told to hold their nerve, we look at past results, the pound and Footsie']	The Daily Mail	['\n        By ', '  -\n\n        April 27th 2015, 4:14:20 pm\n      ']	-0.25
+['British EU exit could hit UK GDP hard long-term, German study finds']	Reuters	['\n        By ', '  -\n\n        April 27th 2015, 10:34:54 am\n      ']	-0.0972222222222
+['RUTH SUNDERLAND: Threat to leave UK over EU is a handy smokescreen for HSBC to divert attention from questionable governance and pay revolt']	The Daily Mail	['\n        By ', '  -\n\n        April 24th 2015, 8:10:51 pm\n      ']	0.05
+['Blow for the City as HSBC looks at leaving the UK - but could bring back famous British banking brand Midland']	The Daily Mail	['\n        By ', ' ', ' ', '  -\n\n        April 23rd 2015, 9:58:16 pm\n      ']	0.166666666667
+['Game of losers? Poisoned chalice awaits UK election victor']	Reuters	['\n        By ', '  -\n\n        April 22nd 2015, 12:07:09 pm\n      ']	-0.3
+['What is it about Labour that scares the City? What the general election means for big business and the UK financial sector']	The Daily Mail	['\n        By ', '  -\n\n        April 9th 2015, 8:35:21 pm\n      ']	0.0166666666667
+['Why Britain needs long term thinking: L&G boss struggles to fathom how main parties plan to forge change']	The Daily Mail	['\n        By ', '  -\n\n        April 8th 2015, 5:29:28 pm\n      ']	0.0583333333333
+["Blair warns of 'chaos' under Tories"]	Press Association	['\n        By ', '  -\n\n        April 7th 2015, 12:09:43 am\n      ']	0.0
+["RUTH SUNDERLAND: Never mind the election, it's US interest rates we should be keeping an eye on"]	The Daily Mail	['\n        By ', '  -\n\n        April 6th 2015, 8:09:34 pm\n      ']	0.0
+['RUTH SUNDERLAND: Calm before election storm - whatever the result, it risks wreaking havoc on stock, currency and bond markets']	The Daily Mail	['\n        By ', '  -\n\n        April 1st 2015, 9:35:49 pm\n      ']	0.3
+[u'RUTH SUNDERLAND: The rise and rise of the \xa311m executives']	The Daily Mail	['\n        By ', '  -\n\n        March 31st 2015, 11:53:16 pm\n      ']	0.0
+['RUTH SUNDERLAND: Many in business simply do not trust Miliband and Balls to run the economy']	The Daily Mail	['\n        By ', '  -\n\n        March 30th 2015, 6:23:16 pm\n      ']	0.25
+['Even before any "Brexit" vote, UK losing sway in Europe']	Reuters	['\n        By ', '  -\n\n        March 30th 2015, 5:50:00 pm\n      ']	0.0
+["UK's Labour bid to court business overshadowed by ad row"]	Reuters	['\n        By ', '  -\n\n        March 30th 2015, 7:49:29 am\n      ']	0.0
+['British PM Cameron to meet queen, formally call knife-edge election']	Reuters	['\n        By ', '  -\n\n        March 29th 2015, 11:00:01 pm\n      ']	0.0
+['A British EU exit could hit GDP by 2.2 percent-study']	Reuters	['\n        By ', '  -\n\n        March 23rd 2015, 12:01:00 am\n      ']	0.0
+["Britain's bankers to put wallets first in 'nightmare' election"]	Reuters	['\n        By ', '  -\n\n        March 20th 2015, 6:59:00 am\n      ']	0.25
+["Britain's bankers to put wallets first in 'nightmare' election"]	Reuters	['\n        By ', '  -\n\n        March 19th 2015, 5:14:28 pm\n      ']	0.25
+["UKIP's Farage warns Britain: Brace for a second election in 2015"]	Reuters	['\n        By ', '  -\n\n        March 18th 2015, 8:26:10 am\n      ']	0.0
+["REPEAT-INTERVIEW-UKIP's Farage warns Britain: Brace for a second election in 2015"]	Reuters	['\n        By ', '  -\n\n        March 17th 2015, 10:21:01 pm\n      ']	0.0
+["Juncker says EU needs Britain, but can't change basic treaty"]	Reuters	['\n        By ', '  -\n\n        March 16th 2015, 6:38:50 pm\n      ']	0.0
+["Ireland begins to fret over 'Brexit' as UK election nears"]	Reuters	['\n        By ', '  -\n\n        March 6th 2015, 5:31:36 pm\n      ']	0.0
+["Osborne hails 'major victory' over Europe as Britain wins landmark legal battle to protect Square Mile"]	The Daily Mail	['\n        By ', '  -\n\n        March 4th 2015, 10:19:26 pm\n      ']	0.1875
+["Facing up to my biggest nightmare: AirAsia' s boss Tony Fernandes tells of his horror at the loss of flight QZ8501 in the Java Sea"]	The Daily Mail	['\n        By ', '  -\n\n        March 4th 2015, 9:50:51 pm\n      ']	0.0
+['Brexit chance rated as one in six']	Press Association	['\n        By ', '  -\n\n        February 26th 2015, 4:08:22 pm\n      ']	0.0
+["Farming 'needs to be priority'"]	Press Association	['\n        By ', '  -\n\n        February 22nd 2015, 12:45:24 am\n      ']	0.0
+["Polish finance minister worries over deflation, eyes 'Brexit' risks"]	Reuters	['\n        By ', '  -\n\n        February 20th 2015, 7:24:05 pm\n      ']	0.0
+['No tears for minister at EU exit']	Press Association	['\n        By ', '  -\n\n        February 5th 2015, 4:07:48 pm\n      ']	0.0
+["Greece shakes Europe's political kaleidoscope - expect the unexpected"]	Reuters	['\n        By ', '  -\n\n        February 2nd 2015, 7:50:00 pm\n      ']	0.05
+["Nothing to fear from EU exit, say two top Tories including Boris Johnson who insists Britain would survive 'testy' withdrawal"]	The Daily Mail	['\n        By ', '  -\n\n        January 30th 2015, 12:43:17 am\n      ']	0.5
+['Davos elite told British EU exit hinges on low-income women']	Reuters	['\n        By ', '  -\n\n        January 21st 2015, 7:04:13 pm\n      ']	0.0
+['Troubled EU hoping the only way is up in 2015']	Associated Press	['\n        By ', '  -\n\n        January 1st 2015, 12:44:52 pm\n      ']	-0.25
+['RUTH SUNDERLAND: Second act of Greek tragedy is playing out as fears over its future in the eurozone refuse to go away']	The Daily Mail	['\n        By ', '  -\n\n        December 12th 2014, 10:48:24 pm\n      ']	0.0
+['S&P says would reassess UK credit rating on "Brexit"']	Reuters	['\n        By ', '  -\n\n        November 26th 2014, 2:29:07 pm\n      ']	0.0
+['REUTERS SUMMIT-Investors not prepared for rising UK political risk-RBC Wealth']	Reuters	['\n        By ', '  -\n\n        November 19th 2014, 5:53:14 pm\n      ']	0.0
+["Scottish nationalist 'kingmakers' eye post-2015 election deal with Labour"]	Reuters	['\n        By ', '  -\n\n        November 15th 2014, 12:16:37 pm\n      ']	0.0
+["UK 'prepared to walk away from EU'"]	Press Association	['\n        By ', '  -\n\n        November 14th 2014, 11:03:50 pm\n      ']	0.0
+[u"David Cameron backs Sir John Major's warning that public fears about EU immigration could push Britain out of Europe\xa0"]	The Daily Mail	['\n        By ', '  -\n\n        November 14th 2014, 8:00:55 am\n      ']	0.03125
+['Now Theresa May hints we could quit the EU: Home Secretary suggests Britain could leave Europe as she warns rebels over arrest warrant vote']	The Daily Mail	['\n        By ', '  -\n\n        November 10th 2014, 12:36:26 am\n      ']	-0.05
+['"Stop shouting at Europe", City lobby group tells UK\'s rulers']	Reuters	['\n        By ', '  -\n\n        November 5th 2014, 12:01:00 am\n      ']	0.0
+['Germany warns "no going back" if Britain curbs EU immigration -report']	Reuters	['\n        By ', '  -\n\n        November 2nd 2014, 3:15:23 pm\n      ']	0.0
+['REUTERS SUMMIT-LSE chief says London would not lose competitiveness in "Brexit"']	Reuters	['\n        By ', '  -\n\n        October 28th 2014, 7:25:14 pm\n      ']	0.0
+["Britain's anti-EU UKIP demands early 'Brexit' vote as poll shows support surging"]	Reuters	['\n        By ', '  -\n\n        October 12th 2014, 4:29:35 pm\n      ']	0.1
+['RUTH SUNDERLAND: Let business have its say on debate over British exit from EU']	The Daily Mail	['\n        By ', '  -\n\n        October 3rd 2014, 7:49:06 pm\n      ']	0.0
+["British European Union exit 'wouldn't break my heart', PM Cameron says"]	Reuters	['\n        By ', '  -\n\n        September 30th 2014, 9:05:22 am\n      ']	0.0
+[u"UK's threat to quit 'led Euro court to back down on votes for prisoners': Strasbourg runs scared as it puts issue off until September\xa0"]	The Daily Mail	['\n        By ', ' ', '  -\n\n        September 26th 2014, 12:53:16 am\n      ']	-0.0777777777778
+['Scots vote shows pitfalls, opportunities for EU referendum']	Reuters	['\n        By ', '  -\n\n        September 21st 2014, 8:07:22 am\n      ']	0.0
+['Scots vote shows pitfalls, opportunities for EU referendum']	Reuters	['\n        By ', '  -\n\n        September 19th 2014, 6:28:33 pm\n      ']	0.0
+["TAKE A LOOK-Scotland's independence vote: Poll shows No camp leading"]	Reuters	['\n        By ', '  -\n\n        September 12th 2014, 9:47:40 am\n      ']	0.0
+['Every nation in Europe wants to keep Britain in the EU by handing back powers to Westminster... apart from France']	The Daily Mail	['\n        By ', '  -\n\n        September 11th 2014, 4:53:23 pm\n      ']	0.1
+["EU's Juncker offers Britain banking olive branch"]	Reuters	['\n        By ', '  -\n\n        September 10th 2014, 4:05:20 pm\n      ']	0.1
+['Why the world should care about Scottish independence']	Reuters	['\n        By ', '  -\n\n        September 9th 2014, 10:46:58 am\n      ']	0.0
+["Lost EU subsidies 'devastating'"]	Press Association	['\n        By ', '  -\n\n        September 5th 2014, 7:42:45 am\n      ']	-1.0
+["RUTH SUNDERLAND: Questions of Scottish independence and UK's role in the EU create unwelcome uncertainty for business"]	The Daily Mail	['\n        By ', '  -\n\n        August 28th 2014, 5:51:59 pm\n      ']	0.0
+["'Do not fear EU exit' says Johnson"]	Press Association	['\n        By ', '  -\n\n        August 6th 2014, 10:55:30 am\n      ']	0.0
+["'DO NOT FEAR EU EXIT' SAYS JOHNSON"]	Press Association	['\n        By ', '  -\n\n        August 6th 2014, 12:09:54 am\n      ']	0.0
+["UK will surge without the EU's back-breaking red tape, declares Boris: London Mayor puts himself at odds with Cameron with comments"]	The Daily Mail	['\n        By ', '  -\n\n        August 5th 2014, 4:22:45 pm\n      ']	0.0
